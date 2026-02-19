@@ -1,0 +1,1639 @@
+token_id	speaker	iu_type	tu_id	span	form	type	modality	features	align
+0-0	SPK1133	undefined	0	Қазір	Қазір	linguistic	_		Begin=0.460
+0-1	SPK1133	undefined	0	ана	ана	linguistic	_		
+0-2	SPK1133	undefined	0	нандарды	нандарды	linguistic	_		End=1.673
+1-0	SPK1133	Interrupted	1	ана	ана	linguistic	_		Begin=1.673
+1-1	SPK1133	Interrupted	1	іш-	іш	linguistic	_	Interrupted=Yes	End=2.340
+2-0	SPK1133	undefined	2	ана	ана	linguistic	_		Begin=2.346|End=2.720
+3-0	SPK1133	undefined	3	неге	неге	linguistic	_		Begin=2.720|End=3.193
+4-0	SPK1133	Falling	4	қоя	қоя	linguistic	_		Begin=4.013
+4-1	SPK1133	Falling	4	салайын	салайын	linguistic	_		End=4.753
+5-0	SPK1133	Falling	5	Жинап	Жинап	linguistic	_		Begin=4.760|End=5.340
+6-0	SPK1132	Falling	6	Жинай	Жинай	linguistic	_		Begin=5.134
+6-1	SPK1132	Falling	6	бер	бер	linguistic	_		End=5.979
+7-0	SPK1132	Rising	7	Тамақ	Тамақ	linguistic	_		Begin=7.597
+7-1	SPK1132	Rising	7	майлы	майлы	linguistic	_		
+7-2	SPK1132	Rising	7	болып	болып	linguistic	_		
+7-3	SPK1132	Rising	7	кетіпті	кетіпті	linguistic	_		
+7-4	SPK1132	Rising	7	иә	иә	linguistic	_		End=9.637
+8-0	SPK1133	undefined	8	Ы	Ы	linguistic	_		Begin=10.420
+8-1	SPK1133	undefined	8	ы	ы	linguistic	_		
+8-2	SPK1133	undefined	8	не	не	linguistic	_		End=11.086
+9-0	SPK1133	Continuing	9	调料	调料	linguistic	_		Begin=11.086
+9-1	SPK1133	Continuing	9	-ы	-ы	linguistic	_		
+9-2	SPK1133	Continuing	9	көп	көп	linguistic	_		
+9-3	SPK1133	Continuing	9	қой	қой	linguistic	_		End=12.126
+10-0	SPK1133	Falling	10	сосын	сосын	linguistic	_		Begin=12.126
+10-1	SPK1133	Falling	10	біраз	біраз	linguistic	_		
+10-2	SPK1133	Falling	10	ауыр	ауыр	linguistic	_		
+10-3	SPK1133	Falling	10	келеді	келеді	linguistic	_		End=13.386
+11-0	SPK1132	undefined	11	Иә	Иә	linguistic	_		Begin=13.322
+11-1	SPK1132	undefined	11	біраз	біраз	linguistic	_		
+11-2	SPK1132	undefined	11	####	####	unknown	_		End=16.167
+12-0	SPK1133	undefined	12	Сол	Сол	linguistic	_		Begin=15.473|End=15.953
+13-0	SPK1133	undefined	13	ана	ана	linguistic	_		Begin=15.953|End=16.813
+14-0	SPK1133	undefined	14	мен	мен	linguistic	_		Begin=17.220
+14-1	SPK1133	undefined	14	Қытайға	Қытайға	linguistic	_		
+14-2	SPK1133	undefined	14	барған	барған	linguistic	_		
+14-3	SPK1133	undefined	14	кезде	кезде	linguistic	_		End=18.233
+15-0	SPK1133	undefined	15	тамақтар	тамақтар	linguistic	_		Begin=18.233|End=18.813
+16-0	SPK1132	undefined	16	头一次	头一次	linguistic	_		Begin=18.677|End=19.590
+17-0	SPK1133	Continuing	17	тура	тура	linguistic	_		Begin=18.813
+17-1	SPK1133	Continuing	17	солай	солай	linguistic	_		End=19.766
+18-0	SPK1132	Rising	18	看到舅舅跳这么嗨	看到舅舅跳这么嗨	linguistic	_		Begin=19.590
+18-1	SPK1132	Rising	18	дейді	дейді	linguistic	_		End=21.818
+19-0	SPK1133	Falling	19	сезіліп	сезіліп	linguistic	_		Begin=19.986
+19-1	SPK1133	Falling	19	кетті	кетті	linguistic	_		End=21.206
+20-0	SPK1132	Rising	20	Мынау	Мынау	linguistic	_		Begin=21.818
+20-1	SPK1132	Rising	20	қайсы	қайсы	linguistic	_		
+20-2	SPK1132	Rising	20	үйде	үйде	linguistic	_		End=23.053
+21-0	SPK1133	undefined	21	Тамақ	Тамақ	linguistic	_		Begin=22.220|End=22.933
+22-0	SPK1133	undefined	22	-тар	-тар	linguistic	_		Begin=23.246|End=23.666
+23-0	SPK1132	undefined	23	Ааа	Ааа	linguistic	_		Begin=25.147|End=25.523
+24-0	SPK1132	Falling	24	Мынау	Мынау	linguistic	_		Begin=25.523
+24-1	SPK1132	Falling	24	南山	南山	linguistic	_		End=26.496
+25-0	SPK1133	undefined	25	Тамақтар	Тамақтар	linguistic	_		Begin=25.573|End=26.246
+26-0	SPK1133	undefined	26	Тамақтар	Тамақтар	linguistic	_		Begin=26.373|End=26.953
+27-0	SPK1133	Continuing	27	тура	тура	linguistic	_		Begin=26.953
+27-1	SPK1133	Continuing	27	осылай	осылай	linguistic	_		
+27-2	SPK1133	Continuing	27	сезілді	сезілді	linguistic	_		
+27-3	SPK1133	Continuing	27	да	да	linguistic	_		End=28.806
+28-0	SPK1133	undefined	28	андай	андай	linguistic	_		Begin=28.940|End=29.460
+29-0	SPK1133	Rising	29	дәмді	дәмді	linguistic	_		Begin=30.006
+29-1	SPK1133	Rising	29	да	да	linguistic	_		End=30.733
+30-0	SPK1133	undefined	30	сосын	сосын	linguistic	_		Begin=30.886|End=31.226
+31-0	SPK1133	undefined	31	жеп	жеп	linguistic	_		Begin=31.226
+31-1	SPK1133	undefined	31	жеп	жеп	linguistic	_		End=31.746
+32-0	SPK1133	Falling	32	тоқтап	тоқтап	linguistic	_		Begin=31.746
+32-1	SPK1133	Falling	32	қаламын	қаламын	linguistic	_		End=32.746
+33-0	SPK1133	undefined	33	Ары	Ары	linguistic	_		Begin=32.746
+33-1	SPK1133	undefined	33	қарай	қарай	linguistic	_		End=33.226
+34-0	SPK1133	Falling	34	өтпейді	өтпейді	linguistic	_		Begin=33.226|End=34.040
+35-0	SPK1132	Falling	35	Ааа	Ааа	linguistic	_		Begin=34.174|End=34.812
+36-0	SPK1133	Rising	36	Әлі	Әлі	linguistic	_		Begin=42.200
+36-1	SPK1133	Rising	36	жіберіп	жіберіп	linguistic	_		
+36-2	SPK1133	Rising	36	жатыр	жатыр	linguistic	_		
+36-3	SPK1133	Rising	36	ма	ма	linguistic	_		End=43.520
+37-0	SPK1132	Falling	37	Хууу	Хууу	linguistic	_		Begin=43.006
+37-1	SPK1132	Falling	37	мә	мә	linguistic	_		End=44.340
+38-0	SPK1132	Falling	38	Қарашы	Қарашы	linguistic	_		Begin=45.134|End=45.838
+39-0	SPK1133	Rising	39	Не	Не	linguistic	_		Begin=45.281
+39-1	SPK1133	Rising	39	дейді	дейді	linguistic	_		End=45.986
+40-0	SPK1133	undefined	40	No	No	linguistic	_		Begin=46.218
+40-1	SPK1133	undefined	40	violence	violence	linguistic	_		End=47.313
+41-0	SPK1133	undefined	41	还学开枪	还学开枪	linguistic	_		Begin=47.320|End=48.913
+42-0	SPK1133	Falling	42	дейді	дейді	linguistic	_		Begin=48.913
+42-1	SPK1133	Falling	42	@@@@	@@@@	linguistic	_		End=52.107
+43-0	SPK1132	undefined	43	@@	@@	linguistic	_		Begin=49.046|End=50.045
+44-0	SPK1133	undefined	44	Менің	Менің	linguistic	_		Begin=52.805|End=53.281
+45-0	SPK1133	undefined	45	ішімнен	ішімнен	linguistic	_		Begin=53.281
+45-1	SPK1133	undefined	45	ойлап	ойлап	linguistic	_		
+45-2	SPK1133	undefined	45	жүрген	жүрген	linguistic	_		
+45-3	SPK1133	undefined	45	сөзді	сөзді	linguistic	_		
+45-4	SPK1133	undefined	45	айтты	айтты	linguistic	_		End=54.966
+46-0	SPK1133	Falling	46	деп	деп	linguistic	_		Begin=54.966
+46-1	SPK1133	Falling	46	па	па	linguistic	_		
+46-2	SPK1133	Falling	46	@@	@@	linguistic	_		End=56.541
+47-0	SPK1132	undefined	47	@	@	linguistic	_		Begin=55.651|End=56.684
+48-0	SPK1132	Rising	48	Ай	Ай	linguistic	_		Begin=57.157
+48-1	SPK1132	Rising	48	қызық-ай	қызық-ай	linguistic	_		
+48-2	SPK1132	Rising	48	иә	иә	linguistic	_		End=58.126
+49-0	SPK1132	Falling	49	Күшті	Күшті	linguistic	_		Begin=60.013
+49-1	SPK1132	Falling	49	күшті	күшті	linguistic	_		
+49-2	SPK1132	Falling	49	күн	күн	linguistic	_		
+49-3	SPK1132	Falling	49	өтіп	өтіп	linguistic	_		
+49-4	SPK1132	Falling	49	жатыр	жатыр	linguistic	_		
+49-5	SPK1132	Falling	49	әйтеуір	әйтеуір	linguistic	_		End=62.067
+50-0	SPK1132	Falling	50	Мен	Мен	linguistic	_		Begin=62.946
+50-1	SPK1132	Falling	50	мынаны	мынаны	linguistic	_		
+50-2	SPK1132	Falling	50	қоя	қоя	linguistic	_		
+50-3	SPK1132	Falling	50	салайыншы	салайыншы	linguistic	_		End=64.382
+51-0	SPK1133	undefined	51	SINGS	SINGS	paraverbal	_		Begin=68.154|End=71.583
+52-0	SPK1133	undefined	52	SINGS	SINGS	paraverbal	_		Begin=72.053|End=73.651
+53-0	SPK1133	undefined	53	Ммм	Ммм	linguistic	_		Begin=74.751|End=75.577
+54-0	SPK1133	Continuing	54	так	так	linguistic	_		Begin=76.181|End=76.724
+55-0	SPK1133	Rising	55	ертең	ертең	linguistic	_		Begin=76.912
+55-1	SPK1133	Rising	55	не	не	linguistic	_		
+55-2	SPK1133	Rising	55	істейміз	істейміз	linguistic	_		End=78.161
+56-0	SPK1132	undefined	56	Базарға	Базарға	linguistic	_		Begin=79.590
+56-1	SPK1132	undefined	56	барып	барып	linguistic	_		
+56-2	SPK1132	undefined	56	келу	келу	linguistic	_		
+56-3	SPK1132	undefined	56	керек	керек	linguistic	_		End=80.489
+57-0	SPK1132	Falling	57	Шанхайға	Шанхайға	linguistic	_		Begin=80.489|End=81.261
+58-0	SPK1133	Rising	58	Базарға	Базарға	linguistic	_		Begin=80.939
+58-1	SPK1133	Rising	58	барып	барып	linguistic	_		
+58-2	SPK1133	Rising	58	келейік	келейік	linguistic	_		
+58-3	SPK1133	Rising	58	па	па	linguistic	_		
+58-4	SPK1133	Rising	58	алдымен	алдымен	linguistic	_		End=82.610
+59-0	SPK1132	Falling	59	Иә	Иә	linguistic	_		Begin=82.369
+59-1	SPK1132	Falling	59	иә	иә	linguistic	_		End=83.040
+60-0	SPK1133	undefined	60	Сосын	Сосын	linguistic	_		Begin=82.932
+60-1	SPK1133	undefined	60	мен	мен	linguistic	_		
+60-2	SPK1133	undefined	60	ойлап	ойлап	linguistic	_		
+60-3	SPK1133	undefined	60	отырмын	отырмын	linguistic	_		
+60-4	SPK1133	undefined	60	да	да	linguistic	_		
+60-5	SPK1133	undefined	60	мысалы	мысалы	linguistic	_		End=84.604
+61-0	SPK1132	undefined	61	Жоқ	Жоқ	linguistic	_		Begin=84.845
+61-1	SPK1132	undefined	61	我们实在不行	我们实在不行	linguistic	_		End=85.744
+62-0	SPK1133	undefined	62	қазір	қазір	linguistic	_		Begin=84.966|End=85.483
+63-0	SPK1132	Falling	63	мегаға	мегаға	linguistic	_		Begin=85.744
+63-1	SPK1132	Falling	63	барып	барып	linguistic	_		
+63-2	SPK1132	Falling	63	келеміз	келеміз	linguistic	_		End=86.604
+64-0	SPK1133	undefined	64	қазір	қазір	linguistic	_		Begin=85.825
+64-1	SPK1133	undefined	64	ана	ана	linguistic	_		End=86.644
+65-0	SPK1133	undefined	65	сен	сен	linguistic	_		Begin=86.926
+65-1	SPK1133	undefined	65	телефоныңды	телефоныңды	linguistic	_		
+65-2	SPK1133	undefined	65	алып	алып	linguistic	_		
+65-3	SPK1133	undefined	65	кел	кел	linguistic	_		End=88.389
+66-0	SPK1133	undefined	66	сосын	сосын	linguistic	_		Begin=88.630
+66-1	SPK1133	undefined	66	біз	біз	linguistic	_		
+66-2	SPK1133	undefined	66	мына	мына	linguistic	_		
+66-3	SPK1133	undefined	66	жерде	жерде	linguistic	_		
+66-4	SPK1133	undefined	66	ойластырып	ойластырып	linguistic	_		
+66-5	SPK1133	undefined	66	көрейік	көрейік	linguistic	_		
+66-6	SPK1133	undefined	66	та	та	linguistic	_		
+66-7	SPK1133	undefined	66	ана	ана	linguistic	_		End=91.067
+67-0	SPK1133	Falling	67	суреттерді	суреттерді	linguistic	_		Begin=91.067
+67-1	SPK1133	Falling	67	қайда	қайда	linguistic	_		
+67-2	SPK1133	Falling	67	түсетінімізді	түсетінімізді	linguistic	_		End=92.912
+68-0	SPK1132	undefined	68	Жоқ	Жоқ	linguistic	_		Begin=92.382
+68-1	SPK1132	undefined	68	оны	оны	linguistic	_		
+68-2	SPK1132	undefined	68	сен	сен	linguistic	_		
+68-3	SPK1132	undefined	68	iPad-пен	iPad-пен	linguistic	_		
+68-4	SPK1132	undefined	68	түсіріп	түсіріп	linguistic	_		End=94.563
+69-0	SPK1133	undefined	69	Мен	Мен	linguistic	_		Begin=92.912
+69-1	SPK1133	undefined	69	қазір	қазір	linguistic	_		
+69-2	SPK1133	undefined	69	ойлап	ойлап	linguistic	_		
+69-3	SPK1133	undefined	69	жатырмын	жатырмын	linguistic	_		End=94.510
+70-0	SPK1133	undefined	70	ана	ана	linguistic	_		Begin=94.516|End=95.073
+71-0	SPK1132	Falling	71	iPad-пен	iPad-пен	linguistic	_		Begin=94.563
+71-1	SPK1132	Falling	71	жазсаң	жазсаң	linguistic	_		
+71-2	SPK1132	Falling	71	болмай	болмай	linguistic	_		
+71-3	SPK1132	Falling	71	ма	ма	linguistic	_		End=96.201
+72-0	SPK1133	Continuing	72	Е	Е	linguistic	_		Begin=96.812
+72-1	SPK1133	Continuing	72	iPad-ты	iPad-ты	linguistic	_		
+72-2	SPK1133	Continuing	72	да	да	linguistic	_		
+72-3	SPK1133	Continuing	72	алып	алып	linguistic	_		
+72-4	SPK1133	Continuing	72	кел	кел	linguistic	_		End=97.805
+73-0	SPK1133	undefined	73	телефон	телефон	linguistic	_		Begin=97.805|End=98.445
+74-0	SPK1133	undefined	74	2ГИС	2ГИС	linguistic	_		Begin=98.624|End=99.248
+75-0	SPK1133	Falling	75	-ті	-ті	linguistic	_		Begin=99.248
+75-1	SPK1133	Falling	75	қарау	қарау	linguistic	_		
+75-2	SPK1133	Falling	75	үшін	үшін	linguistic	_		End=100.274
+76-0	SPK1132	Falling	76	Аа	Аа	linguistic	_		Begin=100.644|End=101.221
+77-0	SPK1133	Rising	77	Коланы	Коланы	linguistic	_		Begin=106.026
+77-1	SPK1133	Rising	77	онда	онда	linguistic	_		
+77-2	SPK1133	Rising	77	ертең	ертең	linguistic	_		
+77-3	SPK1133	Rising	77	алайық	алайық	linguistic	_		
+77-4	SPK1133	Rising	77	па	па	linguistic	_		End=107.825
+78-0	SPK1132	Rising	78	Нені	Нені	linguistic	_		Begin=108.469|End=109.040
+79-0	SPK1133	undefined	79	Кола	Кола	linguistic	_		Begin=109.241
+79-1	SPK1133	undefined	79	мен	мен	linguistic	_		End=110.033
+80-0	SPK1133	Falling	80	спрайтты	спрайтты	linguistic	_		Begin=110.033|End=111.229
+81-0	SPK1133	undefined	81	Қазір	Қазір	linguistic	_		Begin=115.657|End=115.906
+82-0	SPK1133	Rising	82	бүгін	бүгін	linguistic	_		Begin=115.906
+82-1	SPK1133	Rising	82	шай	шай	linguistic	_		
+82-2	SPK1133	Rising	82	іше	іше	linguistic	_		
+82-3	SPK1133	Rising	82	тұрайық	тұрайық	linguistic	_		
+82-4	SPK1133	Rising	82	па	па	linguistic	_		End=117.208
+83-0	SPK1132	Rising	83	Неше	Неше	linguistic	_		Begin=118.283
+83-1	SPK1132	Rising	83	болды	болды	linguistic	_		
+83-2	SPK1132	Rising	83	сағат	сағат	linguistic	_		End=119.106
+84-0	SPK1133	Falling	84	Сағат	Сағат	linguistic	_		Begin=119.510
+84-1	SPK1133	Falling	84	жай	жай	linguistic	_		
+84-2	SPK1133	Falling	84	болып	болып	linguistic	_		
+84-3	SPK1133	Falling	84	кеткен	кеткен	linguistic	_		
+84-4	SPK1133	Falling	84	сияқты	сияқты	linguistic	_		
+84-5	SPK1133	Falling	84	уже	уже	linguistic	_		End=121.120
+85-0	SPK1133	Falling	85	Ыы	Ыы	linguistic	_		Begin=122.006
+85-1	SPK1133	Falling	85	он	он	linguistic	_		
+85-2	SPK1133	Falling	85	болып	болып	linguistic	_		
+85-3	SPK1133	Falling	85	кетіпті	кетіпті	linguistic	_		End=123.322
+86-0	SPK1133	Rising	86	Ладно	Ладно	linguistic	_		Begin=124.818
+86-1	SPK1133	Rising	86	иә	иә	linguistic	_		End=125.719
+87-0	SPK1133	Interrupted	87	Қазір	Қазір	linguistic	_		Begin=126.510
+87-1	SPK1133	Interrupted	87	ішсек-	ішсек	linguistic	_	Interrupted=Yes	End=127.228
+88-0	SPK1132	undefined	88	Ондай	Ондай	linguistic	_		Begin=127.174
+88-1	SPK1132	undefined	88	болса	болса	linguistic	_		
+88-2	SPK1132	undefined	88	су	су	linguistic	_		
+88-3	SPK1132	undefined	88	қайната	қайната	linguistic	_		
+88-4	SPK1132	undefined	88	салайықшы	салайықшы	linguistic	_		End=128.375
+89-0	SPK1133	undefined	89	#	#	unknown	_		Begin=127.519|End=127.892
+90-0	SPK1132	Falling	90	жаңағы	жаңағы	linguistic	_		Begin=128.382
+90-1	SPK1132	Falling	90	ауыр	ауыр	linguistic	_		
+90-2	SPK1132	Falling	90	келіп	келіп	linguistic	_		
+90-3	SPK1132	Falling	90	тұр	тұр	linguistic	_		End=129.402
+91-0	SPK1133	Falling	91	Е	Е	linguistic	_		Begin=129.778
+91-1	SPK1133	Falling	91	мен	мен	linguistic	_		
+91-2	SPK1133	Falling	91	маған	маған	linguistic	_		
+91-3	SPK1133	Falling	91	да	да	linguistic	_		End=130.604
+92-0	SPK1133	Rising	92	Ананың	Ананың	linguistic	_		Begin=130.604
+92-1	SPK1133	Rising	92	ішінде	ішінде	linguistic	_		
+92-2	SPK1133	Rising	92	уже	уже	linguistic	_		
+92-3	SPK1133	Rising	92	қалмады	қалмады	linguistic	_		
+92-4	SPK1133	Rising	92	ма	ма	linguistic	_		End=131.973
+93-0	SPK1132	Falling	93	Аз	Аз	linguistic	_		Begin=132.335
+93-1	SPK1132	Falling	93	ғана	ғана	linguistic	_		End=133.072
+94-0	SPK1132	Falling	94	一点点	一点点	linguistic	_		Begin=133.335|End=134.161
+95-0	SPK1133	undefined	95	Сен	Сен	linguistic	_		Begin=134.174
+95-1	SPK1133	undefined	95	әлгі	әлгі	linguistic	_		End=134.838
+96-0	SPK1133	Falling	96	соған	соған	linguistic	_		Begin=134.838
+96-1	SPK1133	Falling	96	құя	құя	linguistic	_		
+96-2	SPK1133	Falling	96	салайық	салайық	linguistic	_		End=136.040
+97-0	SPK1133	Falling	97	Ойбой	Ойбой	linguistic	_		Begin=139.261
+97-1	SPK1133	Falling	97	ештеңе	ештеңе	linguistic	_		
+97-2	SPK1133	Falling	97	қалмапты	қалмапты	linguistic	_		
+97-3	SPK1133	Falling	97	ғой	ғой	linguistic	_		End=140.786
+98-0	SPK1132	undefined	98	BURP	BURP	paraverbal	_		Begin=142.067|End=142.753
+99-0	SPK1133	undefined	99	Сосын	Сосын	linguistic	_		Begin=150.194
+99-1	SPK1133	undefined	99	мен	мен	linguistic	_		
+99-2	SPK1133	undefined	99	ойлап	ойлап	linguistic	_		
+99-3	SPK1133	undefined	99	жатырмын	жатырмын	linguistic	_		
+99-4	SPK1133	undefined	99	да	да	linguistic	_		
+99-5	SPK1133	undefined	99	біз	біз	linguistic	_		
+99-6	SPK1133	undefined	99	қазір	қазір	linguistic	_		End=152.147
+100-0	SPK1133	undefined	100	сурет	сурет	linguistic	_		Begin=152.147|End=152.610
+101-0	SPK1133	Rising	101	түсіретін	түсіретін	linguistic	_		Begin=152.832
+101-1	SPK1133	Rising	101	жерді	жерді	linguistic	_		
+101-2	SPK1133	Rising	101	ойластырып	ойластырып	linguistic	_		
+101-3	SPK1133	Rising	101	алайық	алайық	linguistic	_		End=154.791
+102-0	SPK1133	undefined	102	сосын	сосын	linguistic	_		Begin=155.073|End=155.669
+103-0	SPK1133	undefined	103	қайсы	қайсы	linguistic	_		Begin=155.669|End=156.561
+104-0	SPK1133	undefined	104	#	#	unknown	_		Begin=156.561|End=157.409
+105-0	SPK1133	undefined	105	қайсы	қайсы	linguistic	_		Begin=157.576
+105-1	SPK1133	undefined	105	киіммен	киіммен	linguistic	_		End=158.630
+106-0	SPK1133	Continuing	106	түсіп	түсіп	linguistic	_		Begin=158.630|End=159.181
+107-0	SPK1133	undefined	107	қалай	қалай	linguistic	_		Begin=159.416|End=159.966
+108-0	SPK1133	undefined	108	түсетінімді	түсетінімді	linguistic	_		Begin=160.234
+108-1	SPK1133	undefined	108	сен	сен	linguistic	_		
+108-2	SPK1133	undefined	108	жазған	жазған	linguistic	_		
+108-3	SPK1133	undefined	108	ана	ана	linguistic	_		End=161.885
+109-0	SPK1133	undefined	109	方案	方案	linguistic	_		Begin=162.134
+109-1	SPK1133	undefined	109	бойынша	бойынша	linguistic	_		End=163.363
+110-0	SPK1133	undefined	110	сөйтіп	сөйтіп	linguistic	_		Begin=163.617|End=164.194
+111-0	SPK1133	undefined	111	енді	енді	linguistic	_		Begin=164.684|End=165.228
+112-0	SPK1132	undefined	112	有没有电了	有没有电了	linguistic	_		Begin=165.073|End=165.597
+113-0	SPK1132	Falling	113	қарай	қарай	linguistic	_		Begin=165.597
+113-1	SPK1132	Falling	113	салшы	салшы	linguistic	_		End=166.389
+114-0	SPK1133	undefined	114	сәл-пәл	сәл-пәл	linguistic	_		Begin=165.664|End=166.255
+115-0	SPK1133	Rising	115	ойластырып	ойластырып	linguistic	_		Begin=166.255
+115-1	SPK1133	Rising	115	қойсақ	қойсақ	linguistic	_		
+115-2	SPK1133	Rising	115	а	а	linguistic	_		End=167.349
+116-0	SPK1132	Falling	116	有没有电了	有没有电了	linguistic	_		Begin=167.369
+116-1	SPK1132	Falling	116	екен	екен	linguistic	_		
+116-2	SPK1132	Falling	116	қарай	қарай	linguistic	_		
+116-3	SPK1132	Falling	116	салшы	салшы	linguistic	_		End=168.684
+117-0	SPK1133	undefined	117	Так	Так	linguistic	_		Begin=169.711|End=170.295
+118-0	SPK1133	undefined	118	Ыыыым	Ыыыым	linguistic	_		Begin=171.744|End=172.866
+119-0	SPK1133	undefined	119	百分之五十八	百分之五十八	linguistic	_		Begin=173.664|End=174.825
+120-0	SPK1133	Rising	120	жететін	жететін	linguistic	_		Begin=174.825
+120-1	SPK1133	Rising	120	шығар	шығар	linguistic	_		End=175.977
+121-0	SPK1132	Falling	121	Иә	Иә	linguistic	_		Begin=175.020
+121-1	SPK1132	Falling	121	жетеді	жетеді	linguistic	_		
+121-2	SPK1132	Falling	121	жетеді	жетеді	linguistic	_		
+121-3	SPK1132	Falling	121	жетеді	жетеді	linguistic	_		End=176.419
+122-0	SPK1133	undefined	122	Қазір	Қазір	linguistic	_		Begin=176.604|End=177.147
+123-0	SPK1133	undefined	123	туф	туф	linguistic	_		Begin=178.577
+123-1	SPK1133	undefined	123	мынау	мынау	linguistic	_		End=179.543
+124-0	SPK1133	Falling	124	тряпка	тряпка	linguistic	_		Begin=179.583
+124-1	SPK1133	Falling	124	недеген	недеген	linguistic	_		
+124-2	SPK1133	Falling	124	сасық	сасық	linguistic	_		End=180.879
+125-0	SPK1132	undefined	125	平板有没有电	平板有没有电	linguistic	_		Begin=182.932
+125-1	SPK1132	undefined	125	？	？	linguistic	_		End=184.322
+126-0	SPK1133	Falling	126	шуаштың	шуаштың	linguistic	_		Begin=183.583
+126-1	SPK1133	Falling	126	иісі	иісі	linguistic	_		
+126-2	SPK1133	Falling	126	шығады	шығады	linguistic	_		End=184.469
+127-0	SPK1133	Rising	127	А	А	linguistic	_		Begin=184.469|End=185.147
+128-0	SPK1132	Falling	128	用这个擦	用这个擦	linguistic	_		Begin=185.100
+128-1	SPK1132	Falling	128	мә	мә	linguistic	_		End=186.087
+129-0	SPK1132	Falling	129	Йо	Йо	linguistic	_		Begin=196.899|End=197.778
+130-0	SPK1133	undefined	130	Біз	Біз	linguistic	_		Begin=199.100
+130-1	SPK1133	undefined	130	ертең	ертең	linguistic	_		End=199.845
+131-0	SPK1133	undefined	131	базарға	базарға	linguistic	_		Begin=200.429
+131-1	SPK1133	undefined	131	барып	барып	linguistic	_		
+131-2	SPK1133	undefined	131	келіп	келіп	linguistic	_		
+131-3	SPK1133	undefined	131	сосын	сосын	linguistic	_		End=202.181
+132-0	SPK1133	undefined	132	қайтып	қайтып	linguistic	_		Begin=202.181
+132-1	SPK1133	undefined	132	келген	келген	linguistic	_		
+132-2	SPK1133	undefined	132	соң	соң	linguistic	_		End=203.765
+133-0	SPK1133	Rising	133	ыы	ыы	linguistic	_		Begin=203.765
+133-1	SPK1133	Rising	133	мегыға	мегыға	linguistic	_		
+133-2	SPK1133	Rising	133	барып	барып	linguistic	_		
+133-3	SPK1133	Rising	133	келейік	келейік	linguistic	_		
+133-4	SPK1133	Rising	133	па	па	linguistic	_		End=205.536
+134-0	SPK1132	Falling	134	Иә	Иә	linguistic	_		Begin=206.073
+134-1	SPK1132	Falling	134	сол	сол	linguistic	_		
+134-2	SPK1132	Falling	134	мегаға	мегаға	linguistic	_		
+134-3	SPK1132	Falling	134	барып	барып	linguistic	_		
+134-4	SPK1132	Falling	134	келейік	келейік	linguistic	_		
+134-5	SPK1132	Falling	134	па	па	linguistic	_		
+134-6	SPK1132	Falling	134	дегенім	дегенім	linguistic	_		
+134-7	SPK1132	Falling	134	ғой	ғой	linguistic	_		End=207.664
+135-0	SPK1133	undefined	135	Ақ	Ақ	linguistic	_		Begin=208.644
+135-1	SPK1133	undefined	135	жейдеге	жейдеге	linguistic	_		End=209.536
+136-0	SPK1133	undefined	136	##	##	unknown	_		Begin=209.624|End=210.879
+137-0	SPK1132	Falling	137	Аа	Аа	linguistic	_		Begin=211.134|End=211.711
+138-0	SPK1132	undefined	138	###	###	unknown	_		Begin=212.335|End=213.349
+139-0	SPK1133	undefined	139	Саған	Саған	linguistic	_		Begin=213.530|End=214.187
+140-0	SPK1133	undefined	140	саған	саған	linguistic	_		Begin=214.489
+140-1	SPK1133	undefined	140	тоже	тоже	linguistic	_		
+140-2	SPK1133	undefined	140	қарап	қарап	linguistic	_		
+140-3	SPK1133	undefined	140	көрейік	көрейік	linguistic	_		End=215.637
+141-0	SPK1133	Rising	141	не	не	linguistic	_		Begin=215.637
+141-1	SPK1133	Rising	141	бар	бар	linguistic	_		
+141-2	SPK1133	Rising	141	екен	екен	linguistic	_		End=216.717
+142-0	SPK1132	undefined	142	Сол	Сол	linguistic	_		Begin=216.114
+142-1	SPK1132	undefined	142	маған	маған	linguistic	_		
+142-2	SPK1132	undefined	142	егер	егер	linguistic	_		
+142-3	SPK1132	undefined	142	бір	бір	linguistic	_		
+142-4	SPK1132	undefined	142	не	не	linguistic	_		
+142-5	SPK1132	undefined	142	болса	болса	linguistic	_		End=217.597
+143-0	SPK1133	Rising	143	Саған	Саған	linguistic	_		Begin=217.033
+143-1	SPK1133	Rising	143	не	не	linguistic	_		
+143-2	SPK1133	Rising	143	керек	керек	linguistic	_		
+143-3	SPK1133	Rising	143	болды	болды	linguistic	_		
+143-4	SPK1133	Rising	143	бүгін	бүгін	linguistic	_		
+143-5	SPK1133	Rising	143	ештеңе	ештеңе	linguistic	_		
+143-6	SPK1133	Rising	143	керек	керек	linguistic	_		
+143-7	SPK1133	Rising	143	емес	емес	linguistic	_		
+143-8	SPK1133	Rising	143	па	па	linguistic	_		End=219.543
+144-0	SPK1132	undefined	144	Маған	Маған	linguistic	_		Begin=219.375
+144-1	SPK1132	undefined	144	мұндай	мұндай	linguistic	_		
+144-2	SPK1132	undefined	144	бір	бір	linguistic	_		End=220.261
+145-0	SPK1132	undefined	145	休闲	休闲	linguistic	_		Begin=220.261
+145-1	SPK1132	undefined	145	-ырақ	-ырақ	linguistic	_		End=220.939
+146-0	SPK1132	Falling	146	白体桖	白体桖	linguistic	_		Begin=220.939
+146-1	SPK1132	Falling	146	керек	керек	linguistic	_		
+146-2	SPK1132	Falling	146	қой	қой	linguistic	_		
+146-3	SPK1132	Falling	146	деймін	деймін	linguistic	_		End=222.161
+147-0	SPK1133	Falling	147	Жоқ	Жоқ	linguistic	_		Begin=223.120
+147-1	SPK1133	Falling	147	бірақ	бірақ	linguistic	_		
+147-2	SPK1133	Falling	147	та	та	linguistic	_		
+147-3	SPK1133	Falling	147	那个白体桖	那个白体桖	linguistic	_		
+147-4	SPK1133	Falling	147	де	де	linguistic	_		
+147-5	SPK1133	Falling	147	болады	болады	linguistic	_		
+147-6	SPK1133	Falling	147	екен	екен	linguistic	_		
+147-7	SPK1133	Falling	147	дегенде	дегенде	linguistic	_		End=225.550
+148-0	SPK1133	undefined	148	Может	Может	linguistic	_		Begin=225.986
+148-1	SPK1133	undefined	148	бір	бір	linguistic	_		
+148-2	SPK1133	undefined	148	қара	қара	linguistic	_		
+148-3	SPK1133	undefined	148	POLO	POLO	linguistic	_		
+148-4	SPK1133	undefined	148	衫	衫	linguistic	_		
+148-5	SPK1133	undefined	148	？	？	linguistic	_		End=227.664
+149-0	SPK1133	Rising	149	дедік	дедік	linguistic	_		Begin=229.302
+149-1	SPK1133	Rising	149	емес	емес	linguistic	_		
+149-2	SPK1133	Rising	149	па	па	linguistic	_		End=230.436
+150-0	SPK1132	undefined	150	Аа	Аа	linguistic	_		Begin=230.865|End=231.221
+151-0	SPK1132	undefined	151	қара	қара	linguistic	_		Begin=231.221
+151-1	SPK1132	undefined	151	POLO	POLO	linguistic	_		
+151-2	SPK1132	undefined	151	衫	衫	linguistic	_		End=232.087
+152-0	SPK1132	Falling	152	дұрыс	дұрыс	linguistic	_		Begin=232.570|End=233.134
+153-0	SPK1133	undefined	153	SINGS	SINGS	paraverbal	_		Begin=234.208|End=236.379
+154-0	SPK1133	undefined	154	Бүгін	Бүгін	linguistic	_		Begin=239.610|End=239.919
+155-0	SPK1133	Rising	155	жиырма	жиырма	linguistic	_		Begin=239.919
+155-1	SPK1133	Rising	155	жетісі	жетісі	linguistic	_		
+155-2	SPK1133	Rising	155	иә	иә	linguistic	_		End=241.369
+156-0	SPK1132	Falling	156	Мхм	Мхм	linguistic	_		Begin=241.355|End=241.946
+157-0	SPK1133	undefined	157	Жиырма	Жиырма	linguistic	_		Begin=242.684
+157-1	SPK1133	undefined	157	жетісі	жетісі	linguistic	_		End=244.016
+158-0	SPK1133	undefined	158	нөл	нөл	linguistic	_		Begin=244.016|End=244.630
+159-0	SPK1133	Falling	159	бес	бес	linguistic	_		Begin=244.630|End=245.469
+160-0	SPK1133	undefined	160	Так	Так	linguistic	_		Begin=246.496|End=247.107
+161-0	SPK1133	Rising	161	жоқ	жоқ	linguistic	_		Begin=247.107
+161-1	SPK1133	Rising	161	жиырма	жиырма	linguistic	_		
+161-2	SPK1133	Rising	161	сегізі	сегізі	linguistic	_		
+161-3	SPK1133	Rising	161	ма	ма	linguistic	_		End=248.724
+162-0	SPK1132	Falling	162	Жиырма	Жиырма	linguistic	_		Begin=249.187
+162-1	SPK1132	Falling	162	жетісі	жетісі	linguistic	_		
+162-2	SPK1132	Falling	162	бүгін	бүгін	linguistic	_		End=250.409
+163-0	SPK1133	Falling	163	А	А	linguistic	_		Begin=249.221
+163-1	SPK1133	Falling	163	жиырма	жиырма	linguistic	_		
+163-2	SPK1133	Falling	163	жетісі	жетісі	linguistic	_		
+163-3	SPK1133	Falling	163	екен	екен	linguistic	_		End=250.751
+164-0	SPK1133	undefined	164	(H)	(H)	_	_		Begin=251.000|End=251.785
+165-0	SPK1133	undefined	165	我	我	linguistic	_		Begin=252.234|End=252.778
+166-0	SPK1133	undefined	166	联系	联系	linguistic	_		Begin=252.778
+166-1	SPK1133	undefined	166	Іңкәр	Іңкәр	linguistic	_		
+166-2	SPK1133	undefined	166	кеше	кеше	linguistic	_		End=254.966
+167-0	SPK1133	undefined	167	诶	诶	linguistic	_		Begin=255.349
+167-1	SPK1133	undefined	167	？	？	linguistic	_		End=255.873
+168-0	SPK1132	Falling	168	Мм	Мм	linguistic	_		Begin=256.496
+168-1	SPK1132	Falling	168	你把裙子拿掉了	你把裙子拿掉了	linguistic	_		End=257.984
+169-0	SPK1133	Falling	169	Ын	Ын	linguistic	_		Begin=262.899|End=263.692
+170-0	SPK1133	Falling	170	Не	Не	linguistic	_		Begin=265.275
+170-1	SPK1133	Falling	170	жазамыз	жазамыз	linguistic	_		End=266.281
+171-0	SPK1133	undefined	171	Ыыыы	Ыыыы	linguistic	_		Begin=267.671|End=268.838
+172-0	SPK1133	Rising	172	ЦОН	ЦОН	linguistic	_		Begin=269.738|End=270.916
+173-0	SPK1132	Rising	173	ЦОН	ЦОН	linguistic	_		Begin=271.624|End=272.328
+174-0	SPK1133	Falling	174	Ой	Ой	linguistic	_		Begin=272.812
+174-1	SPK1133	Falling	174	ЦОН	ЦОН	linguistic	_		
+174-2	SPK1133	Falling	174	деймін	деймін	linguistic	_		
+174-3	SPK1133	Falling	174	ғой	ғой	linguistic	_		End=274.288
+175-0	SPK1133	undefined	175	Қаз	Қаз	linguistic	_		Begin=274.422|End=275.328
+176-0	SPK1133	undefined	176	Қаз	Қаз	linguistic	_		Begin=275.872
+176-1	SPK1133	undefined	176	тест	тест	linguistic	_		End=276.979
+177-0	SPK1133	undefined	177	-ке	-ке	linguistic	_		Begin=277.543|End=278.174
+178-0	SPK1133	undefined	178	тіркелу	тіркелу	linguistic	_		Begin=278.892|End=279.691
+179-0	SPK1133	Falling	179	деп	деп	linguistic	_		Begin=279.691
+179-1	SPK1133	Falling	179	жазып	жазып	linguistic	_		
+179-2	SPK1133	Falling	179	қояйын	қояйын	linguistic	_		End=280.516
+180-0	SPK1133	undefined	180	Тір	Тір	linguistic	_		Begin=280.751|End=281.328
+181-0	SPK1133	Falling	181	-келу	-келу	linguistic	_		Begin=281.328|End=282.187
+182-0	SPK1133	Rising	182	Is	Is	linguistic	_		Begin=284.073
+182-1	SPK1133	Rising	182	it	it	linguistic	_		
+182-2	SPK1133	Rising	182	fine	fine	linguistic	_		End=285.053
+183-0	SPK1132	Falling	183	Мхм	Мхм	linguistic	_		Begin=285.228|End=285.932
+184-0	SPK1133	undefined	184	(H)	(H)	_	_		Begin=286.328
+184-1	SPK1133	undefined	184	(Hx)	(Hx)	_	_		End=288.020
+185-0	SPK1133	undefined	185	Сол	Сол	linguistic	_		Begin=288.275|End=289.120
+186-0	SPK1133	undefined	186	first	first	linguistic	_		Begin=289.409
+186-1	SPK1133	undefined	186	look	look	linguistic	_		End=290.308
+187-0	SPK1133	undefined	187	может	может	linguistic	_		Begin=290.422|End=290.892
+188-0	SPK1133	Rising	188	сен	сен	linguistic	_		Begin=290.892
+188-1	SPK1133	Rising	188	немен	немен	linguistic	_		
+188-2	SPK1133	Rising	188	жасадың	жасадың	linguistic	_		End=291.818
+189-0	SPK1133	Rising	189	Pinterest-пен	Pinterest-пен	linguistic	_		Begin=291.818|End=292.409
+190-0	SPK1133	Rising	190	Или	Или	linguistic	_		Begin=292.409
+190-1	SPK1133	Rising	190	немен	немен	linguistic	_		End=293.369
+191-0	SPK1132	Rising	191	Жәй	Жәй	linguistic	_		Begin=293.375|End=293.959
+192-0	SPK1133	undefined	192	Гугл	Гугл	linguistic	_		Begin=293.651|End=294.214
+193-0	SPK1133	undefined	193	Гугл	Гугл	linguistic	_		Begin=294.214|End=294.852
+194-0	SPK1133	undefined	194	Эй	Эй	linguistic	_		Begin=295.060|End=295.516
+195-0	SPK1133	undefined	195	негізі	негізі	linguistic	_		Begin=295.516|End=296.073
+196-0	SPK1133	Rising	196	немен	немен	linguistic	_		Begin=296.073
+196-1	SPK1133	Rising	196	жасамайсың	жасамайсың	linguistic	_		
+196-2	SPK1133	Rising	196	ба	ба	linguistic	_		
+196-3	SPK1133	Rising	196	ана	ана	linguistic	_		End=297.791
+197-0	SPK1133	Falling	197	Иә	Иә	linguistic	_		Begin=297.852
+197-1	SPK1133	Falling	197	сен	сен	linguistic	_		
+197-2	SPK1133	Falling	197	осымен	осымен	linguistic	_		
+197-3	SPK1133	Falling	197	жаса	жаса	linguistic	_		End=299.268
+198-0	SPK1132	undefined	198	###	###	unknown	_		Begin=297.865|End=298.986
+199-0	SPK1133	undefined	199	Аа	Аа	linguistic	_		Begin=299.583|End=299.986
+200-0	SPK1133	Falling	200	бәсе	бәсе	linguistic	_		Begin=299.986|End=300.765
+201-0	SPK1133	undefined	201	(H)	(H)	_	_		Begin=302.288
+201-1	SPK1133	undefined	201	Былай	Былай	linguistic	_		End=303.155
+202-0	SPK1133	Falling	202	уа	уа	linguistic	_		Begin=303.416
+202-1	SPK1133	Falling	202	кәдімгідей	кәдімгідей	linguistic	_		
+202-2	SPK1133	Falling	202	开会一样奥	开会一样奥	linguistic	_		
+202-3	SPK1133	Falling	202	@@@@@	@@@@@	linguistic	_		End=307.550
+203-0	SPK1133	Falling	203	Мынаны	Мынаны	linguistic	_		Begin=308.040
+203-1	SPK1133	Falling	203	былай	былай	linguistic	_		
+203-2	SPK1133	Falling	203	жығып	жығып	linguistic	_		
+203-3	SPK1133	Falling	203	тастайық	тастайық	linguistic	_		End=309.255
+204-0	SPK1133	undefined	204	Сосын	Сосын	linguistic	_		Begin=310.114|End=310.624
+205-0	SPK1133	Falling	205	есімізге	есімізге	linguistic	_		Begin=310.758
+205-1	SPK1133	Falling	205	түспейді	түспейді	linguistic	_		End=312.080
+206-0	SPK1132	undefined	206	Телеграмға	Телеграмға	linguistic	_		Begin=313.268|End=313.684
+207-0	SPK1132	undefined	207	жібере	жібере	linguistic	_		Begin=313.684
+207-1	SPK1132	undefined	207	салайыншы	салайыншы	linguistic	_		End=314.261
+208-0	SPK1132	undefined	208	ана	ана	linguistic	_		Begin=314.261
+208-1	SPK1132	undefined	208	суреттерді	суреттерді	linguistic	_		End=315.221
+209-0	SPK1132	undefined	209	біраз	біраз	linguistic	_		Begin=315.221|End=315.590
+210-0	SPK1132	Falling	210	қолайлы	қолайлы	linguistic	_		Begin=315.590
+210-1	SPK1132	Falling	210	болады	болады	linguistic	_		
+210-2	SPK1132	Falling	210	қазір	қазір	linguistic	_		End=316.657
+211-0	SPK1133	Falling	211	Мммм	Мммм	linguistic	_		Begin=317.879|End=318.610
+212-0	SPK1133	undefined	212	Upper	Upper	linguistic	_		Begin=320.771
+212-1	SPK1133	undefined	212	angle	angle	linguistic	_		End=321.966
+213-0	SPK1133	undefined	213	object	object	linguistic	_		Begin=321.966|End=322.637
+214-0	SPK1133	undefined	214	center	center	linguistic	_		Begin=322.758|End=323.503
+215-0	SPK1133	Falling	215	дейді	дейді	linguistic	_		Begin=323.516|End=324.047
+216-0	SPK1133	undefined	216	(H)	(H)	_	_		Begin=324.080|End=325.020
+217-0	SPK1133	undefined	217	Так	Так	linguistic	_		Begin=325.174|End=326.228
+218-0	SPK1133	undefined	218	мынау	мынау	linguistic	_		Begin=328.838|End=329.550
+219-0	SPK1133	Rising	219	баспалдақтағы	баспалдақтағы	linguistic	_		Begin=329.550|End=331.140
+220-0	SPK1133	undefined	220	ыыы	ыыы	linguistic	_		Begin=331.798|End=332.402
+221-0	SPK1133	undefined	221	I	I	linguistic	_		Begin=332.583
+221-1	SPK1133	undefined	221	think	think	linguistic	_		
+221-2	SPK1133	undefined	221	we	we	linguistic	_		
+221-3	SPK1133	undefined	221	can	can	linguistic	_		
+221-4	SPK1133	undefined	221	do	do	linguistic	_		
+221-5	SPK1133	undefined	221	it	it	linguistic	_		
+221-6	SPK1133	undefined	221	at	at	linguistic	_		End=334.026
+222-0	SPK1133	Falling	222	uni	uni	linguistic	_		Begin=334.093
+222-1	SPK1133	Falling	222	maybe	maybe	linguistic	_		End=335.261
+223-0	SPK1133	undefined	223	It's	It's	linguistic	_		Begin=335.892|End=336.489
+224-0	SPK1133	Falling	224	possible	possible	linguistic	_		Begin=336.597|End=337.241
+225-0	SPK1133	undefined	225	Атриумда	Атриумда	linguistic	_		Begin=337.342
+225-1	SPK1133	undefined	225	отырып	отырып	linguistic	_		End=338.657
+226-0	SPK1133	undefined	226	ана	ана	linguistic	_		Begin=338.872|End=339.335
+227-0	SPK1133	undefined	227	ыы	ыы	linguistic	_		Begin=339.489|End=339.979
+228-0	SPK1133	Falling	228	үстінен	үстінен	linguistic	_		Begin=339.979
+228-1	SPK1133	Falling	228	түсіріп	түсіріп	linguistic	_		End=341.315
+229-0	SPK1132	Rising	229	Қалай	Қалай	linguistic	_		Begin=341.033
+229-1	SPK1132	Rising	229	кіреміз	кіреміз	linguistic	_		
+229-2	SPK1132	Rising	229	барлығымыз	барлығымыз	linguistic	_		End=342.651
+230-0	SPK1133	undefined	230	Жоқ	Жоқ	linguistic	_		Begin=343.778|End=344.194
+231-0	SPK1133	undefined	231	ыыы	ыыы	linguistic	_		Begin=344.429
+231-1	SPK1133	undefined	231	maybe	maybe	linguistic	_		End=345.315
+232-0	SPK1133	Falling	232	at	at	linguistic	_		Begin=345.335
+232-1	SPK1133	Falling	232	the	the	linguistic	_		
+232-2	SPK1133	Falling	232	graduation	graduation	linguistic	_		
+232-3	SPK1133	Falling	232	day	day	linguistic	_		End=346.885
+233-0	SPK1132	undefined	233	Мхм	Мхм	linguistic	_		Begin=349.691|End=350.140
+234-0	SPK1132	Falling	234	这个不需要特别大的打光啥的	这个不需要特别大的打光啥的	linguistic	_		Begin=350.140
+234-1	SPK1132	Falling	234	ғой	ғой	linguistic	_		End=352.275
+235-0	SPK1133	undefined	235	like	like	linguistic	_		Begin=350.651|End=351.302
+236-0	SPK1133	Falling	236	Иә	Иә	linguistic	_		Begin=352.308|End=352.959
+237-0	SPK1133	undefined	237	It's	It's	linguistic	_		Begin=353.476
+237-1	SPK1133	undefined	237	just	just	linguistic	_		
+237-2	SPK1133	undefined	237	like	like	linguistic	_		
+237-3	SPK1133	undefined	237	maybe	maybe	linguistic	_		End=354.469
+238-0	SPK1133	undefined	238	кімдер	кімдер	linguistic	_		Begin=354.469|End=355.060
+239-0	SPK1133	Falling	239	түсіріп	түсіріп	linguistic	_		Begin=355.060
+239-1	SPK1133	Falling	239	береді	береді	linguistic	_		End=356.167
+240-0	SPK1132	Falling	240	相机	相机	linguistic	_		Begin=357.107
+240-1	SPK1132	Falling	240	түсіп	түсіп	linguistic	_		
+240-2	SPK1132	Falling	240	кетпесе	кетпесе	linguistic	_		
+240-3	SPK1132	Falling	240	болды	болды	linguistic	_		
+240-4	SPK1132	Falling	240	ғой	ғой	linguistic	_		
+240-5	SPK1132	Falling	240	@@@	@@@	linguistic	_		End=358.818
+241-0	SPK1133	Falling	241	Ыыыы	Ыыыы	linguistic	_		Begin=359.127|End=360.365
+242-0	SPK1133	undefined	242	It	It	linguistic	_		Begin=363.590
+242-1	SPK1133	undefined	242	doesn't	doesn't	linguistic	_		
+242-2	SPK1133	undefined	242	have	have	linguistic	_		End=364.664
+243-0	SPK1132	undefined	243	Короче	Короче	linguistic	_		Begin=364.033|End=364.637
+244-0	SPK1132	undefined	244	Мына	Мына	linguistic	_		Begin=364.637|End=365.053
+245-0	SPK1133	undefined	245	to	to	linguistic	_		Begin=364.664
+245-1	SPK1133	undefined	245	跟相机没#	跟相机没#	linguistic	_		End=366.711
+246-0	SPK1132	undefined	246	这个	这个	linguistic	_		Begin=365.053
+246-1	SPK1132	undefined	246	这个	这个	linguistic	_		End=365.885
+247-0	SPK1132	undefined	247	这个	这个	linguistic	_		Begin=366.241|End=366.577
+248-0	SPK1132	undefined	248	这个	这个	linguistic	_		Begin=366.577|End=367.355
+249-0	SPK1133	Rising	249	Мхм	Мхм	linguistic	_		Begin=366.812|End=367.382
+250-0	SPK1132	Rising	250	相机	相机	linguistic	_		Begin=367.718
+250-1	SPK1132	Rising	250	болмаса	болмаса	linguistic	_		
+250-2	SPK1132	Rising	250	мынандай	мынандай	linguistic	_		
+250-3	SPK1132	Rising	250	не	не	linguistic	_		
+250-4	SPK1132	Rising	250	шықпайды	шықпайды	linguistic	_		
+250-5	SPK1132	Rising	250	ғой	ғой	linguistic	_		End=370.073
+251-0	SPK1132	undefined	251	(H)	(H)	_	_		Begin=370.953|End=371.308
+252-0	SPK1132	undefined	252	Тіпті	Тіпті	linguistic	_		Begin=371.308
+252-1	SPK1132	undefined	252	мынаны	мынаны	linguistic	_		End=372.053
+253-0	SPK1133	undefined	253	选人	选人	linguistic	_		Begin=371.335
+253-1	SPK1133	undefined	253	？	？	linguistic	_		End=372.470
+254-0	SPK1132	undefined	254	кімдермен	кімдермен	linguistic	_		Begin=372.053|End=372.879
+255-0	SPK1132	undefined	255	¬Фариза	Фариза	linguistic	_	Anonymized=Yes	Begin=372.879
+255-1	SPK1132	undefined	255	түсіргенде	түсіргенде	linguistic	_		
+255-2	SPK1132	undefined	255	осылай	осылай	linguistic	_		
+255-3	SPK1132	undefined	255	түсірейік	түсірейік	linguistic	_		
+255-4	SPK1132	undefined	255	сосын	сосын	linguistic	_		
+255-5	SPK1132	undefined	255	大学	大学	linguistic	_		
+255-6	SPK1132	undefined	255	-да	-да	linguistic	_		
+255-7	SPK1132	undefined	255	да	да	linguistic	_		End=375.295
+256-0	SPK1132	Falling	256	түсіріп	түсіріп	linguistic	_		Begin=375.302
+256-1	SPK1132	Falling	256	көрейік	көрейік	linguistic	_		End=375.932
+257-0	SPK1132	undefined	257	мынаны	мынаны	linguistic	_		Begin=376.120
+257-1	SPK1132	undefined	257	екі	екі	linguistic	_		End=376.893
+258-0	SPK1133	Falling	258	Ок	Ок	linguistic	_		Begin=376.805|End=377.382
+259-0	SPK1132	Falling	259	Ой	Ой	linguistic	_		Begin=377.597
+259-1	SPK1132	Falling	259	үстіне	үстіне	linguistic	_		
+259-2	SPK1132	Falling	259	жаза	жаза	linguistic	_		
+259-3	SPK1132	Falling	259	берейікші	берейікші	linguistic	_		End=378.872
+260-0	SPK1133	undefined	260	(H)	(H)	_	_		Begin=379.167|End=380.087
+261-0	SPK1133	undefined	261	Сен	Сен	linguistic	_		Begin=380.429
+261-1	SPK1133	undefined	261	жаза	жаза	linguistic	_		
+261-2	SPK1133	undefined	261	ғой	ғой	linguistic	_		
+261-3	SPK1133	undefined	261	сен	сен	linguistic	_		End=381.651
+262-0	SPK1132	undefined	262	Сен	Сен	linguistic	_		Begin=380.469
+262-1	SPK1132	undefined	262	жазуың	жазуың	linguistic	_		End=381.087
+263-0	SPK1132	Falling	263	сен	сен	linguistic	_		Begin=381.335
+263-1	SPK1132	Falling	263	жазуың	жазуың	linguistic	_		
+263-2	SPK1132	Falling	263	жақсырақ	жақсырақ	linguistic	_		
+263-3	SPK1132	Falling	263	қойшы	қойшы	linguistic	_		End=382.570
+264-0	SPK1133	Falling	264	Давай	Давай	linguistic	_		Begin=383.536|End=384.233
+265-0	SPK1132	Falling	265	充电	充电	linguistic	_		Begin=384.033
+265-1	SPK1132	Falling	265	болып	болып	linguistic	_		
+265-2	SPK1132	Falling	265	тұр	тұр	linguistic	_		
+265-3	SPK1132	Falling	265	ма	ма	linguistic	_		
+265-4	SPK1132	Falling	265	екен	екен	linguistic	_		
+265-5	SPK1132	Falling	265	мынау	мынау	linguistic	_		End=385.221
+266-0	SPK1132	undefined	266	Ана	Ана	linguistic	_		Begin=385.228
+266-1	SPK1132	undefined	266	жақта	жақта	linguistic	_		End=385.798
+267-0	SPK1132	Falling	267	充电	充电	linguistic	_		Begin=385.798
+267-1	SPK1132	Falling	267	сияқты	сияқты	linguistic	_		
+267-2	SPK1132	Falling	267	болған	болған	linguistic	_		
+267-3	SPK1132	Falling	267	еді	еді	linguistic	_		End=387.355
+268-0	SPK1133	undefined	268	你有没有	你有没有	linguistic	_		Begin=387.281|End=387.711
+269-0	SPK1133	undefined	269	把我上次说的那些	把我上次说的那些	linguistic	_		Begin=387.711|End=389.154
+270-0	SPK1133	Rising	270	қосып	қосып	linguistic	_		Begin=389.302
+270-1	SPK1133	Rising	270	қойдың	қойдың	linguistic	_		
+270-2	SPK1133	Rising	270	ба	ба	linguistic	_		End=390.503
+271-0	SPK1132	Falling	271	我没加那些	我没加那些	linguistic	_		Begin=389.637|End=390.651
+272-0	SPK1133	Falling	272	Ок	Ок	linguistic	_		Begin=390.677|End=391.288
+273-0	SPK1133	undefined	273	存了吗	存了吗	linguistic	_		Begin=391.630
+273-1	SPK1133	undefined	273	？	？	linguistic	_		End=392.523
+274-0	SPK1132	Falling	274	存了	存了	linguistic	_		Begin=392.583|End=393.261
+275-0	SPK1132	Falling	275	在我手机里	在我手机里	linguistic	_		Begin=393.664|End=394.791
+276-0	SPK1133	undefined	276	Қай	Қай	linguistic	_		Begin=393.704
+276-1	SPK1133	undefined	276	жерде	жерде	linguistic	_		
+276-2	SPK1133	undefined	276	сенің	сенің	linguistic	_		End=394.751
+277-0	SPK1133	Rising	277	телефоныңда	телефоныңда	linguistic	_		Begin=394.751
+277-1	SPK1133	Rising	277	ма	ма	linguistic	_		End=395.724
+278-0	SPK1133	undefined	278	Онда	Онда	linguistic	_		Begin=395.738
+278-1	SPK1133	undefined	278	Airdrop-пен	Airdrop-пен	linguistic	_		End=396.771
+279-0	SPK1133	Rising	279	жібере	жібере	linguistic	_		Begin=396.771
+279-1	SPK1133	Rising	279	салшы	салшы	linguistic	_		End=397.671
+280-0	SPK1133	Falling	280	¬Есбол	Есбол	linguistic	_	Anonymized=Yes	Begin=399.080
+280-1	SPK1133	Falling	280	может	может	linguistic	_		
+280-2	SPK1133	Falling	280	我们新开一个	我们新开一个	linguistic	_		End=401.140
+281-0	SPK1133	undefined	281	Әлде	Әлде	linguistic	_		Begin=401.476|End=402.033
+282-0	SPK1133	undefined	282	Is	Is	linguistic	_		Begin=402.469|End=402.912
+283-0	SPK1133	Rising	283	too	too	linguistic	_		Begin=403.020
+283-1	SPK1133	Rising	283	complicated	complicated	linguistic	_		
+283-2	SPK1133	Rising	283	болып	болып	linguistic	_		
+283-3	SPK1133	Rising	283	кете	кете	linguistic	_		
+283-4	SPK1133	Rising	283	ма	ма	linguistic	_		End=405.107
+284-0	SPK1132	undefined	284	新	新	linguistic	_		Begin=403.026|End=403.335
+285-0	SPK1132	undefined	285	新开一个吧	新开一个吧	linguistic	_		Begin=403.818|End=404.610
+286-0	SPK1132	undefined	286	那就	那就	linguistic	_		Begin=404.610|End=405.187
+287-0	SPK1132	Falling	287	新开一个吧	新开一个吧	linguistic	_		Begin=405.214|End=406.013
+288-0	SPK1133	Falling	288	嗯	嗯	linguistic	_		Begin=406.187
+288-1	SPK1133	Falling	288	新开一个吧	新开一个吧	linguistic	_		End=407.302
+289-0	SPK1132	undefined	289	这个	这个	linguistic	_		Begin=407.422|End=407.966
+290-0	SPK1132	undefined	290	##	##	unknown	_		Begin=408.248|End=409.281
+291-0	SPK1132	Falling	291	要不直接就往下面的	要不直接就往下面的	linguistic	_		Begin=410.563
+291-1	SPK1132	Falling	291	папка	папка	linguistic	_		
+291-2	SPK1132	Falling	291	里面加就行了	里面加就行了	linguistic	_		End=412.946
+292-0	SPK1133	undefined	292	Жоқ	Жоқ	linguistic	_		Begin=412.583
+292-1	SPK1133	undefined	292	жоқ	жоқ	linguistic	_		End=413.557
+293-0	SPK1132	undefined	293	#	#	unknown	_		Begin=413.060|End=413.583
+294-0	SPK1133	Falling	294	түсініксіз	түсініксіз	linguistic	_		Begin=413.557
+294-1	SPK1133	Falling	294	болып	болып	linguistic	_		
+294-2	SPK1133	Falling	294	кететін	кететін	linguistic	_		
+294-3	SPK1133	Falling	294	сияқты	сияқты	linguistic	_		End=415.389
+295-0	SPK1132	Falling	295	这里面全是那些的呀	这里面全是那些的呀	linguistic	_		Begin=414.932|End=416.345
+296-0	SPK1133	undefined	296	(H)	(H)	_	_		Begin=415.691|End=416.516
+297-0	SPK1133	undefined	297	Фан	Фан	linguistic	_		Begin=417.469|End=418.751
+298-0	SPK1133	undefined	298	ноутбук	ноутбук	linguistic	_		Begin=418.751|End=419.355
+299-0	SPK1133	Rising	299	иә	иә	linguistic	_		Begin=419.355|End=419.865
+300-0	SPK1132	Falling	300	Ын	Ын	linguistic	_		Begin=419.959|End=420.503
+301-0	SPK1133	undefined	301	CLICK	CLICK	paraverbal	_		Begin=420.315|End=420.751
+302-0	SPK1132	Rising	302	WHISPER	WHISPER	paraverbal	_		Begin=422.181
+302-1	SPK1132	Rising	302	Сен	Сен	linguistic	_		
+302-2	SPK1132	Rising	302	маған	маған	linguistic	_		
+302-3	SPK1132	Rising	302	қалай	қалай	linguistic	_		
+302-4	SPK1132	Rising	302	жіберген	жіберген	linguistic	_		
+302-5	SPK1132	Rising	302	едің	едің	linguistic	_		End=424.114
+303-0	SPK1133	Falling	303	Flowers	Flowers	linguistic	_		Begin=427.127|End=428.174
+304-0	SPK1133	undefined	304	#	#	unknown	_		Begin=429.228|End=430.093
+305-0	SPK1133	undefined	305	(H)	(H)	_	_		Begin=430.651
+305-1	SPK1133	undefined	305	CREAKY	CREAKY	paraverbal	_		
+305-2	SPK1133	undefined	305	ыыы	ыыы	linguistic	_		End=432.583
+306-0	SPK1133	undefined	306	Айттым	Айттым	linguistic	_		Begin=432.731
+306-1	SPK1133	undefined	306	ғой	ғой	linguistic	_		
+306-2	SPK1133	undefined	306	иә	иә	linguistic	_		
+306-3	SPK1133	undefined	306	那个	那个	linguistic	_		End=433.684
+307-0	SPK1133	undefined	307	点点	点点	linguistic	_		Begin=433.684|End=434.234
+308-0	SPK1133	undefined	308	ең	ең	linguistic	_		Begin=434.234
+308-1	SPK1133	undefined	308	жақсы	жақсы	linguistic	_		End=435.006
+309-0	SPK1133	Rising	309	ең	ең	linguistic	_		Begin=435.006
+309-1	SPK1133	Rising	309	ыңғайлы	ыңғайлы	linguistic	_		
+309-2	SPK1133	Rising	309	шығады	шығады	linguistic	_		
+309-3	SPK1133	Rising	309	иә	иә	linguistic	_		End=436.523
+310-0	SPK1133	Falling	310	Басқаларға	Басқаларға	linguistic	_		Begin=436.912
+310-1	SPK1133	Falling	310	қарағанда	қарағанда	linguistic	_		End=438.006
+311-0	SPK1133	undefined	311	那个	那个	linguistic	_		Begin=438.328
+311-1	SPK1133	undefined	311	bullet	bullet	linguistic	_		
+311-2	SPK1133	undefined	311	journal	journal	linguistic	_		
+311-3	SPK1133	undefined	311	деген	деген	linguistic	_		End=439.711
+312-0	SPK1133	Falling	312	就是这种点点	就是这种点点	linguistic	_		Begin=439.711
+312-1	SPK1133	Falling	312	ғой	ғой	linguistic	_		End=441.067
+313-0	SPK1132	Falling	313	Ммм	Ммм	linguistic	_		Begin=441.510|End=442.308
+314-0	SPK1133	undefined	314	Бірақ	Бірақ	linguistic	_		Begin=442.771
+314-1	SPK1133	undefined	314	та	та	linguistic	_		
+314-2	SPK1133	undefined	314	осы	осы	linguistic	_		
+314-3	SPK1133	undefined	314	жақта	жақта	linguistic	_		End=443.698
+315-0	SPK1133	undefined	315	就是买不到那种我喜欢的暖色的	就是买不到那种我喜欢的暖色的	linguistic	_		Begin=443.919
+315-1	SPK1133	undefined	315	。	。	linguistic	_		End=446.268
+316-0	SPK1133	Continuing	316	Болды	Болды	linguistic	_		Begin=447.563|End=448.098
+317-0	SPK1133	Rising	317	сен	сен	linguistic	_		Begin=451.375
+317-1	SPK1133	Rising	317	сақтадың	сақтадың	linguistic	_		
+317-2	SPK1133	Rising	317	ба	ба	linguistic	_		End=452.107
+318-0	SPK1133	Rising	318	Былай	Былай	linguistic	_		Begin=452.107
+318-1	SPK1133	Rising	318	қарай	қарай	linguistic	_		
+318-2	SPK1133	Rising	318	салсай	салсай	linguistic	_		End=453.265
+319-0	SPK1132	undefined	319	那个	那个	linguistic	_		Begin=453.469|End=453.885
+320-0	SPK1132	Falling	320	看不到	看不到	linguistic	_		Begin=453.885
+320-1	SPK1132	Falling	320	екен	екен	linguistic	_		End=454.801
+321-0	SPK1133	Rising	321	Неге	Неге	linguistic	_		Begin=455.610|End=456.127
+322-0	SPK1132	undefined	322	Мм	Мм	linguistic	_		Begin=456.675
+322-1	SPK1132	undefined	322	我看了	我看了	linguistic	_		
+322-2	SPK1132	undefined	322	。	。	linguistic	_		End=457.504
+323-0	SPK1133	undefined	323	Давай	Давай	linguistic	_		Begin=459.510|End=460.033
+324-0	SPK1133	Falling	324	істеп	істеп	linguistic	_		Begin=460.040
+324-1	SPK1133	Falling	324	көрейікші	көрейікші	linguistic	_		End=461.134
+325-0	SPK1133	undefined	325	#	#	unknown	_		Begin=466.261
+325-1	SPK1133	undefined	325	怎么看不到？	怎么看不到？	linguistic	_		End=467.597
+326-0	SPK1132	undefined	326	奥:	奥	linguistic	_	Prolongation=0	Begin=472.138|End=473.140
+327-0	SPK1132	undefined	327	我懂你的意思了。	我懂你的意思了。	linguistic	_		Begin=473.140|End=474.356
+328-0	SPK1133	Rising	328	Түсінбедім	Түсінбедім	linguistic	_		Begin=474.255|End=474.966
+329-0	SPK1133	undefined	329	Сен	Сен	linguistic	_		Begin=474.986
+329-1	SPK1133	undefined	329	не	не	linguistic	_		
+329-2	SPK1133	undefined	329	нәрседен	нәрседен	linguistic	_		End=476.362
+330-0	SPK1133	Rising	330	таппадым	таппадым	linguistic	_		Begin=476.362
+330-1	SPK1133	Rising	330	дегеніңді	дегеніңді	linguistic	_		End=477.711
+331-0	SPK1132	Falling	331	Сен	Сен	linguistic	_		Begin=477.885
+331-1	SPK1132	Falling	331	бір	бір	linguistic	_		
+331-2	SPK1132	Falling	331	маған	маған	linguistic	_		
+331-3	SPK1132	Falling	331	聊天记录	聊天记录	linguistic	_		
+331-4	SPK1132	Falling	331	-ларды	-ларды	linguistic	_		
+331-5	SPK1132	Falling	331	жіберіп	жіберіп	linguistic	_		
+331-6	SPK1132	Falling	331	бердің	бердің	linguistic	_		
+331-7	SPK1132	Falling	331	ғой	ғой	linguistic	_		End=480.080
+332-0	SPK1133	Continuing	332	А	А	linguistic	_		Begin=479.530|End=480.068
+333-0	SPK1133	undefined	333	ещё	ещё	linguistic	_		Begin=480.068
+333-1	SPK1133	undefined	333	first	first	linguistic	_		
+333-2	SPK1133	undefined	333	look	look	linguistic	_		
+333-3	SPK1133	undefined	333	-дар	-дар	linguistic	_		End=481.255
+334-0	SPK1133	undefined	334	ана	ана	linguistic	_		Begin=481.255
+334-1	SPK1133	undefined	334	look	look	linguistic	_		
+334-2	SPK1133	undefined	334	-дарды	-дарды	linguistic	_		End=482.375
+335-0	SPK1133	Falling	335	тоже	тоже	linguistic	_		Begin=482.375
+335-1	SPK1133	Falling	335	жібере	жібере	linguistic	_		
+335-2	SPK1133	Falling	335	салшы	салшы	linguistic	_		End=484.107
+336-0	SPK1132	Falling	336	Оны	Оны	linguistic	_		Begin=482.765
+336-1	SPK1132	Falling	336	телеграмға	телеграмға	linguistic	_		
+336-2	SPK1132	Falling	336	жіберіп	жіберіп	linguistic	_		
+336-3	SPK1132	Falling	336	қойдым	қойдым	linguistic	_		
+336-4	SPK1132	Falling	336	уже	уже	linguistic	_		End=484.342
+337-0	SPK1133	Continuing	337	Телеграмға	Телеграмға	linguistic	_		Begin=484.597
+337-1	SPK1133	Continuing	337	емес	емес	linguistic	_		End=485.590
+338-0	SPK1133	Falling	338	Air	Air	linguistic	_		Begin=485.590
+338-1	SPK1133	Falling	338	drop-пен	drop-пен	linguistic	_		
+338-2	SPK1133	Falling	338	жібере	жібере	linguistic	_		
+338-3	SPK1133	Falling	338	салшы	салшы	linguistic	_		End=487.349
+339-0	SPK1133	undefined	339	Телеграмнан	Телеграмнан	linguistic	_		Begin=487.664
+339-1	SPK1133	undefined	339	download	download	linguistic	_		End=488.838
+340-0	SPK1132	undefined	340	好	好	linguistic	_		Begin=487.677|End=488.375
+341-0	SPK1133	Falling	341	етіп	етіп	linguistic	_		Begin=488.838
+341-1	SPK1133	Falling	341	жүретін	жүретін	linguistic	_		
+341-2	SPK1133	Falling	341	емес	емес	linguistic	_		End=490.000
+342-0	SPK1132	Falling	342	这里面有	这里面有	linguistic	_		Begin=490.342
+342-1	SPK1132	Falling	342	телеграм	телеграм	linguistic	_		End=491.449
+343-0	SPK1133	undefined	343	Иә	Иә	linguistic	_		Begin=491.932
+343-1	SPK1133	undefined	343	but	but	linguistic	_		
+343-2	SPK1133	undefined	343	it's	it's	linguistic	_		End=492.877
+344-0	SPK1133	undefined	344	麻烦死了	麻烦死了	linguistic	_		Begin=493.261
+344-1	SPK1133	undefined	344	。	。	linguistic	_		End=494.134
+345-0	SPK1133	Falling	345	Жарайды	Жарайды	linguistic	_		Begin=494.409
+345-1	SPK1133	Falling	345	қазір	қазір	linguistic	_		
+345-2	SPK1133	Falling	345	істеймін	істеймін	linguistic	_		End=495.335
+346-0	SPK1132	undefined	346	你先把那个存起来	你先把那个存起来	linguistic	_		Begin=495.684
+346-1	SPK1132	undefined	346	，	，	linguistic	_		End=496.960
+347-0	SPK1133	Rising	347	saved	saved	linguistic	_		Begin=496.872
+347-1	SPK1133	Rising	347	message	message	linguistic	_		End=497.852
+348-0	SPK1132	undefined	348	没有	没有	linguistic	_		Begin=498.328
+348-1	SPK1132	undefined	348	？	？	linguistic	_		End=498.885
+349-0	SPK1132	undefined	349	给你发了呀	给你发了呀	linguistic	_		Begin=498.885
+349-1	SPK1132	undefined	349	？	？	linguistic	_		End=499.402
+350-0	SPK1132	undefined	350	个人发了	个人发了	linguistic	_		Begin=499.402
+350-1	SPK1132	undefined	350	。	。	linguistic	_		End=500.322
+351-0	SPK1133	Interrupted	351	Ж-	Ж	linguistic	_	Interrupted=Yes	Begin=501.489|End=502.221
+352-0	SPK1133	Falling	352	Жоқ	Жоқ	linguistic	_		Begin=502.221
+352-1	SPK1133	Falling	352	қой	қой	linguistic	_		End=502.872
+353-0	SPK1132	Falling	353	发了呀	发了呀	linguistic	_		Begin=507.932|End=508.724
+354-0	SPK1133	Rising	354	没有来	没有来	linguistic	_		Begin=508.954|End=509.926
+355-0	SPK1132	Continuing	355	没有	没有	linguistic	_		Begin=511.630|End=512.033
+356-0	SPK1132	undefined	356	网是不是有点不太对劲	网是不是有点不太对劲	linguistic	_		Begin=512.033
+356-1	SPK1132	undefined	356	？	？	linguistic	_		End=513.087
+357-0	SPK1132	Falling	357	我的也连不上网	我的也连不上网	linguistic	_		Begin=513.087|End=514.107
+358-0	SPK1132	Falling	358	等一下	等一下	linguistic	_		Begin=514.456|End=515.100
+359-0	SPK1133	Falling	359	Сол	Сол	linguistic	_		Begin=515.979
+359-1	SPK1133	Falling	359	Air	Air	linguistic	_		
+359-2	SPK1133	Falling	359	drop-пен	drop-пен	linguistic	_		
+359-3	SPK1133	Falling	359	жібере	жібере	linguistic	_		
+359-4	SPK1133	Falling	359	салшы	салшы	linguistic	_		End=518.422
+360-0	SPK1132	Falling	360	Қазір	Қазір	linguistic	_		Begin=518.127|End=518.778
+361-0	SPK1133	undefined	361	##	##	unknown	_		Begin=518.718|End=519.919
+362-0	SPK1132	undefined	362	我先把那个啥	我先把那个啥	linguistic	_		Begin=518.785|End=519.684
+363-0	SPK1132	Falling	363	іздеп	іздеп	linguistic	_		Begin=519.684
+363-1	SPK1132	Falling	363	алайыншы	алайыншы	linguistic	_		
+363-2	SPK1132	Falling	363	ана	ана	linguistic	_		End=520.778
+364-0	SPK1132	undefined	364	(H)	(H)	_	_		Begin=521.382|End=522.060
+365-0	SPK1132	Falling	365	Қазір	Қазір	linguistic	_		Begin=522.067|End=522.744
+366-0	SPK1133	undefined	366	What	What	linguistic	_		Begin=522.953
+366-1	SPK1133	undefined	366	do	do	linguistic	_		
+366-2	SPK1133	undefined	366	you	you	linguistic	_		
+366-3	SPK1133	undefined	366	need	need	linguistic	_		
+366-4	SPK1133	undefined	366	？	？	linguistic	_		End=523.906
+367-0	SPK1132	Falling	367	你还给我发了一堆聊天记录	你还给我发了一堆聊天记录	linguistic	_		Begin=524.396
+367-1	SPK1132	Falling	367	ғой	ғой	linguistic	_		End=526.302
+368-0	SPK1132	Falling	368	照片	照片	linguistic	_		Begin=527.187|End=528.000
+369-0	SPK1133	Rising	369	Қандай	Қандай	linguistic	_		Begin=527.228|End=528.220
+370-0	SPK1132	Falling	370	小红书的一些截图	小红书的一些截图	linguistic	_		Begin=528.738|End=529.946
+371-0	SPK1133	Rising	371	Иә	Иә	linguistic	_		Begin=530.530
+371-1	SPK1133	Rising	371	соның	соның	linguistic	_		
+371-2	SPK1133	Rising	371	ішінен	ішінен	linguistic	_		
+371-3	SPK1133	Rising	371	жаңағы	жаңағы	linguistic	_		End=531.879
+372-0	SPK1133	Rising	372	ананың	ананың	linguistic	_		Begin=532.798
+372-1	SPK1133	Rising	372	ішінен	ішінен	linguistic	_		
+372-2	SPK1133	Rising	372	бар	бар	linguistic	_		
+372-3	SPK1133	Rising	372	ғой	ғой	linguistic	_		End=533.993
+373-0	SPK1132	Falling	373	这样快点	这样快点	linguistic	_		Begin=534.402|End=535.033
+374-0	SPK1132	Falling	374	你给我那样聊天就直接存下来了#	你给我那样聊天就直接存下来了#	linguistic	_		Begin=535.033|End=537.416
+375-0	SPK1132	Rising	375	Ау	Ау	linguistic	_		Begin=538.745
+375-1	SPK1132	Rising	375	қазір	қазір	linguistic	_		
+375-2	SPK1132	Rising	375	иә	иә	linguistic	_		End=539.859
+376-0	SPK1133	undefined	376	##	##	unknown	_		Begin=540.328|End=541.127
+377-0	SPK1132	Falling	377	我这是都五月二十多号	我这是都五月二十多号	linguistic	_		Begin=540.704|End=542.530
+378-0	SPK1133	Rising	378	Сосын	Сосын	linguistic	_		Begin=542.617|End=543.526
+379-0	SPK1132	undefined	379	现在	现在	linguistic	_		Begin=543.932|End=544.691
+380-0	SPK1133	Rising	380	Қалай	Қалай	linguistic	_		Begin=544.020
+380-1	SPK1133	Rising	380	түсінбедім	түсінбедім	linguistic	_		
+380-2	SPK1133	Rising	380	неге	неге	linguistic	_		
+380-3	SPK1133	Rising	380	былай	былай	linguistic	_		
+380-4	SPK1133	Rising	380	істей	істей	linguistic	_		
+380-5	SPK1133	Rising	380	салмайсың	салмайсың	linguistic	_		End=546.557
+381-0	SPK1132	undefined	381	(H)	(H)	_	_		Begin=554.369|End=555.140
+382-0	SPK1133	Falling	382	Міне	Міне	linguistic	_		Begin=555.912
+382-1	SPK1133	Falling	382	тұр	тұр	linguistic	_		
+382-2	SPK1133	Falling	382	ғой	ғой	linguistic	_		End=556.931
+383-0	SPK1132	Falling	383	奥奥奥奥	奥奥奥奥	linguistic	_		Begin=555.919|End=557.080
+384-0	SPK1132	Falling	384	不是很远	不是很远	linguistic	_		Begin=557.489
+384-1	SPK1132	Falling	384	екен	екен	linguistic	_		End=558.382
+385-0	SPK1132	Falling	385	你直接选择	你直接选择	linguistic	_		Begin=558.543
+385-1	SPK1132	Falling	385	-ны	-ны	linguistic	_		
+385-2	SPK1132	Falling	385	баса	баса	linguistic	_		
+385-3	SPK1132	Falling	385	сал	сал	linguistic	_		End=559.993
+386-0	SPK1132	Falling	386	奥	奥	linguistic	_		Begin=563.543
+386-1	SPK1132	Falling	386	@	@	linguistic	_		End=564.516
+387-0	SPK1132	undefined	387	##	##	unknown	_		Begin=564.785|End=566.268
+388-0	SPK1133	undefined	388	Хын	Хын	linguistic	_		Begin=566.604|End=567.166
+389-0	SPK1133	undefined	389	CLICK	CLICK	paraverbal	_		Begin=567.166|End=567.819
+390-0	SPK1133	Falling	390	给我磕两个头	给我磕两个头	linguistic	_		Begin=569.241
+390-1	SPK1133	Falling	390	десең	десең	linguistic	_		
+390-2	SPK1133	Falling	390	иә	иә	linguistic	_		
+390-3	SPK1133	Falling	390	@@@@	@@@@	linguistic	_		End=572.261
+391-0	SPK1133	undefined	391	#	#	unknown	_		Begin=572.463|End=573.228
+392-0	SPK1132	Falling	392	这个存不下吗	这个存不下吗	linguistic	_		Begin=573.342|End=574.610
+393-0	SPK1133	Rising	393	是不是厉害	是不是厉害	linguistic	_		Begin=575.241|End=576.575
+394-0	SPK1133	Rising	394	М	М	linguistic	_		Begin=577.053|End=577.476
+395-0	SPK1132	Falling	395	牛逼	牛逼	linguistic	_		Begin=577.959|End=578.609
+396-0	SPK1133	undefined	396	Ай	Ай	linguistic	_		Begin=580.872
+396-1	SPK1133	undefined	396	бірақ	бірақ	linguistic	_		
+396-2	SPK1133	undefined	396	та	та	linguistic	_		
+396-3	SPK1133	undefined	396	неге	неге	linguistic	_		End=582.396
+397-0	SPK1133	undefined	397	ммм	ммм	linguistic	_		Begin=582.859|End=583.534
+398-0	SPK1132	undefined	398	мм	мм	linguistic	_		Begin=585.483|End=586.060
+399-0	SPK1133	undefined	399	就我	就我	linguistic	_		Begin=586.805|End=587.335
+400-0	SPK1133	undefined	400	想搭出一身这样的但是	想搭出一身这样的但是	linguistic	_		Begin=587.335|End=589.355
+401-0	SPK1133	Falling	401	感觉搭不出来撒	感觉搭不出来撒	linguistic	_		Begin=589.765|End=590.872
+402-0	SPK1132	Falling	402	去Zara看一下吧明天	去Zara看一下吧明天	linguistic	_		Begin=591.087|End=592.738
+403-0	SPK1133	Falling	403	Жарайды	Жарайды	linguistic	_		Begin=592.530|End=593.315
+404-0	SPK1133	undefined	404	Мыналарды	Мыналарды	linguistic	_		Begin=596.328|End=597.127
+405-0	SPK1133	undefined	405	I	I	linguistic	_		Begin=597.543
+405-1	SPK1133	undefined	405	think	think	linguistic	_		
+405-2	SPK1133	undefined	405	it's	it's	linguistic	_		
+405-3	SPK1133	undefined	405	possible	possible	linguistic	_		End=598.852
+406-0	SPK1133	undefined	406	to	to	linguistic	_		Begin=598.852|End=599.442
+407-0	SPK1133	Rising	407	қайталауға	қайталауға	linguistic	_		Begin=600.738|End=601.637
+408-0	SPK1133	Rising	408	Қалай	Қалай	linguistic	_		Begin=603.926
+408-1	SPK1133	Rising	408	ойлайсың	ойлайсың	linguistic	_		End=604.604
+409-0	SPK1132	Falling	409	Ым	Ым	linguistic	_		Begin=604.677|End=605.342
+410-0	SPK1133	undefined	410	Мынаны	Мынаны	linguistic	_		Begin=605.523|End=606.047
+411-0	SPK1133	undefined	411	мынаны	мынаны	linguistic	_		Begin=606.288|End=606.879
+412-0	SPK1133	undefined	412	мынау	мынау	linguistic	_		Begin=607.033
+412-1	SPK1133	undefined	412	қалай	қалай	linguistic	_		
+412-2	SPK1133	undefined	412	түсірілген	түсірілген	linguistic	_		End=608.060
+413-0	SPK1133	Rising	413	сонда	сонда	linguistic	_		Begin=608.060|End=608.644
+414-0	SPK1132	Rising	414	Үш	Үш	linguistic	_		Begin=609.469
+414-1	SPK1132	Rising	414	адам	адам	linguistic	_		
+414-2	SPK1132	Rising	414	түсіріліп	түсіріліп	linguistic	_		
+414-3	SPK1132	Rising	414	тұр	тұр	linguistic	_		
+414-4	SPK1132	Rising	414	ғой	ғой	linguistic	_		End=610.684
+415-0	SPK1133	Rising	415	Деп	Деп	linguistic	_		Begin=611.751
+415-1	SPK1133	Rising	415	ойласың	ойласың	linguistic	_		
+415-2	SPK1133	Rising	415	ба	ба	linguistic	_		End=612.489
+416-0	SPK1132	Rising	416	Иә	Иә	linguistic	_		Begin=612.503|End=613.087
+417-0	SPK1133	undefined	417	I	I	linguistic	_		Begin=617.284
+417-1	SPK1133	undefined	417	think	think	linguistic	_		
+417-2	SPK1133	undefined	417	мынау	мынау	linguistic	_		
+417-3	SPK1133	undefined	417	әдемі	әдемі	linguistic	_		
+417-4	SPK1133	undefined	417	маған	маған	linguistic	_		End=618.644
+418-0	SPK1133	Falling	418	мынау	мынау	linguistic	_		Begin=618.644
+418-1	SPK1133	Falling	418	ұнайды	ұнайды	linguistic	_		End=619.530
+419-0	SPK1133	undefined	419	Ай	Ай	linguistic	_		Begin=621.187|End=621.637
+420-0	SPK1133	undefined	420	неге	неге	linguistic	_		Begin=621.637
+420-1	SPK1133	undefined	420	менің	менің	linguistic	_		
+420-2	SPK1133	undefined	420	телефонымнан	телефонымнан	linguistic	_		End=623.107
+421-0	SPK1133	undefined	421	Air	Air	linguistic	_		Begin=623.107
+421-1	SPK1133	undefined	421	drop-қылып	drop-қылып	linguistic	_		End=623.932
+422-0	SPK1133	Rising	422	жібере	жібере	linguistic	_		Begin=623.932
+422-1	SPK1133	Rising	422	салмаймыз	салмаймыз	linguistic	_		End=625.214
+423-0	SPK1132	Rising	423	你有吗	你有吗	linguistic	_		Begin=627.026|End=627.885
+424-0	SPK1133	undefined	424	@@	@@	linguistic	_		Begin=627.134|End=627.778
+425-0	SPK1133	Rising	425	А	А	linguistic	_		Begin=628.000|End=628.456
+426-0	SPK1132	Rising	426	你有吗	你有吗	linguistic	_		Begin=628.489|End=629.261
+427-0	SPK1133	undefined	427	Иә	Иә	linguistic	_		Begin=629.349
+427-1	SPK1133	undefined	427	мен	мен	linguistic	_		End=630.020
+428-0	SPK1133	undefined	428	CREAKY	CREAKY	paraverbal	_		Begin=630.221
+428-1	SPK1133	undefined	428	ыыы	ыыы	linguistic	_		
+428-2	SPK1133	undefined	428	өшіріп	өшіріп	linguistic	_		
+428-3	SPK1133	undefined	428	тастаған	тастаған	linguistic	_		
+428-4	SPK1133	undefined	428	жоқпын	жоқпын	linguistic	_		End=631.570
+429-0	SPK1133	Falling	429	міне	міне	linguistic	_		Begin=631.570|End=632.214
+430-0	SPK1133	Falling	430	Лайк	Лайк	linguistic	_		Begin=632.214
+430-1	SPK1133	Falling	430	басып	басып	linguistic	_		
+430-2	SPK1133	Falling	430	қойыппын	қойыппын	linguistic	_		End=633.489
+431-0	SPK1132	Continuing	431	Аа	Аа	linguistic	_		Begin=633.422|End=633.966
+432-0	SPK1132	undefined	432	(H)	(H)	_	_		Begin=635.302|End=636.818
+433-0	SPK1132	Rising	433	咋回事	咋回事	linguistic	_		Begin=636.818|End=637.302
+434-0	SPK1132	Rising	434	咋没信号了直接这个房子	咋没信号了直接这个房子	linguistic	_		Begin=637.302|End=639.140
+435-0	SPK1133	undefined	435	Air	Air	linguistic	_		Begin=644.234
+435-1	SPK1133	undefined	435	drop	drop	linguistic	_		End=645.308
+436-0	SPK1133	undefined	436	add	add	linguistic	_		Begin=648.203|End=648.677
+437-0	SPK1133	Rising	437	contact	contact	linguistic	_		Begin=648.751
+437-1	SPK1133	Rising	437	е	е	linguistic	_		End=650.013
+438-0	SPK1133	Falling	438	Сосын	Сосын	linguistic	_		Begin=654.765
+438-1	SPK1133	Falling	438	look	look	linguistic	_		
+438-2	SPK1133	Falling	438	-тарды	-тарды	linguistic	_		
+438-3	SPK1133	Falling	438	маған	маған	linguistic	_		
+438-4	SPK1133	Falling	438	тоже	тоже	linguistic	_		
+438-5	SPK1133	Falling	438	жібере	жібере	linguistic	_		
+438-6	SPK1133	Falling	438	салшы	салшы	linguistic	_		End=657.053
+439-0	SPK1132	Rising	439	Осылай	Осылай	linguistic	_		Begin=656.973
+439-1	SPK1132	Rising	439	ма	ма	linguistic	_		End=657.900
+440-0	SPK1133	Falling	440	Мхм	Мхм	linguistic	_		Begin=657.932|End=658.530
+441-0	SPK1133	undefined	441	Тез	Тез	linguistic	_		Begin=659.033
+441-1	SPK1133	undefined	441	да	да	linguistic	_		End=659.597
+442-0	SPK1133	undefined	442	былай	былай	linguistic	_		Begin=659.597|End=660.094
+443-0	SPK1133	Falling	443	істеген	істеген	linguistic	_		Begin=660.094|End=660.792
+444-0	SPK1133	Falling	444	Меніңше	Меніңше	linguistic	_		Begin=661.114
+444-1	SPK1133	Falling	444	енді	енді	linguistic	_		End=662.234
+445-0	SPK1133	Rising	445	What	What	linguistic	_		Begin=663.523
+445-1	SPK1133	Rising	445	do	do	linguistic	_		
+445-2	SPK1133	Rising	445	you	you	linguistic	_		
+445-3	SPK1133	Rising	445	think	think	linguistic	_		End=664.617
+446-0	SPK1133	Falling	446	Интернет	Интернет	linguistic	_		Begin=665.241
+446-1	SPK1133	Falling	446	дұрыс	дұрыс	linguistic	_		
+446-2	SPK1133	Falling	446	істемей	істемей	linguistic	_		
+446-3	SPK1133	Falling	446	жатыр	жатыр	linguistic	_		End=666.463
+447-0	SPK1133	undefined	447	#	#	unknown	_		Begin=667.959|End=668.476
+448-0	SPK1133	undefined	448	(H)	(H)	_	_		Begin=668.745|End=669.268
+449-0	SPK1133	undefined	449	Біз	Біз	linguistic	_		Begin=669.268|End=670.048
+450-0	SPK1133	undefined	450	ыы	ыы	linguistic	_		Begin=670.048|End=670.583
+451-0	SPK1133	undefined	451	нені	нені	linguistic	_		Begin=670.583|End=671.355
+452-0	SPK1133	undefined	452	ана	ана	linguistic	_		Begin=671.355|End=671.959
+453-0	SPK1133	undefined	453	костюммен	костюммен	linguistic	_		Begin=672.409
+453-1	SPK1133	undefined	453	кигенді	кигенді	linguistic	_		End=673.516
+454-0	SPK1133	Rising	454	түсірдік	түсірдік	linguistic	_		Begin=673.516
+454-1	SPK1133	Rising	454	па	па	linguistic	_		End=674.469
+455-0	SPK1132	undefined	455	Түсірдік	Түсірдік	linguistic	_		Begin=674.939|End=675.852
+456-0	SPK1133	Falling	456	Ok	Ok	linguistic	_		Begin=677.281
+456-1	SPK1133	Falling	456	then	then	linguistic	_		End=678.278
+457-0	SPK1133	undefined	457	(H)	(H)	_	_		Begin=678.637|End=680.228
+458-0	SPK1133	undefined	458	ыы	ыы	linguistic	_		Begin=681.550|End=682.161
+459-0	SPK1133	undefined	459	first	first	linguistic	_		Begin=682.161
+459-1	SPK1133	undefined	459	look	look	linguistic	_		End=682.932
+460-0	SPK1133	undefined	460	деп	деп	linguistic	_		Begin=682.932|End=683.382
+461-0	SPK1133	Rising	461	жазайын	жазайын	linguistic	_		Begin=683.382
+461-1	SPK1133	Rising	461	ба	ба	linguistic	_		End=684.087
+462-0	SPK1132	Falling	462	#	#	unknown	_		Begin=684.724
+462-1	SPK1132	Falling	462	from	from	linguistic	_		
+462-2	SPK1132	Falling	462	look	look	linguistic	_		
+462-3	SPK1132	Falling	462	two	two	linguistic	_		End=686.000
+463-0	SPK1132	Rising	463	还开着呢吗	还开着呢吗	linguistic	_		Begin=688.369|End=689.497
+464-0	SPK1133	Continuing	464	Иә	Иә	linguistic	_		Begin=690.503|End=691.181
+465-0	SPK1133	undefined	465	it's	it's	linguistic	_		Begin=691.234
+465-1	SPK1133	undefined	465	open	open	linguistic	_		End=692.094
+466-0	SPK1133	Rising	466	қайтадан	қайтадан	linguistic	_		Begin=693.892
+466-1	SPK1133	Rising	466	ашайын	ашайын	linguistic	_		
+466-2	SPK1133	Rising	466	ба	ба	linguistic	_		End=694.785
+467-0	SPK1132	Falling	467	Мхм	Мхм	linguistic	_		Begin=695.224|End=695.823
+468-0	SPK1132	undefined	468	##	##	unknown	_		Begin=698.671|End=699.651
+469-0	SPK1133	Falling	469	CLICK	CLICK	paraverbal	_		Begin=701.879
+469-1	SPK1133	Falling	469	ой	ой	linguistic	_		
+469-2	SPK1133	Falling	469	омен	омен	linguistic	_		
+469-3	SPK1133	Falling	469	байланысты	байланысты	linguistic	_		
+469-4	SPK1133	Falling	469	емес	емес	linguistic	_		End=703.657
+470-0	SPK1133	undefined	470	Сен	Сен	linguistic	_		Begin=710.443
+470-1	SPK1133	undefined	470	телефоныңның	телефоныңның	linguistic	_		End=711.349
+471-0	SPK1133	Falling	471	мәселесі	мәселесі	linguistic	_		Begin=711.355
+471-1	SPK1133	Falling	471	емес	емес	linguistic	_		
+471-2	SPK1133	Falling	471	па	па	linguistic	_		
+471-3	SPK1133	Falling	471	өзі	өзі	linguistic	_		End=712.812
+472-0	SPK1132	undefined	472	¬Ранна	Ранна	linguistic	_	Anonymized=Yes	Begin=717.778
+472-1	SPK1132	undefined	472	дегенді	дегенді	linguistic	_		End=718.429
+473-0	SPK1132	Falling	473	басқанмын	басқанмын	linguistic	_		Begin=718.483|End=719.255
+474-0	SPK1133	Falling	474	Уааа	Уааа	linguistic	_		Begin=721.100|End=722.127
+475-0	SPK1133	Falling	475	Мынау	Мынау	linguistic	_		Begin=723.664
+475-1	SPK1133	Falling	475	осы	осы	linguistic	_		
+475-2	SPK1133	Falling	475	сияқты	сияқты	linguistic	_		End=724.664
+476-0	SPK1133	undefined	476	@@@@	@@@@	linguistic	_		Begin=728.536|End=730.315
+477-0	SPK1132	undefined	477	@@@@	@@@@	linguistic	_		Begin=729.355|End=731.114
+478-0	SPK1133	Rising	478	Не	Не	linguistic	_		Begin=730.637
+478-1	SPK1133	Rising	478	болды	болды	linguistic	_		End=731.684
+479-0	SPK1133	undefined	479	Енді	Енді	linguistic	_		Begin=731.684
+479-1	SPK1133	undefined	479	жазған	жазған	linguistic	_		
+479-2	SPK1133	undefined	479	соң	соң	linguistic	_		End=732.832
+480-0	SPK1133	Falling	480	әдемірек	әдемірек	linguistic	_		Begin=732.832
+480-1	SPK1133	Falling	480	жазайық	жазайық	linguistic	_		
+480-2	SPK1133	Falling	480	та	та	linguistic	_		End=734.127
+481-0	SPK1133	undefined	481	It's	It's	linguistic	_		Begin=734.127|End=734.772
+482-0	SPK1133	undefined	482	(H)	(H)	_	_		Begin=735.147|End=736.604
+483-0	SPK1132	undefined	483	Оны	Оны	linguistic	_		Begin=739.630
+483-1	SPK1132	undefined	483	мен	мен	linguistic	_		End=740.449
+484-0	SPK1132	undefined	484	COUGH	COUGH	paraverbal	_		Begin=740.449|End=740.946
+485-0	SPK1132	Falling	485	пока	пока	linguistic	_		Begin=740.946
+485-1	SPK1132	Falling	485	充电	充电	linguistic	_		
+485-2	SPK1132	Falling	485	қыла	қыла	linguistic	_		
+485-3	SPK1132	Falling	485	тұршы	тұршы	linguistic	_		End=742.536
+486-0	SPK1133	Rising	486	А	А	linguistic	_		Begin=742.771|End=743.288
+487-0	SPK1132	undefined	487	充	充	linguistic	_		Begin=743.297|End=743.302
+488-0	SPK1132	Falling	488	充电	充电	linguistic	_		Begin=743.302
+488-1	SPK1132	Falling	488	қыла	қыла	linguistic	_		
+488-2	SPK1132	Falling	488	тұршы	тұршы	linguistic	_		End=744.228
+489-0	SPK1133	Rising	489	没有用	没有用	linguistic	_		Begin=745.570
+489-1	SPK1133	Rising	489	дейсің	дейсің	linguistic	_		
+489-2	SPK1133	Rising	489	ба	ба	linguistic	_		End=746.953
+490-0	SPK1133	undefined	490	Бірақ	Бірақ	linguistic	_		Begin=746.959
+490-1	SPK1133	undefined	490	та	та	linguistic	_		
+490-2	SPK1133	undefined	490	2ГИС-пен	2ГИС-пен	linguistic	_		End=747.885
+491-0	SPK1133	Falling	491	не	не	linguistic	_		Begin=747.885
+491-1	SPK1133	Falling	491	қыламыз	қыламыз	linguistic	_		
+491-2	SPK1133	Falling	491	ба	ба	linguistic	_		
+491-3	SPK1133	Falling	491	деп	деп	linguistic	_		
+491-4	SPK1133	Falling	491	ойлағанмын	ойлағанмын	linguistic	_		End=749.536
+492-0	SPK1132	Falling	492	Яндекспен	Яндекспен	linguistic	_		Begin=748.825|End=749.523
+493-0	SPK1132	Rising	493	Қазірше	Қазірше	linguistic	_		Begin=749.523
+493-1	SPK1132	Rising	493	емес	емес	linguistic	_		
+493-2	SPK1132	Rising	493	қой	қой	linguistic	_		End=750.758
+494-0	SPK1132	undefined	494	先把那个##	先把那个##	linguistic	_		Begin=750.758|End=752.637
+495-0	SPK1133	undefined	495	Мен	Мен	linguistic	_		Begin=751.087|End=751.738
+496-0	SPK1133	undefined	496	бірақ	бірақ	linguistic	_		Begin=751.738
+496-1	SPK1133	undefined	496	менікімен	менікімен	linguistic	_		End=752.557
+497-0	SPK1133	undefined	497	о	о	linguistic	_		Begin=752.557
+497-1	SPK1133	undefined	497	пысмылла	пысмылла	linguistic	_		End=753.322
+498-0	SPK1133	undefined	498	CREAKY	CREAKY	paraverbal	_		Begin=753.892
+498-1	SPK1133	undefined	498	ыыы	ыыы	linguistic	_		End=754.349
+499-0	SPK1133	undefined	499	look	look	linguistic	_		Begin=755.302|End=756.456
+500-0	SPK1133	undefined	500	one	one	linguistic	_		Begin=757.288|End=757.959
+501-0	SPK1132	Falling	501	Мхм	Мхм	linguistic	_		Begin=758.349|End=759.073
+502-0	SPK1133	Rising	502	Қайсыны	Қайсыны	linguistic	_		Begin=762.409
+502-1	SPK1133	Rising	502	алдымен	алдымен	linguistic	_		
+502-2	SPK1133	Rising	502	қосайық	қосайық	linguistic	_		End=763.785
+503-0	SPK1133	undefined	503	Костюм	Костюм	linguistic	_		Begin=764.241
+503-1	SPK1133	undefined	503	I	I	linguistic	_		
+503-2	SPK1133	undefined	503	think	think	linguistic	_		
+503-3	SPK1133	undefined	503	it's	it's	linguistic	_		End=765.234
+504-0	SPK1133	undefined	504	most	most	linguistic	_		Begin=765.234
+504-1	SPK1133	undefined	504	easiest	easiest	linguistic	_		
+504-2	SPK1133	undefined	504	one	one	linguistic	_		
+504-3	SPK1133	undefined	504	to	to	linguistic	_		End=767.094
+505-0	SPK1133	Falling	505	do	do	linguistic	_		Begin=767.503|End=768.066
+506-0	SPK1132	Falling	506	Мхм	Мхм	linguistic	_		Begin=768.067|End=768.610
+507-0	SPK1133	undefined	507	@@	@@	linguistic	_		Begin=770.191|End=770.926
+508-0	SPK1133	Falling	508	Байпақ	Байпақ	linguistic	_		Begin=772.026
+508-1	SPK1133	Falling	508	киіп	киіп	linguistic	_		
+508-2	SPK1133	Falling	508	отырмын	отырмын	linguistic	_		End=773.214
+509-0	SPK1133	undefined	509	(H)	(H)	_	_		Begin=775.382|End=775.879
+510-0	SPK1133	Rising	510	А	А	linguistic	_		Begin=775.879
+510-1	SPK1133	Rising	510	былай	былай	linguistic	_		
+510-2	SPK1133	Rising	510	істеуге	істеуге	linguistic	_		
+510-3	SPK1133	Rising	510	бола	бола	linguistic	_		
+510-4	SPK1133	Rising	510	ма	ма	linguistic	_		End=777.617
+511-0	SPK1132	undefined	511	Жоқ	Жоқ	linguistic	_		Begin=777.832|End=778.275
+512-0	SPK1132	undefined	512	你没更新吧	你没更新吧	linguistic	_		Begin=778.275|End=779.351
+513-0	SPK1133	undefined	513	这个iPad不行吗	这个iPad不行吗	linguistic	_		Begin=779.979
+513-1	SPK1133	undefined	513	？	？	linguistic	_		End=781.322
+514-0	SPK1132	Falling	514	你试一下嘛	你试一下嘛	linguistic	_		Begin=781.221|End=782.120
+515-0	SPK1133	undefined	515	(H)	(H)	_	_		Begin=782.953|End=783.570
+516-0	SPK1133	Rising	516	It's	It's	linguistic	_		Begin=783.570
+516-1	SPK1133	Rising	516	possible	possible	linguistic	_		End=785.120
+517-0	SPK1133	Falling	517	Let's	Let's	linguistic	_		Begin=785.120
+517-1	SPK1133	Falling	517	do	do	linguistic	_		
+517-2	SPK1133	Falling	517	this	this	linguistic	_		End=786.295
+518-0	SPK1133	undefined	518	Ы	Ы	linguistic	_		Begin=792.570|End=792.865
+519-0	SPK1133	undefined	519	ой	ой	linguistic	_		Begin=792.872|End=793.463
+520-0	SPK1133	Rising	520	ей	ей	linguistic	_		Begin=796.798|End=797.342
+521-0	SPK1132	undefined	521	试一下	试一下	linguistic	_		Begin=803.094
+521-1	SPK1132	undefined	521	？	？	linguistic	_		End=804.000
+522-0	SPK1133	undefined	522	CLICK	CLICK	paraverbal	_		Begin=803.597|End=803.865
+523-0	SPK1133	undefined	523	Ау	Ау	linguistic	_		Begin=806.852
+523-1	SPK1133	undefined	523	copy	copy	linguistic	_		End=807.698
+524-0	SPK1133	undefined	524	yep	yep	linguistic	_		Begin=813.191|End=813.657
+525-0	SPK1133	Falling	525	长按	长按	linguistic	_		Begin=813.677
+525-1	SPK1133	Falling	525	может	может	linguistic	_		End=815.107
+526-0	SPK1132	Falling	526	Үйй	Үйй	linguistic	_		Begin=818.993|End=819.919
+527-0	SPK1133	Falling	527	А	А	linguistic	_		Begin=825.684|End=826.362
+528-0	SPK1132	Falling	528	Вот	Вот	linguistic	_		Begin=825.785|End=826.349
+529-0	SPK1133	Falling	529	Уааааа	Уааааа	linguistic	_		Begin=826.979|End=828.771
+530-0	SPK1132	Falling	530	Немен	Немен	linguistic	_		Begin=829.698
+530-1	SPK1132	Falling	530	涂	涂	linguistic	_		
+530-2	SPK1132	Falling	530	қыла	қыла	linguistic	_		
+530-3	SPK1132	Falling	530	салшы	салшы	linguistic	_		End=830.873
+531-0	SPK1133	Rising	531	Немен	Немен	linguistic	_		Begin=830.859|End=831.557
+532-0	SPK1132	undefined	532	##	##	unknown	_		Begin=831.503|End=832.390
+533-0	SPK1133	undefined	533	@@@@	@@@@	linguistic	_		Begin=832.979|End=834.429
+534-0	SPK1133	undefined	534	Мен	Мен	linguistic	_		Begin=834.429
+534-1	SPK1133	undefined	534	де	де	linguistic	_		
+534-2	SPK1133	undefined	534	байпақ	байпақ	linguistic	_		
+534-3	SPK1133	undefined	534	киіп	киіп	linguistic	_		
+534-4	SPK1133	undefined	534	отырмын	отырмын	linguistic	_		
+534-5	SPK1133	undefined	534	@@@@@	@@@@@	linguistic	_		End=838.140
+535-0	SPK1132	undefined	535	##	##	unknown	_		Begin=835.583|End=836.912
+536-0	SPK1133	Falling	536	Oh	Oh	linguistic	_		Begin=838.140
+536-1	SPK1133	Falling	536	my	my	linguistic	_		
+536-2	SPK1133	Falling	536	god	god	linguistic	_		
+536-3	SPK1133	Falling	536	this	this	linguistic	_		
+536-4	SPK1133	Falling	536	looks	looks	linguistic	_		
+536-5	SPK1133	Falling	536	so	so	linguistic	_		
+536-6	SPK1133	Falling	536	rediculous	rediculous	linguistic	_		End=840.208
+537-0	SPK1133	undefined	537	(H)	(H)	_	_		Begin=840.208
+537-1	SPK1133	undefined	537	мммм	мммм	linguistic	_		End=841.456
+538-0	SPK1133	Rising	538	Не	Не	linguistic	_		Begin=841.899
+538-1	SPK1133	Rising	538	деп	деп	linguistic	_		
+538-2	SPK1133	Rising	538	жазамыз	жазамыз	linguistic	_		End=842.859
+539-0	SPK1133	undefined	539	CLICK	CLICK	paraverbal	_		Begin=843.698|End=844.328
+540-0	SPK1133	undefined	540	Ыыыыы	Ыыыыы	linguistic	_		Begin=844.845|End=845.590
+541-0	SPK1133	Rising	541	Inspiration	Inspiration	linguistic	_		Begin=845.604
+541-1	SPK1133	Rising	541	дейміз	дейміз	linguistic	_		
+541-2	SPK1133	Rising	541	ба	ба	linguistic	_		End=847.409
+542-0	SPK1132	Falling	542	Ын	Ын	linguistic	_		Begin=847.885|End=848.449
+543-0	SPK1132	undefined	543	Жоқ	Жоқ	linguistic	_		Begin=850.765
+543-1	SPK1132	undefined	543	preference	preference	linguistic	_		End=851.583
+544-0	SPK1132	Falling	544	ыыы	ыыы	linguistic	_		Begin=851.583
+544-1	SPK1132	Falling	544	reference	reference	linguistic	_		
+544-2	SPK1132	Falling	544	десең	десең	linguistic	_		
+544-3	SPK1132	Falling	544	де	де	linguistic	_		
+544-4	SPK1132	Falling	544	болады	болады	linguistic	_		End=852.906
+545-0	SPK1133	Falling	545	reference	reference	linguistic	_		Begin=852.912|End=853.899
+546-0	SPK1132	undefined	546	#	#	unknown	_		Begin=853.832|End=854.302
+547-0	SPK1132	undefined	547	#	#	unknown	_		Begin=854.302|End=855.006
+548-0	SPK1132	Falling	548	不要那么粗了	不要那么粗了	linguistic	_		Begin=855.006|End=856.053
+549-0	SPK1133	Falling	549	太细了	太细了	linguistic	_		Begin=857.973|End=859.234
+550-0	SPK1133	Falling	550	太细啦	太细啦	linguistic	_		Begin=860.899|End=862.107
+551-0	SPK1133	Falling	551	reference	reference	linguistic	_		Begin=866.456|End=868.370
+552-0	SPK1133	Falling	552	reference	reference	linguistic	_		Begin=873.375|End=874.416
+553-0	SPK1133	undefined	553	фото	фото	linguistic	_		Begin=874.416|End=875.872
+554-0	SPK1133	undefined	554	(H)	(H)	_	_		Begin=876.751|End=877.576
+555-0	SPK1133	undefined	555	Так	Так	linguistic	_		Begin=878.147|End=878.780
+556-0	SPK1132	undefined	556	#	#	unknown	_		Begin=878.939|End=879.604
+557-0	SPK1133	Rising	557	Сосын	Сосын	linguistic	_		Begin=879.140|End=879.875
+558-0	SPK1133	undefined	558	Осымен	Осымен	linguistic	_		Begin=880.469
+558-1	SPK1133	undefined	558	мен	мен	linguistic	_		End=881.281
+559-0	SPK1133	undefined	559	ыы	ыы	linguistic	_		Begin=881.281
+559-1	SPK1133	undefined	559	бірінші	бірінші	linguistic	_		
+559-2	SPK1133	undefined	559	түскім	түскім	linguistic	_		
+559-3	SPK1133	undefined	559	келгені	келгені	linguistic	_		End=883.134
+560-0	SPK1133	undefined	560	мынау	мынау	linguistic	_		Begin=883.134|End=883.885
+561-0	SPK1133	undefined	561	ice	ice	linguistic	_		Begin=884.214
+561-1	SPK1133	undefined	561	cream	cream	linguistic	_		End=885.064
+562-0	SPK1133	undefined	562	ice	ice	linguistic	_		Begin=886.225
+562-1	SPK1133	undefined	562	cream	cream	linguistic	_		End=886.979
+563-0	SPK1133	undefined	563	ice	ice	linguistic	_		Begin=886.979
+563-1	SPK1133	undefined	563	cream	cream	linguistic	_		End=888.268
+564-0	SPK1133	undefined	564	SINGING	SINGING	paraverbal	_		Begin=888.818|End=889.946
+565-0	SPK1133	undefined	565	this	this	linguistic	_		Begin=889.946
+565-1	SPK1133	undefined	565	one	one	linguistic	_		End=890.805
+566-0	SPK1133	Falling	566	I	I	linguistic	_		Begin=893.530
+566-1	SPK1133	Falling	566	want	want	linguistic	_		
+566-2	SPK1133	Falling	566	to	to	linguistic	_		
+566-3	SPK1133	Falling	566	do	do	linguistic	_		
+566-4	SPK1133	Falling	566	this	this	linguistic	_		End=895.026
+567-0	SPK1132	undefined	567	Ай	Ай	linguistic	_		Begin=893.704
+567-1	SPK1132	undefined	567	#	#	unknown	_		End=894.932
+568-0	SPK1132	undefined	568	我应该买一个那样子的	我应该买一个那样子的	linguistic	_		Begin=894.939|End=895.812
+569-0	SPK1132	Falling	569	衬衣	衬衣	linguistic	_		Begin=895.812|End=896.697
+570-0	SPK1132	Falling	570	Жақсырақ	Жақсырақ	linguistic	_		Begin=897.322
+570-1	SPK1132	Falling	570	шығады	шығады	linguistic	_		End=898.443
+571-0	SPK1133	undefined	571	Бірақ	Бірақ	linguistic	_		Begin=898.832
+571-1	SPK1133	undefined	571	мынау	мынау	linguistic	_		
+571-2	SPK1133	undefined	571	саған	саған	linguistic	_		
+571-3	SPK1133	undefined	571	андай	андай	linguistic	_		End=900.154
+572-0	SPK1133	undefined	572	бос	бос	linguistic	_		Begin=900.154
+572-1	SPK1133	undefined	572	болып	болып	linguistic	_		
+572-2	SPK1133	undefined	572	шығу	шығу	linguistic	_		End=901.489
+573-0	SPK1133	undefined	573	ықтималдығы	ықтималдығы	linguistic	_		Begin=901.489|End=902.476
+574-0	SPK1133	undefined	574	сәл	сәл	linguistic	_		Begin=902.476|End=903.033
+575-0	SPK1133	Falling	575	төмендеу	төмендеу	linguistic	_		Begin=903.033
+575-1	SPK1133	Falling	575	болып	болып	linguistic	_		
+575-2	SPK1133	Falling	575	тұр	тұр	linguistic	_		
+575-3	SPK1133	Falling	575	ғой	ғой	linguistic	_		End=904.557
+576-0	SPK1133	undefined	576	I'm	I'm	linguistic	_		Begin=905.637
+576-1	SPK1133	undefined	576	not	not	linguistic	_		End=906.335
+577-0	SPK1133	undefined	577	saying	saying	linguistic	_		Begin=906.335
+577-1	SPK1133	undefined	577	it	it	linguistic	_		
+577-2	SPK1133	undefined	577	in	in	linguistic	_		End=907.557
+578-0	SPK1133	undefined	578	ah	ah	linguistic	_		Begin=907.738
+578-1	SPK1133	undefined	578	ok	ok	linguistic	_		End=908.469
+579-0	SPK1133	undefined	579	it's	it's	linguistic	_		Begin=908.469
+579-1	SPK1133	undefined	579	just	just	linguistic	_		End=908.818
+580-0	SPK1133	undefined	580	same	same	linguistic	_		Begin=908.818|End=909.597
+581-0	SPK1133	undefined	581	it's	it's	linguistic	_		Begin=914.953|End=915.409
+582-0	SPK1133	Falling	582	былай	былай	linguistic	_		Begin=915.416
+582-1	SPK1133	Falling	582	тезірек	тезірек	linguistic	_		
+582-2	SPK1133	Falling	582	екен	екен	linguistic	_		End=916.765
+583-0	SPK1133	Falling	583	Ммм	Ммм	linguistic	_		Begin=918.195|End=918.852
+584-0	SPK1132	undefined	584	BURP	BURP	paraverbal	_		Begin=918.859|End=919.993
+585-0	SPK1133	undefined	585	Так	Так	linguistic	_		Begin=924.429|End=925.181
+586-0	SPK1133	undefined	586	бірақ	бірақ	linguistic	_		Begin=928.798
+586-1	SPK1133	undefined	586	та	та	linguistic	_		
+586-2	SPK1133	undefined	586	мынаумен	мынаумен	linguistic	_		End=929.664
+587-0	SPK1133	Falling	587	отырған	отырған	linguistic	_		Begin=929.664
+587-1	SPK1133	Falling	587	сәл	сәл	linguistic	_		
+587-2	SPK1133	Falling	587	ыңғайсыздау	ыңғайсыздау	linguistic	_		
+587-3	SPK1133	Falling	587	ма	ма	linguistic	_		
+587-4	SPK1133	Falling	587	екен	екен	linguistic	_		
+587-5	SPK1133	Falling	587	деп	деп	linguistic	_		
+587-6	SPK1133	Falling	587	ойладым	ойладым	linguistic	_		End=932.436
+588-0	SPK1132	Falling	588	Ааа	Ааа	linguistic	_		Begin=930.899|End=931.724
+589-0	SPK1133	undefined	589	Анауың	Анауың	linguistic	_		Begin=932.557|End=933.308
+590-0	SPK1133	undefined	590	біраз	біраз	linguistic	_		Begin=933.308|End=934.261
+591-0	SPK1133	undefined	591	(H)	(H)	_	_		Begin=934.422|End=934.959
+592-0	SPK1133	undefined	592	this	this	linguistic	_		Begin=934.959
+592-1	SPK1133	undefined	592	with	with	linguistic	_		
+592-2	SPK1133	undefined	592	ана	ана	linguistic	_		End=936.040
+593-0	SPK1133	Falling	593	көйлекпен	көйлекпен	linguistic	_		Begin=936.040|End=936.785
+594-0	SPK1133	Falling	594	Ақ	Ақ	linguistic	_		Begin=936.785
+594-1	SPK1133	Falling	594	көйлекпен	көйлекпен	linguistic	_		End=938.033
+595-0	SPK1132	Falling	595	Ым	Ым	linguistic	_		Begin=937.087|End=937.926
+596-0	SPK1133	undefined	596	SINGING	SINGING	paraverbal	_		Begin=938.308
+596-1	SPK1133	undefined	596	Ақ	Ақ	linguistic	_		
+596-2	SPK1133	undefined	596	көйлек	көйлек	linguistic	_		
+596-3	SPK1133	undefined	596	киген	киген	linguistic	_		End=939.268
+597-0	SPK1133	undefined	597	SINGING	SINGING	paraverbal	_		Begin=939.268
+597-1	SPK1133	undefined	597	көк	көк	linguistic	_		
+597-2	SPK1133	undefined	597	көйлек	көйлек	linguistic	_		
+597-3	SPK1133	undefined	597	киген	киген	linguistic	_		End=940.315
+598-0	SPK1133	Falling	598	SINGING	SINGING	paraverbal	_		Begin=941.328
+598-1	SPK1133	Falling	598	құрбыларым	құрбыларым	linguistic	_		
+598-2	SPK1133	Falling	598	бар	бар	linguistic	_		End=942.966
+599-0	SPK1133	undefined	599	(H)	(H)	_	_		Begin=943.805
+599-1	SPK1133	undefined	599	мммм	мммм	linguistic	_		End=945.485
+600-0	SPK1133	undefined	600	может	может	linguistic	_		Begin=945.485|End=946.053
+601-0	SPK1133	undefined	601	неден	неден	linguistic	_		Begin=946.053|End=946.422
+602-0	SPK1133	undefined	602	Pinterest-тен	Pinterest-тен	linguistic	_		Begin=946.422
+602-1	SPK1133	undefined	602	тағы	тағы	linguistic	_		
+602-2	SPK1133	undefined	602	іздеп	іздеп	linguistic	_		
+602-3	SPK1133	undefined	602	көреміз	көреміз	linguistic	_		
+602-4	SPK1133	undefined	602	I	I	linguistic	_		
+602-5	SPK1133	undefined	602	think	think	linguistic	_		End=948.540
+603-0	SPK1133	undefined	603	қатты	қатты	linguistic	_		Begin=948.540|End=949.367
+604-0	SPK1133	undefined	604	风格	风格	linguistic	_		Begin=949.745
+604-1	SPK1133	undefined	604	-сы	-сы	linguistic	_		
+604-2	SPK1133	undefined	604	келіп	келіп	linguistic	_		
+604-3	SPK1133	undefined	604	тұрған	тұрған	linguistic	_		End=950.792
+605-0	SPK1133	undefined	605	біреуі	біреуі	linguistic	_		Begin=950.792
+605-1	SPK1133	undefined	605	жоқ	жоқ	linguistic	_		
+605-2	SPK1133	undefined	605	болып	болып	linguistic	_		End=952.174
+606-0	SPK1132	undefined	606	Ым	Ым	linguistic	_		Begin=951.221|End=952.053
+607-0	SPK1133	Falling	607	тұр	тұр	linguistic	_		Begin=952.174
+607-1	SPK1133	Falling	607	мынадан	мынадан	linguistic	_		
+607-2	SPK1133	Falling	607	басқа	басқа	linguistic	_		End=953.463
+608-0	SPK1133	undefined	608	好像韩式	好像韩式	linguistic	_		Begin=954.443
+608-1	SPK1133	undefined	608	-ырақ	-ырақ	linguistic	_		End=955.684
+609-0	SPK1133	Rising	609	болу	болу	linguistic	_		Begin=955.684
+609-1	SPK1133	Rising	609	керек	керек	linguistic	_		
+609-2	SPK1133	Rising	609	екен	екен	linguistic	_		
+609-3	SPK1133	Rising	609	иә	иә	linguistic	_		End=956.939
+610-0	SPK1132	Falling	610	Ым	Ым	linguistic	_		Begin=957.020|End=957.604
+611-0	SPK1133	undefined	611	Мммм	Мммм	linguistic	_		Begin=958.704|End=959.800
+612-0	SPK1133	Falling	612	міне	міне	linguistic	_		Begin=963.275
+612-1	SPK1133	Falling	612	мыналар	мыналар	linguistic	_		
+612-2	SPK1133	Falling	612	да	да	linguistic	_		
+612-3	SPK1133	Falling	612	болмайды	болмайды	linguistic	_		
+612-4	SPK1133	Falling	612	екен	екен	linguistic	_		End=965.107
+613-0	SPK1133	undefined	613	Ыыыы	Ыыыы	linguistic	_		Begin=965.503|End=966.281
+614-0	SPK1133	undefined	614	Pinterest	Pinterest	linguistic	_		Begin=966.281|End=967.187
+615-0	SPK1133	undefined	615	Pinterest	Pinterest	linguistic	_		Begin=967.187|End=968.425
+616-0	SPK1132	undefined	616	水没烧开呢	水没烧开呢	linguistic	_		Begin=969.241|End=970.610
+617-0	SPK1133	Rising	617	Мынау	Мынау	linguistic	_		Begin=977.677
+617-1	SPK1133	Rising	617	екі	екі	linguistic	_		
+617-2	SPK1133	Rising	617	қыз	қыз	linguistic	_		
+617-3	SPK1133	Rising	617	ба	ба	linguistic	_		End=978.798
+618-0	SPK1132	undefined	618	Ым	Ым	linguistic	_		Begin=979.183|End=979.898
+619-0	SPK1132	undefined	619	好像是T	好像是T	linguistic	_		Begin=981.630|End=982.805
+620-0	SPK1133	undefined	620	Мммм	Мммм	linguistic	_		Begin=982.953|End=983.469
+621-0	SPK1132	undefined	621	ой	ой	linguistic	_		Begin=983.402
+621-1	SPK1132	undefined	621	这个	这个	linguistic	_		End=983.805
+622-0	SPK1132	undefined	622	##	##	unknown	_		Begin=983.805|End=984.892
+623-0	SPK1133	undefined	623	(H)	(H)	_	_		Begin=986.630|End=987.120
+624-0	SPK1133	undefined	624	其实这个墨镜好土啊	其实这个墨镜好土啊	linguistic	_		Begin=987.120|End=988.443
+625-0	SPK1133	undefined	625	сонда	сонда	linguistic	_		Begin=988.443
+625-1	SPK1133	undefined	625	这个就是那样	这个就是那样	linguistic	_		End=989.664
+626-0	SPK1133	undefined	626	просто	просто	linguistic	_		Begin=989.838
+626-1	SPK1133	undefined	626	жәй	жәй	linguistic	_		End=990.557
+627-0	SPK1133	Falling	627	көшеде	көшеде	linguistic	_		Begin=990.557
+627-1	SPK1133	Falling	627	екен	екен	linguistic	_		End=991.570
+628-0	SPK1133	Falling	628	Ай	Ай	linguistic	_		Begin=991.570
+628-1	SPK1133	Falling	628	вот	вот	linguistic	_		End=992.342
+629-0	SPK1133	Falling	629	This	This	linguistic	_		Begin=992.919
+629-1	SPK1133	Falling	629	is	is	linguistic	_		
+629-2	SPK1133	Falling	629	something	something	linguistic	_		
+629-3	SPK1133	Falling	629	we	we	linguistic	_		
+629-4	SPK1133	Falling	629	can	can	linguistic	_		
+629-5	SPK1133	Falling	629	do	do	linguistic	_		End=994.657
+630-0	SPK1132	Falling	630	Мхм	Мхм	linguistic	_		Begin=993.932|End=994.684
+631-0	SPK1133	undefined	631	(H)	(H)	_	_		Begin=997.181|End=997.809
+632-0	SPK1133	Rising	632	Қане	Қане	linguistic	_		Begin=998.167|End=999.131
+633-0	SPK1133	undefined	633	save	save	linguistic	_		Begin=999.892|End=1000.536
+634-0	SPK1133	undefined	634	Мына	Мына	linguistic	_		Begin=1000.758
+634-1	SPK1133	undefined	634	жер	жер	linguistic	_		End=1001.698
+635-0	SPK1132	undefined	635	承认	承认	linguistic	_		Begin=1000.771|End=1001.187
+636-0	SPK1132	Falling	636	承认	承认	linguistic	_		Begin=1001.187|End=1001.718
+637-0	SPK1133	Rising	637	Мынау	Мынау	linguistic	_		Begin=1004.966
+637-1	SPK1133	Rising	637	ма	ма	linguistic	_		End=1005.724
+638-0	SPK1133	Falling	638	send	send	linguistic	_		Begin=1005.852
+638-1	SPK1133	Falling	638	қой	қой	linguistic	_		End=1006.832
+639-0	SPK1132	Falling	639	Емес	Емес	linguistic	_		Begin=1005.852|End=1006.597
+640-0	SPK1133	Falling	640	Мынау	Мынау	linguistic	_		Begin=1007.510
+640-1	SPK1133	Falling	640	#	#	unknown	_		
+640-2	SPK1133	Falling	640	download	download	linguistic	_		End=1009.047
+641-0	SPK1132	Falling	641	Жоқ	Жоқ	linguistic	_		Begin=1007.765
+641-1	SPK1132	Falling	641	екен	екен	linguistic	_		End=1008.798
+642-0	SPK1133	Rising	642	Мысалы	Мысалы	linguistic	_		Begin=1022.711
+642-1	SPK1133	Rising	642	иә	иә	linguistic	_		End=1023.613
+643-0	SPK1133	undefined	643	你看这个女孩	你看这个女孩	linguistic	_		Begin=1023.613|End=1024.872
+644-0	SPK1133	undefined	644	ішінде	ішінде	linguistic	_		Begin=1024.872|End=1025.704
+645-0	SPK1133	undefined	645	кигені	кигені	linguistic	_		Begin=1026.080
+645-1	SPK1133	undefined	645	біраз	біраз	linguistic	_		End=1027.443
+646-0	SPK1133	undefined	646	андай	андай	linguistic	_		Begin=1028.167|End=1028.818
+647-0	SPK1133	Falling	647	жағасы	жағасы	linguistic	_		Begin=1029.080
+647-1	SPK1133	Falling	647	төмендеу	төмендеу	linguistic	_		
+647-2	SPK1133	Falling	647	киіпті	киіпті	linguistic	_		End=1030.818
+648-0	SPK1133	undefined	648	Соған	Соған	linguistic	_		Begin=1031.174
+648-1	SPK1133	undefined	648	我在想说	我在想说	linguistic	_		End=1032.328
+649-0	SPK1133	undefined	649	是不是这样子	是不是这样子	linguistic	_		Begin=1032.328
+649-1	SPK1133	undefined	649	андай	андай	linguistic	_		End=1033.959
+650-0	SPK1133	undefined	650	吊带儿	吊带儿	linguistic	_		Begin=1034.523|End=1035.302
+651-0	SPK1133	undefined	651	андай	андай	linguistic	_		Begin=1035.402
+651-1	SPK1133	undefined	651	жейдеден	жейдеден	linguistic	_		End=1036.360
+652-0	SPK1133	undefined	652	қарағанда	қарағанда	linguistic	_		Begin=1036.360|End=1036.899
+653-0	SPK1133	undefined	653	吊带儿	吊带儿	linguistic	_		Begin=1036.899|End=1037.785
+654-0	SPK1133	undefined	654	суретке	суретке	linguistic	_		Begin=1038.335
+654-1	SPK1133	undefined	654	жақсырақ	жақсырақ	linguistic	_		End=1039.241
+655-0	SPK1133	Falling	655	шыға	шыға	linguistic	_		Begin=1039.241
+655-1	SPK1133	Falling	655	ма	ма	linguistic	_		
+655-2	SPK1133	Falling	655	екен	екен	linguistic	_		
+655-3	SPK1133	Falling	655	деп	деп	linguistic	_		
+655-4	SPK1133	Falling	655	ойлап	ойлап	linguistic	_		
+655-5	SPK1133	Falling	655	отырмын	отырмын	linguistic	_		End=1040.657
+656-0	SPK1132	Falling	656	有可能	有可能	linguistic	_		Begin=1041.651|End=1042.396
+657-0	SPK1133	Rising	657	有可能	有可能	linguistic	_		Begin=1042.892|End=1043.604
+658-0	SPK1132	Falling	658	Ым	Ым	linguistic	_		Begin=1043.583|End=1044.000
+659-0	SPK1133	undefined	659	SINGING	SINGING	paraverbal	_		Begin=1048.508|End=1049.469
+660-0	SPK1133	undefined	660	SINGING	SINGING	paraverbal	_		Begin=1049.483|End=1050.644
+661-0	SPK1133	undefined	661	SINGING	SINGING	paraverbal	_		Begin=1050.644|End=1052.825
+662-0	SPK1133	undefined	662	SINGING	SINGING	paraverbal	_		Begin=1052.825|End=1056.731
+663-0	SPK1133	undefined	663	SINGING	SINGING	paraverbal	_		Begin=1056.986|End=1060.861
+664-0	SPK1133	undefined	664	Мынаны	Мынаны	linguistic	_		Begin=1065.953|End=1066.382
+665-0	SPK1133	undefined	665	көпірде	көпірде	linguistic	_		Begin=1066.382|End=1067.396
+666-0	SPK1133	Falling	666	түсуге	түсуге	linguistic	_		Begin=1067.396
+666-1	SPK1133	Falling	666	болады	болады	linguistic	_		
+666-2	SPK1133	Falling	666	екен	екен	linguistic	_		End=1070.315
+667-0	SPK1133	undefined	667	CLICK	CLICK	paraverbal	_		Begin=1072.899|End=1073.436
+668-0	SPK1133	undefined	668	我比较希望	我比较希望	linguistic	_		Begin=1075.167|End=1077.080
+669-0	SPK1133	undefined	669	我的那个裤子是阔腿裤	我的那个裤子是阔腿裤	linguistic	_		Begin=1077.268
+669-1	SPK1133	undefined	669	етін	етін	linguistic	_		
+669-2	SPK1133	undefined	669	бірақ	бірақ	linguistic	_		
+669-3	SPK1133	undefined	669	та	та	linguistic	_		End=1080.449
+670-0	SPK1133	undefined	670	енді	енді	linguistic	_		Begin=1080.449|End=1081.114
+671-0	SPK1133	undefined	671	ладно	ладно	linguistic	_		Begin=1081.120|End=1081.664
+672-0	SPK1133	undefined	672	шықпаған	шықпаған	linguistic	_		Begin=1081.664
+672-1	SPK1133	undefined	672	соң	соң	linguistic	_		End=1082.422
+673-0	SPK1133	Falling	673	не	не	linguistic	_		Begin=1082.422
+673-1	SPK1133	Falling	673	істейміз	істейміз	linguistic	_		
+673-2	SPK1133	Falling	673	деп	деп	linguistic	_		
+673-3	SPK1133	Falling	673	па	па	linguistic	_		End=1083.281
+674-0	SPK1133	undefined	674	(H)	(H)	_	_		Begin=1083.362|End=1084.067
+675-0	SPK1132	Rising	675	杯子	杯子	linguistic	_		Begin=1084.599
+675-1	SPK1132	Rising	675	-ың	-ың	linguistic	_		
+675-2	SPK1132	Rising	675	қайда	қайда	linguistic	_		End=1085.490
+676-0	SPK1132	Falling	676	杯子	杯子	linguistic	_		Begin=1085.490
+676-1	SPK1132	Falling	676	-ың	-ың	linguistic	_		
+676-2	SPK1132	Falling	676	бере	бере	linguistic	_		
+676-3	SPK1132	Falling	676	сал	сал	linguistic	_		End=1086.449
+677-0	SPK1133	Falling	677	Рахмет	Рахмет	linguistic	_		Begin=1089.375|End=1090.617
+678-0	SPK1133	undefined	678	Мынау	Мынау	linguistic	_		Begin=1094.523
+678-1	SPK1133	undefined	678	тоже	тоже	linguistic	_		
+678-2	SPK1133	undefined	678	болып	болып	linguistic	_		
+678-3	SPK1133	undefined	678	қалады	қалады	linguistic	_		End=1095.604
+679-0	SPK1133	Falling	679	сенше	сенше	linguistic	_		Begin=1095.604
+679-1	SPK1133	Falling	679	қалай	қалай	linguistic	_		End=1096.499
+680-0	SPK1132	undefined	680	WHISPER	WHISPER	paraverbal	_		Begin=1097.516
+680-1	SPK1132	undefined	680	Қайсы	Қайсы	linguistic	_		End=1098.503
+681-0	SPK1132	undefined	681	Мхм	Мхм	linguistic	_		Begin=1099.624|End=1100.516
+682-0	SPK1133	undefined	682	I	I	linguistic	_		Begin=1100.771
+682-1	SPK1133	undefined	682	think	think	linguistic	_		
+682-2	SPK1133	undefined	682	it's	it's	linguistic	_		End=1101.463
+683-0	SPK1133	undefined	683	i	i	linguistic	_		Begin=1102.127|End=1102.551
+684-0	SPK1132	undefined	684	##	##	unknown	_		Begin=1102.637|End=1103.724
+685-0	SPK1133	undefined	685	possible	possible	linguistic	_		Begin=1103.147|End=1103.630
+686-0	SPK1133	undefined	686	to	to	linguistic	_		Begin=1103.630
+686-1	SPK1133	undefined	686	find	find	linguistic	_		End=1104.805
+687-0	SPK1133	undefined	687	CREAKY	CREAKY	paraverbal	_		Begin=1105.060
+687-1	SPK1133	undefined	687	ыыы	ыыы	linguistic	_		End=1106.040
+688-0	SPK1132	undefined	688	这样子的	这样子的	linguistic	_		Begin=1105.060|End=1105.664
+689-0	SPK1132	undefined	689	地方在	地方在	linguistic	_		Begin=1105.664|End=1106.483
+690-0	SPK1133	undefined	690	like	like	linguistic	_		Begin=1106.040|End=1106.443
+691-0	SPK1133	undefined	691	иә	иә	linguistic	_		Begin=1106.443
+691-1	SPK1133	undefined	691	CREAKY	CREAKY	paraverbal	_		End=1107.677
+692-0	SPK1132	Falling	692	правый	правый	linguistic	_		Begin=1106.483
+692-1	SPK1132	Falling	692	берег	берег	linguistic	_		End=1107.312
+693-0	SPK1133	Rising	693	Правый	Правый	linguistic	_		Begin=1107.684|End=1108.581
+694-0	SPK1133	undefined	694	I	I	linguistic	_		Begin=1108.581
+694-1	SPK1133	undefined	694	think	think	linguistic	_		End=1109.228
+695-0	SPK1133	undefined	695	ана	ана	linguistic	_		Begin=1109.248
+695-1	SPK1133	undefined	695	Астананың	Астананың	linguistic	_		End=1110.114
+696-0	SPK1133	undefined	696	建筑	建筑	linguistic	_		Begin=1110.114
+696-1	SPK1133	undefined	696	-лары	-лары	linguistic	_		
+696-2	SPK1133	undefined	696	мұндайдан	мұндайдан	linguistic	_		End=1111.516
+697-0	SPK1133	undefined	697	ана	ана	linguistic	_		Begin=1111.523
+697-1	SPK1133	undefined	697	арт	арт	linguistic	_		
+697-2	SPK1133	undefined	697	жағынан	жағынан	linguistic	_		
+697-3	SPK1133	undefined	697	да	да	linguistic	_		
+697-4	SPK1133	undefined	697	табылады	табылады	linguistic	_		
+697-5	SPK1133	undefined	697	ма	ма	linguistic	_		
+697-6	SPK1133	undefined	697	екен	екен	linguistic	_		
+697-7	SPK1133	undefined	697	деп	деп	linguistic	_		
+697-8	SPK1133	undefined	697	ойладым	ойладым	linguistic	_		End=1114.208
+698-0	SPK1132	Falling	698	Ааааа	Ааааа	linguistic	_		Begin=1112.429|End=1113.543
+699-0	SPK1133	undefined	699	андай	андай	linguistic	_		Begin=1114.208|End=1114.657
+700-0	SPK1133	Rising	700	大理石	大理石	linguistic	_		Begin=1114.657
+700-1	SPK1133	Rising	700	-мен	-мен	linguistic	_		
+700-2	SPK1133	Rising	700	тұрғандары	тұрғандары	linguistic	_		End=1116.516
+701-0	SPK1132	Falling	701	Ым	Ым	linguistic	_		Begin=1116.872|End=1117.449
+702-0	SPK1133	undefined	702	就是	就是	linguistic	_		Begin=1117.839|End=1118.350
+703-0	SPK1133	undefined	703	这个	这个	linguistic	_		Begin=1118.583|End=1119.134
+704-0	SPK1133	undefined	704	这种	这种	linguistic	_		Begin=1119.516|End=1120.078
+705-0	SPK1133	Rising	705	Не	Не	linguistic	_		Begin=1121.006
+705-1	SPK1133	Rising	705	дейміз	дейміз	linguistic	_		End=1121.719
+706-0	SPK1133	undefined	706	прям	прям	linguistic	_		Begin=1121.966|End=1122.436
+707-0	SPK1133	undefined	707	硬硬的那种	硬硬的那种	linguistic	_		Begin=1122.476|End=1123.671
+708-0	SPK1133	Falling	708	建筑	建筑	linguistic	_		Begin=1123.681
+708-1	SPK1133	Falling	708	дейміз	дейміз	linguistic	_		
+708-2	SPK1133	Falling	708	ба	ба	linguistic	_		
+708-3	SPK1133	Falling	708	花里胡哨的	花里胡哨的	linguistic	_		
+708-4	SPK1133	Falling	708	емес	емес	linguistic	_		End=1125.758
+709-0	SPK1133	undefined	709	的	的	linguistic	_		Begin=1126.369|End=1126.812
+710-0	SPK1133	Falling	710	шығатын	шығатын	linguistic	_		Begin=1127.241
+710-1	SPK1133	Falling	710	сияқты	сияқты	linguistic	_		End=1128.736
+711-0	SPK1132	Rising	711	我们拍不拍黑白的	我们拍不拍黑白的	linguistic	_		Begin=1132.058|End=1133.389
+712-0	SPK1133	undefined	712	先拍	先拍	linguistic	_		Begin=1135.275|End=1136.053
+713-0	SPK1133	undefined	713	彩色然后再调成黑白	彩色然后再调成黑白	linguistic	_		Begin=1136.053
+713-1	SPK1133	undefined	713	десем	десем	linguistic	_		
+713-2	SPK1133	undefined	713	иә	иә	linguistic	_		
+713-3	SPK1133	undefined	713	@	@	linguistic	_		End=1138.496
+714-0	SPK1133	undefined	714	(H)	(H)	_	_		Begin=1138.496
+714-1	SPK1133	undefined	714	哇	哇	linguistic	_		End=1139.026
+715-0	SPK1133	undefined	715	this	this	linguistic	_		Begin=1139.026
+715-1	SPK1133	undefined	715	is	is	linguistic	_		
+715-2	SPK1133	undefined	715	like	like	linguistic	_		End=1140.104
+716-0	SPK1133	undefined	716	прям	прям	linguistic	_		Begin=1140.409|End=1140.989
+717-0	SPK1132	Falling	717	Ым	Ым	linguistic	_		Begin=1142.268|End=1143.040
+718-0	SPK1133	undefined	718	CREAKY	CREAKY	paraverbal	_		Begin=1142.295
+718-1	SPK1133	undefined	718	ыыы	ыыы	linguistic	_		End=1143.319
+719-0	SPK1133	undefined	719	pose	pose	linguistic	_		Begin=1143.677
+719-1	SPK1133	undefined	719	we	we	linguistic	_		
+719-2	SPK1133	undefined	719	can	can	linguistic	_		
+719-3	SPK1133	undefined	719	do	do	linguistic	_		End=1144.657
+720-0	SPK1133	Rising	720	дейміз	дейміз	linguistic	_		Begin=1144.657
+720-1	SPK1133	Rising	720	ба	ба	linguistic	_		End=1145.296
+721-0	SPK1132	Falling	721	这些pose可以	这些pose可以	linguistic	_		Begin=1146.167|End=1147.557
+722-0	SPK1132	Falling	722	参考一下	参考一下	linguistic	_		Begin=1148.288|End=1149.516
+723-0	SPK1133	Falling	723	Аттарды	Аттарды	linguistic	_		Begin=1150.174
+723-1	SPK1133	Falling	723	салып	салып	linguistic	_		
+723-2	SPK1133	Falling	723	қояйық	қояйық	linguistic	_		End=1151.973
+724-0	SPK1132	undefined	724	港风	港风	linguistic	_		Begin=1162.248|End=1162.919
+725-0	SPK1132	Falling	725	这个	这个	linguistic	_		Begin=1162.919|End=1163.765
+726-0	SPK1133	undefined	726	对	对	linguistic	_		Begin=1163.174
+726-1	SPK1133	undefined	726	қазір	қазір	linguistic	_		End=1164.161
+727-0	SPK1133	undefined	727	WHISPER	WHISPER	paraverbal	_		Begin=1165.503
+727-1	SPK1133	undefined	727	не	не	linguistic	_		
+727-2	SPK1133	undefined	727	дейді	дейді	linguistic	_		
+727-3	SPK1133	undefined	727	мына	мына	linguistic	_		
+727-4	SPK1133	undefined	727	жер	жер	linguistic	_		End=1166.537
+728-0	SPK1133	undefined	728	##	##	unknown	_		Begin=1166.537|End=1167.872
+729-0	SPK1133	undefined	729	Мынау	Мынау	linguistic	_		Begin=1168.456|End=1168.704
+730-0	SPK1133	undefined	730	екеуміздің	екеуміздің	linguistic	_		Begin=1168.704|End=1169.402
+731-0	SPK1133	undefined	731	аяғымызды	аяғымызды	linguistic	_		Begin=1169.402|End=1170.328
+732-0	SPK1133	undefined	732	тоса	тоса	linguistic	_		Begin=1170.335
+732-1	SPK1133	undefined	732	тұрсын	тұрсын	linguistic	_		
+732-2	SPK1133	undefined	732	@@@	@@@	linguistic	_		End=1172.304
+733-0	SPK1133	undefined	733	放大一点	放大一点	linguistic	_		Begin=1172.530|End=1173.465
+734-0	SPK1133	undefined	734	(H)	(H)	_	_		Begin=1173.465|End=1173.818
+735-0	SPK1133	undefined	735	Мынау	Мынау	linguistic	_		Begin=1173.818
+735-1	SPK1133	undefined	735	артынан	артынан	linguistic	_		
+735-2	SPK1133	undefined	735	өзімізге	өзімізге	linguistic	_		
+735-3	SPK1133	undefined	735	де	де	linguistic	_		End=1175.026
+736-0	SPK1133	Interrupted	736	кө-	кө	linguistic	_	Interrupted=Yes	Begin=1175.026|End=1175.288
+737-0	SPK1133	Rising	737	көмек	көмек	linguistic	_		Begin=1175.288
+737-1	SPK1133	Rising	737	болатындай	болатындай	linguistic	_		
+737-2	SPK1133	Rising	737	иә	иә	linguistic	_		End=1176.919
+738-0	SPK1132	Falling	738	Ым	Ым	linguistic	_		Begin=1177.141|End=1177.610
+739-0	SPK1133	undefined	739	要不多放几张吗	要不多放几张吗	linguistic	_		Begin=1180.027
+739-1	SPK1133	undefined	739	？	？	linguistic	_		End=1181.443
+740-0	SPK1133	undefined	740	多放	多放	linguistic	_		Begin=1181.443|End=1181.758
+741-0	SPK1133	Rising	741	两页	两页	linguistic	_		Begin=1181.758
+741-1	SPK1133	Rising	741	жасайық	жасайық	linguistic	_		
+741-2	SPK1133	Rising	741	па	па	linguistic	_		End=1183.047
+742-0	SPK1132	Falling	742	两页	两页	linguistic	_		Begin=1183.013
+742-1	SPK1132	Falling	742	жасайық	жасайық	linguistic	_		
+742-2	SPK1132	Falling	742	иә	иә	linguistic	_		End=1184.322
+743-0	SPK1133	undefined	743	这样子	这样子	linguistic	_		Begin=1183.651|End=1184.557
+744-0	SPK1133	undefined	744	就是	就是	linguistic	_		Begin=1185.100|End=1185.700
+745-0	SPK1133	undefined	745	冰激凌	冰激凌	linguistic	_		Begin=1189.565|End=1190.020
+746-0	SPK1133	undefined	746	我觉得我们是不是得后面一点买	我觉得我们是不是得后面一点买	linguistic	_		Begin=1190.020
+746-1	SPK1133	undefined	746	әйтпесе	әйтпесе	linguistic	_		End=1192.624
+747-0	SPK1133	undefined	747	алдын-ала	алдын-ала	linguistic	_		Begin=1192.832
+747-1	SPK1133	undefined	747	алып	алып	linguistic	_		
+747-2	SPK1133	undefined	747	алып	алып	linguistic	_		End=1193.906
+748-0	SPK1133	Falling	748	еріп	еріп	linguistic	_		Begin=1193.912
+748-1	SPK1133	Falling	748	отырса	отырса	linguistic	_		
+748-2	SPK1133	Falling	748	иә	иә	linguistic	_		End=1195.490
+749-0	SPK1132	undefined	749	Сосын	Сосын	linguistic	_		Begin=1195.582|End=1196.089
+750-0	SPK1132	Falling	750	就是道具拿了好	就是道具拿了好	linguistic	_		Begin=1197.006|End=1198.221
+751-0	SPK1133	undefined	751	(H)	(H)	_	_		Begin=1198.503
+751-1	SPK1133	undefined	751	ммм	ммм	linguistic	_		End=1199.906
+752-0	SPK1133	undefined	752	道具	道具	linguistic	_		Begin=1199.906
+752-1	SPK1133	undefined	752	дегенде	дегенде	linguistic	_		End=1200.751
+753-0	SPK1133	undefined	753	мынау	мынау	linguistic	_		Begin=1200.751|End=1201.073
+754-0	SPK1133	Falling	754	гүл	гүл	linguistic	_		Begin=1201.073
+754-1	SPK1133	Falling	754	алыпты	алыпты	linguistic	_		End=1202.308
+755-0	SPK1133	undefined	755	Гүл	Гүл	linguistic	_		Begin=1203.167|End=1203.590
+756-0	SPK1133	Continuing	756	白色的玫瑰花儿	白色的玫瑰花儿	linguistic	_		Begin=1203.885|End=1205.429
+757-0	SPK1133	Continuing	757	报纸	报纸	linguistic	_		Begin=1206.657|End=1207.315
+758-0	SPK1133	Rising	758	do	do	linguistic	_		Begin=1209.389
+758-1	SPK1133	Rising	758	we	we	linguistic	_		
+758-2	SPK1133	Rising	758	need	need	linguistic	_		End=1210.134
+759-0	SPK1132	Continuing	759	Иә	Иә	linguistic	_		Begin=1212.053|End=1212.422
+760-0	SPK1132	Falling	760	we	we	linguistic	_		Begin=1212.422
+760-1	SPK1132	Falling	760	can	can	linguistic	_		
+760-2	SPK1132	Falling	760	try	try	linguistic	_		End=1213.391
+761-0	SPK1133	undefined	761	##	##	unknown	_		Begin=1214.906|End=1215.738
+762-0	SPK1133	undefined	762	Мынау	Мынау	linguistic	_		Begin=1215.986|End=1216.630
+763-0	SPK1132	Falling	763	Студияда	Студияда	linguistic	_		Begin=1216.443|End=1217.355
+764-0	SPK1133	undefined	764	#	#	unknown	_		Begin=1216.630|End=1217.342
+765-0	SPK1133	undefined	765	мынау	мынау	linguistic	_		Begin=1217.342|End=1217.765
+766-0	SPK1133	Rising	766	студияда	студияда	linguistic	_		Begin=1217.765
+766-1	SPK1133	Rising	766	иә	иә	linguistic	_		End=1219.049
+767-0	SPK1133	Rising	767	Есіктің	Есіктің	linguistic	_		Begin=1225.543
+767-1	SPK1133	Rising	767	алдына	алдына	linguistic	_		
+767-2	SPK1133	Rising	767	түсу	түсу	linguistic	_		
+767-3	SPK1133	Rising	767	керек	керек	linguistic	_		
+767-4	SPK1133	Rising	767	екен	екен	linguistic	_		
+767-5	SPK1133	Rising	767	иә	иә	linguistic	_		End=1227.610
+768-0	SPK1132	Falling	768	Ым	Ым	linguistic	_		Begin=1227.634|End=1228.394
+769-0	SPK1133	undefined	769	Мынау	Мынау	linguistic	_		Begin=1228.557|End=1229.188
+770-0	SPK1132	undefined	770	##	##	unknown	_		Begin=1229.718|End=1231.201
+771-0	SPK1133	undefined	771	Не	Не	linguistic	_		Begin=1229.926
+771-1	SPK1133	undefined	771	дейміз	дейміз	linguistic	_		
+771-2	SPK1133	undefined	771	мынау	мынау	linguistic	_		
+771-3	SPK1133	undefined	771	#	#	unknown	_		End=1231.389
+772-0	SPK1133	undefined	772	CREAKY	CREAKY	paraverbal	_		Begin=1231.583
+772-1	SPK1133	undefined	772	ыыы	ыыы	linguistic	_		
+772-2	SPK1133	undefined	772	like	like	linguistic	_		End=1232.785
+773-0	SPK1133	Rising	773	мынау	мынау	linguistic	_		Begin=1232.785
+773-1	SPK1133	Rising	773	也是这样子的一个拱形结构	也是这样子的一个拱形结构	linguistic	_		
+773-2	SPK1133	Rising	773	дейміз	дейміз	linguistic	_		
+773-3	SPK1133	Rising	773	ба	ба	linguistic	_		End=1235.959
+774-0	SPK1132	Falling	774	Мхм	Мхм	linguistic	_		Begin=1235.979|End=1236.537
+775-0	SPK1133	undefined	775	你说	你说	linguistic	_		Begin=1237.566|End=1238.033
+776-0	SPK1133	undefined	776	осындай	осындай	linguistic	_		Begin=1238.033|End=1238.825
+777-0	SPK1133	undefined	777	is	is	linguistic	_		Begin=1241.832
+777-1	SPK1133	undefined	777	it	it	linguistic	_		
+777-2	SPK1133	undefined	777	possible	possible	linguistic	_		
+777-3	SPK1133	undefined	777	to	to	linguistic	_		
+777-4	SPK1133	undefined	777	find	find	linguistic	_		End=1243.886
+778-0	SPK1133	undefined	778	мұндай	мұндай	linguistic	_		Begin=1244.369
+778-1	SPK1133	undefined	778	әдемі	әдемі	linguistic	_		
+778-2	SPK1133	undefined	778	жерде	жерде	linguistic	_		End=1245.926
+779-0	SPK1133	undefined	779	ыы	ыы	linguistic	_		Begin=1245.926|End=1246.422
+780-0	SPK1133	Interrupted	780	Алма-	Алма	linguistic	_	Interrupted=Yes	Begin=1246.422|End=1246.845
+781-0	SPK1133	Rising	781	Астанадан	Астанадан	linguistic	_		Begin=1246.845|End=1247.856
+782-0	SPK1132	Falling	782	不好说	不好说	linguistic	_		Begin=1247.537|End=1248.349
+783-0	SPK1133	Rising	783	不好找	不好找	linguistic	_		Begin=1248.711
+783-1	SPK1133	Rising	783	иә	иә	linguistic	_		End=1249.561
+784-0	SPK1132	Falling	784	我觉得EXPO那边得要看一看	我觉得EXPO那边得要看一看	linguistic	_		Begin=1249.832|End=1251.362
+785-0	SPK1133	Falling	785	Ммм	Ммм	linguistic	_		Begin=1251.416|End=1252.319
+786-0	SPK1132	undefined	786	诶	诶	linguistic	_		Begin=1251.677|End=1252.422
+787-0	SPK1132	undefined	787	这张照片	这张照片	linguistic	_		Begin=1253.100|End=1254.089
+788-0	SPK1133	undefined	788	Мхм	Мхм	linguistic	_		Begin=1254.328|End=1254.818
+789-0	SPK1132	undefined	789	可以在那种	可以在那种	linguistic	_		Begin=1254.382|End=1255.469
+790-0	SPK1132	undefined	790	музей	музей	linguistic	_		Begin=1255.557
+790-1	SPK1132	undefined	790	的下面	的下面	linguistic	_		End=1256.402
+791-0	SPK1132	Rising	791	那个地方不是有这样子的	那个地方不是有这样子的	linguistic	_		Begin=1256.402
+791-1	SPK1132	Rising	791	жер	жер	linguistic	_		
+791-2	SPK1132	Rising	791	ма	ма	linguistic	_		End=1258.100
+792-0	SPK1133	undefined	792	Иә	Иә	linguistic	_		Begin=1258.107
+792-1	SPK1133	undefined	792	мен	мен	linguistic	_		
+792-2	SPK1133	undefined	792	де	де	linguistic	_		
+792-3	SPK1133	undefined	792	ойладым	ойладым	linguistic	_		
+792-4	SPK1133	undefined	792	сол	сол	linguistic	_		
+792-5	SPK1133	undefined	792	музейде	музейде	linguistic	_		End=1260.073
+793-0	SPK1132	undefined	793	#	#	unknown	_		Begin=1258.416|End=1259.275
+794-0	SPK1133	undefined	794	Негізі	Негізі	linguistic	_		Begin=1260.188|End=1260.865
+795-0	SPK1133	Rising	795	сақтап	сақтап	linguistic	_		Begin=1261.261
+795-1	SPK1133	Rising	795	қояйын	қояйын	linguistic	_		
+795-2	SPK1133	Rising	795	ба	ба	linguistic	_		End=1262.557
+796-0	SPK1132	Falling	796	Ым	Ым	linguistic	_		Begin=1262.147|End=1262.724
+797-0	SPK1132	undefined	797	WHISPER	WHISPER	paraverbal	_		Begin=1262.852
+797-1	SPK1132	undefined	797	暂停一下把那个	暂停一下把那个	linguistic	_		End=1264.047
+798-0	SPK1132	Falling	798	录音	录音	linguistic	_		Begin=1264.047|End=1265.043
+799-0	SPK1133	Falling	799	#	#	unknown	_		Begin=1267.731
+799-1	SPK1133	Falling	799	қанша	қанша	linguistic	_		
+799-2	SPK1133	Falling	799	уақыт	уақыт	linguistic	_		
+799-3	SPK1133	Falling	799	болыпты	болыпты	linguistic	_		End=1269.818

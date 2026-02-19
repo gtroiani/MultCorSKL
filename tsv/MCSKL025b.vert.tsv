@@ -1,0 +1,2401 @@
+token_id	speaker	iu_type	tu_id	span	form	type	modality	features	align
+0-0	SPK7003	undefined	0	(Hx)	(Hx)	_	_		Begin=0.000|End=0.634
+1-0	SPK7003	Rising	1	көп	көп	linguistic	_		Begin=1.802
+1-1	SPK7003	Rising	1	пе	пе	linguistic	_		End=2.407
+2-0	SPK7003	undefined	2	ашқаның	ашқаның	linguistic	_		Begin=2.506|End=3.221
+3-0	SPK7002	undefined	3	көп	көп	linguistic			Begin=4.055
+3-1	SPK7002	undefined	3	емес	емес	linguistic			End=4.398
+4-0	SPK7002	undefined	4	менің	менің	linguistic			Begin=4.398
+4-1	SPK7002	undefined	4	қараған	қараған	linguistic			
+4-2	SPK7002	undefined	4	затымды	затымды	linguistic			
+4-3	SPK7002	undefined	4	ашып	ашып	linguistic			
+4-4	SPK7002	undefined	4	тұрған	тұрған	linguistic			End=5.840
+5-0	SPK7002	undefined	5	жоқ	жоқ	linguistic			Begin=5.850|End=6.019
+6-0	SPK7002	undefined	6	басқа	басқа	linguistic			Begin=6.019
+6-1	SPK7002	undefined	6	бір	бір	linguistic			
+6-2	SPK7002	undefined	6	нәрсені	нәрсені	linguistic			
+6-3	SPK7002	undefined	6	ашып	ашып	linguistic			
+6-4	SPK7002	undefined	6	тұр	тұр	linguistic			End=7.508
+7-0	SPK7002	undefined	7	а:	а	linguistic		Prolongation=0	Begin=8.403|End=8.929
+8-0	SPK7002	undefined	8	иә	иә	linguistic			Begin=8.929
+8-1	SPK7002	undefined	8	иә	иә	linguistic			End=9.229
+9-0	SPK7002	undefined	9	таңдағаным	таңдағаным	linguistic			Begin=9.229
+9-1	SPK7002	undefined	9	көп	көп	linguistic			End=10.361
+10-0	SPK7002	undefined	10	мен	мен	linguistic			Begin=11.034
+10-1	SPK7002	undefined	10	мына	мына	linguistic			End=12.003
+11-0	SPK7002	undefined	11	дәл	дәл	linguistic			Begin=12.003
+11-1	SPK7002	undefined	11	қазір	қазір	linguistic			
+11-2	SPK7002	undefined	11	қарап	қарап	linguistic			
+11-3	SPK7002	undefined	11	отырғанымды	отырғанымды	linguistic			
+11-4	SPK7002	undefined	11	сұрап	сұрап	linguistic			
+11-5	SPK7002	undefined	11	отыр	отыр	linguistic			
+11-6	SPK7002	undefined	11	ғой	ғой	linguistic			
+11-7	SPK7002	undefined	11	десем	десем	linguistic			End=13.840
+12-0	SPK7003	undefined	12	(Hx)	(Hx)	_	_		Begin=15.599|End=16.221
+13-0	SPK7003	undefined	13	(H)	(H)	_	_		Begin=17.494|End=18.209
+14-0	SPK7003	undefined	14	(Hx)	(Hx)	_	_		Begin=18.209|End=19.075
+15-0	SPK7001	Rising	15	аштың	аштың	linguistic	_		Begin=21.597
+15-1	SPK7001	Rising	15	ба	ба	linguistic	_		End=22.597
+16-0	SPK7002	undefined	16	аштым	аштым	linguistic			Begin=23.103|End=23.766
+17-0	SPK7001	undefined	17	мынау	мынау	linguistic	_		Begin=24.311
+17-1	SPK7001	undefined	17	интересное	интересное	linguistic	_		End=25.152
+18-0	SPK7001	Rising	18	да	да	linguistic	_		Begin=25.152|End=25.573
+19-0	SPK7002	undefined	19	жоқ	жоқ	linguistic			Begin=25.734
+19-1	SPK7002	undefined	19	осы	осы	linguistic			
+19-2	SPK7002	undefined	19	ғой	ғой	linguistic			
+19-3	SPK7002	undefined	19	менің	менің	linguistic			
+19-4	SPK7002	undefined	19	айтып	айтып	linguistic			
+19-5	SPK7002	undefined	19	отырғаным	отырғаным	linguistic			End=27.219
+20-0	SPK7001	undefined	20	тоқсан	тоқсан	linguistic	_		Begin=27.516
+20-1	SPK7001	undefined	20	доллар	доллар	linguistic	_		End=29.004
+21-0	SPK7001	undefined	21	мынау	мынау	linguistic	_		Begin=29.004
+21-1	SPK7001	undefined	21	да	да	linguistic	_		
+21-2	SPK7001	undefined	21	ничего	ничего	linguistic	_		
+21-3	SPK7001	undefined	21	так	так	linguistic	_		End=30.186
+22-0	SPK7002	undefined	22	мынаның	мынаның	linguistic			Begin=37.108
+22-1	SPK7002	undefined	22	майкасы	майкасы	linguistic			
+22-2	SPK7002	undefined	22	әдемі	әдемі	linguistic			End=38.176
+23-0	SPK7002	undefined	23	екен	екен	linguistic			Begin=38.176|End=38.592
+24-0	SPK7001	undefined	24	ы:м	ым	linguistic	_	Prolongation=0	Begin=38.482|End=39.288
+25-0	SPK7001	undefined	25	и	и	linguistic	_		Begin=39.413
+25-1	SPK7001	undefined	25	жеңі	жеңі	linguistic	_		
+25-2	SPK7001	undefined	25	де	де	linguistic	_		End=40.254
+26-0	SPK7001	undefined	26	қара	қара	linguistic	_		Begin=40.254|End=40.788
+27-0	SPK7002	undefined	27	м:	м	linguistic		Prolongation=0	Begin=40.482|End=41.361
+28-0	SPK7001	Rising	28	күшті	күшті	linguistic	_		Begin=40.788
+28-1	SPK7001	Rising	28	иә	иә	linguistic	_		End=41.504
+29-0	SPK7002	undefined	29	ыхым	ыхым	linguistic			Begin=42.329|End=42.992
+30-0	SPK7001	Rising	30	ертең	ертең	linguistic	_		Begin=45.788
+30-1	SPK7001	Rising	30	мектепке	мектепке	linguistic	_		
+30-2	SPK7001	Rising	30	нешеде	нешеде	linguistic	_		
+30-3	SPK7001	Rising	30	барасыңдар	барасыңдар	linguistic	_		End=47.527
+31-0	SPK7001	Rising	31	он	он	linguistic	_		Begin=47.527
+31-1	SPK7001	Rising	31	бір	бір	linguistic	_		
+31-2	SPK7001	Rising	31	жарым	жарым	linguistic	_		
+31-3	SPK7001	Rising	31	дедің	дедің	linguistic	_		
+31-4	SPK7001	Rising	31	бе	бе	linguistic	_		End=48.925
+32-0	SPK7002	undefined	32	он	он	linguistic			Begin=48.755
+32-1	SPK7002	undefined	32	бір	бір	linguistic			
+32-2	SPK7002	undefined	32	деді	деді	linguistic			End=49.508
+33-0	SPK7001	Rising	33	бастайды	бастайды	linguistic	_		Begin=50.323|End=50.948
+34-0	SPK7001	Rising	34	уже	уже	linguistic	_		Begin=50.948|End=51.595
+35-0	SPK7002	undefined	35	иә	иә	linguistic			Begin=51.503|End=51.961
+36-0	SPK7001	Interrupted	36	значит	значит	linguistic	_		Begin=51.970
+36-1	SPK7001	Interrupted	36	он	он	linguistic	_		
+36-2	SPK7001	Interrupted	36	жарым-	жарым	linguistic	_	Interrupted=Yes	End=53.493
+37-0	SPK7002	Interrupted	37	он	он	linguistic			Begin=52.803
+37-1	SPK7002	Interrupted	37	жарымнан	жарымнан	linguistic			
+37-2	SPK7002	Interrupted	37	кете-	кете	linguistic		Interrupted=Yes	End=53.498
+38-0	SPK7002	undefined	38	иә	иә	linguistic			Begin=53.498|End=53.703
+39-0	SPK7002	undefined	39	сол	сол	linguistic			Begin=53.892
+39-1	SPK7002	undefined	39	он	он	linguistic			
+39-2	SPK7002	undefined	39	жарымда	жарымда	linguistic			
+39-3	SPK7002	undefined	39	бара	бара	linguistic			
+39-4	SPK7002	undefined	39	берсек	берсек	linguistic			End=55.024
+40-0	SPK7002	undefined	40	болады	болады	linguistic			Begin=55.024|End=55.761
+41-0	SPK7002	Rising	41	мынау	мынау	linguistic			Begin=55.898
+41-1	SPK7002	Rising	41	емес	емес	linguistic			
+41-2	SPK7002	Rising	41	па?	па	linguistic			End=56.476
+42-0	SPK7002	undefined	42	өткенде	өткенде	linguistic			Begin=56.476
+42-1	SPK7002	undefined	42	таңдағанымыз	таңдағанымыз	linguistic			End=57.398
+43-0	SPK7002	undefined	43	жоқ	жоқ	linguistic			Begin=57.398
+43-1	SPK7002	undefined	43	деген	деген	linguistic			End=57.834
+44-0	SPK7002	undefined	44	жоқ	жоқ	linguistic			Begin=58.008|End=58.350
+45-0	SPK7002	Rising	45	басқа	басқа	linguistic			Begin=58.350
+45-1	SPK7002	Rising	45	ма?	ма	linguistic			End=58.998
+46-0	SPK7001	undefined	46	басқа	басқа	linguistic	_		Begin=58.823
+46-1	SPK7001	undefined	46	сияқты	сияқты	linguistic	_		End=59.698
+47-0	SPK7001	undefined	47	мынау	мынау	linguistic	_		Begin=60.300
+47-1	SPK7001	undefined	47	сары	сары	linguistic	_		
+47-2	SPK7001	undefined	47	ғой	ғой	linguistic	_		End=61.243
+48-0	SPK7002	undefined	48	сенің	сенің	linguistic			Begin=62.008
+48-1	SPK7002	undefined	48	де	де	linguistic			
+48-2	SPK7002	undefined	48	қарағаның	қарағаның	linguistic			
+48-3	SPK7002	undefined	48	сары	сары	linguistic			End=63.119
+49-0	SPK7002	undefined	49	бірақ	бірақ	linguistic			Begin=63.119
+49-1	SPK7002	undefined	49	басқа	басқа	linguistic			
+49-2	SPK7002	undefined	49	фирма	фирма	linguistic			
+49-3	SPK7002	undefined	49	сияқты	сияқты	linguistic			End=64.366
+50-0	SPK7001	undefined	50	ол	ол	linguistic	_		Begin=63.834
+50-1	SPK7001	undefined	50	сары	сары	linguistic	_		End=64.368
+51-0	SPK7001	undefined	51	басқа	басқа	linguistic	_		Begin=64.368
+51-1	SPK7001	undefined	51	иә	иә	linguistic	_		End=64.936
+52-0	SPK7002	undefined	52	қай	қай	linguistic			Begin=65.145
+52-1	SPK7002	undefined	52	фирма	фирма	linguistic			
+52-2	SPK7002	undefined	52	екенін	екенін	linguistic			End=66.182
+53-0	SPK7002	undefined	53	есіме	есіме	linguistic			Begin=66.182
+53-1	SPK7002	undefined	53	түспей	түспей	linguistic			
+53-2	SPK7002	undefined	53	тұрғанын	тұрғанын	linguistic			
+53-3	SPK7002	undefined	53	қарасаңшы	қарасаңшы	linguistic			End=67.424
+54-0	SPK7001	undefined	54	Хилфигер	Хилфигер	linguistic	_		Begin=66.618|End=67.516
+55-0	SPK7002	Rising	55	Хилфигер	Хилфигер	linguistic			Begin=67.471
+55-1	SPK7002	Rising	55	ме	ме	linguistic			
+55-2	SPK7002	Rising	55	еді?	еді	linguistic			End=68.571
+56-0	SPK7001	undefined	56	ы:м	ым	linguistic	_	Prolongation=0	Begin=68.243|End=68.982
+57-0	SPK7001	undefined	57	полоска	полоска	linguistic	_		Begin=69.220|End=70.084
+58-0	SPK7002	undefined	58	мынау	мынау	linguistic			Begin=69.503
+58-1	SPK7002	undefined	58	ала	ала	linguistic			
+58-2	SPK7002	undefined	58	бажақ	бажақ	linguistic			
+58-3	SPK7002	undefined	58	сияқты	сияқты	linguistic			End=70.798
+59-0	SPK7001	Rising	59	ау	ау	linguistic	_		Begin=70.800|End=71.686
+60-0	SPK7002	undefined	60	ала	ала	linguistic			Begin=71.398
+60-1	SPK7002	undefined	60	бажақ	бажақ	linguistic			
+60-2	SPK7002	undefined	60	сияқты	сияқты	linguistic			
+60-3	SPK7002	undefined	60	деймін	деймін	linguistic			End=72.771
+61-0	SPK7002	undefined	61	много	много	linguistic			Begin=74.561
+61-1	SPK7002	undefined	61	много	много	linguistic			End=75.150
+62-0	SPK7002	undefined	62	нагромождений	нагромождений	linguistic			Begin=75.150
+62-1	SPK7002	undefined	62	да	да	linguistic			End=76.645
+63-0	SPK7002	undefined	63	мынау	мынау	linguistic			Begin=80.176
+63-1	SPK7002	undefined	63	ғой	ғой	linguistic			End=80.908
+64-0	SPK7002	undefined	64	кешегі	кешегі	linguistic			Begin=80.908|End=81.529
+65-0	SPK7001	undefined	65	ы:м	ым	linguistic	_	Prolongation=0	Begin=81.322|End=81.743
+66-0	SPK7001	undefined	66	менікі	менікі	linguistic	_		Begin=81.743|End=82.357
+67-0	SPK7002	undefined	67	енді	енді	linguistic			Begin=83.508
+67-1	SPK7002	undefined	67	ананың	ананың	linguistic			End=84.034
+68-0	SPK7002	undefined	68	кімнің	кімнің	linguistic			Begin=84.034
+68-1	SPK7002	undefined	68	үстіндегісін	үстіндегісін	linguistic			
+68-2	SPK7002	undefined	68	қарайын	қарайын	linguistic			
+68-3	SPK7002	undefined	68	деп	деп	linguistic			
+68-4	SPK7002	undefined	68	едім	едім	linguistic			End=85.529
+69-0	SPK7001	Rising	69	кімнің	кімнің	linguistic	_		Begin=86.550|End=87.175
+70-0	SPK7002	undefined	70	¬Динаның	Динаның	linguistic		Anonymized=Yes	Begin=87.903
+70-1	SPK7002	undefined	70	өзінің	өзінің	linguistic			End=88.476
+71-0	SPK7002	undefined	71	киіп	киіп	linguistic			Begin=88.476
+71-1	SPK7002	undefined	71	тұрғаны	тұрғаны	linguistic			
+71-2	SPK7002	undefined	71	бар	бар	linguistic			
+71-3	SPK7002	undefined	71	ғой	ғой	linguistic			End=89.419
+72-0	SPK7001	undefined	72	а:	а	linguistic	_	Prolongation=0	Begin=89.288|End=90.072
+73-0	SPK7002	undefined	73	мынау	мынау	linguistic			Begin=89.803
+73-1	SPK7002	undefined	73	мынау	мынау	linguistic			End=90.855
+74-0	SPK7002	undefined	74	ұқсас	ұқсас	linguistic			Begin=90.855|End=91.434
+75-0	SPK7002	undefined	75	бірақ	бірақ	linguistic			Begin=91.434
+75-1	SPK7002	undefined	75	басқа	басқа	linguistic			
+75-2	SPK7002	undefined	75	мынау	мынау	linguistic			End=92.155
+76-0	SPK7002	undefined	76	қара	қара	linguistic			Begin=92.155|End=92.461
+77-0	SPK7001	undefined	77	ы:м	ым	linguistic	_	Prolongation=0	Begin=92.266|End=93.277
+78-0	SPK7002	undefined	78	ана	ана	linguistic			Begin=93.498|End=93.971
+79-0	SPK7002	undefined	79	газетаның	газетаның	linguistic			Begin=93.971
+79-1	SPK7002	undefined	79	беті	беті	linguistic			
+79-2	SPK7002	undefined	79	сияқты	сияқты	linguistic			End=94.808
+80-0	SPK7002	undefined	80	болып	болып	linguistic			Begin=94.808
+80-1	SPK7002	undefined	80	тұр	тұр	linguistic			
+80-2	SPK7002	undefined	80	да	да	linguistic			End=95.319
+81-0	SPK7001	undefined	81	мына	мына	linguistic	_		Begin=96.322
+81-1	SPK7001	undefined	81	футболка	футболка	linguistic	_		
+81-2	SPK7001	undefined	81	жаңағы	жаңағы	linguistic	_		End=97.391
+82-0	SPK7001	undefined	82	рубашканікіндей	рубашканікіндей	linguistic	_		Begin=97.391|End=98.197
+83-0	SPK7001	undefined	83	смотри	смотри	linguistic	_		Begin=98.197|End=98.641
+84-0	SPK7002	Rising	84	мынау	мынау	linguistic			Begin=98.845
+84-1	SPK7002	Rising	84	ма?	ма	linguistic			End=99.240
+85-0	SPK7001	undefined	85	иә	иә	linguistic	_		Begin=99.072|End=99.550
+86-0	SPK7002	undefined	86	иә	иә	linguistic			Begin=99.240|End=99.555
+87-0	SPK7001	Rising	87	мынау	мынау	linguistic	_		Begin=99.595
+87-1	SPK7001	Rising	87	не	не	linguistic	_		End=100.220
+88-0	SPK7001	undefined	88	Франция	Франция	linguistic	_		Begin=101.118|End=101.777
+89-0	SPK7001	Rising	89	иә	иә	linguistic	_		Begin=102.072|End=102.641
+90-0	SPK7002	undefined	90	иә	иә	linguistic			Begin=102.703|End=103.213
+91-0	SPK7001	undefined	91	а:	а	linguistic	_	Prolongation=0	Begin=103.357|End=103.947
+92-0	SPK7001	undefined	92	әдемі	әдемі	linguistic	_		Begin=103.947|End=104.572
+93-0	SPK7002	undefined	93	енді	енді	linguistic			Begin=104.203|End=104.603
+94-0	SPK7002	undefined	94	тұр	тұр	linguistic			Begin=104.603
+94-1	SPK7002	undefined	94	ғой	ғой	linguistic			
+94-2	SPK7002	undefined	94	міне	міне	linguistic			End=105.392
+95-0	SPK7001	undefined	95	(H)	(H)	_	_		Begin=105.402|End=106.084
+96-0	SPK7001	undefined	96	Париж	Париж	linguistic	_		Begin=106.391|End=107.720
+97-0	SPK7001	undefined	97	Пағи:	Пағи	linguistic	_	Prolongation=3	Begin=109.288|End=110.402
+98-0	SPK7001	undefined	98	#	#	unknown	_		Begin=111.118|End=111.788
+99-0	SPK7002	undefined	99	мынау	мынау	linguistic			Begin=111.308
+99-1	SPK7002	undefined	99	ғой	ғой	linguistic			End=111.787
+100-0	SPK7002	undefined	100	міне	міне	linguistic			Begin=111.787
+100-1	SPK7002	undefined	100	міне	міне	linguistic			End=112.271
+101-0	SPK7002	undefined	101	помоему	помоему	linguistic			Begin=112.271
+101-1	SPK7002	undefined	101	да	да	linguistic			End=112.982
+102-0	SPK7002	undefined	102	киіп	киіп	linguistic			Begin=112.982
+102-1	SPK7002	undefined	102	тұрған	тұрған	linguistic			End=113.619
+103-0	SPK7001	undefined	103	а:	а	linguistic	_	Prolongation=0	Begin=114.095|End=114.629
+104-0	SPK7001	undefined	104	да	да	linguistic	_		Begin=114.629
+104-1	SPK7001	undefined	104	да	да	linguistic	_		
+104-2	SPK7001	undefined	104	да	да	linguistic	_		End=115.493
+105-0	SPK7002	undefined	105	осындай	осындай	linguistic			Begin=115.324|End=115.813
+106-0	SPK7001	undefined	106	ыхы	ыхы	linguistic	_		Begin=115.834|End=116.345
+107-0	SPK7001	undefined	107	көреміз	көреміз	linguistic	_		Begin=118.652|End=119.266
+108-0	SPK7001	undefined	108	Парижді	Парижді	linguistic	_		Begin=120.448|End=121.368
+109-0	SPK7002	undefined	109	осындай	осындай	linguistic			Begin=120.703
+109-1	SPK7002	undefined	109	алсаңшы	алсаңшы	linguistic			End=121.619
+110-0	SPK7001	Rising	110	мынандай	мынандай	linguistic	_		Begin=122.209
+110-1	SPK7001	Rising	110	ма	ма	linguistic	_		End=122.959
+111-0	SPK7002	undefined	111	ы	ы	linguistic			Begin=122.840|End=123.166
+112-0	SPK7001	undefined	112	не	не	linguistic	_		Begin=122.959
+112-1	SPK7001	undefined	112	хочу	хочу	linguistic	_		End=123.618
+113-0	SPK7002	undefined	113	күшті	күшті	linguistic			Begin=123.945
+113-1	SPK7002	undefined	113	болып	болып	linguistic			
+113-2	SPK7002	undefined	113	жүресің	жүресің	linguistic			
+113-3	SPK7002	undefined	113	сосын	сосын	linguistic			End=124.929
+114-0	SPK7002	undefined	114	@@@@@	@@@@@	linguistic			Begin=124.929|End=126.108
+115-0	SPK7001	undefined	115	рубашка	рубашка	linguistic	_		Begin=125.300
+115-1	SPK7001	undefined	115	болса	болса	linguistic	_		End=126.357
+116-0	SPK7001	undefined	116	анандай	анандай	linguistic	_		Begin=126.493|End=127.095
+117-0	SPK7001	undefined	117	пустой	пустой	linguistic	_		Begin=127.516
+117-1	SPK7001	undefined	117	болғаны	болғаны	linguistic	_		End=128.629
+118-0	SPK7001	undefined	118	әдемірек	әдемірек	linguistic	_		Begin=128.720|End=129.288
+119-0	SPK7001	Rising	119	емес	емес	linguistic	_		Begin=129.288
+119-1	SPK7001	Rising	119	пе	пе	linguistic	_		End=129.891
+120-0	SPK7001	Interrupted	120	мы	мы	linguistic	_		Begin=131.516
+120-1	SPK7001	Interrupted	120	а-	а	linguistic	_	Interrupted=Yes	End=132.084
+121-0	SPK7001	undefined	121	однотонный	однотонный	linguistic	_		Begin=132.084|End=132.823
+122-0	SPK7001	undefined	122	дегенім	дегенім	linguistic	_		Begin=132.823
+122-1	SPK7001	undefined	122	ғой	ғой	linguistic	_		End=133.618
+123-0	SPK7002	undefined	123	менің	менің	linguistic			Begin=133.650
+123-1	SPK7002	undefined	123	анандайдан	анандайдан	linguistic			End=134.329
+124-0	SPK7002	undefined	124	көзім	көзім	linguistic			Begin=134.329
+124-1	SPK7002	undefined	124	шаршайды	шаршайды	linguistic			End=135.013
+125-0	SPK7002	undefined	125	когда	когда	linguistic			Begin=135.013
+125-1	SPK7002	undefined	125	много	много	linguistic			
+125-2	SPK7002	undefined	125	много	много	linguistic			End=135.734
+126-0	SPK7002	undefined	126	печать	печать	linguistic			Begin=135.734
+126-1	SPK7002	undefined	126	болғанда	болғанда	linguistic			End=136.887
+127-0	SPK7001	undefined	127	рубашка	рубашка	linguistic	_		Begin=137.811
+127-1	SPK7001	undefined	127	базовый	базовый	linguistic	_		
+127-2	SPK7001	undefined	127	болғаны	болғаны	linguistic	_		
+127-3	SPK7001	undefined	127	жақсы	жақсы	linguistic	_		
+127-4	SPK7001	undefined	127	сияқты	сияқты	linguistic	_		End=140.061
+128-0	SPK7002	undefined	128	мына	мына	linguistic			Begin=139.898
+128-1	SPK7002	undefined	128	ең	ең	linguistic			
+128-2	SPK7002	undefined	128	біріншісі	біріншісі	linguistic			
+128-3	SPK7002	undefined	128	ұнайды	ұнайды	linguistic			End=141.392
+129-0	SPK7002	undefined	129	негізі	негізі	linguistic			Begin=141.392|End=141.850
+130-0	SPK7002	Rising	130	ақ	ақ	linguistic			Begin=141.850
+130-1	SPK7002	Rising	130	па	па	linguistic			
+130-2	SPK7002	Rising	130	мынау?	мынау	linguistic			End=142.771
+131-0	SPK7001	undefined	131	ыхым	ыхым	linguistic	_		Begin=142.516|End=143.777
+132-0	SPK7002	undefined	132	и	и	linguistic			Begin=142.771
+132-1	SPK7002	undefined	132	мынаның	мынаның	linguistic			
+132-2	SPK7002	undefined	132	тағы	тағы	linguistic			
+132-3	SPK7002	undefined	132	бір	бір	linguistic			
+132-4	SPK7002	undefined	132	беті	беті	linguistic			
+132-5	SPK7002	undefined	132	бар	бар	linguistic			End=143.992
+133-0	SPK7001	undefined	133	(H)	(H)	_	_		Begin=144.073|End=145.004
+134-0	SPK7002	undefined	134	біз	біз	linguistic			Begin=144.987
+134-1	SPK7002	undefined	134	өткенде	өткенде	linguistic			End=145.777
+135-0	SPK7001	undefined	135	(Hx)	(Hx)	_	_		Begin=145.004|End=146.288
+136-0	SPK7002	undefined	136	бір	бір	linguistic			Begin=145.777
+136-1	SPK7002	undefined	136	екеуін	екеуін	linguistic			
+136-2	SPK7002	undefined	136	көрдік	көрдік	linguistic			
+136-3	SPK7002	undefined	136	те	те	linguistic			End=146.650
+137-0	SPK7002	undefined	137	сонымен	сонымен	linguistic			Begin=146.650
+137-1	SPK7002	undefined	137	жауап	жауап	linguistic			
+137-2	SPK7002	undefined	137	тастадық	тастадық	linguistic			
+137-3	SPK7002	undefined	137	ау	ау	linguistic			
+137-4	SPK7002	undefined	137	деймін	деймін	linguistic			End=147.950
+138-0	SPK7002	undefined	138	(H)	(H)	_			Begin=148.508|End=149.466
+139-0	SPK7002	undefined	139	(Hx)	(Hx)	_			Begin=149.466|End=150.303
+140-0	SPK7002	undefined	140	екеу	екеу	linguistic			Begin=150.303
+140-1	SPK7002	undefined	140	ма	ма	linguistic			
+140-2	SPK7002	undefined	140	не	не	linguistic			End=151.382
+141-0	SPK7002	Rising	141	бар	бар	linguistic			Begin=151.382
+141-1	SPK7002	Rising	141	жоғы?	жоғы	linguistic			End=152.024
+142-0	SPK7001	undefined	142	мынау	мынау	linguistic	_		Begin=151.709
+142-1	SPK7001	undefined	142	не	не	linguistic	_		
+142-2	SPK7001	undefined	142	очень	очень	linguistic	_		End=152.527
+143-0	SPK7001	undefined	143	екеуі	екеуі	linguistic	_		Begin=152.527
+143-1	SPK7001	undefined	143	де	де	linguistic	_		End=153.209
+144-0	SPK7001	undefined	144	@@	@@	linguistic	_		Begin=153.209|End=154.368
+145-0	SPK7002	undefined	145	иә	иә	linguistic			Begin=153.398|End=153.850
+146-0	SPK7002	undefined	146	сосын	сосын	linguistic			Begin=153.850
+146-1	SPK7002	undefined	146	ғой	ғой	linguistic			End=154.313
+147-0	SPK7002	undefined	147	соңына	соңына	linguistic			Begin=154.313
+147-1	SPK7002	undefined	147	қалып	қалып	linguistic			
+147-2	SPK7002	undefined	147	қойған	қойған	linguistic			
+147-3	SPK7002	undefined	147	десеңші	десеңші	linguistic			End=155.687
+148-0	SPK7001	undefined	148	солай	солай	linguistic	_		Begin=155.732
+148-1	SPK7001	undefined	148	шығар	шығар	linguistic	_		End=156.538
+149-0	SPK7002	undefined	149	last	last	linguistic			Begin=156.898
+149-1	SPK7002	undefined	149	дейді	дейді	linguistic			End=157.571
+150-0	SPK7002	undefined	150	мә	мә	linguistic			Begin=157.571
+150-1	SPK7002	undefined	150	мынаны	мынаны	linguistic			
+150-2	SPK7002	undefined	150	қара	қара	linguistic			End=158.198
+151-0	SPK7002	undefined	151	он	он	linguistic			Begin=158.198
+151-1	SPK7002	undefined	151	төрт	төрт	linguistic			End=158.771
+152-0	SPK7002	undefined	152	он	он	linguistic			Begin=158.771
+152-1	SPK7002	undefined	152	бес	бес	linguistic			End=159.150
+153-0	SPK7001	undefined	153	а:	а	linguistic	_	Prolongation=0	Begin=159.288|End=159.595
+154-0	SPK7001	undefined	154	алайық	алайық	linguistic	_		Begin=159.595|End=159.834
+155-0	SPK7001	undefined	155	дейсің	дейсің	linguistic	_		Begin=159.834|End=160.391
+156-0	SPK7001	undefined	156	баспаған	баспаған	linguistic	_		Begin=160.391
+156-1	SPK7001	undefined	156	сияқтысың	сияқтысың	linguistic	_		End=161.220
+157-0	SPK7001	undefined	157	а	а	linguistic	_		Begin=161.220
+157-1	SPK7001	undefined	157	жоқ	жоқ	linguistic	_		End=161.811
+158-0	SPK7002	undefined	158	жоқ	жоқ	linguistic			Begin=161.613
+158-1	SPK7002	undefined	158	бастым	бастым	linguistic			End=162.345
+159-0	SPK7001	undefined	159	мынау	мынау	linguistic	_		Begin=162.345|End=162.618
+160-0	SPK7001	undefined	160	иә	иә	linguistic	_		Begin=162.618|End=162.936
+161-0	SPK7001	undefined	161	әдемі	әдемі	linguistic	_		Begin=162.936|End=163.266
+162-0	SPK7001	undefined	162	біріншісі	біріншісі	linguistic	_		Begin=163.266|End=163.936
+163-0	SPK7002	undefined	163	мынадан	мынадан	linguistic			Begin=166.645
+163-1	SPK7002	undefined	163	да	да	linguistic			
+163-2	SPK7002	undefined	163	гөрі	гөрі	linguistic			End=167.592
+164-0	SPK7002	undefined	164	мынау	мынау	linguistic			Begin=171.071
+164-1	SPK7002	undefined	164	тек	тек	linguistic			
+164-2	SPK7002	undefined	164	алдында	алдында	linguistic			End=171.687
+165-0	SPK7002	undefined	165	артында	артында	linguistic			Begin=171.687|End=172.187
+166-0	SPK7002	undefined	166	дым	дым	linguistic			Begin=172.187
+166-1	SPK7002	undefined	166	жоқ	жоқ	linguistic			
+166-2	SPK7002	undefined	166	ау	ау	linguistic			
+166-3	SPK7002	undefined	166	деймін	деймін	linguistic			End=172.966
+167-0	SPK7002	undefined	167	көрсетпейді	көрсетпейді	linguistic			Begin=172.966|End=173.655
+168-0	SPK7002	undefined	168	а:	а	linguistic		Prolongation=0	Begin=173.655|End=173.882
+169-0	SPK7002	undefined	169	жоқ	жоқ	linguistic			Begin=173.882|End=174.234
+170-0	SPK7002	undefined	170	артында	артында	linguistic			Begin=174.234
+170-1	SPK7002	undefined	170	дым	дым	linguistic			
+170-2	SPK7002	undefined	170	жоқ	жоқ	linguistic			End=175.013
+171-0	SPK7001	Rising	171	не	не	linguistic	_		Begin=175.027
+171-1	SPK7001	Rising	171	деп	деп	linguistic	_		
+171-2	SPK7001	Rising	171	тұр	тұр	linguistic	_		End=175.698
+172-0	SPK7001	undefined	172	дым	дым	linguistic	_		Begin=177.323
+172-1	SPK7001	undefined	172	жоқ	жоқ	linguistic	_		End=177.913
+173-0	SPK7002	undefined	173	мынаны	мынаны	linguistic			Begin=178.508
+173-1	SPK7002	undefined	173	қара	қара	linguistic			End=179.177
+174-0	SPK7002	undefined	174	мынаны	мынаны	linguistic			Begin=180.303
+174-1	SPK7002	undefined	174	қара	қара	linguistic			End=181.061
+175-0	SPK7001	Rising	175	неге	неге	linguistic	_		Begin=182.503|End=183.068
+176-0	SPK7002	undefined	176	білмеймін	білмеймін	linguistic			Begin=183.161|End=183.787
+177-0	SPK7002	undefined	177	может	может	linguistic			Begin=185.703
+177-1	SPK7002	undefined	177	ана	ана	linguistic			End=186.187
+178-0	SPK7002	undefined	178	качество	качество	linguistic			Begin=186.187
+178-1	SPK7002	undefined	178	ткани	ткани	linguistic			End=186.866
+179-0	SPK7002	undefined	179	бірдеңе	бірдеңе	linguistic			Begin=186.866
+179-1	SPK7002	undefined	179	шығар	шығар	linguistic			End=187.508
+180-0	SPK7002	undefined	180	разница	разница	linguistic			Begin=187.508
+180-1	SPK7002	undefined	180	беріп	беріп	linguistic			
+180-2	SPK7002	undefined	180	тұрған	тұрған	linguistic			End=188.513
+181-0	SPK7001	undefined	181	может	может	linguistic	_		Begin=188.405
+181-1	SPK7001	undefined	181	быть	быть	linguistic	_		End=189.022
+182-0	SPK7002	undefined	182	ананы	ананы	linguistic			Begin=189.403
+182-1	SPK7002	undefined	182	түртіп	түртіп	linguistic			
+182-2	SPK7002	undefined	182	жібер	жібер	linguistic			End=190.087
+183-0	SPK7002	undefined	183	қазір	қазір	linguistic			Begin=191.703
+183-1	SPK7002	undefined	183	даусы	даусы	linguistic			
+183-2	SPK7002	undefined	183	кетіп	кетіп	linguistic			
+183-3	SPK7002	undefined	183	қалады	қалады	linguistic			
+183-4	SPK7002	undefined	183	ана	ана	linguistic			
+183-5	SPK7002	undefined	183	жаққа	жаққа	linguistic			End=192.671
+184-0	SPK7002	undefined	184	хо:р	хор	linguistic		Prolongation=1	Begin=192.671|End=193.661
+185-0	SPK7002	undefined	185	естіліп	естіліп	linguistic			Begin=194.898
+185-1	SPK7002	undefined	185	қаласың	қаласың	linguistic			End=195.724
+186-0	SPK7002	undefined	186	ана	ана	linguistic			Begin=195.724
+186-1	SPK7002	undefined	186	жаққа	жаққа	linguistic			
+186-2	SPK7002	undefined	186	қазір	қазір	linguistic			End=196.408
+187-0	SPK7003	Rising	187	э	э	linguistic	_		Begin=196.759|End=198.057
+188-0	SPK7002	undefined	188	естіліп	естіліп	linguistic			Begin=198.608
+188-1	SPK7002	undefined	188	қаласың	қаласың	linguistic			End=199.424
+189-0	SPK7003	undefined	189	түртпе	түртпе	linguistic	_		Begin=199.812|End=201.215
+190-0	SPK7002	undefined	190	э:	э	linguistic		Prolongation=0	Begin=200.503|End=200.992
+191-0	SPK7002	undefined	191	етпе	етпе	linguistic			Begin=200.992|End=201.150
+192-0	SPK7002	undefined	192	а:	а	linguistic		Prolongation=0	Begin=201.150|End=201.745
+193-0	SPK7002	undefined	193	жақсы	жақсы	linguistic			Begin=201.745|End=202.434
+194-0	SPK7002	Rising	194	көрініп	көрініп	linguistic			Begin=204.008
+194-1	SPK7002	Rising	194	жатыр	жатыр	linguistic			
+194-2	SPK7002	Rising	194	ма	ма	linguistic			
+194-3	SPK7002	Rising	194	саған?	саған	linguistic			End=204.955
+195-0	SPK7003	undefined	195	иә	иә	linguistic	_		Begin=204.970|End=205.970
+196-0	SPK7002	undefined	196	а:	а	linguistic		Prolongation=0	Begin=205.540|End=205.998
+197-0	SPK7002	undefined	197	жақсы	жақсы	linguistic			Begin=205.998|End=206.361
+198-0	SPK7002	undefined	198	қарап	қарап	linguistic			Begin=206.361
+198-1	SPK7002	undefined	198	жат	жат	linguistic			End=206.782
+199-0	SPK7002	undefined	199	онда	онда	linguistic			Begin=206.782|End=207.198
+200-0	SPK7002	undefined	200	қалай	қалай	linguistic			Begin=208.113|End=208.955
+201-0	SPK7002	Rising	201	мынаны	мынаны	linguistic			Begin=208.955
+201-1	SPK7002	Rising	201	қалай	қалай	linguistic			
+201-2	SPK7002	Rising	201	көресің?	көресің	linguistic			End=209.819
+202-0	SPK7001	undefined	202	ұнайды	ұнайды	linguistic	_		Begin=209.412|End=209.782
+203-0	SPK7001	undefined	203	ұнайды	ұнайды	linguistic	_		Begin=209.782|End=210.081
+204-0	SPK7001	undefined	204	күшті	күшті	linguistic	_		Begin=210.081|End=210.802
+205-0	SPK7002	undefined	205	ұнайды	ұнайды	linguistic			Begin=211.508|End=212.082
+206-0	SPK7001	undefined	206	@@@@	@@@@	linguistic	_		Begin=213.256|End=214.405
+207-0	SPK7002	undefined	207	бізбен	бізбен	linguistic			Begin=213.808|End=214.113
+208-0	SPK7002	undefined	208	дүкен	дүкен	linguistic			Begin=214.113
+208-1	SPK7002	undefined	208	аралап	аралап	linguistic			
+208-2	SPK7002	undefined	208	жүрген	жүрген	linguistic			End=215.103
+209-0	SPK7002	undefined	209	адамның	адамның	linguistic			Begin=215.103
+209-1	SPK7002	undefined	209	мойнына	мойнына	linguistic			End=215.398
+210-0	SPK7002	undefined	210	қиып	қиып	linguistic			Begin=215.398
+210-1	SPK7002	undefined	210	саламыз	саламыз	linguistic			
+210-2	SPK7002	undefined	210	да	да	linguistic			End=216.540
+211-0	SPK7002	undefined	211	оплатасын	оплатасын	linguistic			Begin=216.540|End=217.503
+212-0	SPK7002	undefined	212	банковская	банковская	linguistic			Begin=217.708
+212-1	SPK7002	undefined	212	карточкасына	карточкасына	linguistic			End=219.313
+213-0	SPK7003	undefined	213	(H)	(H)	_	_		Begin=219.755|End=221.165
+214-0	SPK7003	undefined	214	(Hx)	(Hx)	_	_		Begin=221.165|End=223.099
+215-0	SPK7001	undefined	215	@@@@@@	@@@@@@	linguistic	_		Begin=221.905|End=224.490
+216-0	SPK7002	undefined	216	@@@@@@	@@@@@@	linguistic			Begin=222.403|End=224.987
+217-0	SPK7002	undefined	217	(Hx)	(Hx)	_			Begin=224.987|End=225.713
+218-0	SPK7002	undefined	218	күрсіндің	күрсіндің	linguistic			Begin=225.713
+218-1	SPK7002	undefined	218	ғой	ғой	linguistic			
+218-2	SPK7002	undefined	218	что	что	linguistic			
+218-3	SPK7002	undefined	218	то	то	linguistic			End=226.798
+219-0	SPK7002	undefined	219	@@@@@	@@@@@	linguistic			Begin=226.798|End=228.792
+220-0	SPK7002	Rising	220	а:?	а	linguistic		Prolongation=0	Begin=228.792|End=229.319
+221-0	SPK7002	undefined	221	@@@	@@@	linguistic			Begin=229.319|End=230.319
+222-0	SPK7003	Rising	222	Каспиден	Каспиден	linguistic	_		Begin=229.973
+222-1	SPK7003	Rising	222	кетпей	кетпей	linguistic	_		
+222-2	SPK7003	Rising	222	ме	ме	linguistic	_		End=231.381
+223-0	SPK7002	undefined	223	амал	амал	linguistic			Begin=231.087
+223-1	SPK7002	undefined	223	жоқ	жоқ	linguistic			End=231.540
+224-0	SPK7002	undefined	224	енді	енді	linguistic			Begin=231.540
+224-1	SPK7002	undefined	224	қайтейін	қайтейін	linguistic			
+224-2	SPK7002	undefined	224	енді	енді	linguistic			End=232.671
+225-0	SPK7002	undefined	225	дейсің	дейсің	linguistic			Begin=232.671
+225-1	SPK7002	undefined	225	ғой	ғой	linguistic			End=233.019
+226-0	SPK7002	undefined	226	а:	а	linguistic		Prolongation=0	Begin=233.019|End=233.455
+227-0	SPK7002	undefined	227	бірақ	бірақ	linguistic			Begin=233.455
+227-1	SPK7002	undefined	227	иә	иә	linguistic			End=233.950
+228-0	SPK7002	undefined	228	но	но	linguistic			Begin=233.950
+228-1	SPK7002	undefined	228	каспиға	каспиға	linguistic			
+228-2	SPK7002	undefined	228	да	да	linguistic			End=234.708
+229-0	SPK7002	undefined	229	біреу	біреу	linguistic			Begin=234.708
+229-1	SPK7002	undefined	229	салып	салып	linguistic			
+229-2	SPK7002	undefined	229	тұру	тұру	linguistic			
+229-3	SPK7002	undefined	229	керек	керек	linguistic			
+229-4	SPK7002	undefined	229	қой	қой	linguistic			End=235.719
+230-0	SPK7002	undefined	230	оны	оны	linguistic			Begin=235.719|End=236.408
+231-0	SPK7002	undefined	231	халық	халық	linguistic			Begin=236.408
+231-1	SPK7002	undefined	231	банктан	банктан	linguistic			End=236.913
+232-0	SPK7002	undefined	232	лақтырып	лақтырып	linguistic			Begin=236.913
+232-1	SPK7002	undefined	232	тұру	тұру	linguistic			
+232-2	SPK7002	undefined	232	керек	керек	linguistic			
+232-3	SPK7002	undefined	232	қой	қой	linguistic			
+232-4	SPK7002	undefined	232	біреу	біреу	linguistic			End=238.298
+233-0	SPK7002	undefined	233	ана	ана	linguistic			Begin=239.413|End=239.834
+234-0	SPK7002	undefined	234	бітіп	бітіп	linguistic			Begin=239.834
+234-1	SPK7002	undefined	234	қалмайтындай	қалмайтындай	linguistic			End=240.761
+235-0	SPK7002	undefined	235	қылып	қылып	linguistic			Begin=240.761|End=240.998
+236-0	SPK7002	undefined	236	пополнение	пополнение	linguistic			Begin=240.998
+236-1	SPK7002	undefined	236	жасап	жасап	linguistic			End=242.229
+237-0	SPK7002	Rising	237	мынау	мынау	linguistic			Begin=242.271
+237-1	SPK7002	Rising	237	не?	не	linguistic			End=242.966
+238-0	SPK7002	Rising	238	алып	алып	linguistic			Begin=242.966
+238-1	SPK7002	Rising	238	тастайын	тастайын	linguistic			
+238-2	SPK7002	Rising	238	ба?	ба	linguistic			End=243.813
+239-0	SPK7001	undefined	239	жоқ	жоқ	linguistic	_		Begin=244.646|End=245.087
+240-0	SPK7001	undefined	240	керек	керек	linguistic	_		Begin=245.087
+240-1	SPK7001	undefined	240	емес	емес	linguistic	_		End=245.814
+241-0	SPK7001	Rising	241	мынау	мынау	linguistic	_		Begin=247.074|End=247.769
+242-0	SPK7002	Rising	242	мынаны	мынаны	linguistic			Begin=247.255
+242-1	SPK7002	Rising	242	не	не	linguistic			
+242-2	SPK7002	Rising	242	істейсің?	істейсің	linguistic			End=248.292
+243-0	SPK7001	undefined	243	мынаның	мынаның	linguistic	_		Begin=248.289
+243-1	SPK7001	undefined	243	бар	бар	linguistic	_		
+243-2	SPK7001	undefined	243	ғой	ғой	linguistic	_		End=249.204
+244-0	SPK7001	undefined	244	рубашка	рубашка	linguistic	_		Begin=249.204
+244-1	SPK7001	undefined	244	емес	емес	linguistic	_		End=250.061
+245-0	SPK7001	Rising	245	футболка	футболка	linguistic	_		Begin=250.061
+245-1	SPK7001	Rising	245	түрін	түрін	linguistic	_		
+245-2	SPK7001	Rising	245	алсақ	алсақ	linguistic	_		
+245-3	SPK7001	Rising	245	ше	ше	linguistic	_		End=251.191
+246-0	SPK7002	undefined	246	білмеймін	білмеймін	linguistic			Begin=252.403|End=253.071
+247-0	SPK7002	undefined	247	қарайық	қарайық	linguistic			Begin=253.071
+247-1	SPK7002	undefined	247	қазір	қазір	linguistic			End=253.845
+248-0	SPK7001	undefined	248	футболка	футболка	linguistic	_		Begin=253.847
+248-1	SPK7001	undefined	248	да	да	linguistic	_		
+248-2	SPK7001	undefined	248	болсын	болсын	linguistic	_		End=254.717
+249-0	SPK7001	undefined	249	дегенім	дегенім	linguistic	_		Begin=254.717
+249-1	SPK7001	undefined	249	ғой	ғой	linguistic	_		End=255.224
+250-0	SPK7001	undefined	250	просто	просто	linguistic	_		Begin=255.224|End=255.711
+251-0	SPK7002	undefined	251	а:	а	linguistic		Prolongation=0	Begin=255.498|End=256.119
+252-0	SPK7002	undefined	252	қарайық	қарайық	linguistic			Begin=256.119
+252-1	SPK7002	undefined	252	қазір	қазір	linguistic			End=256.950
+253-0	SPK7002	undefined	253	(Hx)	(Hx)	_			Begin=259.129|End=260.146
+254-0	SPK7001	undefined	254	бізде	бізде	linguistic	_		Begin=259.646|End=260.165
+255-0	SPK7002	undefined	255	(Hx)	(Hx)	_			Begin=260.146|End=261.159
+256-0	SPK7001	undefined	256	киімде	киімде	linguistic	_		Begin=261.003|End=261.970
+257-0	SPK7001	undefined	257	қаланың	қаланың	linguistic	_		Begin=262.399
+257-1	SPK7001	undefined	257	аттары	аттары	linguistic	_		End=264.061
+258-0	SPK7002	undefined	258	мынаны	мынаны	linguistic			Begin=263.913
+258-1	SPK7002	undefined	258	қара	қара	linguistic			End=264.492
+259-0	SPK7002	undefined	259	бірдей	бірдей	linguistic			Begin=264.492
+259-1	SPK7002	undefined	259	да	да	linguistic			End=264.992
+260-0	SPK7002	undefined	260	мына	мына	linguistic			Begin=264.992
+260-1	SPK7002	undefined	260	екеуі	екеуі	linguistic			
+260-2	SPK7002	undefined	260	бірдей	бірдей	linguistic			End=266.071
+261-0	SPK7002	undefined	261	мынау	мынау	linguistic			Begin=266.513
+261-1	SPK7002	undefined	261	қара	қара	linguistic			End=267.145
+262-0	SPK7001	Interrupted	262	#-	#	unknown	_	Interrupted=Yes	Begin=267.996|End=268.607
+263-0	SPK7002	undefined	263	төмендеу	төмендеу	linguistic			Begin=268.308|End=268.992
+264-0	SPK7001	Rising	264	неге	неге	linguistic	_		Begin=270.100
+264-1	SPK7001	Rising	264	екен	екен	linguistic	_		End=270.866
+265-0	SPK7002	undefined	265	Price-ы	Price-ы	linguistic			Begin=270.508|End=271.134
+266-0	SPK7002	undefined	266	мынау	мынау	linguistic			Begin=276.208
+266-1	SPK7002	undefined	266	не	не	linguistic			
+266-2	SPK7002	undefined	266	екен	екен	linguistic			End=276.750
+267-0	SPK7002	Rising	267	а?	а	linguistic			Begin=276.750|End=277.208
+268-0	SPK7001	undefined	268	мода	мода	linguistic	_		Begin=277.912|End=278.418
+269-0	SPK7002	undefined	269	жоқ	жоқ	linguistic			Begin=278.524
+269-1	SPK7002	undefined	269	мына	мына	linguistic			End=278.945
+270-0	SPK7002	undefined	270	бетіндегісі	бетіндегісі	linguistic			Begin=278.945|End=279.734
+271-0	SPK7002	Rising	271	сурет	сурет	linguistic			Begin=279.734
+271-1	SPK7002	Rising	271	пе	пе	linguistic			
+271-2	SPK7002	Rising	271	екен?	екен	linguistic			End=280.250
+272-0	SPK7002	Rising	272	ілгек	ілгек	linguistic			Begin=280.250
+272-1	SPK7002	Rising	272	пе	пе	linguistic			
+272-2	SPK7002	Rising	272	екен?	екен	linguistic			End=281.098
+273-0	SPK7002	undefined	273	тек	тек	linguistic			Begin=282.603
+273-1	SPK7002	undefined	273	салып	салып	linguistic			
+273-2	SPK7002	undefined	273	кеткен	кеткен	linguistic			End=283.229
+274-0	SPK7002	Rising	274	не	не	linguistic			Begin=283.229
+274-1	SPK7002	Rising	274	ме	ме	linguistic			
+274-2	SPK7002	Rising	274	екен?	екен	linguistic			End=283.861
+275-0	SPK7002	Rising	275	қара	қара	linguistic			Begin=283.919
+275-1	SPK7002	Rising	275	нүктелер	нүктелер	linguistic			
+275-2	SPK7002	Rising	275	ме	ме	linguistic			
+275-3	SPK7002	Rising	275	екен?	екен	linguistic			End=285.055
+276-0	SPK7001	undefined	276	ілгек	ілгек	linguistic	_		Begin=285.211
+276-1	SPK7001	undefined	276	шығар	шығар	linguistic	_		End=285.860
+277-0	SPK7002	undefined	277	тігіліп	тігіліп	linguistic			Begin=285.698
+277-1	SPK7002	undefined	277	қалған	қалған	linguistic			End=286.313
+278-0	SPK7002	Rising	278	ілгек	ілгек	linguistic			Begin=286.313
+278-1	SPK7002	Rising	278	пе	пе	linguistic			
+278-2	SPK7002	Rising	278	екен?	екен	linguistic			End=287.213
+279-0	SPK7001	undefined	279	вряд	вряд	linguistic	_		Begin=287.126
+279-1	SPK7001	undefined	279	ли	ли	linguistic	_		End=287.561
+280-0	SPK7001	undefined	280	сурет	сурет	linguistic	_		Begin=287.561|End=288.120
+281-0	SPK7002	undefined	281	бірақ	бірақ	linguistic			Begin=288.398
+281-1	SPK7002	undefined	281	бағасы	бағасы	linguistic			End=289.098
+282-0	SPK7002	undefined	282	жаңағымен	жаңағымен	linguistic			Begin=289.098
+282-1	SPK7002	undefined	282	бірдей	бірдей	linguistic			
+282-2	SPK7002	undefined	282	екен	екен	linguistic			End=290.155
+283-0	SPK7001	undefined	283	ы:м	ым	linguistic	_	Prolongation=0	Begin=290.152|End=291.074
+284-0	SPK7002	undefined	284	мынаны	мынаны	linguistic			Begin=293.208
+284-1	SPK7002	undefined	284	қара	қара	linguistic			End=293.929
+285-0	SPK7001	undefined	285	ы	ы	linguistic	_		Begin=294.853
+285-1	SPK7001	undefined	285	ым	ым	linguistic	_		
+285-2	SPK7001	undefined	285	жоқ	жоқ	paraverbal	_		End=295.464
+286-0	SPK7002	undefined	286	пиджак	пиджак	linguistic			Begin=297.092
+286-1	SPK7002	undefined	286	киесің	киесің	linguistic			End=298.045
+287-0	SPK7002	undefined	287	ана	ана	linguistic			Begin=298.045
+287-1	SPK7002	undefined	287	пиджагыңның	пиджагыңның	linguistic			
+287-2	SPK7002	undefined	287	астына	астына	linguistic			End=299.413
+288-0	SPK7001	undefined	288	надпись	надпись	linguistic	_		Begin=298.198
+288-1	SPK7001	undefined	288	болса	болса	linguistic	_		End=299.146
+289-0	SPK7001	undefined	289	бір	бір	linguistic	_		Begin=299.146
+289-1	SPK7001	undefined	289	ғана	ғана	linguistic	_		
+289-2	SPK7001	undefined	289	надпись	надпись	linguistic	_		
+289-3	SPK7001	undefined	289	болғаны	болғаны	linguistic	_		
+289-4	SPK7001	undefined	289	жақсы	жақсы	linguistic	_		
+289-5	SPK7001	undefined	289	ғой	ғой	linguistic	_		End=300.724
+290-0	SPK7001	undefined	290	бірнеше	бірнеше	linguistic	_		Begin=300.724
+290-1	SPK7001	undefined	290	надпись	надпись	linguistic	_		End=301.847
+291-0	SPK7002	undefined	291	м:	м	linguistic		Prolongation=0	Begin=300.808|End=301.828
+292-0	SPK7001	undefined	292	слишком	слишком	linguistic	_		Begin=301.879|End=302.633
+293-0	SPK7001	undefined	293	тяжелый	тяжелый	linguistic	_		Begin=304.003|End=304.970
+294-0	SPK7002	undefined	294	нагромождение	нагромождение	linguistic			Begin=304.188|End=304.958
+295-0	SPK7002	Rising	295	не	не	linguistic			Begin=304.958
+295-1	SPK7002	Rising	295	болып	болып	linguistic			
+295-2	SPK7002	Rising	295	кете	кете	linguistic			
+295-3	SPK7002	Rising	295	ме?	ме	linguistic			End=305.768
+296-0	SPK7001	undefined	296	да	да	linguistic	_		Begin=304.970|End=305.587
+297-0	SPK7002	undefined	297	мына	мына	linguistic			Begin=307.408
+297-1	SPK7002	undefined	297	екеуі	екеуі	linguistic			
+297-2	SPK7002	undefined	297	бірдей	бірдей	linguistic			End=308.138
+298-0	SPK7002	undefined	298	қара	қара	linguistic			Begin=308.138|End=308.678
+299-0	SPK7001	Rising	299	не	не	linguistic	_		Begin=309.457|End=310.042
+300-0	SPK7002	undefined	300	жазуы	жазуы	linguistic			Begin=309.608|End=310.358
+301-0	SPK7001	undefined	301	а:	а	linguistic	_	Prolongation=0	Begin=310.360|End=310.977
+302-0	SPK7002	undefined	302	мына	мына	linguistic			Begin=311.348
+302-1	SPK7002	undefined	302	екеуі	екеуі	linguistic			End=312.028
+303-0	SPK7002	undefined	303	тек	тек	linguistic			Begin=312.028
+303-1	SPK7002	undefined	303	жеңдері	жеңдері	linguistic			End=312.828
+304-0	SPK7002	undefined	304	несі	несі	linguistic			Begin=312.828
+304-1	SPK7002	undefined	304	беріп	беріп	linguistic			
+304-2	SPK7002	undefined	304	тұр	тұр	linguistic			End=314.158
+305-0	SPK7001	undefined	305	мынау	мынау	linguistic	_		Begin=314.737
+305-1	SPK7001	undefined	305	видишь	видишь	linguistic	_		End=315.301
+306-0	SPK7001	undefined	306	мынау	мынау	linguistic	_		Begin=315.301|End=315.814
+307-0	SPK7001	undefined	307	шрифті	шрифті	linguistic	_		Begin=315.814
+307-1	SPK7001	undefined	307	үлкендеу	үлкендеу	linguistic	_		End=317.100
+308-0	SPK7002	undefined	308	иә	иә	linguistic			Begin=317.598|End=318.148
+309-0	SPK7001	undefined	309	и	и	linguistic	_		Begin=317.717
+309-1	SPK7001	undefined	309	түсі	түсі	linguistic	_		
+309-2	SPK7001	undefined	309	басқа	басқа	linguistic	_		End=318.587
+310-0	SPK7001	undefined	310	анау	анау	linguistic	_		Begin=321.009
+310-1	SPK7001	undefined	310	қарасы	қарасы	linguistic	_		End=321.711
+311-0	SPK7001	undefined	311	лучше	лучше	linguistic	_		Begin=321.711
+311-1	SPK7001	undefined	311	сияқты	сияқты	linguistic	_		End=322.399
+312-0	SPK7002	undefined	312	мынаны	мынаны	linguistic			Begin=322.608
+312-1	SPK7002	undefined	312	қара	қара	linguistic			End=323.208
+313-0	SPK7002	undefined	313	тоже	тоже	linguistic			Begin=323.208|End=323.498
+314-0	SPK7002	undefined	314	Price	Price	linguistic			Begin=323.498
+314-1	SPK7002	undefined	314	жаңағындай	жаңағындай	linguistic			
+314-2	SPK7002	undefined	314	да	да	linguistic			End=324.693
+315-0	SPK7001	undefined	315	м:	м	linguistic	_	Prolongation=0	Begin=324.503|End=324.964
+316-0	SPK7001	undefined	316	бірақ	бірақ	linguistic	_		Begin=324.964
+316-1	SPK7001	undefined	316	мынау	мынау	linguistic	_		
+316-2	SPK7001	undefined	316	неочень	неочень	linguistic	_		End=325.542
+317-0	SPK7001	undefined	317	интересно	интересно	linguistic	_		Begin=325.542|End=326.353
+318-0	SPK7002	undefined	318	иә	иә	linguistic			Begin=326.898|End=327.438
+319-0	SPK7002	undefined	319	мына	мына	linguistic			Begin=328.708|End=329.128
+320-0	SPK7002	undefined	320	уже	уже	linguistic			Begin=329.128
+320-1	SPK7002	undefined	320	өзінен	өзінен	linguistic			End=329.848
+321-0	SPK7002	undefined	321	бетінен	бетінен	linguistic			Begin=329.848
+321-1	SPK7002	undefined	321	полоска	полоска	linguistic			
+321-2	SPK7002	undefined	321	шыққасын	шыққасын	linguistic			End=330.948
+322-0	SPK7002	undefined	322	уже	уже	linguistic			Begin=330.948
+322-1	SPK7002	undefined	322	ананы	ананы	linguistic			End=331.498
+323-0	SPK7002	undefined	323	артық	артық	linguistic			Begin=331.498
+323-1	SPK7002	undefined	323	жасамаған	жасамаған	linguistic			
+323-2	SPK7002	undefined	323	болып	болып	linguistic			
+323-3	SPK7002	undefined	323	тұр	тұр	linguistic			
+323-4	SPK7002	undefined	323	ғой	ғой	linguistic			End=332.898
+324-0	SPK7002	undefined	324	мынау	мынау	linguistic			Begin=333.298
+324-1	SPK7002	undefined	324	ана	ана	linguistic			End=334.358
+325-0	SPK7002	undefined	325	#	#	unknown			Begin=335.318
+325-1	SPK7002	undefined	325	бар	бар	linguistic			
+325-2	SPK7002	undefined	325	ғой	ғой	linguistic			End=336.378
+326-0	SPK7002	undefined	326	рисунок	рисунок	linguistic			Begin=336.378|End=336.798
+327-0	SPK7002	undefined	327	сондай	сондай	linguistic			Begin=336.798
+327-1	SPK7002	undefined	327	сияқты	сияқты	linguistic			End=337.788
+328-0	SPK7001	undefined	328	мынау	мынау	linguistic	_		Begin=337.509|End=337.951
+329-0	SPK7001	undefined	329	әжелердің	әжелердің	linguistic	_		Begin=337.951
+329-1	SPK7001	undefined	329	киетіні	киетіні	linguistic	_		End=338.711
+330-0	SPK7002	undefined	330	сол	сол	linguistic			Begin=338.708|End=338.998
+331-0	SPK7001	undefined	331	несі	несі	linguistic	_		Begin=338.711|End=339.204
+332-0	SPK7002	undefined	332	сол	сол	linguistic			Begin=338.998
+332-1	SPK7002	undefined	332	айтам	айтам	linguistic			
+332-2	SPK7002	undefined	332	ғой	ғой	linguistic			End=339.258
+333-0	SPK7002	undefined	333	ана	ана	linguistic			Begin=339.258
+333-1	SPK7002	undefined	333	баяғы	баяғы	linguistic			End=339.928
+334-0	SPK7002	undefined	334	нелер	нелер	linguistic			Begin=339.928|End=340.368
+335-0	SPK7002	undefined	335	жаңағы	жаңағы	linguistic			Begin=340.908|End=341.348
+336-0	SPK7002	Rising	336	не	не	linguistic			Begin=341.348
+336-1	SPK7002	Rising	336	зат	зат	linguistic			
+336-2	SPK7002	Rising	336	еді?	еді	linguistic			End=342.171
+337-0	SPK7002	undefined	337	ана	ана	linguistic			Begin=342.218
+337-1	SPK7002	undefined	337	Голландские	Голландские	linguistic			
+337-2	SPK7002	undefined	337	мельницалар	мельницалар	linguistic			End=343.708
+338-0	SPK7001	undefined	338	а:	а	linguistic	_	Prolongation=0	Begin=343.594|End=344.360
+339-0	SPK7002	undefined	339	нелер	нелер	linguistic			Begin=343.708|End=344.002
+340-0	SPK7002	undefined	340	кілең	кілең	linguistic			Begin=344.002|End=344.260
+341-0	SPK7002	undefined	341	сондай	сондай	linguistic			Begin=344.260
+341-1	SPK7002	undefined	341	рисункасы	рисункасы	linguistic			End=344.957
+342-0	SPK7001	undefined	342	@	@	linguistic	_		Begin=344.360|End=344.814
+343-0	SPK7002	undefined	343	қара	қара	linguistic			Begin=344.957|End=345.264
+344-0	SPK7001	Rising	344	неге	неге	linguistic	_		Begin=346.607
+344-1	SPK7001	Rising	344	Голландия	Голландия	linguistic	_		End=347.457
+345-0	SPK7002	undefined	345	біздің	біздің	linguistic			Begin=348.600
+345-1	SPK7002	undefined	345	ассоциациямыз	ассоциациямыз	linguistic			
+345-2	SPK7002	undefined	345	сондай	сондай	linguistic			
+345-3	SPK7002	undefined	345	шығар	шығар	linguistic			End=350.256
+346-0	SPK7002	undefined	346	негізі	негізі	linguistic			Begin=350.256
+346-1	SPK7002	undefined	346	Голландия	Голландия	linguistic			
+346-2	SPK7002	undefined	346	емес	емес	linguistic			
+346-3	SPK7002	undefined	346	шығар	шығар	linguistic			End=351.665
+347-0	SPK7002	undefined	347	просто	просто	linguistic			Begin=352.198|End=352.574
+348-0	SPK7002	undefined	348	бізге	бізге	linguistic			Begin=352.574
+348-1	SPK7002	undefined	348	сондай	сондай	linguistic			
+348-2	SPK7002	undefined	348	болып	болып	linguistic			
+348-3	SPK7002	undefined	348	елестеп	елестеп	linguistic			
+348-4	SPK7002	undefined	348	тұрған	тұрған	linguistic			
+348-5	SPK7002	undefined	348	шығар	шығар	linguistic			End=354.301
+349-0	SPK7001	undefined	349	солай	солай	linguistic	_		Begin=354.698
+349-1	SPK7001	undefined	349	шығар	шығар	linguistic	_		End=355.366
+350-0	SPK7002	Rising	350	мынау	мынау	linguistic			Begin=357.399
+350-1	SPK7002	Rising	350	ше?	ше	linguistic			End=358.061
+351-0	SPK7001	undefined	351	жоқ	жоқ	linguistic	_		Begin=358.801|End=359.126
+352-0	SPK7001	undefined	352	простенький	простенький	linguistic	_		Begin=359.126|End=359.847
+353-0	SPK7002	undefined	353	манжеті	манжеті	linguistic			Begin=361.600
+353-1	SPK7002	undefined	353	ақ	ақ	linguistic			
+353-2	SPK7002	undefined	353	қой	қой	linguistic			End=362.490
+354-0	SPK7002	undefined	354	десең	десең	linguistic			Begin=362.490
+354-1	SPK7002	undefined	354	да	да	linguistic			
+354-2	SPK7002	undefined	354	@	@	linguistic			End=363.327
+355-0	SPK7001	undefined	355	@	@	linguistic	_		Begin=363.516|End=363.977
+356-0	SPK7002	undefined	356	мынау	мынау	linguistic			Begin=367.204
+356-1	SPK7002	undefined	356	жаңа	жаңа	linguistic			
+356-2	SPK7002	undefined	356	да	да	linguistic			End=368.009
+357-0	SPK7002	undefined	357	болған	болған	linguistic			Begin=368.009
+357-1	SPK7002	undefined	357	сияқты	сияқты	linguistic			End=368.535
+358-0	SPK7002	Rising	358	да?	да	linguistic			Begin=368.535|End=368.957
+359-0	SPK7001	undefined	359	иә	иә	linguistic	_		Begin=369.711|End=369.925
+360-0	SPK7001	undefined	360	болды	болды	linguistic	_		Begin=369.925|End=370.457
+361-0	SPK7001	undefined	361	анау	анау	linguistic	_		Begin=376.905
+361-1	SPK7001	undefined	361	да	да	linguistic	_		
+361-2	SPK7001	undefined	361	болды	болды	linguistic	_		End=377.704
+362-0	SPK7001	undefined	362	розовый	розовый	linguistic	_		Begin=377.704
+362-1	SPK7001	undefined	362	надписьпен	надписьпен	linguistic	_		End=378.860
+363-0	SPK7002	Rising	363	мынау	мынау	linguistic			Begin=379.659
+363-1	SPK7002	Rising	363	ма?	ма	linguistic			End=380.139
+364-0	SPK7002	undefined	364	иә	иә	linguistic			Begin=380.139|End=380.366
+365-0	SPK7002	undefined	365	бұл	бұл	linguistic			Begin=380.366
+365-1	SPK7002	undefined	365	да	да	linguistic			
+365-2	SPK7002	undefined	365	болады	болады	linguistic			End=381.366
+366-0	SPK7001	undefined	366	неге	неге	linguistic	_		Begin=381.314|End=381.659
+367-0	SPK7001	Rising	367	екі	екі	linguistic	_		Begin=381.659
+367-1	SPK7001	Rising	367	рет	рет	linguistic	_		
+367-2	SPK7001	Rising	367	шығып	шығып	linguistic	_		
+367-3	SPK7001	Rising	367	жатыр	жатыр	linguistic	_		End=382.607
+368-0	SPK7002	undefined	368	ұмытып	ұмытып	linguistic			Begin=385.503
+368-1	SPK7002	undefined	368	кетіп	кетіп	linguistic			End=386.133
+369-0	SPK7002	undefined	369	қайтіп	қайтіп	linguistic			Begin=386.133
+369-1	SPK7002	undefined	369	салған	салған	linguistic			
+369-2	SPK7002	undefined	369	десеңші	десеңші	linguistic			End=387.301
+370-0	SPK7001	undefined	370	не	не	linguistic	_		Begin=387.172
+370-1	SPK7001	undefined	370	мына	мына	linguistic	_		End=387.665
+371-0	SPK7001	undefined	371	рубашка	рубашка	linguistic	_		Begin=387.665|End=388.042
+372-0	SPK7001	undefined	372	а	а	linguistic	_		Begin=388.042
+372-1	SPK7001	undefined	372	ой	ой	linguistic	_		End=388.438
+373-0	SPK7001	undefined	373	футболканы	футболканы	linguistic	_		Begin=388.438
+373-1	SPK7001	undefined	373	айтамын	айтамын	linguistic	_		End=389.340
+374-0	SPK7002	Rising	374	м?	м	linguistic			Begin=391.107|End=391.879
+375-0	SPK7001	Rising	375	дешевый	дешевый	linguistic	_		Begin=393.905|End=394.866
+376-0	SPK7002	undefined	376	че	че	linguistic			Begin=394.100|End=394.399
+377-0	SPK7002	undefined	377	иә	иә	linguistic			Begin=394.905|End=395.379
+378-0	SPK7001	undefined	378	рукава	рукава	linguistic	_		Begin=396.808
+378-1	SPK7001	undefined	378	нормальные	нормальные	linguistic	_		End=397.912
+379-0	SPK7001	Rising	379	да	да	linguistic	_		Begin=398.003|End=398.464
+380-0	SPK7002	undefined	380	а:	а	linguistic		Prolongation=0	Begin=398.607|End=399.113
+381-0	SPK7002	undefined	381	мынаны	мынаны	linguistic			Begin=399.821|End=400.360
+382-0	SPK7002	undefined	382	қара	қара	linguistic			Begin=400.360|End=400.724
+383-0	SPK7002	undefined	383	қапталында	қапталында	linguistic			Begin=400.724
+383-1	SPK7002	undefined	383	да	да	linguistic			
+383-2	SPK7002	undefined	383	жазуы	жазуы	linguistic			
+383-3	SPK7002	undefined	383	бар	бар	linguistic			End=402.159
+384-0	SPK7001	undefined	384	иә	иә	linguistic	_		Begin=402.698|End=403.230
+385-0	SPK7002	undefined	385	джинсысында	джинсысында	linguistic			Begin=403.207|End=403.720
+386-0	SPK7002	undefined	386	қара	қара	linguistic			Begin=403.720|End=404.189
+387-0	SPK7001	undefined	387	ну	ну	linguistic	_		Begin=404.191|End=404.470
+388-0	SPK7001	undefined	388	вроде	вроде	linguistic	_		Begin=404.470|End=404.860
+389-0	SPK7001	undefined	389	джинсылар	джинсылар	linguistic	_		Begin=405.704
+389-1	SPK7001	undefined	389	сондай	сондай	linguistic	_		End=406.691
+390-0	SPK7001	undefined	390	қазір	қазір	linguistic	_		Begin=407.152
+390-1	SPK7001	undefined	390	мода	мода	linguistic	_		
+390-2	SPK7001	undefined	390	сияқты	сияқты	linguistic	_		End=408.068
+391-0	SPK7002	Rising	391	жазылған	жазылған	linguistic			Begin=408.835
+391-1	SPK7002	Rising	391	ба?	ба	linguistic			End=409.507
+392-0	SPK7001	undefined	392	не	не	linguistic	_		Begin=409.470
+392-1	SPK7001	undefined	392	то	то	linguistic	_		
+392-2	SPK7001	undefined	392	чтобы	чтобы	linguistic	_		
+392-3	SPK7001	undefined	392	мода	мода	linguistic	_		End=410.392
+393-0	SPK7001	undefined	393	но	но	linguistic	_		Begin=410.392|End=410.724
+394-0	SPK7001	undefined	394	киеді	киеді	linguistic	_		Begin=410.724|End=411.243
+395-0	SPK7001	undefined	395	иә	иә	linguistic	_		Begin=411.704|End=412.263
+396-0	SPK7002	undefined	396	қарасаңшы	қарасаңшы	linguistic			Begin=412.109
+396-1	SPK7002	undefined	396	онда	онда	linguistic			End=412.711
+397-0	SPK7002	undefined	397	біздегі	біздегі	linguistic			Begin=412.711
+397-1	SPK7002	undefined	397	қазір	қазір	linguistic			
+397-2	SPK7002	undefined	397	не	не	linguistic			
+397-3	SPK7002	undefined	397	шықты	шықты	linguistic			End=414.065
+398-0	SPK7001	undefined	398	анандай	анандай	linguistic	_		Begin=412.795|End=413.256
+399-0	SPK7001	undefined	399	несі	несі	linguistic	_		Begin=413.256
+399-1	SPK7001	undefined	399	бар	бар	linguistic	_		End=414.139
+400-0	SPK7001	undefined	400	типа	типа	linguistic	_		Begin=414.139|End=414.451
+401-0	SPK7001	undefined	401	ткань	ткань	linguistic	_		Begin=414.451|End=414.879
+402-0	SPK7001	Interrupted	402	пре-	пре	linguistic	_	Interrupted=Yes	Begin=414.879|End=415.308
+403-0	SPK7001	undefined	403	проводят	проводят	linguistic	_		Begin=415.308
+403-1	SPK7001	undefined	403	вот	вот	linguistic	_		
+403-2	SPK7001	undefined	403	так	так	linguistic	_		End=416.217
+404-0	SPK7001	undefined	404	потом	потом	linguistic	_		Begin=416.217|End=416.457
+405-0	SPK7001	undefined	405	үстінен	үстінен	linguistic	_		Begin=416.457
+405-1	SPK7001	undefined	405	надпись	надпись	linguistic	_		
+405-2	SPK7001	undefined	405	жазады	жазады	linguistic	_		End=417.594
+406-0	SPK7002	undefined	406	жоқ	жоқ	linguistic			Begin=418.357|End=418.676
+407-0	SPK7002	undefined	407	енді	енді	linguistic			Begin=418.676
+407-1	SPK7002	undefined	407	біз	біз	linguistic			
+407-2	SPK7002	undefined	407	қазір	қазір	linguistic			
+407-3	SPK7002	undefined	407	рубашка	рубашка	linguistic			
+407-4	SPK7002	undefined	407	қарап	қарап	linguistic			
+407-5	SPK7002	undefined	407	отырмыз	отырмыз	linguistic			
+407-6	SPK7002	undefined	407	ғой	ғой	linguistic			End=420.083
+408-0	SPK7002	undefined	408	джинсысын	джинсысын	linguistic			Begin=420.083
+408-1	SPK7002	undefined	408	қарасаң	қарасаң	linguistic			End=420.932
+409-0	SPK7002	undefined	409	ол	ол	linguistic			Begin=420.932
+409-1	SPK7002	undefined	409	да	да	linguistic			
+409-2	SPK7002	undefined	409	бар	бар	linguistic			
+409-3	SPK7002	undefined	409	шығар	шығар	linguistic			End=421.853
+410-0	SPK7001	undefined	410	ым:	ым	linguistic	_	Prolongation=1	Begin=421.776|End=422.133
+411-0	SPK7001	undefined	411	я	я	linguistic	_		Begin=422.133
+411-1	SPK7001	undefined	411	не	не	linguistic	_		
+411-2	SPK7001	undefined	411	хочу	хочу	linguistic	_		End=422.626
+412-0	SPK7001	undefined	412	ондай	ондай	linguistic	_		Begin=422.626
+412-1	SPK7001	undefined	412	джинсы	джинсы	linguistic	_		
+412-2	SPK7001	undefined	412	киюге	киюге	linguistic	_		End=423.685
+413-0	SPK7002	undefined	413	мынаны	мынаны	linguistic			Begin=426.906
+413-1	SPK7002	undefined	413	қара	қара	linguistic			End=427.640
+414-0	SPK7002	Rising	414	әдемі	әдемі	linguistic			Begin=427.640
+414-1	SPK7002	Rising	414	ме?	ме	linguistic			End=428.569
+415-0	SPK7002	undefined	415	мынау	мынау	linguistic			Begin=428.711
+415-1	SPK7002	undefined	415	қырық	қырық	linguistic			
+415-2	SPK7002	undefined	415	тоғыз	тоғыз	linguistic			End=429.384
+416-0	SPK7002	undefined	416	мынау	мынау	linguistic			Begin=429.384
+416-1	SPK7002	undefined	416	отыз	отыз	linguistic			
+416-2	SPK7002	undefined	416	тоғыз	тоғыз	linguistic			End=430.693
+417-0	SPK7002	undefined	417	жаңа	жаңа	linguistic			Begin=430.808
+417-1	SPK7002	undefined	417	сенің	сенің	linguistic			
+417-2	SPK7002	undefined	417	белгілегеніңді	белгілегеніңді	linguistic			End=432.189
+418-0	SPK7002	undefined	418	отыз	отыз	linguistic			Begin=432.189
+418-1	SPK7002	undefined	418	тоғыз	тоғыз	linguistic			
+418-2	SPK7002	undefined	418	болып	болып	linguistic			
+418-3	SPK7002	undefined	418	тұр	тұр	linguistic			End=433.437
+419-0	SPK7002	undefined	419	(H)	(H)	_			Begin=434.100|End=434.976
+420-0	SPK7002	undefined	420	(Hx)	(Hx)	_			Begin=434.976|End=436.242
+421-0	SPK7001	undefined	421	может	может	linguistic	_		Begin=436.522|End=436.996
+422-0	SPK7001	undefined	422	не	не	linguistic	_		Begin=436.996
+422-1	SPK7001	undefined	422	шығар	шығар	linguistic	_		End=437.522
+423-0	SPK7001	undefined	423	составь	составь	linguistic	_		Begin=437.691
+423-1	SPK7001	undefined	423	ткани	ткани	linguistic	_		End=438.607
+424-0	SPK7002	Rising	424	м?	м	linguistic			Begin=438.012|End=438.764
+425-0	SPK7001	Rising	425	қандай	қандай	linguistic	_		Begin=438.607
+425-1	SPK7001	Rising	425	кстати	кстати	linguistic	_		End=439.717
+426-0	SPK7002	Rising	426	қайсы?	қайсы	linguistic			Begin=440.640|End=441.003
+427-0	SPK7002	undefined	427	жаңа	жаңа	linguistic			Begin=441.003
+427-1	SPK7002	undefined	427	ашқанымыз	ашқанымыз	linguistic			End=441.799
+428-0	SPK7002	Rising	428	сол	сол	linguistic			Begin=441.799
+428-1	SPK7002	Rising	428	ма?	ма	linguistic			End=442.074
+429-0	SPK7002	Rising	429	мынау	мынау	linguistic			Begin=442.074
+429-1	SPK7002	Rising	429	ма?	ма	linguistic			End=442.587
+430-0	SPK7002	undefined	430	ашылып	ашылып	linguistic			Begin=442.587
+430-1	SPK7002	undefined	430	жатыр	жатыр	linguistic			End=443.171
+431-0	SPK7001	undefined	431	иә	иә	linguistic	_		Begin=442.905|End=443.133
+432-0	SPK7001	undefined	432	сол	сол	linguistic	_		Begin=443.133|End=443.587
+433-0	SPK7002	Rising	433	қайсы?	қайсы	linguistic			Begin=444.799|End=445.419
+434-0	SPK7002	Rising	434	қай	қай	linguistic			Begin=445.419
+434-1	SPK7002	Rising	434	жерден	жерден	linguistic			
+434-2	SPK7002	Rising	434	қарайтын	қарайтын	linguistic			
+434-3	SPK7002	Rising	434	едік?	едік	linguistic			End=446.738
+435-0	SPK7001	undefined	435	бір	бір	linguistic	_		Begin=446.568
+435-1	SPK7001	undefined	435	жерде	жерде	linguistic	_		
+435-2	SPK7001	undefined	435	жазылып	жазылып	linguistic	_		End=447.431
+436-0	SPK7001	undefined	436	тұратын	тұратын	linguistic	_		Begin=447.431
+436-1	SPK7001	undefined	436	еді	еді	linguistic	_		
+436-2	SPK7001	undefined	436	ғой	ғой	linguistic	_		End=448.185
+437-0	SPK7002	Rising	437	мына	мына	linguistic			Begin=448.012
+437-1	SPK7002	Rising	437	жерде	жерде	linguistic			
+437-2	SPK7002	Rising	437	сияқты	сияқты	linguistic			
+437-3	SPK7002	Rising	437	да?	да	linguistic			End=449.136
+438-0	SPK7001	undefined	438	а:	а	linguistic	_	Prolongation=0	Begin=448.704|End=449.042
+439-0	SPK7001	undefined	439	да	да	linguistic	_		Begin=449.042|End=449.250
+440-0	SPK7001	undefined	440	қарашы	қарашы	linguistic	_		Begin=449.250|End=449.743
+441-0	SPK7001	undefined	441	cotton	cotton	linguistic	_		Begin=451.204|End=451.776
+442-0	SPK7001	undefined	442	spandex	spandex	linguistic	_		Begin=451.776|End=452.659
+443-0	SPK7001	Rising	443	мынау	мынау	linguistic	_		Begin=452.659
+443-1	SPK7001	Rising	443	не	не	linguistic	_		End=453.392
+444-0	SPK7002	undefined	444	не	не	linguistic			Begin=453.959|End=454.419
+445-0	SPK7002	undefined	445	синтетикпен	синтетикпен	linguistic			Begin=454.507
+445-1	SPK7002	undefined	445	араласып	араласып	linguistic			
+445-2	SPK7002	undefined	445	тұр	тұр	linguistic			
+445-3	SPK7002	undefined	445	ғой	ғой	linguistic			End=456.375
+446-0	SPK7001	undefined	446	а:	а	linguistic	_	Prolongation=0	Begin=456.379|End=457.555
+447-0	SPK7001	undefined	447	может	может	linguistic	_		Begin=457.555
+447-1	SPK7001	undefined	447	поэтому	поэтому	linguistic	_		End=458.600
+448-0	SPK7001	undefined	448	арзан	арзан	linguistic	_		Begin=458.600
+448-1	SPK7001	undefined	448	шығып	шығып	linguistic	_		
+448-2	SPK7001	undefined	448	тұр	тұр	linguistic	_		End=459.756
+449-0	SPK7002	undefined	449	мынаны	мынаны	linguistic			Begin=459.215
+449-1	SPK7002	undefined	449	қарайық	қарайық	linguistic			End=459.976
+450-0	SPK7001	undefined	450	қара	қара	linguistic	_		Begin=460.665|End=461.139
+451-0	SPK7002	undefined	451	просто	просто	linguistic			Begin=460.808|End=461.578
+452-0	SPK7001	undefined	452	бірақ	бірақ	linguistic	_		Begin=461.204|End=461.535
+453-0	SPK7001	undefined	453	қарасын	қарасын	linguistic	_		Begin=461.535|End=462.081
+454-0	SPK7001	undefined	454	кигім	кигім	linguistic	_		Begin=462.081
+454-1	SPK7001	undefined	454	келіп	келіп	linguistic	_		
+454-2	SPK7001	undefined	454	тұрған	тұрған	linguistic	_		
+454-3	SPK7001	undefined	454	жоқ	жоқ	linguistic	_		End=463.048
+455-0	SPK7002	undefined	455	жоқ	жоқ	linguistic			Begin=463.109|End=463.233
+456-0	SPK7002	undefined	456	қарайық	қарайық	linguistic			Begin=463.233|End=463.711
+457-0	SPK7002	undefined	457	құрамын	құрамын	linguistic			Begin=463.711|End=464.304
+458-0	SPK7001	undefined	458	а:	а	linguistic	_	Prolongation=0	Begin=466.217|End=466.639
+459-0	SPK7001	undefined	459	подороже	подороже	linguistic	_		Begin=466.639|End=467.100
+460-0	SPK7001	Rising	460	болған	болған	linguistic	_		Begin=467.100
+460-1	SPK7001	Rising	460	соң	соң	linguistic	_		
+460-2	SPK7001	Rising	460	ба	ба	linguistic	_		End=467.879
+461-0	SPK7002	undefined	461	иә	иә	linguistic			Begin=467.808|End=468.251
+462-0	SPK7002	undefined	462	бұл	бұл	linguistic			Begin=470.808
+462-1	SPK7002	undefined	462	да	да	linguistic			
+462-2	SPK7002	undefined	462	сондай	сондай	linguistic			End=471.640
+463-0	SPK7002	undefined	463	бәрібір	бәрібір	linguistic			Begin=471.640|End=472.207
+464-0	SPK7001	undefined	464	может	может	linguistic	_		Begin=472.665|End=472.905
+465-0	SPK7001	undefined	465	просто	просто	linguistic	_		Begin=472.905
+465-1	SPK7001	undefined	465	мынаның	мынаның	linguistic	_		End=473.503
+466-0	SPK7001	undefined	466	несі	несі	linguistic	_		Begin=473.503
+466-1	SPK7001	undefined	466	үлкен	үлкен	linguistic	_		
+466-2	SPK7001	undefined	466	шығар	шығар	linguistic	_		End=474.256
+467-0	SPK7001	undefined	467	cotton-ның	cotton-ның	linguistic	_		Begin=475.003|End=475.672
+468-0	SPK7002	Rising	468	проценті	проценті	linguistic			Begin=477.313
+468-1	SPK7002	Rising	468	ме?	ме	linguistic			End=478.153
+469-0	SPK7001	undefined	469	иә	иә	linguistic	_		Begin=478.113|End=478.555
+470-0	SPK7001	undefined	470	ана	ана	linguistic	_		Begin=481.263|End=482.042
+471-0	SPK7001	undefined	471	предыдущийға	предыдущийға	linguistic	_		Begin=482.905|End=483.912
+472-0	SPK7002	undefined	472	болмаса	болмаса	linguistic			Begin=483.207|End=483.764
+473-0	SPK7002	undefined	473	ананың	ананың	linguistic			Begin=483.764
+473-1	SPK7002	undefined	473	да	да	linguistic			
+473-2	SPK7002	undefined	473	мынандай	мынандай	linguistic			
+473-3	SPK7002	undefined	473	жазуы	жазуы	linguistic			
+473-4	SPK7002	undefined	473	бар	бар	linguistic			End=485.003
+474-0	SPK7002	undefined	474	бірақ	бірақ	linguistic			Begin=485.003
+474-1	SPK7002	undefined	474	жағасында	жағасында	linguistic			
+474-2	SPK7002	undefined	474	мынау	мынау	linguistic			
+474-3	SPK7002	undefined	474	да	да	linguistic			
+474-4	SPK7002	undefined	474	сондай	сондай	linguistic			End=486.702
+475-0	SPK7001	undefined	475	и	и	linguistic	_		Begin=486.334
+475-1	SPK7001	undefined	475	соның	соның	linguistic	_		End=486.866
+476-0	SPK7001	undefined	476	не	не	linguistic	_		Begin=486.866
+476-1	SPK7001	undefined	476	шығар	шығар	linguistic	_		End=487.340
+477-0	SPK7001	undefined	477	материалы	материалы	linguistic	_		Begin=487.340
+477-1	SPK7001	undefined	477	шығар	шығар	linguistic	_		End=487.821
+478-0	SPK7002	Rising	478	мынау	мынау	linguistic			Begin=487.906
+478-1	SPK7002	Rising	478	негізі	негізі	linguistic			
+478-2	SPK7002	Rising	478	#	#	unknown			
+478-3	SPK7002	Rising	478	пе	пе	linguistic			
+478-4	SPK7002	Rising	478	екен?	екен	linguistic			End=489.384
+479-0	SPK7002	undefined	479	тас	тас	linguistic			Begin=489.384|End=489.649
+480-0	SPK7002	Rising	480	бірдеңелер	бірдеңелер	linguistic			Begin=489.649
+480-1	SPK7002	Rising	480	бар	бар	linguistic			
+480-2	SPK7002	Rising	480	емес	емес	linguistic			
+480-3	SPK7002	Rising	480	пе	пе	linguistic			
+480-4	SPK7002	Rising	480	екен?	екен	linguistic			End=491.003
+481-0	SPK7001	undefined	481	а:	а	linguistic	_	Prolongation=0	Begin=490.905|End=491.938
+482-0	SPK7001	undefined	482	наверное	наверное	linguistic	_		Begin=491.938|End=492.555
+483-0	SPK7002	undefined	483	может	может	linguistic			Begin=492.304|End=492.525
+484-0	SPK7002	undefined	484	сондай	сондай	linguistic			Begin=492.525
+484-1	SPK7002	undefined	484	шығар	шығар	linguistic			End=493.021
+485-0	SPK7001	undefined	485	мынаның	мынаның	linguistic	_		Begin=494.711|End=495.100
+486-0	SPK7001	undefined	486	рисункасын	рисункасын	linguistic	_		Begin=495.100|End=495.665
+487-0	SPK7001	undefined	487	көрейін	көрейін	linguistic	_		Begin=495.665
+487-1	SPK7001	undefined	487	деп	деп	linguistic	_		
+487-2	SPK7001	undefined	487	едім	едім	linguistic	_		End=496.353
+488-0	SPK7001	undefined	488	детально	детально	linguistic	_		Begin=496.353|End=497.029
+489-0	SPK7002	Rising	489	қайсы?	қайсы	linguistic			Begin=496.507|End=497.153
+490-0	SPK7001	undefined	490	мынаның	мынаның	linguistic	_		Begin=497.029|End=497.652
+491-0	SPK7002	Rising	491	мынаны	мынаны	linguistic			Begin=497.153
+491-1	SPK7002	Rising	491	ма?	ма	linguistic			End=498.092
+492-0	SPK7001	undefined	492	интересно	интересно	linguistic	_		Begin=497.698|End=498.483
+493-0	SPK7001	undefined	493	мынаны	мынаны	linguistic	_		Begin=498.483
+493-1	SPK7001	undefined	493	қарашы	қарашы	linguistic	_		End=498.983
+494-0	SPK7001	undefined	494	кофейня	кофейня	linguistic	_		Begin=499.769
+494-1	SPK7001	undefined	494	тұр	тұр	linguistic	_		End=500.717
+495-0	SPK7001	undefined	495	адамдар	адамдар	linguistic	_		Begin=500.717
+495-1	SPK7001	undefined	495	тұр	тұр	linguistic	_		End=501.789
+496-0	SPK7001	undefined	496	башня	башня	linguistic	_		Begin=503.944
+496-1	SPK7001	undefined	496	тұр	тұр	linguistic	_		End=504.827
+497-0	SPK7001	undefined	497	и	и	linguistic	_		Begin=504.905
+497-1	SPK7001	undefined	497	мына	мына	linguistic	_		
+497-2	SPK7001	undefined	497	жерде	жерде	linguistic	_		End=505.866
+498-0	SPK7001	Interrupted	498	Love	Love	linguistic	_		Begin=506.594
+498-1	SPK7001	Interrupted	498	from	from	linguistic	_		
+498-2	SPK7001	Interrupted	498	Pari-	Pari	linguistic	_	Interrupted=Yes	End=507.405
+499-0	SPK7001	undefined	499	а	а	linguistic	_		Begin=507.405|End=508.055
+500-0	SPK7001	Interrupted	500	L-	L	linguistic	_	Interrupted=Yes	Begin=508.055|End=508.198
+501-0	SPK7001	undefined	501	нет	нет	linguistic	_		Begin=508.198|End=508.451
+502-0	SPK7001	undefined	502	Love	Love	linguistic	_		Begin=508.451|End=508.750
+503-0	SPK7001	undefined	503	Love	Love	linguistic	_		Begin=508.750
+503-1	SPK7001	undefined	503	from	from	linguistic	_		
+503-2	SPK7001	undefined	503	Paris	Paris	linguistic	_		End=509.608
+504-0	SPK7001	undefined	504	P-	P	linguistic	_	Interrupted=Yes	Begin=509.608
+504-1	SPK7001	undefined	504	Paris	Paris	linguistic	_		End=510.358
+505-0	SPK7001	undefined	505	н-	н	linguistic	_	Interrupted=Yes	Begin=510.358
+505-1	SPK7001	undefined	505	на	на	linguistic	_		
+505-2	SPK7001	undefined	505	английском	английском	linguistic	_		
+505-3	SPK7001	undefined	505	сложно	сложно	linguistic	_		
+505-4	SPK7001	undefined	505	произносить	произносить	linguistic	_		End=511.998
+506-0	SPK7001	undefined	506	и	и	linguistic	_		Begin=511.998
+506-1	SPK7001	undefined	506	Карл	Карл	linguistic	_		End=512.838
+507-0	SPK7002	undefined	507	сен	сен	linguistic			Begin=514.419
+507-1	SPK7002	undefined	507	қазір	қазір	linguistic			End=515.100
+508-0	SPK7002	Rising	508	қай	қай	linguistic			Begin=515.100
+508-1	SPK7002	Rising	508	тілде	тілде	linguistic			
+508-2	SPK7002	Rising	508	оқып	оқып	linguistic			
+508-3	SPK7002	Rising	508	жатсың?	жатсың	linguistic			End=516.224
+509-0	SPK7001	undefined	509	маған	маған	linguistic	_		Begin=516.518|End=516.858
+510-0	SPK7001	undefined	510	на	на	linguistic	_		Begin=516.858
+510-1	SPK7001	undefined	510	французском	французском	linguistic	_		
+510-2	SPK7001	undefined	510	легче	легче	linguistic	_		End=518.248
+511-0	SPK7002	undefined	511	м:	м	linguistic		Prolongation=0	Begin=517.817|End=518.888
+512-0	SPK7001	undefined	512	потому	потому	linguistic	_		Begin=518.898
+512-1	SPK7001	undefined	512	что	что	linguistic	_		End=519.498
+513-0	SPK7001	undefined	513	так	так	linguistic	_		Begin=519.498
+513-1	SPK7001	undefined	513	легче	легче	linguistic	_		
+513-2	SPK7001	undefined	513	произносить	произносить	linguistic	_		End=520.888
+514-0	SPK7001	undefined	514	ағылшынша	ағылшынша	linguistic	_		Begin=521.108|End=521.738
+515-0	SPK7001	undefined	515	сложно	сложно	linguistic	_		Begin=521.738
+515-1	SPK7001	undefined	515	это	это	linguistic	_		End=522.548
+516-0	SPK7002	undefined	516	көресің	көресің	linguistic			Begin=522.614|End=523.215
+517-0	SPK7002	undefined	517	дәл	дәл	linguistic			Begin=523.215
+517-1	SPK7002	undefined	517	өзінің	өзінің	linguistic			
+517-2	SPK7002	undefined	517	несі	несі	linguistic			End=524.313
+518-0	SPK7001	undefined	518	иә	иә	linguistic	_		Begin=524.498|End=525.148
+519-0	SPK7002	undefined	519	костюм	костюм	linguistic			Begin=525.401
+519-1	SPK7002	undefined	519	қылып	қылып	linguistic			
+519-2	SPK7002	undefined	519	көрсетіп	көрсетіп	linguistic			
+519-3	SPK7002	undefined	519	тұр	тұр	linguistic			End=526.773
+520-0	SPK7001	undefined	520	ну	ну	linguistic	_		Begin=526.328
+520-1	SPK7001	undefined	520	да	да	linguistic	_		End=526.698
+521-0	SPK7001	undefined	521	модель	модель	linguistic	_		Begin=526.698
+521-1	SPK7001	undefined	521	их	их	linguistic	_		End=527.308
+522-0	SPK7001	undefined	522	наверное	наверное	linguistic	_		Begin=527.308|End=527.908
+523-0	SPK7002	undefined	523	бәрі	бәрі	linguistic			Begin=531.366
+523-1	SPK7002	undefined	523	бар	бар	linguistic			
+523-2	SPK7002	undefined	523	екен	екен	linguistic			End=532.348
+524-0	SPK7002	undefined	524	пока	пока	linguistic			Begin=532.348|End=533.118
+525-0	SPK7001	undefined	525	м:	м	linguistic	_	Prolongation=0	Begin=532.418|End=532.658
+526-0	SPK7001	undefined	526	күшті	күшті	linguistic	_		Begin=532.658|End=532.978
+527-0	SPK7002	undefined	527	(H)	(H)	_			Begin=534.207|End=535.145
+528-0	SPK7002	undefined	528	(Hx)	(Hx)	_			Begin=535.145|End=536.835
+529-0	SPK7001	undefined	529	сұрайық	сұрайық	linguistic	_		Begin=535.798|End=536.378
+530-0	SPK7002	Rising	530	кімнен?	кімнен	linguistic			Begin=536.835|End=537.879
+531-0	SPK7001	undefined	531	пападан	пападан	linguistic	_		Begin=537.458|End=538.278
+532-0	SPK7002	undefined	532	папасы	папасы	linguistic			Begin=539.145|End=539.481
+533-0	SPK7002	undefined	533	қарашы	қарашы	linguistic			Begin=539.481|End=539.870
+534-0	SPK7002	Rising	534	мынандай	мынандай	linguistic			Begin=539.870
+534-1	SPK7002	Rising	534	қалай?	қалай	linguistic			End=540.658
+535-0	SPK7001	undefined	535	мына	мына	linguistic	_		Begin=542.818|End=543.051
+536-0	SPK7001	undefined	536	футболка	футболка	linguistic	_		Begin=543.051|End=543.668
+537-0	SPK7002	Rising	537	қарсы	қарсы	linguistic			Begin=543.870
+537-1	SPK7002	Rising	537	емессіңіз	емессіңіз	linguistic			
+537-2	SPK7002	Rising	537	бе?	бе	linguistic			End=545.038
+538-0	SPK7002	undefined	538	@@@@	@@@@	linguistic			Begin=547.003|End=549.021
+539-0	SPK7002	undefined	539	##	##	unknown			Begin=549.021
+539-1	SPK7002	undefined	539	##	##	unknown			
+539-2	SPK7002	undefined	539	##	##	unknown			
+539-3	SPK7002	undefined	539	#	#	unknown			End=551.021
+540-0	SPK7003	undefined	540	#	#	unknown	_		Begin=551.024
+540-1	SPK7003	undefined	540	жақсы	жақсы	linguistic	_		
+540-2	SPK7003	undefined	540	шығар	шығар	linguistic	_		End=552.821
+541-0	SPK7002	undefined	541	сен	сен	linguistic			Begin=554.304
+541-1	SPK7002	undefined	541	басқа	басқа	linguistic			End=554.746
+542-0	SPK7002	Interrupted	542	отдель	отдель	linguistic			Begin=554.746
+542-1	SPK7002	Interrupted	542	қарап	қарап	linguistic			
+542-2	SPK7002	Interrupted	542	жү-	жү	linguistic	_	Interrupted=Yes	End=555.552
+543-0	SPK7003	undefined	543	шығарып	шығарып	linguistic	_		Begin=555.009
+543-1	SPK7003	undefined	543	қойсаңшы	қойсаңшы	linguistic	_		End=555.546
+544-0	SPK7003	undefined	544	шығарып	шығарып	linguistic	_		Begin=555.546
+544-1	SPK7003	undefined	544	қойсаңшы	қойсаңшы	linguistic	_		End=556.169
+545-0	SPK7003	undefined	545	қараймыз	қараймыз	linguistic	_		Begin=556.169
+545-1	SPK7003	undefined	545	ғой	ғой	linguistic	_		End=556.806
+546-0	SPK7002	undefined	546	басқа	басқа	linguistic			Begin=556.304
+546-1	SPK7002	undefined	546	отдел	отдел	linguistic			End=556.985
+547-0	SPK7002	Rising	547	қарап	қарап	linguistic			Begin=556.985
+547-1	SPK7002	Rising	547	жүрсің	жүрсің	linguistic			
+547-2	SPK7002	Rising	547	бе?	бе	linguistic			End=557.702
+548-0	SPK7002	undefined	548	сен	сен	linguistic			Begin=557.702
+548-1	SPK7002	undefined	548	қалай	қалай	linguistic			
+548-2	SPK7002	undefined	548	қалай	қалай	linguistic			End=558.401
+549-0	SPK7002	undefined	549	что	что	linguistic			Begin=558.401
+549-1	SPK7002	undefined	549	то	то	linguistic			
+549-2	SPK7002	undefined	549	түсінбей	түсінбей	linguistic			
+549-3	SPK7002	undefined	549	қалдық	қалдық	linguistic			
+549-4	SPK7002	undefined	549	қой	қой	linguistic			End=559.561
+550-0	SPK7003	undefined	550	ана	ана	linguistic	_		Begin=560.531
+550-1	SPK7003	undefined	550	¬Айжан	Айжан	linguistic	_	Anonymized=Yes	End=560.980
+551-0	SPK7003	undefined	551	құлаққа	құлаққа	linguistic	_		Begin=560.980
+551-1	SPK7003	undefined	551	құйылғасын	құйылғасын	linguistic	_		End=561.734
+552-0	SPK7003	undefined	552	жату	жату	linguistic	_		Begin=561.734
+552-1	SPK7003	undefined	552	керекпін	керекпін	linguistic	_		
+552-2	SPK7003	undefined	552	ғой	ғой	linguistic	_		End=562.517
+553-0	SPK7002	undefined	553	түсіндік	түсіндік	linguistic			Begin=563.207
+553-1	SPK7002	undefined	553	қой	қой	linguistic			End=563.941
+554-0	SPK7002	undefined	554	енді	енді	linguistic			Begin=563.941|End=564.401
+555-0	SPK7002	undefined	555	басқа	басқа	linguistic			Begin=565.410
+555-1	SPK7002	undefined	555	отдельді	отдельді	linguistic			
+555-2	SPK7002	undefined	555	қарап	қарап	linguistic			
+555-3	SPK7002	undefined	555	жүргеніңді	жүргеніңді	linguistic			End=567.056
+556-0	SPK7001	undefined	556	##	##	unknown	_		Begin=566.708|End=567.158
+557-0	SPK7001	undefined	557	рисункасы	рисункасы	linguistic	_		Begin=567.158|End=567.688
+558-0	SPK7001	undefined	558	интересный	интересный	linguistic	_		Begin=567.688|End=568.458
+559-0	SPK7002	undefined	559	черно	черно	linguistic			Begin=570.419
+559-1	SPK7002	undefined	559	белый	белый	linguistic			End=571.224
+560-0	SPK7002	undefined	560	кино	кино	linguistic			Begin=571.224
+560-1	SPK7002	undefined	560	болып	болып	linguistic			End=571.835
+561-0	SPK7002	Rising	561	дейсің	дейсің	linguistic			Begin=571.835
+561-1	SPK7002	Rising	561	бе?	бе	linguistic			End=572.561
+562-0	SPK7001	undefined	562	м:	м	linguistic	_	Prolongation=0	Begin=572.808|End=573.358
+563-0	SPK7001	undefined	563	қызыл	қызыл	linguistic	_		Begin=573.358
+563-1	SPK7001	undefined	563	бар	бар	linguistic	_		
+563-2	SPK7001	undefined	563	ғой	ғой	linguistic	_		End=574.118
+564-0	SPK7002	undefined	564	негізі	негізі	linguistic			Begin=573.906|End=574.269
+565-0	SPK7002	Rising	565	қай	қай	linguistic			Begin=574.269
+565-1	SPK7002	Rising	565	жерде	жерде	linguistic			
+565-2	SPK7002	Rising	565	отыр	отыр	linguistic			
+565-3	SPK7002	Rising	565	едім	едім	linguistic			
+565-4	SPK7002	Rising	565	мен?	мен	linguistic			End=575.074
+566-0	SPK7002	undefined	566	жаңа	жаңа	linguistic			Begin=575.074|End=575.419
+567-0	SPK7002	undefined	567	ал	ал	linguistic			Begin=575.419
+567-1	SPK7002	undefined	567	шықтым	шықтым	linguistic			
+567-2	SPK7002	undefined	567	да	да	linguistic			End=576.092
+568-0	SPK7002	undefined	568	ұмытып	ұмытып	linguistic			Begin=576.092
+568-1	SPK7002	undefined	568	кеттім	кеттім	linguistic			End=576.516
+569-0	SPK7002	undefined	569	қай	қай	linguistic			Begin=576.516
+569-1	SPK7002	undefined	569	жерде	жерде	linguistic			
+569-2	SPK7002	undefined	569	отырғанымды	отырғанымды	linguistic			End=577.401
+570-0	SPK7001	undefined	570	қарасаңшы	қарасаңшы	linguistic	_		Begin=577.008
+570-1	SPK7001	undefined	570	бәрін	бәрін	linguistic	_		End=578.148
+571-0	SPK7001	undefined	571	нет	нет	linguistic	_		Begin=579.008|End=579.698
+572-0	SPK7002	undefined	572	мынау	мынау	linguistic			Begin=580.410|End=580.738
+573-0	SPK7002	undefined	573	қара	қара	linguistic			Begin=580.738|End=581.463
+574-0	SPK7001	Interrupted	574	)	)	paraverbal	_		Begin=581.468|End=582.298
+575-0	SPK7001	undefined	575	мына	мына	linguistic	_		Begin=582.298|End=582.858
+576-0	SPK7001	undefined	576	не	не	linguistic	_		Begin=582.858
+576-1	SPK7001	undefined	576	да	да	linguistic	_		End=583.518
+577-0	SPK7001	undefined	577	просвечивает	просвечивает	linguistic	_		Begin=583.608|End=584.558
+578-0	SPK7002	undefined	578	майка	майка	linguistic			Begin=585.003
+578-1	SPK7002	undefined	578	киесің	киесің	linguistic			
+578-2	SPK7002	undefined	578	ғой	ғой	linguistic			End=585.844
+579-0	SPK7002	undefined	579	бәрібір	бәрібір	linguistic			Begin=585.844
+579-1	SPK7002	undefined	579	астына	астына	linguistic			End=586.976
+580-0	SPK7002	Rising	580	керек	керек	linguistic			Begin=587.003
+580-1	SPK7002	Rising	580	емес	емес	linguistic			
+580-2	SPK7002	Rising	580	пе?	пе	linguistic			End=588.109
+581-0	SPK7001	undefined	581	по	по	linguistic	_		Begin=587.268
+581-1	SPK7001	undefined	581	идеи	идеи	linguistic	_		End=587.858
+582-0	SPK7001	undefined	582	давай	давай	linguistic	_		Begin=587.858|End=588.188
+583-0	SPK7001	undefined	583	алып	алып	linguistic	_		Begin=588.188
+583-1	SPK7001	undefined	583	тастайық	тастайық	linguistic	_		End=588.738
+584-0	SPK7001	undefined	584	басқалары	басқалары	linguistic	_		Begin=588.888|End=589.298
+585-0	SPK7001	undefined	585	интереснее	интереснее	linguistic	_		Begin=589.298
+585-1	SPK7001	undefined	585	просто	просто	linguistic	_		End=590.388
+586-0	SPK7001	undefined	586	мынау	мынау	linguistic	_		Begin=590.608
+586-1	SPK7001	undefined	586	кофта	кофта	linguistic	_		End=591.308
+587-0	SPK7001	Rising	587	да	да	linguistic	_		Begin=591.308|End=591.498
+588-0	SPK7001	undefined	588	мынаның	мынаның	linguistic	_		Begin=592.208
+588-1	SPK7001	undefined	588	бар	бар	linguistic	_		
+588-2	SPK7001	undefined	588	ғой	ғой	linguistic	_		End=593.088
+589-0	SPK7001	undefined	589	ы:	ы	linguistic	_	Prolongation=0	Begin=593.088|End=593.608
+590-0	SPK7001	undefined	590	официальный	официальный	linguistic	_		Begin=594.598|End=595.058
+591-0	SPK7001	undefined	591	стильде	стильде	linguistic	_		Begin=595.058|End=595.958
+592-0	SPK7001	Rising	592	бола	бола	linguistic	_		Begin=596.038
+592-1	SPK7001	Rising	592	ма	ма	linguistic	_		End=596.498
+593-0	SPK7001	undefined	593	киюге	киюге	linguistic	_		Begin=596.498|End=597.158
+594-0	SPK7002	undefined	594	жоқ	жоқ	linguistic			Begin=597.366|End=597.835
+595-0	SPK7002	undefined	595	конечно	конечно	linguistic			Begin=597.835|End=598.649
+596-0	SPK7001	undefined	596	маған	маған	linguistic	_		Begin=598.508
+596-1	SPK7001	undefined	596	именно	именно	linguistic	_		
+596-2	SPK7001	undefined	596	сондай	сондай	linguistic	_		End=599.758
+597-0	SPK7001	undefined	597	и	и	linguistic	_		Begin=599.758
+597-1	SPK7001	undefined	597	который	который	linguistic	_		End=600.208
+598-0	SPK7001	undefined	598	и	и	linguistic	_		Begin=600.208
+598-1	SPK7001	undefined	598	casual	casual	linguistic	_		End=601.008
+599-0	SPK7001	undefined	599	и	и	linguistic	_		Begin=601.008|End=601.508
+600-0	SPK7001	undefined	600	бизнес	бизнес	linguistic	_		Begin=601.508
+600-1	SPK7001	undefined	600	style	style	linguistic	_		End=602.808
+601-0	SPK7002	undefined	601	мынау	мынау	linguistic			Begin=602.711
+601-1	SPK7002	undefined	601	да	да	linguistic			End=603.454
+602-0	SPK7002	undefined	602	коттон	коттон	linguistic			Begin=603.454|End=603.879
+603-0	SPK7002	undefined	603	полиэстер	полиэстер	linguistic			Begin=603.879
+603-1	SPK7002	undefined	603	дейді	дейді	linguistic			End=605.162
+604-0	SPK7001	undefined	604	м:	м	linguistic	_	Prolongation=0	Begin=604.978|End=605.758
+605-0	SPK7001	undefined	605	(H)	(H)	_	_		Begin=613.688|End=614.268
+606-0	SPK7001	undefined	606	(Hx)	(Hx)	_	_		Begin=614.268|End=614.708
+607-0	SPK7002	undefined	607	мына	мына	linguistic			Begin=616.507
+607-1	SPK7002	undefined	607	жерге	жерге	linguistic			End=617.224
+608-0	SPK7002	undefined	608	ондай	ондай	linguistic			Begin=617.224
+608-1	SPK7002	undefined	608	####	####	unknown			
+608-2	SPK7002	undefined	608	сияқты	сияқты	linguistic			End=618.384
+609-0	SPK7001	undefined	609	ой	ой	linguistic	_		Begin=618.568
+609-1	SPK7001	undefined	609	ладно	ладно	linguistic	_		End=619.298
+610-0	SPK7002	undefined	610	енді	енді	linguistic			Begin=619.401
+610-1	SPK7002	undefined	610	бірақ	бірақ	linguistic			End=619.799
+611-0	SPK7002	undefined	611	мыналарға	мыналарға	linguistic			Begin=619.799
+611-1	SPK7002	undefined	611	қарағанда	қарағанда	linguistic			End=620.623
+612-0	SPK7002	undefined	612	кішкене	кішкене	linguistic			Begin=620.623
+612-1	SPK7002	undefined	612	мынау	мынау	linguistic			
+612-2	SPK7002	undefined	612	нелеу	нелеу	linguistic			
+612-3	SPK7002	undefined	612	ғой	ғой	linguistic			End=621.826
+613-0	SPK7001	undefined	613	ыхым	ыхым	linguistic	_		Begin=621.568|End=622.168
+614-0	SPK7001	undefined	614	кофтаны	кофтаны	linguistic	_		Begin=622.318
+614-1	SPK7001	undefined	614	пока	пока	linguistic	_		
+614-2	SPK7001	undefined	614	қарамай	қарамай	linguistic	_		
+614-3	SPK7001	undefined	614	ақ	ақ	linguistic	_		
+614-4	SPK7001	undefined	614	қояйық	қояйық	linguistic	_		End=623.608
+615-0	SPK7001	undefined	615	пока	пока	linguistic	_		Begin=623.708|End=624.188
+616-0	SPK7001	undefined	616	нелерді	нелерді	linguistic	_		Begin=624.188
+616-1	SPK7001	undefined	616	қарайық	қарайық	linguistic	_		End=625.058
+617-0	SPK7001	undefined	617	топ	топ	linguistic	_		Begin=625.058|End=625.498
+618-0	SPK7002	undefined	618	тұра	тұра	linguistic			Begin=625.109
+618-1	SPK7002	undefined	618	берсін	берсін	linguistic			End=625.976
+619-0	SPK7001	undefined	619	тұра	тұра	linguistic	_		Begin=626.018
+619-1	SPK7001	undefined	619	берсін	берсін	linguistic	_		End=626.448
+620-0	SPK7001	undefined	620	ладно	ладно	linguistic	_		Begin=626.448|End=626.828
+621-0	SPK7002	Interrupted	621	бітіп-	бітіп	linguistic		Interrupted=Yes	Begin=631.109|End=631.623
+622-0	SPK7002	undefined	622	бітіп	бітіп	linguistic			Begin=631.623
+622-1	SPK7002	undefined	622	бара	бара	linguistic			
+622-2	SPK7002	undefined	622	жатыр	жатыр	linguistic			End=632.295
+623-0	SPK7002	undefined	623	десең	десең	linguistic			Begin=632.295
+623-1	SPK7002	undefined	623	да	да	linguistic			End=632.959
+624-0	SPK7001	undefined	624	несін	несін	linguistic	_		Begin=633.028
+624-1	SPK7001	undefined	624	қарашы	қарашы	linguistic	_		End=633.828
+625-0	SPK7001	undefined	625	составын	составын	linguistic	_		Begin=634.708|End=635.578
+626-0	SPK7002	undefined	626	міне	міне	linguistic			Begin=637.968|End=638.658
+627-0	SPK7001	Rising	627	жазылмаған	жазылмаған	linguistic	_		Begin=643.758|End=644.558
+628-0	SPK7002	undefined	628	полиэстер	полиэстер	linguistic			Begin=645.392|End=646.277
+629-0	SPK7002	undefined	629	эластан	эластан	linguistic			Begin=646.277|End=647.313
+630-0	SPK7002	undefined	630	спандекс	спандекс	linguistic			Begin=647.313|End=648.322
+631-0	SPK7001	undefined	631	а:	а	linguistic	_	Prolongation=0	Begin=647.688|End=648.518
+632-0	SPK7002	undefined	632	стопроцентный	стопроцентный	linguistic			Begin=648.499|End=649.056
+633-0	SPK7002	undefined	633	синтетик	синтетик	linguistic			Begin=649.056
+633-1	SPK7002	undefined	633	деген	деген	linguistic			
+633-2	SPK7002	undefined	633	сөз	сөз	linguistic			End=650.242
+634-0	SPK7001	undefined	634	онда	онда	linguistic	_		Begin=649.968|End=650.128
+635-0	SPK7001	undefined	635	алып	алып	linguistic	_		Begin=650.128
+635-1	SPK7001	undefined	635	тастайық	тастайық	linguistic	_		
+635-2	SPK7001	undefined	635	мынаны	мынаны	linguistic	_		End=650.938
+636-0	SPK7001	undefined	636	мынау	мынау	linguistic	_		Begin=658.508|End=659.278
+637-0	SPK7001	undefined	637	интересный	интересный	linguistic	_		Begin=660.298
+637-1	SPK7001	undefined	637	сияқты	сияқты	linguistic	_		End=661.398
+638-0	SPK7001	Rising	638	нет	нет	linguistic	_		Begin=661.708|End=662.438
+639-0	SPK7001	Rising	639	как	как	linguistic	_		Begin=663.708
+639-1	SPK7001	Rising	639	думаешь	думаешь	linguistic	_		End=664.788
+640-0	SPK7002	undefined	640	құрамын	құрамын	linguistic			Begin=665.906
+640-1	SPK7002	undefined	640	қараймын	қараймын	linguistic			
+640-2	SPK7002	undefined	640	да	да	linguistic			
+640-3	SPK7002	undefined	640	мен	мен	linguistic			End=666.950
+641-0	SPK7002	undefined	641	бірінші	бірінші	linguistic			Begin=666.950|End=667.490
+642-0	SPK7001	undefined	642	а:	а	linguistic	_	Prolongation=0	Begin=669.748|End=670.408
+643-0	SPK7002	undefined	643	котон	котон	linguistic			Begin=670.419|End=670.853
+644-0	SPK7002	undefined	644	полиэстер	полиэстер	linguistic			Begin=670.853|End=671.481
+645-0	SPK7001	undefined	645	ну	ну	linguistic	_		Begin=671.268
+645-1	SPK7001	undefined	645	ладно	ладно	linguistic	_		End=671.878
+646-0	SPK7001	undefined	646	удалять	удалять	linguistic	_		Begin=671.878
+646-1	SPK7001	undefined	646	можно	можно	linguistic	_		End=672.918
+647-0	SPK7001	Rising	647	ұнамай	ұнамай	linguistic	_		Begin=680.718
+647-1	SPK7001	Rising	647	тұр	тұр	linguistic	_		
+647-2	SPK7001	Rising	647	ма	ма	linguistic	_		End=681.508
+648-0	SPK7002	undefined	648	білмеймін	білмеймін	linguistic			Begin=682.906|End=683.561
+649-0	SPK7002	undefined	649	киетін	киетін	linguistic			Begin=683.561
+649-1	SPK7002	undefined	649	сен	сен	linguistic			
+649-2	SPK7002	undefined	649	ғой	ғой	linguistic			End=684.295
+650-0	SPK7002	undefined	650	өзің	өзің	linguistic			Begin=684.295
+650-1	SPK7002	undefined	650	қарасаңшы	қарасаңшы	linguistic			End=685.304
+651-0	SPK7001	undefined	651	но	но	linguistic	_		Begin=685.298
+651-1	SPK7001	undefined	651	ладно	ладно	linguistic	_		End=685.668
+652-0	SPK7001	undefined	652	удаляй	удаляй	linguistic	_		Begin=685.668|End=686.218
+653-0	SPK7002	Rising	653	мынау	мынау	linguistic			Begin=686.392
+653-1	SPK7002	Rising	653	не	не	linguistic			
+653-2	SPK7002	Rising	653	зат?	зат	linguistic			End=687.038
+654-0	SPK7002	Rising	654	мынаны	мынаны	linguistic			Begin=687.038
+654-1	SPK7002	Rising	654	қарамайсың	қарамайсың	linguistic			
+654-2	SPK7002	Rising	654	ба?	ба	linguistic			End=687.985
+655-0	SPK7001	undefined	655	жоқ	жоқ	linguistic	_		Begin=688.388|End=688.878
+656-0	SPK7002	undefined	656	мынау	мынау	linguistic			Begin=695.596|End=696.215
+657-0	SPK7001	undefined	657	м:	м	linguistic	_	Prolongation=0	Begin=697.318|End=697.648
+658-0	SPK7001	undefined	658	мынау	мынау	linguistic	_		Begin=697.648
+658-1	SPK7001	undefined	658	простенький	простенький	linguistic	_		
+658-2	SPK7001	undefined	658	сияқты	сияқты	linguistic	_		End=698.438
+659-0	SPK7001	Rising	659	нет	нет	linguistic	_		Begin=698.438|End=698.968
+660-0	SPK7002	undefined	660	енді	енді	linguistic			Begin=699.906
+660-1	SPK7002	undefined	660	может	может	linguistic			End=700.357
+661-0	SPK7002	undefined	661	сонысы	сонысы	linguistic			Begin=700.357
+661-1	SPK7002	undefined	661	и	и	linguistic			
+661-2	SPK7002	undefined	661	жақсы	жақсы	linguistic			
+661-3	SPK7002	undefined	661	шығар	шығар	linguistic			End=701.366
+662-0	SPK7002	undefined	662	dry	dry	linguistic			Begin=703.658
+662-1	SPK7002	undefined	662	clean	clean	linguistic			End=704.410
+663-0	SPK7002	undefined	663	даже	даже	linguistic			Begin=704.410
+663-1	SPK7002	undefined	663	стирать	стирать	linguistic			
+663-2	SPK7002	undefined	663	нельзя	нельзя	linguistic			End=705.861
+664-0	SPK7001	undefined	664	@@@	@@@	linguistic	_		Begin=705.868|End=706.508
+665-0	SPK7001	Rising	665	қалай	қалай	linguistic	_		Begin=706.508
+665-1	SPK7001	Rising	665	жуам	жуам	linguistic	_		
+665-2	SPK7001	Rising	665	мен	мен	linguistic	_		
+665-3	SPK7001	Rising	665	ертең	ертең	linguistic	_		End=707.648
+666-0	SPK7001	undefined	666	@@@@@	@@@@@	linguistic	_		Begin=707.648|End=709.308
+667-0	SPK7002	undefined	667	соны	соны	linguistic			Begin=707.711
+667-1	SPK7002	undefined	667	айтамын	айтамын	linguistic			End=708.684
+668-0	SPK7002	undefined	668	каждый	каждый	linguistic			Begin=708.684
+668-1	SPK7002	undefined	668	раз	раз	linguistic			
+668-2	SPK7002	undefined	668	химчисткаға	химчисткаға	linguistic			
+668-3	SPK7002	undefined	668	жүгіріп	жүгіріп	linguistic			
+668-4	SPK7002	undefined	668	жүресің	жүресің	linguistic			End=710.817
+669-0	SPK7001	undefined	669	неге	неге	linguistic	_		Begin=711.508|End=711.788
+670-0	SPK7001	Rising	670	dry	dry	linguistic	_		Begin=711.788|End=712.328
+671-0	SPK7002	undefined	671	білмеймін	білмеймін	linguistic			Begin=713.109|End=714.038
+672-0	SPK7001	Interrupted	672	шелк-	шелк	linguistic	_	Interrupted=Yes	Begin=714.408|End=714.828
+673-0	SPK7002	undefined	673	тонкая	тонкая	linguistic			Begin=714.711
+673-1	SPK7002	undefined	673	ткань	ткань	linguistic			
+673-2	SPK7002	undefined	673	шығар	шығар	linguistic			End=715.534
+674-0	SPK7002	undefined	674	андай	андай	linguistic			Begin=715.534|End=715.897
+675-0	SPK7002	undefined	675	нежный	нежный	linguistic			Begin=715.897
+675-1	SPK7002	undefined	675	не	не	linguistic			
+675-2	SPK7002	undefined	675	шығар	шығар	linguistic			End=716.835
+676-0	SPK7002	undefined	676	суға	суға	linguistic			Begin=717.047
+676-1	SPK7002	undefined	676	салсаң	салсаң	linguistic			End=718.092
+677-0	SPK7002	undefined	677	не	не	linguistic			Begin=718.092
+677-1	SPK7002	undefined	677	етіп	етіп	linguistic			
+677-2	SPK7002	undefined	677	кететін	кететін	linguistic			
+677-3	SPK7002	undefined	677	шығар	шығар	linguistic			End=718.959
+678-0	SPK7002	undefined	678	қатып	қатып	linguistic			Begin=718.959|End=719.295
+679-0	SPK7002	undefined	679	или	или	linguistic			Begin=719.295
+679-1	SPK7002	undefined	679	бірдеңе	бірдеңе	linguistic			
+679-2	SPK7002	undefined	679	қылып	қылып	linguistic			End=720.149
+680-0	SPK7002	undefined	680	кететін	кететін	linguistic			Begin=720.149
+680-1	SPK7002	undefined	680	шығар	шығар	linguistic			End=720.897
+681-0	SPK7001	undefined	681	мынаны	мынаны	linguistic	_		Begin=722.008
+681-1	SPK7001	undefined	681	кие	кие	linguistic	_		
+681-2	SPK7001	undefined	681	алмаймын	алмаймын	linguistic	_		
+681-3	SPK7001	undefined	681	ғой	ғой	linguistic	_		End=722.918
+682-0	SPK7001	undefined	682	ертең	ертең	linguistic	_		Begin=722.918|End=723.558
+683-0	SPK7001	undefined	683	@@@@	@@@@	linguistic	_		Begin=724.858|End=725.488
+684-0	SPK7002	undefined	684	сол	сол	linguistic			Begin=725.330|End=725.932
+685-0	SPK7001	undefined	685	киемін	киемін	linguistic	_		Begin=725.488|End=725.708
+686-0	SPK7001	undefined	686	и	и	linguistic	_		Begin=725.708
+686-1	SPK7001	undefined	686	все	все	linguistic	_		End=726.258
+687-0	SPK7001	undefined	687	@@@@@@@	@@@@@@@	linguistic	_		Begin=726.258|End=728.008
+688-0	SPK7002	undefined	688	қысылып	қысылып	linguistic			Begin=726.304|End=726.870
+689-0	SPK7002	undefined	689	дейсің	дейсің	linguistic			Begin=726.870
+689-1	SPK7002	undefined	689	ғой	ғой	linguistic			End=727.472
+690-0	SPK7001	undefined	690	посылкамен	посылкамен	linguistic	_		Begin=728.008
+690-1	SPK7001	undefined	690	үйге	үйге	linguistic	_		
+690-2	SPK7001	undefined	690	жіберіп	жіберіп	linguistic	_		End=729.608
+691-0	SPK7002	undefined	691	бұны	бұны	linguistic			Begin=732.472
+691-1	SPK7002	undefined	691	енді	енді	linguistic			
+691-2	SPK7002	undefined	691	жаппау	жаппау	linguistic			
+691-3	SPK7002	undefined	691	керек	керек	linguistic			End=733.968
+692-0	SPK7002	undefined	692	мынау	мынау	linguistic			Begin=733.968
+692-1	SPK7002	undefined	692	үшін	үшін	linguistic			
+692-2	SPK7002	undefined	692	ғой	ғой	linguistic			End=735.030
+693-0	SPK7001	undefined	693	а:	а	linguistic	_	Prolongation=0	Begin=734.958|End=735.808
+694-0	SPK7001	undefined	694	мынау	мынау	linguistic	_		Begin=736.898
+694-1	SPK7001	undefined	694	уже	уже	linguistic	_		End=737.668
+695-0	SPK7001	undefined	695	а	а	linguistic	_		Begin=738.498
+695-1	SPK7001	undefined	695	вот	вот	linguistic	_		End=739.098
+696-0	SPK7002	undefined	696	мынау	мынау	linguistic			Begin=739.003|End=739.339
+697-0	SPK7002	undefined	697	қарап	қарап	linguistic			Begin=739.339
+697-1	SPK7002	undefined	697	отырғанымыз	отырғанымыз	linguistic			
+697-2	SPK7002	undefined	697	еді	еді	linguistic			
+697-3	SPK7002	undefined	697	ғой	ғой	linguistic			End=740.410
+698-0	SPK7002	undefined	698	жаңа	жаңа	linguistic			Begin=740.410|End=741.092
+699-0	SPK7002	undefined	699	мынау	мынау	linguistic			Begin=744.003
+699-1	SPK7002	undefined	699	жаңа	жаңа	linguistic			
+699-2	SPK7002	undefined	699	анау	анау	linguistic			End=744.676
+700-0	SPK7002	undefined	700	түрлі	түрлі	linguistic			Begin=744.676
+700-1	SPK7002	undefined	700	түсті	түсті	linguistic			End=745.145
+701-0	SPK7002	Rising	701	түсі	түсі	linguistic			Begin=745.145
+701-1	SPK7002	Rising	701	ма	ма	linguistic			
+701-2	SPK7002	Rising	701	не?	не	linguistic			End=745.861
+702-0	SPK7001	undefined	702	мынау	мынау	linguistic	_		Begin=746.498
+702-1	SPK7001	undefined	702	более	более	linguistic	_		End=747.408
+703-0	SPK7001	undefined	703	обширный	обширный	linguistic	_		Begin=748.898|End=749.488
+704-0	SPK7001	undefined	704	анау	анау	linguistic	_		Begin=749.488
+704-1	SPK7001	undefined	704	более	более	linguistic	_		
+704-2	SPK7001	undefined	704	детальный	детальный	linguistic	_		End=750.828
+705-0	SPK7002	undefined	705	ым	ым	linguistic			Begin=749.507|End=750.525
+706-0	SPK7002	undefined	706	сказал	сказал	linguistic			Begin=754.109|End=754.631
+707-0	SPK7002	undefined	707	фотограф	фотограф	linguistic			Begin=754.631|End=755.092
+708-0	SPK7002	undefined	708	дейсің	дейсің	linguistic			Begin=755.092
+708-1	SPK7002	undefined	708	ғой	ғой	linguistic			End=755.525
+709-0	SPK7001	undefined	709	ыхым	ыхым	linguistic	_		Begin=756.008|End=756.568
+710-0	SPK7002	undefined	710	мынау	мынау	linguistic			Begin=758.198
+710-1	SPK7002	undefined	710	қызық	қызық	linguistic			
+710-2	SPK7002	undefined	710	екен	екен	linguistic			End=759.109
+711-0	SPK7002	undefined	711	бантигі	бантигі	linguistic			Begin=759.109
+711-1	SPK7002	undefined	711	бар	бар	linguistic			End=759.676
+712-0	SPK7002	undefined	712	мына	мына	linguistic			Begin=759.676
+712-1	SPK7002	undefined	712	жерде	жерде	linguistic			End=760.357
+713-0	SPK7001	undefined	713	сол	сол	linguistic	_		Begin=760.608|End=761.408
+714-0	SPK7002	undefined	714	жаңағы	жаңағы	linguistic			Begin=761.109
+714-1	SPK7002	undefined	714	баланың	баланың	linguistic			End=761.861
+715-0	SPK7002	undefined	715	суретіндегі	суретіндегі	linguistic			Begin=761.861|End=762.499
+716-0	SPK7002	undefined	716	морковкасы	морковкасы	linguistic			Begin=762.499
+716-1	SPK7002	undefined	716	қатып	қатып	linguistic			
+716-2	SPK7002	undefined	716	қойғандай	қойғандай	linguistic			End=763.720
+717-0	SPK7001	undefined	717	@@@@@@@@@	@@@@@@@@@	linguistic	_		Begin=763.208|End=764.518
+718-0	SPK7002	undefined	718	@@@@@@@	@@@@@@@	linguistic			Begin=763.720|End=765.472
+719-0	SPK7002	undefined	719	(H)	(H)	_			Begin=766.702
+719-1	SPK7002	undefined	719	мамасы	мамасы	linguistic			
+719-2	SPK7002	undefined	719	соны	соны	linguistic			
+719-3	SPK7002	undefined	719	айтып	айтып	linguistic			End=768.153
+720-0	SPK7002	undefined	720	жеткізе	жеткізе	linguistic			Begin=768.153
+720-1	SPK7002	undefined	720	алмай	алмай	linguistic			
+720-2	SPK7002	undefined	720	отыр	отыр	linguistic			
+720-3	SPK7002	undefined	720	ғой	ғой	linguistic			End=769.215
+721-0	SPK7002	undefined	721	өзі	өзі	linguistic			Begin=769.215
+721-1	SPK7002	undefined	721	күлкісі	күлкісі	linguistic			
+721-2	SPK7002	undefined	721	де	де	linguistic			
+721-3	SPK7002	undefined	721	келеді	келеді	linguistic			End=770.525
+722-0	SPK7002	undefined	722	жаңағы	жаңағы	linguistic			Begin=770.525|End=770.968
+723-0	SPK7002	undefined	723	и	и	linguistic			Begin=771.136
+723-1	SPK7002	undefined	723	смех	смех	linguistic			End=771.711
+724-0	SPK7002	undefined	724	и	и	linguistic			Begin=771.711
+724-1	SPK7002	undefined	724	грех	грех	linguistic			End=772.127
+725-0	SPK7002	undefined	725	деген	деген	linguistic			Begin=772.127
+725-1	SPK7002	undefined	725	бар	бар	linguistic			
+725-2	SPK7002	undefined	725	ғой	ғой	linguistic			End=772.676
+726-0	SPK7002	undefined	726	күлейін	күлейін	linguistic			Begin=774.118
+726-1	SPK7002	undefined	726	десе	десе	linguistic			End=774.658
+727-0	SPK7002	undefined	727	өз	өз	linguistic			Begin=774.658
+727-1	SPK7002	undefined	727	баласы	баласы	linguistic			
+727-2	SPK7002	undefined	727	да	да	linguistic			End=775.481
+728-0	SPK7002	undefined	728	прям	прям	linguistic			Begin=775.481
+728-1	SPK7002	undefined	728	не	не	linguistic			
+728-2	SPK7002	undefined	728	етіп	етіп	linguistic			
+728-3	SPK7002	undefined	728	бара	бара	linguistic			
+728-4	SPK7002	undefined	728	жатыр	жатыр	linguistic			End=776.711
+729-0	SPK7002	undefined	729	күлмейін	күлмейін	linguistic			Begin=776.711
+729-1	SPK7002	undefined	729	десе	десе	linguistic			End=777.357
+730-0	SPK7002	undefined	730	ананың	ананың	linguistic			Begin=777.357|End=778.109
+731-0	SPK7002	undefined	731	фотографтың	фотографтың	linguistic			Begin=778.109
+731-1	SPK7002	undefined	731	ана	ана	linguistic			End=779.251
+732-0	SPK7002	undefined	732	анандай	анандай	linguistic			Begin=779.251|End=780.198
+733-0	SPK7002	undefined	733	көз	көз	linguistic			Begin=780.198
+733-1	SPK7002	undefined	733	қарасы	қарасы	linguistic			
+733-2	SPK7002	undefined	733	да	да	linguistic			End=781.012
+734-0	SPK7002	undefined	734	фотоға	фотоға	linguistic			Begin=781.012
+734-1	SPK7002	undefined	734	анау	анау	linguistic			End=781.729
+735-0	SPK7001	undefined	735	и	и	linguistic	_		Begin=781.698|End=781.938
+736-0	SPK7001	undefined	736	ол	ол	linguistic	_		Begin=781.938|End=782.278
+737-0	SPK7001	undefined	737	не	не	linguistic	_		Begin=782.278
+737-1	SPK7001	undefined	737	шығар	шығар	linguistic	_		End=782.568
+738-0	SPK7001	undefined	738	байқамаған	байқамаған	linguistic	_		Begin=782.568|End=783.208
+739-0	SPK7001	undefined	739	шығар	шығар	linguistic	_		Begin=783.208
+739-1	SPK7001	undefined	739	ол	ол	linguistic	_		End=783.718
+740-0	SPK7002	undefined	740	жоқ	жоқ	linguistic			Begin=784.012|End=784.304
+741-0	SPK7002	undefined	741	мен	мен	linguistic			Begin=784.304
+741-1	SPK7002	undefined	741	ойлаймын	ойлаймын	linguistic			End=784.667
+742-0	SPK7002	undefined	742	ол	ол	linguistic			Begin=784.667
+742-1	SPK7002	undefined	742	басқаша	басқаша	linguistic			
+742-2	SPK7002	undefined	742	ұстап	ұстап	linguistic			
+742-3	SPK7002	undefined	742	отыру	отыру	linguistic			
+742-4	SPK7002	undefined	742	керек	керек	linguistic			
+742-5	SPK7002	undefined	742	шығар	шығар	linguistic			
+742-6	SPK7002	undefined	742	да	да	linguistic			End=786.021
+743-0	SPK7002	undefined	743	ана	ана	linguistic			Begin=786.021
+743-1	SPK7002	undefined	743	бала	бала	linguistic			End=786.623
+744-0	SPK7002	undefined	744	өзінше	өзінше	linguistic			Begin=786.623|End=787.030
+745-0	SPK7001	undefined	745	иә	иә	linguistic	_		Begin=786.878|End=787.258
+746-0	SPK7002	undefined	746	қолы	қолы	linguistic			Begin=787.030
+746-1	SPK7002	undefined	746	түсіп	түсіп	linguistic			
+746-2	SPK7002	undefined	746	кеткен	кеткен	linguistic			
+746-3	SPK7002	undefined	746	шығар	шығар	linguistic			End=788.065
+747-0	SPK7001	undefined	747	иә	иә	linguistic	_		Begin=787.258|End=787.848
+748-0	SPK7002	undefined	748	бірақ	бірақ	linguistic			Begin=788.198|End=788.499
+749-0	SPK7002	undefined	749	жалпы	жалпы	linguistic			Begin=788.499
+749-1	SPK7002	undefined	749	сәбіздің	сәбіздің	linguistic			
+749-2	SPK7002	undefined	749	қажеті	қажеті	linguistic			
+749-3	SPK7002	undefined	749	жоқ	жоқ	linguistic			
+749-4	SPK7002	undefined	749	да	да	linguistic			End=789.941
+750-0	SPK7002	undefined	750	ана	ана	linguistic			Begin=789.959
+750-1	SPK7002	undefined	750	суретте	суретте	linguistic			End=790.764
+751-0	SPK7002	undefined	751	вообще	вообще	linguistic			Begin=790.764
+751-1	SPK7002	undefined	751	ешқандай	ешқандай	linguistic			End=791.446
+752-0	SPK7002	undefined	752	не	не	linguistic			Begin=791.446
+752-1	SPK7002	undefined	752	үшін	үшін	linguistic			
+752-2	SPK7002	undefined	752	ұстатып	ұстатып	linguistic			
+752-3	SPK7002	undefined	752	қойған	қойған	linguistic			End=792.702
+753-0	SPK7002	undefined	753	ана	ана	linguistic			Begin=792.702
+753-1	SPK7002	undefined	753	жерге	жерге	linguistic			End=793.392
+754-0	SPK7002	undefined	754	қай	қай	linguistic			Begin=793.392|End=793.702
+755-0	SPK7002	undefined	755	действительно	действительно	linguistic			Begin=793.702|End=794.171
+756-0	SPK7002	undefined	756	қай	қай	linguistic			Begin=794.171
+756-1	SPK7002	undefined	756	фантазиямен	фантазиямен	linguistic			End=795.012
+757-0	SPK7002	undefined	757	фотограф	фотограф	linguistic			Begin=795.012|End=795.499
+758-0	SPK7002	undefined	758	ол	ол	linguistic			Begin=795.499
+758-1	SPK7002	undefined	758	жерге	жерге	linguistic			
+758-2	SPK7002	undefined	758	сәбіз	сәбіз	linguistic			End=796.145
+759-0	SPK7002	undefined	759	қыстырып	қыстырып	linguistic			Begin=796.145
+759-1	SPK7002	undefined	759	қойып	қойып	linguistic			
+759-2	SPK7002	undefined	759	отыр	отыр	linguistic			
+759-3	SPK7002	undefined	759	да	да	linguistic			End=797.100
+760-0	SPK7002	undefined	760	(H)	(H)	_			Begin=797.109|End=797.569
+761-0	SPK7002	undefined	761	жаңа	жаңа	linguistic			Begin=802.923|End=803.330
+762-0	SPK7002	undefined	762	сколько	сколько	linguistic			Begin=803.330
+762-1	SPK7002	undefined	762	людей	людей	linguistic			End=803.994
+763-0	SPK7002	undefined	763	столько	столько	linguistic			Begin=803.994
+763-1	SPK7002	undefined	763	мнений	мнений	linguistic			End=804.552
+764-0	SPK7002	undefined	764	столько	столько	linguistic			Begin=804.552
+764-1	SPK7002	undefined	764	вкусов	вкусов	linguistic			End=805.145
+765-0	SPK7002	undefined	765	дегенге	дегенге	linguistic			Begin=805.145
+765-1	SPK7002	undefined	765	барып	барып	linguistic			
+765-2	SPK7002	undefined	765	тұр	тұр	linguistic			
+765-3	SPK7002	undefined	765	ғой	ғой	linguistic			End=806.092
+766-0	SPK7001	undefined	766	ыхым	ыхым	linguistic	_		Begin=805.818|End=806.608
+767-0	SPK7002	undefined	767	әркімнің	әркімнің	linguistic			Begin=806.092
+767-1	SPK7002	undefined	767	өзінің	өзінің	linguistic			
+767-2	SPK7002	undefined	767	көз	көз	linguistic			
+767-3	SPK7002	undefined	767	қарасы	қарасы	linguistic			End=807.428
+768-0	SPK7002	undefined	768	енді	енді	linguistic			Begin=807.711|End=808.428
+769-0	SPK7002	undefined	769	мынау	мынау	linguistic			Begin=808.428
+769-1	SPK7002	undefined	769	да	да	linguistic			
+769-2	SPK7002	undefined	769	сондай	сондай	linguistic			
+769-3	SPK7002	undefined	769	ғой	ғой	linguistic			End=809.162
+770-0	SPK7002	undefined	770	қарасаңшы	қарасаңшы	linguistic			Begin=809.162
+770-1	SPK7002	undefined	770	мынаны	мынаны	linguistic			End=809.906
+771-0	SPK7002	Rising	771	қажеті	қажеті	linguistic			Begin=809.906
+771-1	SPK7002	Rising	771	қанша	қанша	linguistic			
+771-2	SPK7002	Rising	771	мыналардың?	мыналардың	linguistic			End=810.879
+772-0	SPK7002	undefined	772	мына	мына	linguistic			Begin=810.879
+772-1	SPK7002	undefined	772	мына	мына	linguistic			End=811.605
+773-0	SPK7001	undefined	773	(H)	(H)	_	_		Begin=811.218|End=812.608
+774-0	SPK7001	undefined	774	(Hx)	(Hx)	_	_		Begin=812.608|End=813.678
+775-0	SPK7002	undefined	775	наверное	наверное	linguistic			Begin=812.897
+775-1	SPK7002	undefined	775	мен	мен	linguistic			
+775-2	SPK7002	undefined	775	түсінбейтін	түсінбейтін	linguistic			
+775-3	SPK7002	undefined	775	шығармын	шығармын	linguistic			End=814.366
+776-0	SPK7001	undefined	776	солай	солай	linguistic	_		Begin=814.908
+776-1	SPK7001	undefined	776	шығар	шығар	linguistic	_		End=815.888
+777-0	SPK7002	undefined	777	мә	мә	linguistic			Begin=815.295|End=815.817
+778-0	SPK7002	undefined	778	мынаны	мынаны	linguistic			Begin=815.817
+778-1	SPK7002	undefined	778	қара	қара	linguistic			End=816.136
+779-0	SPK7002	undefined	779	мынау	мынау	linguistic			Begin=816.136|End=816.596
+780-0	SPK7002	Rising	780	қызық	қызық	linguistic			Begin=816.596
+780-1	SPK7002	Rising	780	да?	да	linguistic			End=816.950
+781-0	SPK7002	undefined	781	мынау	мынау	linguistic			Begin=816.950
+781-1	SPK7002	undefined	781	да	да	linguistic			
+781-2	SPK7002	undefined	781	қара	қара	linguistic			End=817.640
+782-0	SPK7001	undefined	782	о:	о	linguistic	_	Prolongation=0	Begin=817.908|End=818.888
+783-0	SPK7002	undefined	783	ұсақ	ұсақ	linguistic			Begin=818.861
+783-1	SPK7002	undefined	783	та	та	linguistic			End=819.467
+784-0	SPK7002	undefined	784	несін	несін	linguistic			Begin=819.467
+784-1	SPK7002	undefined	784	қара	қара	linguistic			End=819.981
+785-0	SPK7002	undefined	785	ашып	ашып	linguistic			Begin=819.981
+785-1	SPK7002	undefined	785	қарайық	қарайық	linguistic			End=820.774
+786-0	SPK7002	undefined	786	шифон	шифон	linguistic			Begin=824.202
+786-1	SPK7002	undefined	786	ба	ба	linguistic			
+786-2	SPK7002	undefined	786	екен	екен	linguistic			End=825.087
+787-0	SPK7001	undefined	787	(SNEEZE)	(SNEEZE)	paraverbal	_		Begin=824.288|End=824.778
+788-0	SPK7002	undefined	788	полиэстер	полиэстер	linguistic			Begin=825.087
+788-1	SPK7002	undefined	788	ме	ме	linguistic			
+788-2	SPK7002	undefined	788	екен	екен	linguistic			End=825.880
+789-0	SPK7001	undefined	789	(SNEEZE)	(SNEEZE)	paraverbal	_		Begin=825.098|End=825.848
+790-0	SPK7002	undefined	790	жәрекімалла	жәрекімалла	linguistic			Begin=825.880|End=826.741
+791-0	SPK7001	undefined	791	(SNEEZE)	(SNEEZE)	paraverbal	_		Begin=825.998|End=826.548
+792-0	SPK7001	undefined	792	(SNEEZE)	(SNEEZE)	paraverbal	_		Begin=826.848|End=827.518
+793-0	SPK7002	undefined	793	жәрекімалла	жәрекімалла	linguistic			Begin=827.851|End=828.794
+794-0	SPK7001	undefined	794	(SNEEZE)	(SNEEZE)	paraverbal	_		Begin=828.488|End=829.148
+795-0	SPK7001	undefined	795	(SNEEZE)	(SNEEZE)	paraverbal	_		Begin=829.218|End=829.928
+796-0	SPK7001	undefined	796	(Hx)	(Hx)	_	_		Begin=830.768|End=831.268
+797-0	SPK7002	undefined	797	будь	будь	linguistic			Begin=830.803
+797-1	SPK7002	undefined	797	здорова	здорова	linguistic			End=831.803
+798-0	SPK7001	undefined	798	(Hx)	(Hx)	_	_		Begin=831.268|End=831.758
+799-0	SPK7001	undefined	799	рақмет	рақмет	linguistic	_		Begin=831.758|End=832.558
+800-0	SPK7002	undefined	800	наконец	наконец	linguistic			Begin=833.803
+800-1	SPK7002	undefined	800	то	то	linguistic			End=834.673
+801-0	SPK7002	undefined	801	мә	мә	linguistic			Begin=834.861
+801-1	SPK7002	undefined	801	мына	мына	linguistic			End=835.404
+802-0	SPK7002	undefined	802	мен	мен	linguistic			Begin=835.601
+802-1	SPK7002	undefined	802	не	не	linguistic			
+802-2	SPK7002	undefined	802	күтіп	күтіп	linguistic			
+802-3	SPK7002	undefined	802	отырмын	отырмын	linguistic			End=836.548
+803-0	SPK7002	undefined	803	ашылған	ашылған	linguistic			Begin=836.654
+803-1	SPK7002	undefined	803	екен	екен	linguistic			
+803-2	SPK7002	undefined	803	ғой	ғой	linguistic			End=837.702
+804-0	SPK7001	undefined	804	м:	м	linguistic	_	Prolongation=0	Begin=838.808|End=839.198
+805-0	SPK7001	undefined	805	бірақ	бірақ	linguistic	_		Begin=839.198|End=839.398
+806-0	SPK7001	undefined	806	рукавасын	рукавасын	linguistic	_		Begin=839.398
+806-1	SPK7001	undefined	806	смотри	смотри	linguistic	_		End=840.308
+807-0	SPK7001	undefined	807	короткие	короткие	linguistic	_		Begin=841.108|End=841.938
+808-0	SPK7001	undefined	808	оны	оны	linguistic	_		Begin=844.508
+808-1	SPK7001	undefined	808	тек	тек	linguistic	_		
+808-2	SPK7001	undefined	808	қана	қана	linguistic	_		End=845.118
+809-0	SPK7001	undefined	809	кофтамен	кофтамен	linguistic	_		Begin=845.118
+809-1	SPK7001	undefined	809	кимесем	кимесем	linguistic	_		End=845.978
+810-0	SPK7001	undefined	810	рубашка	рубашка	linguistic	_		Begin=845.978|End=846.598
+811-0	SPK7002	undefined	811	нейлон	нейлон	linguistic			Begin=846.404|End=846.933
+812-0	SPK7002	undefined	812	с	с	linguistic			Begin=846.933
+812-1	SPK7002	undefined	812	хлопком	хлопком	linguistic			End=847.654
+813-0	SPK7002	undefined	813	hand	hand	linguistic			Begin=847.659
+813-1	SPK7002	undefined	813	wash	wash	linguistic			End=848.548
+814-0	SPK7001	undefined	814	нейлон	нейлон	linguistic	_		Begin=848.368
+814-1	SPK7001	undefined	814	деген	деген	linguistic	_		End=849.308
+815-0	SPK7002	undefined	815	ручная	ручная	linguistic			Begin=848.548
+815-1	SPK7002	undefined	815	стирка	стирка	linguistic			End=849.645
+816-0	SPK7001	Rising	816	резинка	резинка	linguistic	_		Begin=849.308
+816-1	SPK7001	Rising	816	ма	ма	linguistic	_		End=849.848
+817-0	SPK7001	undefined	817	типа	типа	linguistic	_		Begin=849.848|End=850.338
+818-0	SPK7001	undefined	818	мынау	мынау	linguistic	_		Begin=850.468|End=850.878
+819-0	SPK7002	undefined	819	нейлон	нейлон	linguistic			Begin=850.803
+819-1	SPK7002	undefined	819	деген	деген	linguistic			End=851.529
+820-0	SPK7002	undefined	820	не	не	linguistic			Begin=851.529
+820-1	SPK7002	undefined	820	ғой	ғой	linguistic			End=852.087
+821-0	SPK7002	undefined	821	бантиктарға	бантиктарға	linguistic			Begin=852.702
+821-1	SPK7002	undefined	821	не	не	linguistic			
+821-2	SPK7002	undefined	821	ететін	ететін	linguistic			End=854.015
+822-0	SPK7002	undefined	822	не	не	linguistic			Begin=854.015
+822-1	SPK7002	undefined	822	еді	еді	linguistic			End=854.606
+823-0	SPK7002	undefined	823	жұқа	жұқа	linguistic			Begin=855.048|End=855.774
+824-0	SPK7002	undefined	824	не	не	linguistic			Begin=855.774|End=856.183
+825-0	SPK7002	undefined	825	дегені	дегені	linguistic			Begin=856.183
+825-1	SPK7002	undefined	825	ғой	ғой	linguistic			End=856.760
+826-0	SPK7002	undefined	826	мынаны	мынаны	linguistic			Begin=857.149
+826-1	SPK7002	undefined	826	қара	қара	linguistic			End=857.746
+827-0	SPK7002	undefined	827	андай	андай	linguistic			Begin=859.058
+827-1	SPK7002	undefined	827	сеточка	сеточка	linguistic			End=860.106
+828-0	SPK7002	undefined	828	қара	қара	linguistic			Begin=860.106|End=860.539
+829-0	SPK7002	Rising	829	основаниесін	основаниесін	linguistic			Begin=860.539
+829-1	SPK7002	Rising	829	көрдің	көрдің	linguistic			
+829-2	SPK7002	Rising	829	бе?	бе	linguistic			End=861.712
+830-0	SPK7001	undefined	830	иә	иә	linguistic	_		Begin=861.858|End=862.328
+831-0	SPK7002	undefined	831	сондай	сондай	linguistic			Begin=863.154|End=863.592
+832-0	SPK7002	undefined	832	ручная	ручная	linguistic			Begin=863.592|End=864.044
+833-0	SPK7002	undefined	833	стирка	стирка	linguistic			Begin=864.044
+833-1	SPK7002	undefined	833	дейді	дейді	linguistic			End=865.068
+834-0	SPK7001	undefined	834	о:й	ой	linguistic	_	Prolongation=0	Begin=864.808|End=865.548
+835-0	SPK7002	undefined	835	қызық	қызық	linguistic			Begin=866.303
+835-1	SPK7002	undefined	835	емес	емес	linguistic			
+835-2	SPK7002	undefined	835	шығар	шығар	linguistic			End=867.072
+836-0	SPK7002	undefined	836	деп	деп	linguistic			Begin=867.072
+836-1	SPK7002	undefined	836	ойлаймын	ойлаймын	linguistic			End=867.688
+837-0	SPK7001	undefined	837	рукава	рукава	linguistic	_		Begin=868.908|End=869.438
+838-0	SPK7001	undefined	838	короткие	короткие	linguistic	_		Begin=869.438|End=870.348
+839-0	SPK7002	undefined	839	иә:	иә	linguistic		Prolongation=1	Begin=870.217|End=870.645
+840-0	SPK7001	undefined	840	ручная	ручная	linguistic	_		Begin=871.658
+840-1	SPK7001	undefined	840	стирка	стирка	linguistic	_		End=872.918
+841-0	SPK7002	undefined	841	непрактичная	непрактичная	linguistic			Begin=874.154
+841-1	SPK7002	undefined	841	вещь	вещь	linguistic			End=875.255
+842-0	SPK7002	undefined	842	деп	деп	linguistic			Begin=875.255
+842-1	SPK7002	undefined	842	қойсаңшы	қойсаңшы	linguistic			End=875.909
+843-0	SPK7001	undefined	843	да	да	linguistic	_		Begin=875.268|End=875.848
+844-0	SPK7001	undefined	844	сол	сол	linguistic	_		Begin=875.848
+844-1	SPK7001	undefined	844	сол	сол	linguistic	_		End=876.868
+845-0	SPK7002	undefined	845	ең	ең	linguistic			Begin=878.000
+845-1	SPK7002	undefined	845	жақсысы	жақсысы	linguistic			
+845-2	SPK7002	undefined	845	мынау	мынау	linguistic			
+845-3	SPK7002	undefined	845	шығар	шығар	linguistic			End=879.097
+846-0	SPK7002	Rising	846	да?	да	linguistic			Begin=879.097|End=879.457
+847-0	SPK7001	undefined	847	иә	иә	linguistic	_		Begin=879.368|End=879.958
+848-0	SPK7002	Rising	848	мынау	мынау	linguistic			Begin=879.851
+848-1	SPK7002	Rising	848	не?	не	linguistic			End=880.481
+849-0	SPK7001	undefined	849	жаңағы	жаңағы	linguistic	_		Begin=879.958
+849-1	SPK7001	undefined	849	рубашка	рубашка	linguistic	_		End=880.718
+850-0	SPK7001	undefined	850	и	и	linguistic	_		Begin=880.718
+850-1	SPK7001	undefined	850	мына	мына	linguistic	_		
+850-2	SPK7001	undefined	850	не	не	linguistic	_		End=881.638
+851-0	SPK7001	undefined	851	панамка	панамка	linguistic	_		Begin=881.638|End=882.338
+852-0	SPK7001	undefined	852	@@@	@@@	linguistic	_		Begin=882.338|End=883.138
+853-0	SPK7002	undefined	853	@@@@	@@@@	linguistic			Begin=882.505|End=883.794
+854-0	SPK7001	undefined	854	и	и	linguistic	_		Begin=883.138
+854-1	SPK7001	undefined	854	күшті	күшті	linguistic	_		
+854-2	SPK7001	undefined	854	ғой	ғой	linguistic	_		End=883.888
+855-0	SPK7002	undefined	855	мынау	мынау	linguistic			Begin=883.899|End=884.351
+856-0	SPK7002	undefined	856	папаңның	папаңның	linguistic			Begin=884.351
+856-1	SPK7002	undefined	856	баласына	баласына	linguistic			
+856-2	SPK7002	undefined	856	таңдап	таңдап	linguistic			
+856-3	SPK7002	undefined	856	қойғаны	қойғаны	linguistic			
+856-4	SPK7002	undefined	856	шығар	шығар	linguistic			End=886.289
+857-0	SPK7001	undefined	857	ж-	ж	linguistic	_	Interrupted=Yes	Begin=885.878
+857-1	SPK7001	undefined	857	жоқ	жоқ	linguistic	_		End=886.188
+858-0	SPK7001	undefined	858	мен	мен	linguistic	_		Begin=886.188
+858-1	SPK7001	undefined	858	кеше	кеше	linguistic	_		End=886.578
+859-0	SPK7001	undefined	859	ана	ана	linguistic	_		Begin=886.578
+859-1	SPK7001	undefined	859	панаманы	панаманы	linguistic	_		
+859-2	SPK7001	undefined	859	киіп	киіп	linguistic	_		
+859-3	SPK7001	undefined	859	жүрдім	жүрдім	linguistic	_		
+859-4	SPK7001	undefined	859	ғой	ғой	linguistic	_		End=887.838
+860-0	SPK7002	undefined	860	м:	м	linguistic		Prolongation=0	Begin=887.678|End=888.313
+861-0	SPK7001	undefined	861	маған	маған	linguistic	_		Begin=887.838|End=888.198
+862-0	SPK7001	undefined	862	үлкен	үлкен	linguistic	_		Begin=888.198|End=889.008
+863-0	SPK7001	undefined	863	панама	панама	linguistic	_		Begin=889.008|End=889.678
+864-0	SPK7001	undefined	864	и	и	linguistic	_		Begin=889.678
+864-1	SPK7001	undefined	864	мен	мен	linguistic	_		
+864-2	SPK7001	undefined	864	оны	оны	linguistic	_		
+864-3	SPK7001	undefined	864	каждый	каждый	linguistic	_		
+864-4	SPK7001	undefined	864	раз	раз	linguistic	_		
+864-5	SPK7001	undefined	864	былай	былай	linguistic	_		
+864-6	SPK7001	undefined	864	үстіп	үстіп	linguistic	_		
+864-7	SPK7001	undefined	864	жүрдім	жүрдім	linguistic	_		
+864-8	SPK7001	undefined	864	де	де	linguistic	_		End=891.548
+865-0	SPK7001	undefined	865	и	и	linguistic	_		Begin=891.548
+865-1	SPK7001	undefined	865	ойлаймын	ойлаймын	linguistic	_		
+865-2	SPK7001	undefined	865	анандай	анандай	linguistic	_		End=892.538
+866-0	SPK7001	undefined	866	астындағы	астындағы	linguistic	_		Begin=892.538|End=893.258
+867-0	SPK7002	undefined	867	резинка	резинка	linguistic			Begin=893.202|End=893.678
+868-0	SPK7001	undefined	868	несі	несі	linguistic	_		Begin=893.258|End=893.928
+869-0	SPK7002	undefined	869	болса	болса	linguistic			Begin=893.678
+869-1	SPK7002	undefined	869	ғой	ғой	linguistic			End=894.063
+870-0	SPK7002	undefined	870	ұстау	ұстау	linguistic			Begin=894.063
+870-1	SPK7002	undefined	870	керек	керек	linguistic			
+870-2	SPK7002	undefined	870	жоқ	жоқ	linguistic			
+870-3	SPK7002	undefined	870	деп	деп	linguistic			End=895.092
+871-0	SPK7001	undefined	871	иә	иә	linguistic	_		Begin=894.398|End=894.828
+872-0	SPK7001	undefined	872	жақсы	жақсы	linguistic	_		Begin=895.818
+872-1	SPK7001	undefined	872	шығар	шығар	linguistic	_		End=896.698
+873-0	SPK7001	undefined	873	зато	зато	linguistic	_		Begin=897.528
+873-1	SPK7001	undefined	873	с	с	linguistic	_		
+873-2	SPK7001	undefined	873	размером	размером	linguistic	_		End=898.408
+874-0	SPK7001	undefined	874	не	не	linguistic	_		Begin=898.408
+874-1	SPK7001	undefined	874	прогадаешь	прогадаешь	linguistic	_		End=899.458
+875-0	SPK7002	undefined	875	алсын	алсын	linguistic			Begin=899.197|End=899.524
+876-0	SPK7002	undefined	876	мен	мен	linguistic			Begin=899.524
+876-1	SPK7002	undefined	876	соны	соны	linguistic			
+876-2	SPK7002	undefined	876	киемін	киемін	linguistic			End=900.202
+877-0	SPK7002	undefined	877	десеңші	десеңші	linguistic			Begin=900.202|End=900.563
+878-0	SPK7002	undefined	878	мә	мә	linguistic			Begin=900.563|End=900.847
+879-0	SPK7002	undefined	879	мынаны	мынаны	linguistic			Begin=900.847
+879-1	SPK7002	undefined	879	қара	қара	linguistic			End=901.145
+880-0	SPK7001	undefined	880	иә	иә	linguistic	_		Begin=901.308|End=901.728
+881-0	SPK7002	undefined	881	жүз	жүз	linguistic			Begin=901.505
+881-1	SPK7002	undefined	881	пайыз	пайыз	linguistic			End=902.145
+882-0	SPK7001	undefined	882	о:	о	linguistic	_	Prolongation=0	Begin=902.408|End=903.028
+883-0	SPK7001	undefined	883	тем	тем	linguistic	_		Begin=903.028
+883-1	SPK7001	undefined	883	более	более	linguistic	_		End=903.538
+884-0	SPK7001	undefined	884	тем	тем	linguistic	_		Begin=904.908
+884-1	SPK7001	undefined	884	более	более	linguistic	_		End=905.588
+885-0	SPK7002	undefined	885	бағасын	бағасын	linguistic			Begin=906.202
+885-1	SPK7002	undefined	885	қарайық	қарайық	linguistic			End=906.746
+886-0	SPK7002	undefined	886	демалысқа	демалысқа	linguistic			Begin=906.746
+886-1	SPK7002	undefined	886	қалай	қалай	linguistic			End=907.568
+887-0	SPK7002	undefined	887	мынау	мынау	linguistic			Begin=907.568|End=908.260
+888-0	SPK7002	Rising	888	мынауысы	мынауысы	linguistic			Begin=908.260
+888-1	SPK7002	Rising	888	артық	артық	linguistic			
+888-2	SPK7002	Rising	888	емес	емес	linguistic			
+888-3	SPK7002	Rising	888	пе?	пе	linguistic			End=909.193
+889-0	SPK7001	undefined	889	эй	эй	linguistic	_		Begin=910.318|End=910.808
+890-0	SPK7001	undefined	890	не	не	linguistic	_		Begin=910.808
+890-1	SPK7001	undefined	890	ғой	ғой	linguistic	_		End=911.198
+891-0	SPK7001	undefined	891	типа	типа	linguistic	_		Begin=911.198
+891-1	SPK7001	undefined	891	как	как	linguistic	_		End=911.648
+892-0	SPK7001	undefined	892	визитная	визитная	linguistic	_		Begin=913.278
+892-1	SPK7001	undefined	892	карточка	карточка	linguistic	_		End=914.368
+893-0	SPK7002	undefined	893	визитная	визитная	linguistic			Begin=914.697
+893-1	SPK7002	undefined	893	карточка	карточка	linguistic			
+893-2	SPK7002	undefined	893	емес	емес	linguistic			End=915.755
+894-0	SPK7002	Rising	894	не	не	linguistic			Begin=915.755
+894-1	SPK7002	Rising	894	дейтін	дейтін	linguistic			
+894-2	SPK7002	Rising	894	еді?	еді	linguistic			End=916.678
+895-0	SPK7002	Interrupted	895	э-	э	linguistic		Interrupted=Yes	Begin=917.697|End=917.952
+896-0	SPK7002	undefined	896	эмблема	эмблема	linguistic			Begin=917.952
+896-1	SPK7002	undefined	896	емес	емес	linguistic			End=918.649
+897-0	SPK7002	Rising	897	не	не	linguistic			Begin=918.649
+897-1	SPK7002	Rising	897	дейтін	дейтін	linguistic			
+897-2	SPK7002	Rising	897	еді?	еді	linguistic			End=919.443
+898-0	SPK7001	Rising	898	лого	лого	linguistic	_		Begin=919.818|End=920.418
+899-0	SPK7002	undefined	899	ы:	ы	linguistic		Prolongation=0	Begin=920.524|End=920.976
+900-0	SPK7002	undefined	900	знак	знак	linguistic			Begin=920.976
+900-1	SPK7002	undefined	900	фирмы	фирмы	linguistic			
+900-2	SPK7002	undefined	900	ма	ма	linguistic			End=921.669
+901-0	SPK7002	Rising	901	не	не	linguistic			Begin=921.669
+901-1	SPK7002	Rising	901	зат	зат	linguistic			
+901-2	SPK7002	Rising	901	еді?	еді	linguistic			End=922.121
+902-0	SPK7002	undefined	902	ана	ана	linguistic			Begin=922.121|End=922.572
+903-0	SPK7002	undefined	903	көйлектерге	көйлектерге	linguistic			Begin=922.572
+903-1	SPK7002	undefined	903	тигеді	тигеді	linguistic			
+903-2	SPK7002	undefined	903	ғой	ғой	linguistic			
+903-3	SPK7002	undefined	903	мына	мына	linguistic			
+903-4	SPK7002	undefined	903	жеріне	жеріне	linguistic			End=924.125
+904-0	SPK7002	undefined	904	желкесіне	желкесіне	linguistic			Begin=924.125|End=924.467
+905-0	SPK7002	undefined	905	андай	андай	linguistic			Begin=924.467|End=924.808
+906-0	SPK7001	undefined	906	а:	а	linguistic	_	Prolongation=0	Begin=924.698|End=925.348
+907-0	SPK7002	undefined	907	мынандайды	мынандайды	linguistic			Begin=924.808|End=925.544
+908-0	SPK7001	undefined	908	білмеймін	білмеймін	linguistic	_		Begin=925.418|End=926.238
+909-0	SPK7002	undefined	909	оны	оны	linguistic			Begin=926.149
+909-1	SPK7002	undefined	909	желкесіне	желкесіне	linguistic			
+909-2	SPK7002	undefined	909	тікпей	тікпей	linguistic			End=927.313
+910-0	SPK7002	undefined	910	мына	мына	linguistic			Begin=927.313
+910-1	SPK7002	undefined	910	жерге	жерге	linguistic			
+910-2	SPK7002	undefined	910	бәрін	бәрін	linguistic			
+910-3	SPK7002	undefined	910	көрсетіп	көрсетіп	linguistic			End=928.558
+911-0	SPK7002	undefined	911	тігіп	тігіп	linguistic			Begin=928.558
+911-1	SPK7002	undefined	911	қойған	қойған	linguistic			
+911-2	SPK7002	undefined	911	сияқты	сияқты	linguistic			End=929.356
+912-0	SPK7001	undefined	912	интересно	интересно	linguistic	_		Begin=929.398
+912-1	SPK7001	undefined	912	же	же	linguistic	_		End=930.358
+913-0	SPK7002	undefined	913	мынаны	мынаны	linguistic			Begin=930.202
+913-1	SPK7002	undefined	913	қара	қара	linguistic			End=930.601
+914-0	SPK7002	undefined	914	мына	мына	linguistic			Begin=930.601|End=930.972
+915-0	SPK7002	undefined	915	именно	именно	linguistic			Begin=930.972
+915-1	SPK7002	undefined	915	кеше	кеше	linguistic			End=931.683
+916-0	SPK7002	undefined	916	мына	мына	linguistic			Begin=931.683|End=932.130
+917-0	SPK7002	undefined	917	соңғы	соңғы	linguistic			Begin=932.130
+917-1	SPK7002	undefined	917	алған	алған	linguistic			End=932.779
+918-0	SPK7002	undefined	918	көйлектердің	көйлектердің	linguistic			Begin=932.779
+918-1	SPK7002	undefined	918	моделькалары	моделькалары	linguistic			
+918-2	SPK7002	undefined	918	да	да	linguistic			End=934.048
+919-0	SPK7002	undefined	919	арты	арты	linguistic			Begin=934.048
+919-1	SPK7002	undefined	919	жағы	жағы	linguistic			
+919-2	SPK7002	undefined	919	мынандай	мынандай	linguistic			End=935.217
+920-0	SPK7001	undefined	920	күшті	күшті	linguistic	_		Begin=934.658|End=935.388
+921-0	SPK7002	undefined	921	кәдімгі	кәдімгі	linguistic			Begin=935.217|End=935.640
+922-0	SPK7002	undefined	922	ұзын	ұзын	linguistic			Begin=935.640
+922-1	SPK7002	undefined	922	болып	болып	linguistic			
+922-2	SPK7002	undefined	922	тұр	тұр	linguistic			
+922-3	SPK7002	undefined	922	да	да	linguistic			End=936.673
+923-0	SPK7001	undefined	923	не	не	linguistic	_		Begin=936.618
+923-1	SPK7001	undefined	923	сияқты	сияқты	linguistic	_		End=937.048
+924-0	SPK7001	undefined	924	көйлек	көйлек	linguistic	_		Begin=937.048
+924-1	SPK7001	undefined	924	сияқты	сияқты	linguistic	_		End=937.668
+925-0	SPK7001	undefined	925	артынан	артынан	linguistic	_		Begin=937.668
+925-1	SPK7001	undefined	925	қарасаң	қарасаң	linguistic	_		End=938.508
+926-0	SPK7002	undefined	926	мынау	мынау	linguistic			Begin=937.702
+926-1	SPK7002	undefined	926	именно	именно	linguistic			End=938.217
+927-0	SPK7002	undefined	927	мынаны	мынаны	linguistic			Begin=938.217
+927-1	SPK7002	undefined	927	қара	қара	linguistic			End=938.572
+928-0	SPK7002	undefined	928	қандай	қандай	linguistic			Begin=938.572
+928-1	SPK7002	undefined	928	немен	немен	linguistic			
+928-2	SPK7002	undefined	928	киген	киген	linguistic			End=939.496
+929-0	SPK7002	undefined	929	көресің	көресің	linguistic			Begin=939.496|End=940.481
+930-0	SPK7001	undefined	930	skinny	skinny	linguistic	_		Begin=940.318|End=940.868
+931-0	SPK7002	undefined	931	иә	иә	linguistic			Begin=940.606|End=941.318
+932-0	SPK7001	undefined	932	(H)	(H)	_	_		Begin=941.448|End=941.928
+933-0	SPK7002	undefined	933	мына	мына	linguistic			Begin=941.707
+933-1	SPK7002	undefined	933	көйлектер	көйлектер	linguistic			End=942.380
+934-0	SPK7002	undefined	934	именно	именно	linguistic			Begin=942.380
+934-1	SPK7002	undefined	934	сондаймен	сондаймен	linguistic			
+934-2	SPK7002	undefined	934	киюге	киюге	linguistic			End=943.500
+935-0	SPK7002	undefined	935	арналған	арналған	linguistic			Begin=943.500
+935-1	SPK7002	undefined	935	сияқты	сияқты	linguistic			End=944.534
+936-0	SPK7002	undefined	936	себебі	себебі	linguistic			Begin=944.702
+936-1	SPK7002	undefined	936	мынау	мынау	linguistic			
+936-2	SPK7002	undefined	936	асты	асты	linguistic			End=945.832
+937-0	SPK7002	undefined	937	соңғы	соңғы	linguistic			Begin=945.832
+937-1	SPK7002	undefined	937	модельмен	модельмен	linguistic			
+937-2	SPK7002	undefined	937	шыққан	шыққан	linguistic			End=947.380
+938-0	SPK7002	undefined	938	кең	кең	linguistic			Begin=947.380
+938-1	SPK7002	undefined	938	джинсыларға	джинсыларға	linguistic			End=948.356
+939-0	SPK7002	undefined	939	мынау	мынау	linguistic			Begin=948.356
+939-1	SPK7002	undefined	939	жараспайтын	жараспайтын	linguistic			
+939-2	SPK7002	undefined	939	шығар	шығар	linguistic			End=949.303
+940-0	SPK7002	undefined	940	сен	сен	linguistic			Begin=949.303
+940-1	SPK7002	undefined	940	мынандай	мынандай	linguistic			End=949.837
+941-0	SPK7002	undefined	941	не	не	linguistic			Begin=949.837|End=950.212
+942-0	SPK7002	undefined	942	үлкен	үлкен	linguistic			Begin=950.750|End=951.106
+943-0	SPK7002	undefined	943	үлкен	үлкен	linguistic			Begin=951.106
+943-1	SPK7002	undefined	943	болып	болып	linguistic			
+943-2	SPK7002	undefined	943	кететін	кететін	linguistic			
+943-3	SPK7002	undefined	943	шығарсың	шығарсың	linguistic			End=952.149
+944-0	SPK7002	undefined	944	бесформенный	бесформенный	linguistic			Begin=952.149
+944-1	SPK7002	undefined	944	болып	болып	linguistic			End=953.125
+945-0	SPK7002	undefined	945	именно	именно	linguistic			Begin=953.125
+945-1	SPK7002	undefined	945	осындайларға	осындайларға	linguistic			End=954.106
+946-0	SPK7002	undefined	946	осы	осы	linguistic			Begin=954.106
+946-1	SPK7002	undefined	946	керек	керек	linguistic			
+946-2	SPK7002	undefined	946	шығар	шығар	linguistic			End=954.890
+947-0	SPK7002	undefined	947	ал	ал	linguistic			Begin=955.654
+947-1	SPK7002	undefined	947	мынандай	мынандай	linguistic			End=956.178
+948-0	SPK7002	undefined	948	асты	асты	linguistic			Begin=956.178
+948-1	SPK7002	undefined	948	кең	кең	linguistic			
+948-2	SPK7002	undefined	948	келгендерге	келгендерге	linguistic			End=957.361
+949-0	SPK7002	undefined	949	үсті	үсті	linguistic			Begin=957.361
+949-1	SPK7002	undefined	949	мынандай	мынандай	linguistic			End=958.053
+950-0	SPK7002	undefined	950	ана	ана	linguistic			Begin=958.053
+950-1	SPK7002	undefined	950	жаңағы	жаңағы	linguistic			End=958.678
+951-0	SPK7002	undefined	951	(H)	(H)	_			Begin=958.755|End=959.183
+952-0	SPK7002	undefined	952	м	м	linguistic			Begin=959.183|End=959.597
+953-0	SPK7002	undefined	953	футболка	футболка	linguistic			Begin=959.597
+953-1	SPK7002	undefined	953	сияқты	сияқты	linguistic			End=960.183
+954-0	SPK7002	undefined	954	сондай	сондай	linguistic			Begin=960.183
+954-1	SPK7002	undefined	954	керек	керек	linguistic			
+954-2	SPK7002	undefined	954	шығар	шығар	linguistic			End=961.053
+955-0	SPK7002	undefined	955	деп	деп	linguistic			Begin=961.053
+955-1	SPK7002	undefined	955	ойлаймын	ойлаймын	linguistic			End=961.738
+956-0	SPK7001	undefined	956	ыхым	ыхым	linguistic	_		Begin=962.258|End=962.868
+957-0	SPK7002	undefined	957	потому	потому	linguistic			Begin=963.128
+957-1	SPK7002	undefined	957	что	что	linguistic			
+957-2	SPK7002	undefined	957	бір	бір	linguistic			
+957-3	SPK7002	undefined	957	жағы	жағы	linguistic			
+957-4	SPK7002	undefined	957	кең	кең	linguistic			
+957-5	SPK7002	undefined	957	болса	болса	linguistic			End=964.548
+958-0	SPK7002	undefined	958	екінші	екінші	linguistic			Begin=964.548
+958-1	SPK7002	undefined	958	жағын	жағын	linguistic			
+958-2	SPK7002	undefined	958	уравновешивать	уравновешивать	linguistic			
+958-3	SPK7002	undefined	958	ету	ету	linguistic			
+958-4	SPK7002	undefined	958	үшін	үшін	linguistic			End=966.408
+959-0	SPK7002	undefined	959	кішкене	кішкене	linguistic			Begin=966.408
+959-1	SPK7002	undefined	959	ы:	ы	linguistic		Prolongation=0	End=967.298
+960-0	SPK7002	undefined	960	нелеу	нелеу	linguistic			Begin=967.298|End=968.508
+961-0	SPK7002	undefined	961	компактныйлау	компактныйлау	linguistic			Begin=968.508
+961-1	SPK7002	undefined	961	болып	болып	linguistic			
+961-2	SPK7002	undefined	961	алу	алу	linguistic			
+961-3	SPK7002	undefined	961	керек	керек	linguistic			
+961-4	SPK7002	undefined	961	сияқты	сияқты	linguistic			End=970.468
+962-0	SPK7002	undefined	962	аштым	аштым	linguistic			Begin=972.708
+962-1	SPK7002	undefined	962	ба	ба	linguistic			
+962-2	SPK7002	undefined	962	мен	мен	linguistic			
+962-3	SPK7002	undefined	962	мынаны	мынаны	linguistic			End=973.488
+963-0	SPK7002	undefined	963	көрейік	көрейік	linguistic			Begin=973.488|End=974.018
+964-0	SPK7002	undefined	964	көйлек	көйлек	linguistic			Begin=974.018
+964-1	SPK7002	undefined	964	ашылып	ашылып	linguistic			
+964-2	SPK7002	undefined	964	тұр	тұр	linguistic			
+964-3	SPK7002	undefined	964	ғой	ғой	linguistic			End=974.888
+965-0	SPK7002	undefined	965	мынау	мынау	linguistic			Begin=974.888|End=975.248
+966-0	SPK7002	undefined	966	қарайық	қарайық	linguistic			Begin=976.618
+966-1	SPK7002	undefined	966	онда	онда	linguistic			End=977.218
+967-0	SPK7002	undefined	967	осыны	осыны	linguistic			Begin=977.218|End=977.798
+968-0	SPK7002	undefined	968	негізі	негізі	linguistic			Begin=978.208
+968-1	SPK7002	undefined	968	маған	маған	linguistic			
+968-2	SPK7002	undefined	968	алдында	алдында	linguistic			
+968-3	SPK7002	undefined	968	да	да	linguistic			End=979.448
+969-0	SPK7002	undefined	969	осы	осы	linguistic			Begin=979.448
+969-1	SPK7002	undefined	969	ұнап	ұнап	linguistic			
+969-2	SPK7002	undefined	969	еді	еді	linguistic			End=980.188
+970-0	SPK7001	undefined	970	м:	м	linguistic	_	Prolongation=0	Begin=980.398|End=981.188
+971-0	SPK7002	undefined	971	бірақ	бірақ	linguistic			Begin=982.698
+971-1	SPK7002	undefined	971	анау	анау	linguistic			
+971-2	SPK7002	undefined	971	да	да	linguistic			End=983.438
+972-0	SPK7002	undefined	972	енді	енді	linguistic			Begin=983.438
+972-1	SPK7002	undefined	972	кішкене	кішкене	linguistic			
+972-2	SPK7002	undefined	972	не	не	linguistic			End=984.378
+973-0	SPK7001	undefined	973	күшті	күшті	linguistic	_		Begin=984.388|End=984.978
+974-0	SPK7001	undefined	974	бұл	бұл	linguistic	_		Begin=984.978
+974-1	SPK7001	undefined	974	да	да	linguistic	_		End=985.678
+975-0	SPK7002	undefined	975	классикаға	классикаға	linguistic			Begin=985.708
+975-1	SPK7002	undefined	975	жақындау	жақындау	linguistic			
+975-2	SPK7002	undefined	975	да	да	linguistic			End=986.778
+976-0	SPK7002	undefined	976	кішкене	кішкене	linguistic			Begin=986.778|End=987.608
+977-0	SPK7002	undefined	977	пиджакпен	пиджакпен	linguistic			Begin=988.208
+977-1	SPK7002	undefined	977	кигенде	кигенде	linguistic			End=988.998
+978-0	SPK7002	undefined	978	спрятать	спрятать	linguistic			Begin=988.998
+978-1	SPK7002	undefined	978	можно	можно	linguistic			End=989.908
+979-0	SPK7001	undefined	979	а:	а	linguistic	_	Prolongation=0	Begin=989.598|End=990.468
+980-0	SPK7002	undefined	980	мынаны	мынаны	linguistic			Begin=990.408
+980-1	SPK7002	undefined	980	заправкаға	заправкаға	linguistic			
+980-2	SPK7002	undefined	980	жіберсең	жіберсең	linguistic			End=991.748
+981-0	SPK7002	undefined	981	анау	анау	linguistic			Begin=991.748
+981-1	SPK7002	undefined	981	көрінбейді	көрінбейді	linguistic			
+981-2	SPK7002	undefined	981	де	де	linguistic			End=993.068
+982-0	SPK7002	undefined	982	не	не	linguistic			Begin=993.068
+982-1	SPK7002	undefined	982	етіп	етіп	linguistic			End=993.438
+983-0	SPK7002	undefined	983	а	а	linguistic			Begin=993.438
+983-1	SPK7002	undefined	983	мынау	мынау	linguistic			End=994.378
+984-0	SPK7002	undefined	984	бір	бір	linguistic			Begin=994.378
+984-1	SPK7002	undefined	984	шеті	шеті	linguistic			
+984-2	SPK7002	undefined	984	бәрібір	бәрібір	linguistic			
+984-3	SPK7002	undefined	984	көрініп	көрініп	linguistic			
+984-4	SPK7002	undefined	984	қалады	қалады	linguistic			End=995.768
+985-0	SPK7002	undefined	985	да	да	linguistic			Begin=995.768|End=996.158
+986-0	SPK7001	undefined	986	но	но	linguistic	_		Begin=995.918|End=996.498
+987-0	SPK7002	undefined	987	мынау	мынау	linguistic			Begin=996.358
+987-1	SPK7002	undefined	987	уже	уже	linguistic			End=997.048
+988-0	SPK7001	undefined	988	өзін	өзін	linguistic	_		Begin=996.498
+988-1	SPK7001	undefined	988	кию	кию	linguistic	_		
+988-2	SPK7001	undefined	988	керек	керек	linguistic	_		End=997.288
+989-0	SPK7002	undefined	989	да	да	linguistic			Begin=997.048|End=997.698
+990-0	SPK7002	undefined	990	бұның	бұның	linguistic			Begin=997.698
+990-1	SPK7002	undefined	990	өзін	өзін	linguistic			
+990-2	SPK7002	undefined	990	киесің	киесің	linguistic			End=998.588
+991-0	SPK7002	undefined	991	или	или	linguistic			Begin=998.588
+991-1	SPK7002	undefined	991	бұны	бұны	linguistic			
+991-2	SPK7002	undefined	991	кигенде	кигенде	linguistic			
+991-3	SPK7002	undefined	991	де	де	linguistic			End=999.558
+992-0	SPK7002	undefined	992	андай	андай	linguistic			Begin=999.558|End=999.858
+993-0	SPK7002	undefined	993	классический	классический	linguistic			Begin=999.858
+993-1	SPK7002	undefined	993	костюм	костюм	linguistic			
+993-2	SPK7002	undefined	993	емес	емес	linguistic			End=1001.448
+994-0	SPK7002	undefined	994	более	более	linguistic			Begin=1001.448|End=1001.938
+995-0	SPK7002	undefined	995	кішкене	кішкене	linguistic			Begin=1001.938
+995-1	SPK7002	undefined	995	андай	андай	linguistic			
+995-2	SPK7002	undefined	995	не	не	linguistic			End=1002.898
+996-0	SPK7002	undefined	996	ы:	ы	linguistic		Prolongation=0	Begin=1002.898|End=1003.498
+997-0	SPK7002	undefined	997	спортивный	спортивный	linguistic			Begin=1003.498
+997-1	SPK7002	undefined	997	емес	емес	linguistic			
+997-2	SPK7002	undefined	997	те	те	linguistic			End=1004.518
+998-0	SPK7002	undefined	998	анандай	анандай	linguistic			Begin=1004.518
+998-1	SPK7002	undefined	998	түріне	түріне	linguistic			
+998-2	SPK7002	undefined	998	не	не	linguistic			
+998-3	SPK7002	undefined	998	етесің	етесің	linguistic			End=1005.908
+999-0	SPK7001	undefined	999	casual	casual	linguistic	_		Begin=1005.648|End=1006.308
+1000-0	SPK7002	undefined	1000	иә	иә	linguistic			Begin=1006.098|End=1006.268
+1001-0	SPK7002	undefined	1001	сондайға	сондайға	linguistic			Begin=1006.268
+1001-1	SPK7002	undefined	1001	киюге	киюге	linguistic			
+1001-2	SPK7002	undefined	1001	болады	болады	linguistic			End=1007.518
+1002-0	SPK7002	undefined	1002	жақсы	жақсы	linguistic			Begin=1007.518
+1002-1	SPK7002	undefined	1002	да	да	linguistic			
+1002-2	SPK7002	undefined	1002	мынау	мынау	linguistic			End=1008.458
+1003-0	SPK7002	undefined	1003	кішкене	кішкене	linguistic			Begin=1008.458
+1003-1	SPK7002	undefined	1003	мынау	мынау	linguistic			
+1003-2	SPK7002	undefined	1003	пиджакты	пиджакты	linguistic			
+1003-3	SPK7002	undefined	1003	мына	мына	linguistic			
+1003-4	SPK7002	undefined	1003	жеріне	жеріне	linguistic			
+1003-5	SPK7002	undefined	1003	кішкене	кішкене	linguistic			
+1003-6	SPK7002	undefined	1003	көрінге	көрінге	linguistic			
+1003-7	SPK7002	undefined	1003	де	де	linguistic			End=1011.098
+1004-0	SPK7002	undefined	1004	ол	ол	linguistic			Begin=1011.098|End=1011.378
+1005-0	SPK7002	undefined	1005	слишком	слишком	linguistic			Begin=1011.378
+1005-1	SPK7002	undefined	1005	ерсі	ерсі	linguistic			
+1005-2	SPK7002	undefined	1005	болмайды	болмайды	linguistic			End=1012.708
+1006-0	SPK7002	undefined	1006	в	в	linguistic			Begin=1013.008
+1006-1	SPK7002	undefined	1006	порядке	порядке	linguistic			
+1006-2	SPK7002	undefined	1006	вещей	вещей	linguistic			
+1006-3	SPK7002	undefined	1006	болып	болып	linguistic			
+1006-4	SPK7002	undefined	1006	тұрады	тұрады	linguistic			End=1014.858
+1007-0	SPK7002	undefined	1007	а	а	linguistic			Begin=1014.858
+1007-1	SPK7002	undefined	1007	сенікі	сенікі	linguistic			
+1007-2	SPK7002	undefined	1007	негізі	негізі	linguistic			
+1007-3	SPK7002	undefined	1007	мынандай	мынандай	linguistic			
+1007-4	SPK7002	undefined	1007	еді	еді	linguistic			
+1007-5	SPK7002	undefined	1007	ғой	ғой	linguistic			End=1016.588
+1008-0	SPK7002	undefined	1008	міне	міне	linguistic			Begin=1016.588|End=1017.118
+1009-0	SPK7002	undefined	1009	оны	оны	linguistic			Begin=1019.508
+1009-1	SPK7002	undefined	1009	арқайын	арқайын	linguistic			End=1020.168
+1010-0	SPK7002	Rising	1010	видишь?	видишь	linguistic			Begin=1020.168|End=1020.888
+1011-0	SPK7002	undefined	1011	жасап	жасап	linguistic			Begin=1020.888
+1011-1	SPK7002	undefined	1011	тастауға	тастауға	linguistic			
+1011-2	SPK7002	undefined	1011	болады	болады	linguistic			End=1022.208
+1012-0	SPK7001	undefined	1012	о:	о	linguistic	_	Prolongation=0	Begin=1021.698|End=1022.158
+1013-0	SPK7001	undefined	1013	күшті	күшті	linguistic	_		Begin=1022.158|End=1022.598
+1014-0	SPK7002	undefined	1014	классическиймен	классическиймен	linguistic			Begin=1022.208
+1014-1	SPK7002	undefined	1014	кигенде	кигенде	linguistic			End=1023.688
+1015-0	SPK7002	undefined	1015	еш	еш	linguistic			Begin=1023.688
+1015-1	SPK7002	undefined	1015	жерінен	жерінен	linguistic			
+1015-2	SPK7002	undefined	1015	көрінбейді	көрінбейді	linguistic			
+1015-3	SPK7002	undefined	1015	мынау	мынау	linguistic			End=1024.578
+1016-0	SPK7002	undefined	1016	мынауы	мынауы	linguistic			Begin=1024.578
+1016-1	SPK7002	undefined	1016	да	да	linguistic			
+1016-2	SPK7002	undefined	1016	кетіп	кетіп	linguistic			
+1016-3	SPK7002	undefined	1016	қалады	қалады	linguistic			End=1025.398
+1017-0	SPK7001	undefined	1017	да	да	linguistic	_		Begin=1024.648|End=1025.228
+1018-0	SPK7002	undefined	1018	мынау	мынау	linguistic			Begin=1025.398
+1018-1	SPK7002	undefined	1018	да	да	linguistic			End=1025.798
+1019-0	SPK7002	undefined	1019	жаңа	жаңа	linguistic			Begin=1025.798|End=1026.398
+1020-0	SPK7002	undefined	1020	жеңнің	жеңнің	linguistic			Begin=1026.398
+1020-1	SPK7002	undefined	1020	ішіне	ішіне	linguistic			
+1020-2	SPK7002	undefined	1020	кіріп	кіріп	linguistic			
+1020-3	SPK7002	undefined	1020	кетеді	кетеді	linguistic			
+1020-4	SPK7002	undefined	1020	де	де	linguistic			End=1028.248
+1021-0	SPK7001	undefined	1021	да	да	linguistic	_		Begin=1027.738
+1021-1	SPK7001	undefined	1021	даже	даже	linguistic	_		End=1028.338
+1022-0	SPK7001	undefined	1022	ы	ы	linguistic	_		Begin=1028.338|End=1028.738
+1023-0	SPK7001	undefined	1023	классика	классика	linguistic	_		Begin=1028.738|End=1029.328
+1024-0	SPK7001	undefined	1024	классический	классический	linguistic	_		Begin=1029.328|End=1030.438
+1025-0	SPK7001	undefined	1025	ы	ы	linguistic	_		Begin=1030.678|End=1031.178
+1026-0	SPK7001	undefined	1026	шалбармен	шалбармен	linguistic	_		Begin=1031.178
+1026-1	SPK7001	undefined	1026	кигенде	кигенде	linguistic	_		
+1026-2	SPK7001	undefined	1026	де	де	linguistic	_		End=1032.088
+1027-0	SPK7001	undefined	1027	нормально	нормально	linguistic	_		Begin=1032.088
+1027-1	SPK7001	undefined	1027	болып	болып	linguistic	_		
+1027-2	SPK7001	undefined	1027	тұрады	тұрады	linguistic	_		End=1033.078
+1028-0	SPK7002	undefined	1028	иә	иә	linguistic			Begin=1032.698|End=1032.948
+1029-0	SPK7002	undefined	1029	иә	иә	linguistic			Begin=1032.948|End=1033.358
+1030-0	SPK7002	undefined	1030	а	а	linguistic			Begin=1033.608
+1030-1	SPK7002	undefined	1030	мынау	мынау	linguistic			End=1034.398
+1031-0	SPK7002	undefined	1031	именно	именно	linguistic			Begin=1034.398
+1031-1	SPK7002	undefined	1031	мынандай	мынандай	linguistic			
+1031-2	SPK7002	undefined	1031	не	не	linguistic			
+1031-3	SPK7002	undefined	1031	болып	болып	linguistic			
+1031-4	SPK7002	undefined	1031	тұр	тұр	linguistic			End=1035.878
+1032-0	SPK7002	undefined	1032	мынаның	мынаның	linguistic			Begin=1037.628
+1032-1	SPK7002	undefined	1032	ішіне	ішіне	linguistic			End=1038.378
+1033-0	SPK7002	undefined	1033	мынандай	мынандай	linguistic			Begin=1038.378
+1033-1	SPK7002	undefined	1033	нелер	нелер	linguistic			
+1033-2	SPK7002	undefined	1033	керек	керек	linguistic			
+1033-3	SPK7002	undefined	1033	шығар	шығар	linguistic			
+1033-4	SPK7002	undefined	1033	саған	саған	linguistic			End=1039.848
+1034-0	SPK7001	Rising	1034	майка	майка	linguistic	_		Begin=1042.208
+1034-1	SPK7001	Rising	1034	ма	ма	linguistic	_		End=1042.898
+1035-0	SPK7001	undefined	1035	бар	бар	linguistic	_		Begin=1043.908
+1035-1	SPK7001	undefined	1035	ғой	ғой	linguistic	_		End=1044.688
+1036-0	SPK7001	undefined	1036	ақ	ақ	linguistic	_		Begin=1044.808
+1036-1	SPK7001	undefined	1036	майка	майка	linguistic	_		
+1036-2	SPK7001	undefined	1036	бар	бар	linguistic	_		
+1036-3	SPK7001	undefined	1036	менде	менде	linguistic	_		End=1045.898
+1037-0	SPK7002	Rising	1037	мына	мына	linguistic			Begin=1047.498
+1037-1	SPK7002	Rising	1037	жаңағы	жаңағы	linguistic			
+1037-2	SPK7002	Rising	1037	кімнің	кімнің	linguistic			
+1037-3	SPK7002	Rising	1037	киіп	киіп	linguistic			
+1037-4	SPK7002	Rising	1037	жүргенін	жүргенін	linguistic			
+1037-5	SPK7002	Rising	1037	көрдің	көрдің	linguistic			
+1037-6	SPK7002	Rising	1037	бе?	бе	linguistic			End=1049.228
+1038-0	SPK7002	undefined	1038	анандай	анандай	linguistic			Begin=1049.228|End=1049.578
+1039-0	SPK7002	undefined	1039	жазу	жазу	linguistic			Begin=1049.578|End=1049.948
+1040-0	SPK7002	undefined	1040	жазу	жазу	linguistic			Begin=1049.948|End=1050.308
+1041-0	SPK7002	undefined	1041	жазу	жазу	linguistic			Begin=1050.308|End=1050.688
+1042-0	SPK7002	undefined	1042	дегенді	дегенді	linguistic			Begin=1050.688
+1042-1	SPK7002	undefined	1042	көрсеттім	көрсеттім	linguistic			
+1042-2	SPK7002	undefined	1042	ғой	ғой	linguistic			End=1051.478
+1043-0	SPK7002	undefined	1043	мынандай	мынандай	linguistic			Begin=1051.478
+1043-1	SPK7002	undefined	1043	деп	деп	linguistic			End=1052.238
+1044-0	SPK7001	undefined	1044	иә	иә	linguistic	_		Begin=1051.678
+1044-1	SPK7001	undefined	1044	иә	иә	linguistic	_		End=1052.378
+1045-0	SPK7002	undefined	1045	ол	ол	linguistic			Begin=1052.398
+1045-1	SPK7002	undefined	1045	ана	ана	linguistic			End=1053.208
+1046-0	SPK7002	undefined	1046	мына	мына	linguistic			Begin=1053.208
+1046-1	SPK7002	undefined	1046	ашып	ашып	linguistic			
+1046-2	SPK7002	undefined	1046	киіп	киіп	linguistic			
+1046-3	SPK7002	undefined	1046	жүр	жүр	linguistic			End=1054.268
+1047-0	SPK7002	undefined	1047	астына	астына	linguistic			Begin=1054.268|End=1054.748
+1048-0	SPK7002	undefined	1048	анандай	анандай	linguistic			Begin=1054.748
+1048-1	SPK7002	undefined	1048	майка	майка	linguistic			
+1048-2	SPK7002	undefined	1048	киіп	киіп	linguistic			
+1048-3	SPK7002	undefined	1048	жүр	жүр	linguistic			
+1048-4	SPK7002	undefined	1048	да	да	linguistic			End=1056.118
+1049-0	SPK7001	undefined	1049	а:	а	linguistic	_	Prolongation=0	Begin=1055.308|End=1057.208
+1050-0	SPK7002	Rising	1050	көрдің?	көрдің	linguistic			Begin=1056.118|End=1056.748
+1051-0	SPK7002	undefined	1051	ол	ол	linguistic			Begin=1056.748
+1051-1	SPK7002	undefined	1051	как	как	linguistic			
+1051-2	SPK7002	undefined	1051	анандай	анандай	linguistic			End=1057.948
+1052-0	SPK7001	undefined	1052	не	не	linguistic	_		Begin=1058.228
+1052-1	SPK7001	undefined	1052	как	как	linguistic	_		
+1052-2	SPK7001	undefined	1052	рубашка	рубашка	linguistic	_		End=1059.308
+1053-0	SPK7002	undefined	1053	иә	иә	linguistic			Begin=1059.105|End=1059.698
+1054-0	SPK7001	undefined	1054	а	а	linguistic	_		Begin=1059.308
+1054-1	SPK7001	undefined	1054	как	как	linguistic	_		
+1054-2	SPK7001	undefined	1054	кофта	кофта	linguistic	_		End=1060.138
+1055-0	SPK7002	undefined	1055	да	да	linguistic			Begin=1060.266|End=1060.494
+1056-0	SPK7002	undefined	1056	сол	сол	linguistic			Begin=1060.494
+1056-1	SPK7002	undefined	1056	кофта	кофта	linguistic			
+1056-2	SPK7002	undefined	1056	ма	ма	linguistic			End=1061.215
+1057-0	SPK7002	undefined	1057	ана	ана	linguistic			Begin=1061.215
+1057-1	SPK7002	undefined	1057	курточка	курточка	linguistic			
+1057-2	SPK7002	undefined	1057	ма	ма	linguistic			End=1062.257
+1058-0	SPK7002	undefined	1058	пиджак	пиджак	linguistic			Begin=1062.257
+1058-1	SPK7002	undefined	1058	па	па	linguistic			End=1062.850
+1059-0	SPK7002	undefined	1059	сондай	сондай	linguistic			Begin=1062.850
+1059-1	SPK7002	undefined	1059	и:	и	linguistic		Prolongation=0	End=1063.850
+1060-0	SPK7002	undefined	1060	ретінде	ретінде	linguistic			Begin=1063.850
+1060-1	SPK7002	undefined	1060	киіп	киіп	linguistic			
+1060-2	SPK7002	undefined	1060	жүр	жүр	linguistic			
+1060-3	SPK7002	undefined	1060	да	да	linguistic			End=1064.706
+1061-0	SPK7002	undefined	1061	ол	ол	linguistic			Begin=1064.706|End=1064.927
+1062-0	SPK7002	undefined	1062	көп	көп	linguistic			Begin=1066.206
+1062-1	SPK7002	undefined	1062	жерде	жерде	linguistic			End=1066.613
+1063-0	SPK7002	undefined	1063	анандай	анандай	linguistic			Begin=1066.613|End=1066.961
+1064-0	SPK7002	undefined	1064	онікі	онікі	linguistic			Begin=1066.961
+1064-1	SPK7002	undefined	1064	мынандай	мынандай	linguistic			End=1067.927
+1065-0	SPK7002	undefined	1065	не	не	linguistic			Begin=1067.927|End=1068.249
+1066-0	SPK7002	undefined	1066	астына	астына	linguistic			Begin=1068.249
+1066-1	SPK7002	undefined	1066	лосины	лосины	linguistic			
+1066-2	SPK7002	undefined	1066	киген	киген	linguistic			
+1066-3	SPK7002	undefined	1066	де	де	linguistic			End=1069.359
+1067-0	SPK7002	undefined	1067	футболочка	футболочка	linguistic			Begin=1069.359
+1067-1	SPK7002	undefined	1067	мен	мен	linguistic			End=1070.554
+1068-0	SPK7002	undefined	1068	үстіне	үстіне	linguistic			Begin=1070.554
+1068-1	SPK7002	undefined	1068	анандай	анандай	linguistic			
+1068-2	SPK7002	undefined	1068	не	не	linguistic			
+1068-3	SPK7002	undefined	1068	етіп	етіп	linguistic			
+1068-4	SPK7002	undefined	1068	киіп	киіп	linguistic			
+1068-5	SPK7002	undefined	1068	алған	алған	linguistic			
+1068-6	SPK7002	undefined	1068	да	да	linguistic			End=1072.266
+1069-0	SPK7002	undefined	1069	сосын	сосын	linguistic			Begin=1073.596
+1069-1	SPK7002	undefined	1069	онікі	онікі	linguistic			End=1074.545
+1070-0	SPK7002	undefined	1070	ана	ана	linguistic			Begin=1074.545|End=1074.986
+1071-0	SPK7002	undefined	1071	ақ	ақ	linguistic			Begin=1074.986
+1071-1	SPK7002	undefined	1071	қара	қара	linguistic			
+1071-2	SPK7002	undefined	1071	болғасын	болғасын	linguistic			End=1076.147
+1072-0	SPK7002	undefined	1072	ол	ол	linguistic			Begin=1076.300|End=1076.961
+1073-0	SPK7002	undefined	1073	больше	больше	linguistic			Begin=1076.961|End=1077.435
+1074-0	SPK7002	undefined	1074	не	не	linguistic			Begin=1077.435
+1074-1	SPK7002	undefined	1074	как	как	linguistic			
+1074-2	SPK7002	undefined	1074	светлое	светлое	linguistic			End=1078.545
+1075-0	SPK7002	undefined	1075	даже	даже	linguistic			Begin=1078.689|End=1079.122
+1076-0	SPK7002	undefined	1076	к	к	linguistic			Begin=1079.122
+1076-1	SPK7002	undefined	1076	темному	темному	linguistic			
+1076-2	SPK7002	undefined	1076	ближе	ближе	linguistic			
+1076-3	SPK7002	undefined	1076	идет	идет	linguistic			
+1076-4	SPK7002	undefined	1076	да	да	linguistic			End=1080.630
+1077-0	SPK7002	undefined	1077	сосын	сосын	linguistic			Begin=1080.630
+1077-1	SPK7002	undefined	1077	любой	любой	linguistic			
+1077-2	SPK7002	undefined	1077	цвет	цвет	linguistic			
+1077-3	SPK7002	undefined	1077	футболка	футболка	linguistic			
+1077-4	SPK7002	undefined	1077	кигенге	кигенге	linguistic			End=1082.147
+1078-0	SPK7002	undefined	1078	нормальный	нормальный	linguistic			Begin=1082.147|End=1082.732
+1079-0	SPK7002	undefined	1079	горманичный	горманичный	linguistic			Begin=1082.732|End=1083.740
+1080-0	SPK7001	undefined	1080	бірақ	бірақ	linguistic	_		Begin=1082.998|End=1083.658
+1081-0	SPK7002	undefined	1081	не	не	linguistic			Begin=1083.740
+1081-1	SPK7002	undefined	1081	етеді	етеді	linguistic			End=1084.503
+1082-0	SPK7001	undefined	1082	суға	суға	linguistic	_		Begin=1085.258|End=1085.678
+1083-0	SPK7001	Rising	1083	жуғанда	жуғанда	linguistic	_		Begin=1085.678|End=1086.538
+1084-0	SPK7002	undefined	1084	цветнойға	цветнойға	linguistic			Begin=1087.791
+1084-1	SPK7002	undefined	1084	саласың	саласың	linguistic			End=1088.740
+1085-0	SPK7002	undefined	1085	дым	дым	linguistic			Begin=1088.740
+1085-1	SPK7002	undefined	1085	болмайтын	болмайтын	linguistic			
+1085-2	SPK7002	undefined	1085	шығар	шығар	linguistic			End=1089.698
+1086-0	SPK7002	undefined	1086	деп	деп	linguistic			Begin=1089.698
+1086-1	SPK7002	undefined	1086	ойлаймын	ойлаймын	linguistic			End=1090.257
+1087-0	SPK7002	undefined	1087	оның	оның	linguistic			Begin=1092.893
+1087-1	SPK7002	undefined	1087	аппағы	аппағы	linguistic			End=1093.537
+1088-0	SPK7002	Rising	1088	аппақ	аппақ	linguistic			Begin=1093.537
+1088-1	SPK7002	Rising	1088	па?	па	linguistic			End=1094.054
+1089-0	SPK7002	Rising	1089	сәл	сәл	linguistic			Begin=1094.054
+1089-1	SPK7002	Rising	1089	серыйлау	серыйлау	linguistic			
+1089-2	SPK7002	Rising	1089	ма?	ма	linguistic			End=1095.172
+1090-0	SPK7002	undefined	1090	білінбейтін	білінбейтін	linguistic			Begin=1095.172
+1090-1	SPK7002	undefined	1090	шығар	шығар	linguistic			End=1095.986
+1091-0	SPK7002	undefined	1091	бәрібір	бәрібір	linguistic			Begin=1095.986
+1091-1	SPK7002	undefined	1091	қасында	қасында	linguistic			
+1091-2	SPK7002	undefined	1091	қара	қара	linguistic			
+1091-3	SPK7002	undefined	1091	түрі	түрі	linguistic			
+1091-4	SPK7002	undefined	1091	тұрады	тұрады	linguistic			
+1091-5	SPK7002	undefined	1091	ғой	ғой	linguistic			End=1097.655
+1092-0	SPK7001	undefined	1092	но	но	linguistic	_		Begin=1096.778|End=1097.438
+1093-0	SPK7001	undefined	1093	иә	иә	linguistic	_		Begin=1097.438|End=1098.008
+1094-0	SPK7002	undefined	1094	сосын	сосын	linguistic			Begin=1098.503|End=1098.910
+1095-0	SPK7002	undefined	1095	білінбейтін	білінбейтін	linguistic			Begin=1098.910
+1095-1	SPK7002	undefined	1095	шығар	шығар	linguistic			
+1095-2	SPK7002	undefined	1095	деп	деп	linguistic			
+1095-3	SPK7002	undefined	1095	ойлаймын	ойлаймын	linguistic			End=1100.283
+1096-0	SPK7002	undefined	1096	енді	енді	linguistic			Begin=1100.283
+1096-1	SPK7002	undefined	1096	мынаған	мынаған	linguistic			End=1100.689
+1097-0	SPK7002	undefined	1097	енді	енді	linguistic			Begin=1100.689|End=1101.062
+1098-0	SPK7002	undefined	1098	бірақ	бірақ	linguistic			Begin=1101.062|End=1101.401
+1099-0	SPK7002	undefined	1099	аккуратно	аккуратно	linguistic			Begin=1101.401|End=1102.163
+1100-0	SPK7002	undefined	1100	не	не	linguistic			Begin=1102.163
+1100-1	SPK7002	undefined	1100	етесің	етесің	linguistic			End=1102.639
+1101-0	SPK7002	undefined	1101	себебі	себебі	linguistic			Begin=1103.203
+1101-1	SPK7002	undefined	1101	бұнікі	бұнікі	linguistic			End=1103.982
+1102-0	SPK7002	Interrupted	1102	сәл	сәл	linguistic			Begin=1103.982
+1102-1	SPK7002	Interrupted	1102	бірдеңе	бірдеңе	linguistic			
+1102-2	SPK7002	Interrupted	1102	түссе-	түссе	linguistic		Interrupted=Yes	End=1105.500
+1103-0	SPK7002	undefined	1103	дақ	дақ	linguistic			Begin=1105.500
+1103-1	SPK7002	undefined	1103	түссе	түссе	linguistic			
+1103-2	SPK7002	undefined	1103	де	де	linguistic			End=1106.145
+1104-0	SPK7002	undefined	1104	көрініп	көрініп	linguistic			Begin=1106.145
+1104-1	SPK7002	undefined	1104	тұрады	тұрады	linguistic			
+1104-2	SPK7002	undefined	1104	да	да	linguistic			End=1106.866
+1105-0	SPK7002	undefined	1105	уже	уже	linguistic			Begin=1106.866|End=1107.046
+1106-0	SPK7002	undefined	1106	сәл	сәл	linguistic			Begin=1107.046
+1106-1	SPK7002	undefined	1106	не	не	linguistic			
+1106-2	SPK7002	undefined	1106	еткенге	еткенге	linguistic			End=1108.267
+1107-0	SPK7001	undefined	1107	сол	сол	linguistic	_		Begin=1107.998|End=1108.528
+1108-0	SPK7002	undefined	1108	но	но	linguistic			Begin=1108.901
+1108-1	SPK7002	undefined	1108	мынау	мынау	linguistic			End=1109.767
+1109-0	SPK7002	undefined	1109	кішкене	кішкене	linguistic			Begin=1109.767
+1109-1	SPK7002	undefined	1109	не	не	linguistic			End=1110.610
+1110-0	SPK7002	undefined	1110	необычный	необычный	linguistic			Begin=1112.250
+1110-1	SPK7002	undefined	1110	не	не	linguistic			
+1110-2	SPK7002	undefined	1110	болып	болып	linguistic			
+1110-3	SPK7002	undefined	1110	тұр	тұр	linguistic			
+1110-4	SPK7002	undefined	1110	да	да	linguistic			End=1113.320
+1111-0	SPK7002	undefined	1111	жақсы	жақсы	linguistic			Begin=1113.320|End=1113.913
+1112-0	SPK7001	undefined	1112	ақ	ақ	linguistic	_		Begin=1113.468
+1112-1	SPK7001	undefined	1112	киімнің	киімнің	linguistic	_		End=1114.038
+1113-0	SPK7001	undefined	1113	сонысы	сонысы	linguistic	_		Begin=1114.038
+1113-1	SPK7001	undefined	1113	жаман	жаман	linguistic	_		End=1114.748
+1114-0	SPK7001	undefined	1114	сразу	сразу	linguistic	_		Begin=1114.748
+1114-1	SPK7001	undefined	1114	кірлейді	кірлейді	linguistic	_		End=1115.918
+1115-0	SPK7002	undefined	1115	(H)	(H)	_			Begin=1114.860|End=1115.721
+1116-0	SPK7002	undefined	1116	(Hx)	(Hx)	_			Begin=1115.721|End=1117.052
+1117-0	SPK7001	undefined	1117	##	##	unknown	_		Begin=1116.088|End=1116.648
+1118-0	SPK7001	undefined	1118	мына	мына	linguistic	_		Begin=1116.648
+1118-1	SPK7001	undefined	1118	жерінде	жерінде	linguistic	_		End=1117.458
+1119-0	SPK7001	undefined	1119	мына	мына	linguistic	_		Begin=1117.708
+1119-1	SPK7001	undefined	1119	жерінде	жерінде	linguistic	_		End=1118.728
+1120-0	SPK7001	undefined	1120	қарайып	қарайып	linguistic	_		Begin=1118.728
+1120-1	SPK7001	undefined	1120	бастайды	бастайды	linguistic	_		End=1119.668
+1121-0	SPK7002	undefined	1121	иә	иә	linguistic			Begin=1119.500|End=1119.715
+1122-0	SPK7002	undefined	1122	сосын	сосын	linguistic			Begin=1119.715|End=1119.930
+1123-0	SPK7002	undefined	1123	дақ	дақ	linguistic			Begin=1119.930
+1123-1	SPK7002	undefined	1123	түссе	түссе	linguistic			End=1120.552
+1124-0	SPK7002	undefined	1124	кетіріп	кетіріп	linguistic			Begin=1120.552
+1124-1	SPK7002	undefined	1124	тастау	тастау	linguistic			
+1124-2	SPK7002	undefined	1124	да	да	linguistic			
+1124-3	SPK7002	undefined	1124	қиын	қиын	linguistic			
+1124-4	SPK7002	undefined	1124	оны	оны	linguistic			End=1121.558
+1125-0	SPK7002	undefined	1125	не	не	linguistic			Begin=1121.558
+1125-1	SPK7002	undefined	1125	етіп	етіп	linguistic			End=1122.215
+1126-0	SPK7001	undefined	1126	бір	бір	linguistic	_		Begin=1123.898
+1126-1	SPK7001	undefined	1126	рет	рет	linguistic	_		End=1124.448
+1127-0	SPK7001	undefined	1127	тамақ	тамақ	linguistic	_		Begin=1124.448
+1127-1	SPK7001	undefined	1127	жеп	жеп	linguistic	_		
+1127-2	SPK7001	undefined	1127	отқанда	отқанда	linguistic	_		End=1125.568
+1128-0	SPK7002	undefined	1128	мына	мына	linguistic			Begin=1125.558|End=1125.953
+1129-0	SPK7002	undefined	1129	кісіні	кісіні	linguistic			Begin=1125.953|End=1126.384
+1130-0	SPK7002	undefined	1130	түртіп	түртіп	linguistic			Begin=1126.384
+1130-1	SPK7002	undefined	1130	жіберсеңіз	жіберсеңіз	linguistic			End=1127.500
+1131-0	SPK7002	undefined	1131	дұрыс	дұрыс	linguistic			Begin=1127.500
+1131-1	SPK7002	undefined	1131	болар	болар	linguistic			
+1131-2	SPK7002	undefined	1131	еді	еді	linguistic			End=1128.320
+1132-0	SPK7002	undefined	1132	негізі	негізі	linguistic			Begin=1128.320|End=1128.703
+1133-0	SPK7002	undefined	1133	дүкенді	дүкенді	linguistic			Begin=1128.703
+1133-1	SPK7002	undefined	1133	аралап	аралап	linguistic			
+1133-2	SPK7002	undefined	1133	жүрген	жүрген	linguistic			End=1130.238
+1134-0	SPK7002	undefined	1134	десең	десең	linguistic			Begin=1130.238
+1134-1	SPK7002	undefined	1134	да	да	linguistic			End=1130.698
+1135-0	SPK7002	undefined	1135	@	@	linguistic			Begin=1131.605
+1135-1	SPK7002	undefined	1135	(H)	(H)	_			End=1132.198
+1136-0	SPK7002	undefined	1136	дүкен	дүкен	linguistic			Begin=1132.198
+1136-1	SPK7002	undefined	1136	аралап	аралап	linguistic			
+1136-2	SPK7002	undefined	1136	жүргенде	жүргенде	linguistic			End=1133.570
+1137-0	SPK7002	undefined	1137	енді	енді	linguistic			Begin=1133.570
+1137-1	SPK7002	undefined	1137	көрген	көрген	linguistic			
+1137-2	SPK7002	undefined	1137	нәрселерді	нәрселерді	linguistic			End=1135.035
+1138-0	SPK7002	undefined	1138	деген	деген	linguistic			Begin=1135.035
+1138-1	SPK7002	undefined	1138	сияқты	сияқты	linguistic			End=1135.901
+1139-0	SPK7002	undefined	1139	естімей	естімей	linguistic			Begin=1135.901
+1139-1	SPK7002	undefined	1139	жатыр	жатыр	linguistic			End=1136.645
+1140-0	SPK7002	undefined	1140	қаттырақ	қаттырақ	linguistic			Begin=1136.645|End=1137.349
+1141-0	SPK7002	undefined	1141	білмеймін	білмеймін	linguistic			Begin=1138.430
+1141-1	SPK7002	undefined	1141	енді	енді	linguistic			End=1139.081
+1142-0	SPK7002	undefined	1142	мына	мына	linguistic			Begin=1139.081|End=1139.436
+1143-0	SPK7002	undefined	1143	мына	мына	linguistic			Begin=1139.436
+1143-1	SPK7002	undefined	1143	көйлек	көйлек	linguistic			
+1143-2	SPK7002	undefined	1143	қалай	қалай	linguistic			
+1143-3	SPK7002	undefined	1143	болады	болады	linguistic			End=1140.709
+1144-0	SPK7002	undefined	1144	енді	енді	linguistic			Begin=1140.709
+1144-1	SPK7002	undefined	1144	не	не	linguistic			
+1144-2	SPK7002	undefined	1144	ететінге	ететінге	linguistic			End=1141.948
+1145-0	SPK7002	undefined	1145	деп	деп	linguistic			Begin=1141.948|End=1142.308
+1146-0	SPK7002	undefined	1146	қатты	қатты	linguistic			Begin=1143.105
+1146-1	SPK7002	undefined	1146	шығып	шығып	linguistic			
+1146-2	SPK7002	undefined	1146	кетіп	кетіп	linguistic			
+1146-3	SPK7002	undefined	1146	жатыр	жатыр	linguistic			End=1144.262
+1147-0	SPK7002	undefined	1147	деген	деген	linguistic			Begin=1144.802
+1147-1	SPK7002	undefined	1147	сияқты	сияқты	linguistic			End=1145.709
+1148-0	SPK7002	Rising	1148	мынаны	мынаны	linguistic			Begin=1146.901
+1148-1	SPK7002	Rising	1148	қарайсың	қарайсың	linguistic			
+1148-2	SPK7002	Rising	1148	ба?	ба	linguistic			End=1147.610
+1149-0	SPK7001	undefined	1149	көрсет	көрсет	linguistic	_		Begin=1147.908|End=1148.748
+1150-0	SPK7001	undefined	1150	жаңағы	жаңағы	linguistic	_		Begin=1152.708|End=1153.148
+1151-0	SPK7001	undefined	1151	жақсы	жақсы	linguistic	_		Begin=1153.148
+1151-1	SPK7001	undefined	1151	еді	еді	linguistic	_		End=1153.838
+1152-0	SPK7002	undefined	1152	иә	иә	linguistic			Begin=1154.238|End=1154.628
+1153-0	SPK7001	undefined	1153	мынау	мынау	linguistic	_		Begin=1154.338|End=1154.768
+1154-0	SPK7002	undefined	1154	кішкене	кішкене	linguistic			Begin=1154.628|End=1155.302
+1155-0	SPK7001	undefined	1155	мынау	мынау	linguistic	_		Begin=1154.768|End=1155.288
+1156-0	SPK7001	undefined	1156	мынау	мынау	linguistic	_		Begin=1155.288
+1156-1	SPK7001	undefined	1156	бар	бар	linguistic	_		
+1156-2	SPK7001	undefined	1156	ғой	ғой	linguistic	_		End=1156.008
+1157-0	SPK7001	undefined	1157	более	более	linguistic	_		Begin=1156.218|End=1156.898
+1158-0	SPK7001	undefined	1158	спортивный	спортивный	linguistic	_		Begin=1156.898
+1158-1	SPK7001	undefined	1158	стиль	стиль	linguistic	_		End=1158.168
+1159-0	SPK7002	undefined	1159	иә	иә	linguistic			Begin=1158.075|End=1158.639
+1160-0	SPK7002	undefined	1160	мынау	мынау	linguistic			Begin=1161.198
+1160-1	SPK7002	undefined	1160	енді	енді	linguistic			
+1160-2	SPK7002	undefined	1160	дым	дым	linguistic			End=1162.122
+1161-0	SPK7002	undefined	1161	вообще	вообще	linguistic			Begin=1162.308|End=1162.878
+1162-0	SPK7002	undefined	1162	қызық	қызық	linguistic			Begin=1162.878
+1162-1	SPK7002	undefined	1162	емес	емес	linguistic			
+1162-2	SPK7002	undefined	1162	несі	несі	linguistic			End=1164.012
+1163-0	SPK7002	undefined	1163	моделі	моделі	linguistic			Begin=1164.012
+1163-1	SPK7002	undefined	1163	қызық	қызық	linguistic			
+1163-2	SPK7002	undefined	1163	емес	емес	linguistic			End=1165.296
+1164-0	SPK7002	undefined	1164	не	не	linguistic			Begin=1166.000
+1164-1	SPK7002	undefined	1164	де	де	linguistic			
+1164-2	SPK7002	undefined	1164	болса	болса	linguistic			End=1166.599
+1165-0	SPK7002	undefined	1165	осы	осы	linguistic			Begin=1166.599
+1165-1	SPK7002	undefined	1165	қала	қала	linguistic			
+1165-2	SPK7002	undefined	1165	берсін	берсін	linguistic			End=1167.488
+1166-0	SPK7002	undefined	1166	(H)	(H)	_			Begin=1168.308|End=1169.692
+1167-0	SPK7002	undefined	1167	(Hx)	(Hx)	_			Begin=1169.692|End=1170.692
+1168-0	SPK7002	undefined	1168	енді	енді	linguistic			Begin=1170.692
+1168-1	SPK7002	undefined	1168	білмеймін	білмеймін	linguistic			End=1171.529
+1169-0	SPK7002	undefined	1169	(Hx)	(Hx)	_			Begin=1171.529|End=1172.302
+1170-0	SPK7002	Rising	1170	қызық	қызық	linguistic			Begin=1173.500
+1170-1	SPK7002	Rising	1170	па?	па	linguistic			End=1174.273
+1171-0	SPK7001	undefined	1171	#####	#####	unknown	_		Begin=1176.138|End=1177.128
+1172-0	SPK7002	undefined	1172	ы:	ы	linguistic		Prolongation=0	Begin=1177.401|End=1178.046
+1173-0	SPK7002	Rising	1173	қанша	қанша	linguistic			Begin=1178.046
+1173-1	SPK7002	Rising	1173	несі?	несі	linguistic			End=1179.384
+1174-0	SPK7002	undefined	1174	футболкасын	футболкасын	linguistic			Begin=1181.105|End=1181.965
+1175-0	SPK7002	undefined	1175	или	или	linguistic			Begin=1182.802
+1175-1	SPK7002	undefined	1175	не	не	linguistic			End=1183.465
+1176-0	SPK7002	Rising	1176	қарайсың	қарайсың	linguistic			Begin=1183.465
+1176-1	SPK7002	Rising	1176	ба	ба	linguistic			
+1176-2	SPK7002	Rising	1176	тағы	тағы	linguistic			
+1176-3	SPK7002	Rising	1176	басқасын	басқасын	linguistic			
+1176-4	SPK7002	Rising	1176	да?	да	linguistic			End=1185.389
+1177-0	SPK7002	Rising	1177	Келвин	Келвин	linguistic			Begin=1185.709
+1177-1	SPK7002	Rising	1177	Кляйнның	Кляйнның	linguistic			
+1177-2	SPK7002	Rising	1177	футболкасын	футболкасын	linguistic			
+1177-3	SPK7002	Rising	1177	қарайсың	қарайсың	linguistic			
+1177-4	SPK7002	Rising	1177	ба?	ба	linguistic			End=1187.610
+1178-0	SPK7002	undefined	1178	Сенде	Сенде	linguistic			Begin=1187.610
+1178-1	SPK7002	undefined	1178	бар	бар	linguistic			
+1178-2	SPK7002	undefined	1178	еді	еді	linguistic			
+1178-3	SPK7002	undefined	1178	ғой	ғой	linguistic			
+1178-4	SPK7002	undefined	1178	негізі	негізі	linguistic			End=1188.610
+1179-0	SPK7002	undefined	1179	Келвин	Келвин	linguistic			Begin=1188.610
+1179-1	SPK7002	undefined	1179	Кляйнның	Кляйнның	linguistic			
+1179-2	SPK7002	undefined	1179	футболкасы	футболкасы	linguistic			End=1190.174
+1180-0	SPK7002	undefined	1180	Келвин	Келвин	linguistic			Begin=1192.843
+1180-1	SPK7002	undefined	1180	Кляйнның	Кляйнның	linguistic			
+1180-2	SPK7002	undefined	1180	футболкасы	футболкасы	linguistic			
+1180-3	SPK7002	undefined	1180	бар	бар	linguistic			End=1194.337
+1181-0	SPK7002	undefined	1181	ым	ым	linguistic			Begin=1194.337|End=1194.843
+1182-0	SPK7002	undefined	1182	Донна	Донна	linguistic			Begin=1194.843
+1182-1	SPK7002	undefined	1182	Каран	Каран	linguistic			
+1182-2	SPK7002	undefined	1182	жоқ	жоқ	linguistic			
+1182-3	SPK7002	undefined	1182	сенде	сенде	linguistic			
+1182-4	SPK7002	undefined	1182	помоему	помоему	linguistic			End=1196.081
+1183-0	SPK7002	Rising	1183	да?	да	linguistic			Begin=1196.081|End=1196.128
+1184-0	SPK7002	undefined	1184	футболкалары	футболкалары	linguistic			Begin=1196.128|End=1196.698
+1185-0	SPK7001	undefined	1185	иә	иә	linguistic	_		Begin=1196.208|End=1196.808
+1186-0	SPK7002	undefined	1186	давай	давай	linguistic			Begin=1196.698
+1186-1	SPK7002	undefined	1186	Донна	Донна	linguistic			
+1186-2	SPK7002	undefined	1186	Каранның	Каранның	linguistic			
+1186-3	SPK7002	undefined	1186	футболкасын	футболкасын	linguistic			End=1197.919
+1187-0	SPK7002	Rising	1187	қайсы?	қайсы	linguistic			Begin=1197.919|End=1198.366
