@@ -31,8 +31,10 @@ This repository contains:
 
 For each conversation you will find:
 
+* `.wav` file in [`audio/`](./audio/) folder
 * `.eaf` file in [`eaf/`](./eaf/) folder: time-aligned Discourse Functional Transcription-style transcriptions (open with [ELAN](https://archive.mpi.nl/tla/elan)).
 * `.tsv` file in [`tsv/`](./tsv/) folder: verticalized version of the transcription, with DFT-style information decoupled from the text as features See [verticalized-content](#verticalized-content) for more information.
+* `.txt` file in [`linear/`](./linear/) folder: linearized DFT-style transcription with translations
 
 ## Metadata
 
@@ -64,7 +66,7 @@ Metadata is to be interpreted as follows:
 Conversations are also available in a vertical, pseudo-tokenized version in [`tsv/`](./tsv/).
 Tokenization is obtained by validating the DFT transcription using custom tools and splitting on token boundaries (whitespaces). Each transcription-derived token is then documented on one row.
 
-Each token is represented as 12 columns, as follows:
+Each token is represented as 10 columns, as follows:
 
 1. `token_id`: unique token identifier within the conversation
 2. `speaker`: speaker `code` as it can be found in [`metadata/participants.csv`](metadata/participants.csv)
