@@ -3,7 +3,8 @@
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="MCSKL004b.wav" MIME_TYPE="audio/wav"/>
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="../audio/MCSKL004b.wav" MIME_TYPE="audio/wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:5efe3874-3dfd-4d74-ab9e-6834cdfbe669</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">13453</PROPERTY>
     </HEADER>

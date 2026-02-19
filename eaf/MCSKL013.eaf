@@ -4,7 +4,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///Users/akylakanov/Desktop/My transcripts for publication/akak200721-003/akak200721-003.MOV" MIME_TYPE="video/quicktime"/>
+            MEDIA_URL="../audio/file:///Users/akylakanov/Desktop/My transcripts for publication/akak200721-003/akak200721-003.MOV" MIME_TYPE="video/quicktime"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:7b7616b2-edb3-473b-9a35-bb83f6bf9a0e</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">9219</PROPERTY>
     </HEADER>
