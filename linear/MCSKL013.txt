@@ -1,0 +1,628 @@
+speaker	span	translation
+SPK0030	Біз киноға қай күні бардық	What day did we go to the cinema?
+SPK0029	Алдыңғы күні барғанбыз	We went the previous day.
+SPK0030	Алдыңғы күні ма екі күн бұрын бардық где-то так	We went the day before or two days ago.
+	Черная Вдоваға	The Black Widow, was it the first time you watched Marvel movies?
+	сен бірінші рет бардың ба	
+	Марвелға или как	
+SPK0029	Жоқ Марвелды	Жоқ Марвелды, негізі көремін ғой,  просто, Черная Вдова: қатты қызықпадым. No, in general, I watch Marvel movies, but I wasn't particularly interested in the Black Widow movie.
+	негізі көремін ғой	
+	просто	
+	Черная Вдова:	
+	қатты қызықпадым	
+SPK0030	Қызыққан	Interesting.
+	Негізі бар ғой,	In fact, you know Romanoff right, when she died, she, I already forgot in the cinema, but then I remembered that she died in the Endgame.
+	Романов бар ғой,	
+	өліп қалған кезде	
+	ол,	
+	уже,	
+	мен уже ұмытып қалыппын бар ғой кинодан	
+	бірақ есіме түсті что	
+	ол финалда өліп қалды	
+SPK0029	Сен айттың ғой сол кезде--	You said back then--
+SPK0030	Иә мен айттым	Yes I did. You have to watch it, The Last Avenger Part I.
+	Саған соны көру керек	
+	Последний мститель первая часть.	
+SPK0029	Көргем оны	I watched it,
+	Көрдім ғой	I did.
+SPK0030	Бесконечность пен Финалды ма	The Infinity War and the Engame, right, those with Thanos?
+SPK0029	Көрдім	I watched, but I already forgot [what they were about].
+	бірақ мен уже ұмытып қалдым просто	
+SPK0030	Таносы бар который	
+SPK0029	Иә көрдім	Yes, I did, those with Thanos.
+	Таносы барды	
+SPK0030	А,	When ¬Aruzhan went with us, they didn’t see any [of the films], they seem to have watched Marvel for the first time.
+	¬Аружандар бізбен барғанда ешқайсысын көрмеген ғой	
+	бірінші рет көрді кажется олар Марвел--	
+SPK0029	¬Анель көрген жоқ	¬Anel hasn't watched [them], too.
+	###.	
+SPK0030	¬Анель көрген жоқ па	¬Anel hasn't?
+	А,	
+	ал қасында ¬Диана сұрады ғой бізден	Ah, and nearby ¬Diana asked us the same. Maybe.
+SPK0029	¬Диана бітіргенге ұқсайды	It looks like ¬Diana finished [the Marvel movies].
+SPK0030	Наверное.	
+	(Н)	
+	Негізі бар ғой,	In fact, there is,
+	мм,	
+	ээ,	In general, there is, what was her name, Romanoff, at the very end [her] sister said, like Klint killed this Romanoff, she showed the photo at the very end, you have such and such a task, you need to kill her and so on.
+	қалай еді анау	
+	Романофф,	
+	ең аяғында айтты ғой	
+	сестрасы типа	
+	Романоффты осы	
+	өлтіріп тастады деп	
+	Клинт,	
+	фотосын көрсетті ғой ең аяғында	
+	екенін кажется--	
+SPK0029	Иә иә,	Yeah yeah.
+SPK0030	тебе задание осындай осындай	
+	өлтіру керек деп	
+	сол кезде	Then, actually, Clint didn't kill her.
+	эээ,	
+	негізі,	
+	Клинт өлтірген жоқ қой оны	
+SPK0029	Я тоже не помню.	I don't remember either.
+SPK0030	Ол скаладан өзі секірді ғой	She herself jumped off the cliff, for the sake of this, in order to get the soul stones.
+	ради этого,	
+	чтобы получить камни души,	
+	сол короче,	Long story short, she died herself.
+	өзі өлген	
+	Енді маған ка-	Now I th--
+SPK0029	Ма-	I--
+SPK0030	маған кажется	It seems to me that her sister is dead now, Natasha, she left the Avengers. She will now take her place, because somehow it is necessary to continue.
+	соның апайы енді өлді ғой	
+	мстительдан кетті ғой	
+	Наташаның	
+SPK0029	Анау Мстительлар-	Those Avengers--
+SPK0030	Оның орнына кіреді	
+SPK0029	Иә.	Yeah.
+SPK0030	потому что	
+	жалғастыру керек қой бірдеңке етіп	
+SPK0029	Басыңда типа андай болады--	In the beginning they were like, squarrelling, and so on.
+SPK0030	Иә иә осылай ұрысады да--	"Actually, she made him feel guilty about it, arguing-- Both of them, in short, ""who dies, who dies"" sort of argued when they jumped off a cliff. She shot Clint in the leg and jumped off herself, didn't she?"
+SPK0029	ұрысады анау-мынау	
+SPK0030	төбелеседі	
+	сен менікін өлтірдің	
+	деген сияқты	
+	сосын анау өзін	
+	виноватой чувствовать етіп--	
+	Негізі,	
+	виноватой чувствовать етті ғой	
+	жарыс--	
+	екеуі кoроче	
+	кім өледі кім өледі деп	
+	жарысты ғой	
+	шка- ска- скаладан секіргенде	
+SPK0029	Иә иә.	Yeah yeah.
+SPK0030	и	
+	анау Клинттың аяғын атып тастады да	
+	өзі барып секірмеспе	
+	Соны--	
+	соны айтады наверное	They will probably tell about it, probably, someone will show it in this way now.
+	сөйтіп	
+	көрсететін шығар енді	
+	біреулер	
+	Сосын,	Then from the new Avengers, who else left, Captain America also left [the Avengers roster].
+	мстительдың новый	
+	кім де кетіп қалды ғой	
+	Капитан Америка да,	
+	ішінен	
+SPK0029	Қашан?	When? When was it?
+SPK0030	Капитан Америка кетіп қалды ғой білмейсің ба	Captain America is gone, don't you know?
+	Короче ең ақырысында	In short, at the very end, in the second part of Avengers: Endgame, Captain America took this one and returned to the past. Went back in time and--
+	мстительдың финалдың екінші частьында	
+	эээ,	
+	кім алды да	
+	Капитан Америка,	
+	прошлыйға кетіп қалды ғой	
+	сол прошлыйға кетіп қалды да--	
+SPK0029	Қашан ол?	
+	Мен оны көрген жоқпын	I didn't see it.
+SPK0030	Онда неге көрдім деп айттың	Then why do you say you did?
+SPK0029	Мен көрдім бірақ	I watched, but maybe I don't remember.
+	но может не помню.	
+SPK0030	Жоқ сонда кетіп қалды короче	No, then he left, in short, returned to the past, and then what he did, returned to the future again, and returned as an old man.
+	прошлыйға вернуться етті да	
+	и потом не істеді	
+	қайттан қайтып келді будущийға	
+	и кәрі шал болып қайтып келді	
+	То есть ол--	That is, he, in short, at the very end returned to where he was before he became Captain America, and, there, remember the girl he liked, an officer, a soldier, oh, I say a soldier, an officer, he returned to her, they got married and returned to the future already old.
+SPK0029	Мен оның ғана быт-шыты шығып кеткенін помню	I only remember how it shattered to smithereens.
+SPK0030	Ол--	
+	То есть ол короче	
+	ең ақырында	
+	өзінің Капитан Америка	
+	болмай тұрып	
+	болған жерге	
+	вер--	
+	вернулся,	
+	и,	
+	сол жерде	
+	помнишь бір,	
+	өзінің бір жақсы көретін	
+	офицер солдаты ой--	
+SPK0029	Иә иә.	Yeah yeah.
+SPK0030	солдат деппін офицер қызы бар еді ғой	
+	соған қайтып келді	
+	екеуі үйленіп и	
+	будущийға кәрі: болып келді	
+	Онда алып тастады ғой немерені	Then they removed their granddaughter, the Marvel. Everything is over now.
+	Марвелдар	
+	Бітіп қалды	
+SPK0029	Енді кім қалды ішінде	Now who's left there?
+SPK0030	Енді кoроче кетті	Now, in short, they are gone: Captain America is gone, Romanoff is gone, Tony Stark was killed, now only Thor from the previous roster remains, and Spider-Man remains, then these, Clint, Falcon, and the Black Soldier, who is handi--
+	Капитан Америка кетіп қалды	
+	Романофф кетіп қалды	
+	Тони Старк өлтіріп тастады	
+	енді қалды Тор ғана	
+	бұрынғы составынан	
+	иии	
+	Человек-Паук қалды	
+	сосын жаңа,	
+	Клинт,	
+	Сокол,	
+	и Черный Солдат,	
+	который қолы--	
+SPK0029	Кім ше,	And the Iron Man?
+	Железный человек?	
+SPK0030	Железный человек өліп қалды ғой	The Iron Man is dead, Tony Stark.
+SPK0029	Қашан?	When?
+SPK0030	Тони Старк,	
+SPK0029	Ол келді ғой	He returned, again.
+	қайттан.	
+SPK0030	Келген жоқ қой ол	He did not.
+SPK0029	Ааа,	Ah, what did I watch--
+	мен не көргем--	
+SPK0030	(TSK)	
+	Білмеймін не көргеннің	I don't know what you watched, but you need to refresh your memory and rewatch again.
+	саған қайттан надо освежить память көру керек	
+SPK0029	Походу көру керек	Seems like I do indeed.
+SPK0030	Я говорю сөйтесің	I say, you will do it, because everything starts there.
+	потому что	
+	бәрі осыдан шығады	
+	Сен вообще Железный Человектің бірінші частьтын көрдің бе	Have you even watched the first part of Iron Man?
+SPK0029	Жоқ,	No. I only watched The Marvel's Avengers.
+	@@	
+	Мен только Мститель ғана көрдім	
+	Марвелдан	
+SPK0030	Мстительдің	What about the third part of the Avengers, the Age of Ultron?
+	үшінші немесінді ма	
+	Эээ,	
+	Эра Альтрона:?	
+SPK0029	Иә соны көрдім	Yeah I watched it.
+SPK0030	Эээ,	
+	Ффф--	
+	Кажется про Таноса сен,	It seems that you did not fully watch the Thanos movies?
+	толық көрмегенсің	
+SPK0029	Про Таноса екі кино көрдім	I watched two films about Thanos, I saw two parts.
+	екі частьын көрдім	
+SPK0030	Онда	Then why are you sitting like you fell from the moon?
+	неге айдан түскен не секілді болып отырсың	
+	@@@	
+SPK0029	Мхм,	
+	просто--	I just--
+SPK0030	Ал нені көрдің ба	And have you watched the very first Avengers movie?
+	самый бірінші Мстительді	
+SPK0029	Қайсысы?	Which one? What was it about?
+	Ішінде не бар	
+SPK0030	Который ішінде	The one where Loki came and--
+	Локи келеді да--	
+SPK0029	Иә,	Yes, I watched, I did.
+	көрдім	
+	көрдім	
+SPK0030	Халк туралы көрдің ба	And did you watched the Hulk movie, the old one?
+	бұрынғы: фильм	
+SPK0029	Жоқ, Халкты көрген жоқпын	No, I didn't watch the Hulk movie.
+SPK0030	Ал Тордың үшінші фильмді көрдің ба	What about the third film of Thor?
+SPK0029	Тордың үшінші фильмді көрдім	The third film of Thor I did watch.
+SPK0030	Тағы не айтайын	What else should I say, what was there, the Star Wa-- No, not the Star Wars--
+	Тағы қайсысы бар еді	
+	(Н)	
+	Звездны–	
+	Жоқ, Звездные воины:	
+SPK0029	Анау новыйлар шықты ғой	There are new movies out, the Ant, and so on.
+	мураве:й	
+	анау-мынау:	
+SPK0030	А,	Ah, the Ant-Man and the Wasp? I haven't watched it either.
+	Человек-Муравей и Оса ма?	
+	Мен оны көрген жоқпын тоже	
+SPK0029	Мен нені	I watched the Black Panther.
+	Черная Пантера көрдім	
+SPK0030	А,	Ah, I watched it, too.
+	оны мен де көрдім	
+	Черный Пантераның актері өліп қалды	The actor who played the Black Panther died, so he left, too, most likely.
+	ол да кетті наверное	
+	Алып тастады ғой--	They'll remove him.
+SPK0029	Иә,	Yes, exactly.
+	#### точно.	
+SPK0030	иә.	Yeah.
+SPK0029	@@	
+SPK0030	@@	
+	Не ғой,	This one, what I wanted to say, the name looks like Star Wars, I can’t remember what it was called.
+	не айтайын деп едім	
+	Звездные Воиныға	
+	ұқсайтын аты қалай	
+	есіме түспей тұр	
+SPK0029	Стражи Галактики.	The Guardians of the Galaxy.
+SPK0030	А да	Ah yeah, did you watch the Guardians of the Galaxy?
+	Стражи Галактики көрдің ба	
+SPK0029	Біреуін ғана көрдім	Only one movie.
+SPK0030	По идее	In theory, it’s not very interesting, it’s just, like they made it for fun.
+	қатты қызық емес,	
+	просто,	
+	для прикола түсірген сияқты	
+SPK0029	Маған да ұнамай қалды особо	I didn't like it much either.
+SPK0030	Андай ше	It's like,
+	прикольчик--	joke--
+SPK0029	просто,	Just, jokes--
+	прикольчик--	
+SPK0030	Иә,	Yes, they made it mostly for fun.
+	по приколу түсірген ғой	
+	Со:л.	This is it.
+	дейді ғой	
+	Не ғой,	You know what, we bought the package tour for the 13th or what?
+	біз,	
+	путевканы	
+	он үші күнге алдық па	
+SPK0029	Қай путевка	Which package tour?
+SPK0030	Августта	The one in August, the one for us and our grandmothers?
+	анау	
+	немеге баратындар	
+	әже нелермен	
+SPK0029	Ааа,	"Ahh, thirteenth, twelfth, fourteenth-- oh, thirteenth, fifteenth, fourteenth--
+--"
+	он үші	
+	он екісі	
+	он төрт- ой,	
+	он үші	
+SPK0030	он үші	Thirteenth, fourteenth, it's the 15th.
+SPK0029	он бесіне	
+SPK0030	он төрті	
+SPK0029	он төрті- --	
+SPK0030	он бесіне алдық	
+	Мен наверное--	I maybe-- you--
+	сендер--	
+	Маған короче әже не айтты	In short, my grandmother said that I, we, in short, will leave on Friday afternoon, and I will be at work on Friday, and I will return [only] in the evening.
+	что мен біз короче	
+	пятница күні түсте кетіп қаламыз деп	
+	Ал мен пятница,	
+	на работе,	
+	и:	
+	кешке келемін--	
+SPK0029	Біз кетіп қаламыз	We'll go, and our grandmother will wait for you.
+	сені күтеді әжелер	
+SPK0030	Күтеді	She'll wait?
+SPK0029	Күтеді	She will. uncle ¬Almas, me, ¬Nurkhan, aunt, the four of us will go, and you and grandma, in the evening--
+SPK0030	Ал сендер кіммен кетесіңдер	Who will you leave with?
+SPK0029	¬Алмас аға,	
+	мен,	
+	¬Нұрхан,	
+	апа,	
+	төртеуіміз кетіп қаламыз	
+	ал сендер әжелермен кешке--	
+SPK0030	Просто папа маған айтқан	Dad just told me, I'll put you in a taxi if you just leave in the evening.
+	мен сені таксист ағаға салып жібере аламыз	
+	если кешке просто шықсаңдар--	
+SPK0029	Таксимен ол	"Таксимен ол,
+By taxi, it's kind of stressful, you don't know who is where. And will mother come? Mother--"
+	қобалжиді ғой,	
+SPK0030	Жоқ әжеге күтіседі	No, grandma will be looked after, good, not a stranger will come with us.
+SPK0029	кімнің қай жерде екенін білмейді ғой	
+SPK0030	хорошо	
+	бөтен кісі емес өзімізбен барады	
+SPK0029	Мама өзі барады ма	
+	Мамасы--	
+SPK0030	Жақсы болды ғой	It's good, we'll go in pairs, you know.
+	жұппен барамыз де:п	
+	қойсаң иә	
+	@@@	
+SPK0029	де:п	You know, just look at her.
+	ойлап отырғаның қарасайшы	
+SPK0030	Мәә,	Damn, we need to swim well, but before that, we will not go to any hot waters?
+	жақсылап суға түсу керек	
+	а оған дейін	
+	ешқандай ыстық суға бармаймыз ба	
+	Анау Самал жақта пляж бар дейді ғой	They say there is a beach at Samal's.
+SPK0029	Бассейн.	A swimming pool.
+SPK0030	Что за бассейн	What swimming pool?
+SPK0029	Самалға может барамыз	Maybe we should go to Samal with Aruzhan?
+	¬Аружандармен?	
+SPK0030	Самалға бір рет барайықшы	Let's visit Samal once?
+SPK0029	Барайық	Let's visit.
+SPK0030	А потом енді,	And then, now, we'll go to Kurshim, to Kurshim, Kurshim--
+	Күршімге барамыз ғо:й	
+	Күршімге	
+	Күршім--	
+SPK0029	Күршімде суға түсіп үлгереміз ба:	We'll we be able to swim in Kurshim's waters?
+SPK0030	Или хотя бы окунуться бір рет,	Or at least take a dip, that'd be enough.
+	болды	
+	Күршімге барамыз короче	We'll go to Kurshim, long story short.
+	Біз Күршімге барғанда	And when we'll go to Kurshim, will we go Kurshim itself or to Koigan?
+	Күршімнің өзіне барамыз ба или Қойғанға барамыз ба	
+SPK0029	Топтерекке	To Topterek.
+SPK0030	Ойбо:й--	Oh wow.
+SPK0029	Қалғанды не іздеп тұрсың	What else do you need?
+SPK0030	Суға қай жерге түсеміз онда	Where will we swim then?
+SPK0029	Бар ғой.	There are [places to swim].
+SPK0030	Білмеймін	I don't know.
+	Күршім су ағынды ғой	Kurchum water is stormy, let's swim in shallow water, where the sand is.
+	мына жерге түсе алайық құйған	
+	песоктан	
+SPK0029	Папа апарса бір жерге барамыз	If dad takes us, we'll go to one place, dad knows it.
+	Папа біледі ғой оны	
+SPK0030	Мен вообще түскен жоқпын осы жерде	I did not swim there, I had a surgery on the eyes so I couldn't.
+	маған после операции,	
+	еще әлі болмайды ғой көздерге	
+	После операции нельзя деп мен Алматыда суға түсіп алдым ғой бассейнға	After the surgery, I wasn't allowed to, but I swam in the pool in Almaty.
+SPK0029	Қашан?	When?
+SPK0030	Бірақ мен сразу,	But right after the swimming pool I put the medicine in my eyes.
+SPK0029	Бес,	It wasn't five--
+	болған жоқ қой	
+SPK0030	сразу после бассейна,	
+	ээ,	
+	капли капать еткем	
+	Түк болған жоқ вроде бы нормально	Nothing bad happened, it seemed to be normal, but in my opinion the vision has not yet recovered after the surgery, despite the fact that if I went to the optometrist for a physical examination, I said like “I am after laser correction”, there are these letters that are at a distance, yes, when I looked at them shorter, my eyes got blurry I didn’t see anything.
+	бірақ по-моему көзімнің зрение сы әлі восстанавливаться еткен жоқ	
+	после операции,	
+	при том что,	
+	если-- окулист қа бардым ғой медосмотрға	
+	айттым типа	
+	я после лазерной коррекции деп	
+	и:	
+	ана немелер бар ғой	
+	алыста тұратын буквалар	
+SPK0029	Әріптер	Letters.
+SPK0030	Иә,	
+	соған қарағанда короче	
+	көзім бұлдырлап түк көрмей қалдым	
+SPK0029	Қуасың--	You're crazy.
+SPK0030	Сосын айттым иә	Then I told him that I haven't recovered yet, yeah, I said so. Then, what else, this is it. A swimsuit. We don't have anything, you know? We have to go to the market again, you need to take shorts, and I, what are the names of long trousers?
+	мен еще не восстановилась деп	
+	сол короче	
+	сөйтіп айттым	
+	Сосы:н,	
+	тағы не айтамыз	
+SPK0029	Суға барғанда не аласың	What will you take with you when we'll go swimming?
+SPK0030	короче былай да келді ғой былай да	
+	Купальник.	
+SPK0029	@@	
+SPK0030	@@	
+	Бізде по идее немене жоқ	
+	білесің ба	
+	Бізге тағы бір рет базарға барып	
+	саған шорты алу керек	
+	маған,	
+	ээ,	
+	не еді анау	
+	ұзын штаныды қалай айтушы еді	
+SPK0029	Палеро ма,	Palero or something like that?
+	не еді	
+SPK0030	Па--	Pa-- palantine, palantine.
+	палантин,	
+	палантин.	
+SPK0029	Қумашы	Don't go crazy, it's not palantine.
+	палантин емес.	
+SPK0030	@	
+SPK0029	Мен де ұмытып қалдым	I forgot too.
+	@	
+SPK0030	Қалай еді айтшы	What was it's name, Palestin--
+	Палестин--	
+SPK0029	Палестина,	Palestine, no.
+	@@@	
+	жо:қ.	
+SPK0030	@@	
+	Палестина емес.	Not Palestine.
+	Ладно забей,	Okay, forget it, in short, when we fly, what shorts will we take for you so that they fit that dark T-shirt?
+	короче	
+	ұш барғанда	
+	саған шорты қандай аламыз	
+	ана футболкаға келтіріп	
+	те--	
+	темное	
+SPK0029	Мен со--	I'll put on that T-shirt, then we'll see. Maybe long, something, but not really long.
+	сол футболканы киіп барамын	
+	сосын көреміз	
+	Может ұзын,	
+	че-то ####,	
+	не прям. ұзын--	
+SPK0030	Қазір Арбатқа барып кофе ішесің бе сен	Will you drink coffee at the Arbat?
+SPK0029	Ыффф--	
+	Кофе емес,	Not coffee, just tea. A cold tea with something.
+	просто чай.	
+	Чай,	
+	холодный,	
+	с чем-то там	
+SPK0030	Мен мороженое аламын	I'll have an ice-cream.
+SPK0029	Мен мороженое білмеймін	I don't know about the ice-cream.
+	мен шөлдеп тұрмын	I'm thirsty.
+SPK0030	Қатты шөлдеп тұрсың ба	Are you really thirsty?
+	Айттым саған жвачка шайнашы	I told you, chew the gum, so you have something in your mouth--
+	жаңа,	
+	хотя бы ауызыңда бір--	
+SPK0029	Үш сағат болды су ішпегелі	I haven't drank water for three hours.
+SPK0030	Қазір барып аламыз саған су	We'll buy water for you there.
+	мына жерде айналасында	Here is not one shop in here, on the square.
+	бір да бір магазин жоқ қой,	
+	площадьта--	
+SPK0029	Енді,	Well, they can't put shops right here, in the middle of a square--
+	площадьтың ортасына әкеліп қойып қой--	
+SPK0030	Жоқ можно же киосктар сделать	No, they could have, they could put kiosks here--
+	киоск тар істеп қойсақ--	
+SPK0029	Можно,	They could, but they didn't.
+	но не сделали.	
+SPK0030	Жоқ,	No, but why, tell me.
+	почему так	
+	де:	
+	Очень неудобно.	It's very inconvenient.
+	Еще дәл осы жерде	And right in here is a fir, mosquitos come out.
+	елка	
+	маса шығады	
+SPK0029	Шынымен маса көрдің бе	Did you truly see mosquitos?
+SPK0030	Иә, маса көрдім осы жақта	Yeah, I did see some in here.
+SPK0029	Мына жақтан келген жоқ қой	They weren't there, were they?
+SPK0030	Қара велик--	The black bikes-- Are bikes good? Are they sold?
+	велик тар күшті ма	
+	Осындай великтар сатып алуға бола ма	
+SPK0029	Сатып алайын деп отырсың ба	Do you want to buy one?
+	Толып тұр ғой әне	There are plenty of them.
+SPK0030	Жақсы,	Well, they can do some nice tricks.
+	күшті трюктар жасайды ғой осылар	
+SPK0029	SNEEZE	
+	неде--	Where--
+SPK0030	Тоңып кеттің ба	Are you cold?
+SPK0029	жоқ,	No,
+	спортта сатады	they sell them at sport's.
+	Алғың келіп жүр ме	You want to buy one?
+SPK0030	Жоқ мен вообще хочу,	No, I really want not a bike but something like a bike but with a motor in the back so it can ride on itself.
+	(H)	
+	не велик,	
+	а,	
+	типа велик болады ғой	
+	с мотором ба?	
+SPK0029	Типа велик--	Like a bike--
+SPK0030	қалай,	
+	артында	
+	вжжж,	
+	деп өзі жүретін	
+SPK0029	не ғой,	you know what,
+SPK0030	@@	
+SPK0029	мопед,	a moped.
+SPK0030	Мопед иә,	Yes, a moped, I wanted a moped, but father said I won't.
+	мопед алғым келеді бірақ папа айтты	
+	алмайсың деді ғой	
+SPK0029	Вечно папа айтады	Dad is always like that.
+	@@	
+SPK0030	Наверное қорқайды сендерді–	Maybe he's afraid for you.
+SPK0029	Папа қорқайды ондай–	Dad fears such things.
+SPK0030	Жоқ енді мен жаяу жүремін ба	No, should I now always walk on foot like a weirdo?
+	біртүрлі?	
+SPK0029	Жоқ,	No, you will.
+	жүре бер	
+SPK0030	Қойшы жаяу жүргім келмейді менің	Stop it, I don't want to walk on foot.
+SPK0029	Күнде жүрсің ғой	But you do every day.
+SPK0030	М?	Huh?
+SPK0029	Күнде жүрсің ғой	But you do every day.
+SPK0030	Жоқ аяғым шаршады менің уже	No, my legs are already tired, by the end of the day my heels start to hurt if I walk for a long time.
+	к концу дня өкшем ауырады жүрсем--	
+SPK0029	Каждый күнде ма	Every day?
+SPK0030	@@	
+	Мопед па,	A moped or something like that, buy me a car, I say.
+	бірдеңке,	
+	машина алып берші деп айтамын ғой мен	
+SPK0029	Оқып алшы бірінші	Learn it first.
+SPK0030	Оқып аламын	I will.
+	Маған айтты ғой оқисың ба деп	They asked me, “You will study”, “yes, I will,” she said, in the winter I will study somewhere, first I will get a job, I will adapt there a little, then I will go and study.
+	иә оқимын дедім	
+	қыста где-то оқимын	
+	ээ,	
+	бірінші жұмысқа тұрып алайын	
+SPK0029	Оқы	Learn.
+SPK0030	ішіне адаптироваться етіп алайын	
+	содан кейін барамын да оқимын	
+	Оқиғанда мама айтты–	And during the learning mother said--
+SPK0029	Сосын мені катать етесің де	Then you will give me rides, right?
+	@	
+SPK0030	Мен машина алып берсеңдер катать етемін ғой	If you get me a car, I will.
+SPK0029	Алып береді ғой	They will, you're not me.
+	мен емес қой енді,	
+	@@	
+SPK0030	Мама айтты с–	Mother said, it doesn't work, the insurance.
+	ээ,	
+	не істемейді	
+	страховка деді	
+SPK0029	Ол дұрыс қой.	It's right.
+SPK0030	Иә,	Yes, and you're careless, and eyes get blurry--
+	а то сен еще невнимательный--	
+	еще көзім бұлдырлап–	
+SPK0029	Невнимательный дейді ма	Did they really say careless?
+	@	
+SPK0030	Мен вообще невнимательныймын ғой	I'm careless, yeah.
+SPK0029	Шын ба?	Really?
+SPK0030	Иә,	Yeah,
+	еще көзім бұлдырлап была:й	"Yeah, and my eyes get blurry, and I have this habit since I used to wear glasses, to screw my eyes just like this.
+Yes, my aunt recently told me, she said to me today, ""why are you squinting, squinting, squinting?"""
+	бұрын очки кигенде немене қалып қалған ғой	
+	привычка	
+	былай,	
+	көзімді щурить етіп	
+SPK0029	Иә сен сөйтіп тұрсың	Yeah you do that, and the aunt said--
+	апа да айтты ғой–	
+SPK0030	Бағана апа да айтты иә	
+	маған бүгін айтты ғой	
+	почему ты,	
+	щуришься,	
+SPK0029	Ана шоу деген маған	I had this show two hours ago.
+SPK0030	щуришься,	
+SPK0029	екі сағат бұрында болды	
+SPK0030	щуришься.	
+	Мынау немене	What is this, many poles?
+	кө:п,	
+	немелер	
+	столбтар	
+SPK0029	Свет.	Light.
+SPK0030	Свет	Light? I actually thought it was a fountain, I'm sitting waiting for it to turn on.
+	Мен вообще фонтан	
+	деп күтіп отырмын	
+	қашан жанады деп	
+SPK0029	Тоғызда	At nine.
+SPK0030	Сағат неше болды	And what time is it now?
+SPK0029	Сағат онда шығар	It's about ten, how do I know.
+	қайдан білейін	
+SPK0030	(TSK)	It's eight now, another hour, well, I can't wait another hour, let's go to the Arbat, will we look at the fountain?
+	Сегіз болды	
+	әлі бір сағат,	
+	қойшы бір сағат күте алмаймын	
+	Арбатқа барайықшы	
+	фонтан көреміз бе	
+SPK0029	Может қайтып келеміз сосын деш--	Maybe we'll return here later?
+	@@	You'll get tired.
+	Сен шаршайсың иә–	
+SPK0030	Шаршаймыз	We'll get tired, my legs will hurt.
+	аяғым шаршайды	
+SPK0029	Мен аяқ киімімді киіп алдым уже	I already wore my shoes.
+SPK0030	Негізі,	In fact, tramways work till which hour?
+	трамвай нешеге дейін жүреді екен	
+SPK0029	Біз трамваймен	Are we going by tramway?
+	барамыз ба	
+SPK0030	Сен такси–	You're going by taxi?
+	таксимен барасың ба	
+SPK0029	Барамын	I will,
+SPK0030	Хочешь на такси?	You want to go by taxi?
+SPK0029	хочу.	I do.
+SPK0030	Пешком,	Do you wanna go on foot?
+	хочешь?	
+SPK0029	Не хочу.	I don't.
+	@@	
+SPK0030	Давай на трамвае,	Let's go by tramway if it works?
+	если что	
+	жүріп тұрса	
+SPK0029	Ууу,	Oh, okay.
+	жарайды.	
+SPK0030	Потому что такси	Because it consumes a lot of mon--
+	кө:п ақша же–	
+SPK0029	Не деген	You're so economical!
+	экономныйсың мынау	
+SPK0030	Қойшы таксиге көп ақша жұмсап кеттім	Stop it, I spent a lot of money on taxis, I want to save a little.
+	я хочу сэкономить,	
+	чуть-чуть.	
+SPK0029	Мен төле салайыншы	Let me pay then.
+SPK0030	Еще таксилар	And a taxi hasn't come after five hours--
+SPK0029	де:	
+SPK0030	бе:с сағат кейін,	
+SPK0029	@@@	
+SPK0030	келген жоқ–	
+SPK0029	Барғым келіп тұр таксимен	I want to go by taxi.
+	ммм--	
+	@	
+SPK0030	Ммм,	
+	де,	
+	@@@	
+	Ауызым шаршап кетті менің	My mouth got tired already.
+SPK0029	@@	
+SPK0030	@@@	
+	Жвачка көп шайнап қойдым	I chewed a lot of gum.
+	А,	
+	кстати	Ah, by the way, I need to see a dentist.
+	маған стоматологқа бару керек қой	
+SPK0029	Н	I have a toothache, too.
+	Менің де тісім ауырып жүр	

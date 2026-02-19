@@ -1,0 +1,711 @@
+speaker	span	translation
+SPK0032	IS_CHOPPING_DRIED_FRUITS	
+SPK0014	Ұнды толтырып қойдым.	I filled up the flour [jar].
+SPK0032	Ұн илейсің бе.	Will you make a dough?
+SPK0014	Ұн илеймін ғой.	I will make one.
+	Нан илеймін ғой.	I will make a dough.
+SPK0032	Әгі өзі магазиннің бір,	You know I've seen people bring a store-bought, hard dough and use it. What do they do with it, Takalok?
+	қатты нанын әкеліп істеп жатады ғой ол,	
+	о- оған да не істейді ¬Тәкөлөк?	
+SPK0014	(H)	It...
+	О—	
+	Ол да?	
+	Ондай да?	It is also...
+	####.	
+SPK0032	Ол дайын,	It is already ready [for use], right?
+	иә?	
+SPK0014	Маған ұнамайды оны өйтіп істеген.	I do not like using it.
+	Өз қолымнан жасаймын.	I make [dough] myself.
+SPK0032	Со:ны,	That...
+	а- анау біздікі соған істейді.	That [kelin of ours] uses such a [store-bought] dough.
+	Әгі иленген немене,	That thing which is already [made into a dough]...
+	бөлік ##,	A piece...
+	қатып тұрады ###.	It is frozen.
+SPK0014	Ол не ғой,	Well it is actually... she buys this thingy...whatchamacallit... puff pastry    Puff [pastry].
+	е ол,	
+	ол кісі не,	
+	анандай,	
+	слоенный теста сатып алады.	
+	Слоенный.	
+SPK0032	Е:.	Ah I see.
+SPK0014	Бүйткен,	Like this...
+SPK0032	Қайдан білейін әкәм.	How could I have known dearie.
+SPK0014	май—	fat...
+SPK0032	##.	
+SPK0014	Майлы тесто болады ғой.	... you know there are like fatty pastries...
+	Нелер,	... which have those...
+	нелері бар,	
+	(TSK)	
+	қабыршақтанып тұратын.	...which looks rough-textured (and layered).
+SPK0032	Иә иә.	Yes yes.
+SPK0014	Сол тесто.	That is the dough.
+SPK0032	Сөйтіп жатады.	It looks just like that.
+SPK0014	Сонымен істейді.	That's what [she] uses.
+	Ony love can hurt like this	
+	Такс.	Well...
+	(SINGS)	
+	Оңай ғой апа мынау.	Grandma, this one is actually easy!
+SPK0032	Ау.	Come again dearie?
+SPK0014	О-,	I say it is easy to make [this thing we are doing].
+	ңай ғой.	
+	Жасаған.	
+	Қиын емес.	Not difficult.
+	Мхм.	Good.
+	(TSK)	
+	Мынандай өлшейтін бар бізде.	We have this thing that measures.
+SPK0032	Е:.	Oh I see.
+SPK0014	####.	
+SPK0032	Мына сияқтыны өлшейді иә?	It measures stuff like this, right?
+SPK0014	Өлшейді.	Yes, it does.
+	Иә.	
+	Осы секілдіні өлшейді.	Measures stuff like this.
+SPK0032	¬Пәшөн,	Pashon is such a great cake maker!
+	тортты қандай күшті жасайды.	
+SPK0014	Иә,	Yes.
+	қазір жасамай кетті ғой.	These days she is not baking though.
+SPK0032	Жасамай ма #?	She isn't?
+SPK0014	Қазір,	That's the thing, she is not baking these days.
+	жасамай кетті сол.	
+SPK0032	А:.	Oh?
+SPK0014	Бұрында жасайтын жақсы.	She used to bake consistently in the past.
+SPK0032	Иә?	Ah really?
+	Е:.	Ah, I see!
+SPK0014	Мынаған,	To this one I add baking soda.
+	сода қосамын.	
+	Ы:,	
+SPK0032	Е:.	Aaa.
+SPK0014	бір жарты столовый чайный ложка,	I add half a spoon of soda.
+	сода қосамын.	
+	TAKES_A_SPOON	
+	Чайный ложка.	A teaspoon.
+SPK0032	Мхм.	Mhm.
+SPK0014	@ Дыбыс шығарған ұнайды маған.	I like it when it makes sound (when it fizzles).
+	Сода дыбыс шығады ғо-,	You know soda makes a sound, grandma.
+	шығарады ғой апа.	
+SPK0032	Ау.	Come again dearie?
+SPK0014	Сода дыбыс шығарады ғой.	Soda makes a [fizzling sound], you know...
+SPK0032	Иә.	Oh really?
+SPK0014	Қосқан кезде.	...when you add it [to something].
+	Сол ұнайды маған.	I like that.
+SPK0032	Қатқан нандарды әкеліп,	Brining all those frozen dough..
+	####.	
+SPK0014	Ол апа,	Grandma, it is just that puff pastry is something that you can buy in its ready form.
+	слоенный тесто анандай.	
+	Дайын сатып аласыз анандай,	
+SPK0032	Талайды күйгізіп те жіберді ол.	She even burnt most of it.
+	Күйіп қалды.	They got burnt.
+SPK0014	Кім.	Who?
+SPK0032	Соның иісі шығып,	Its smell came out...
+	талай әгі өстіп істегендері,	Many stuff that she baked like this got burnt...
+	жанып кеткен ана,	
+	толған нелер.	
+SPK0014	¬Бағдат апай ма?	Are you talking about Bagdat auntie?
+	Әлде,	Or did Serikzhan bake those?
+SPK0032	Иә.	Yes.
+SPK0014	¬Серікжан жасады ма.	
+SPK0032	Жоқ,	No, Serikzhan does not bake.
+	жасамайды ¬Серікжан.	
+	¬Серікжан.	Serikzhan.
+	¬Серікжан әйту әгі,	All that Serikzhan cooks is something like eggs, tomatoes and whatnot. Nothing other than that.
+	жұмыртқа нелерді сол,	
+	помидор бірнәрсе қосып жейді,	
+	болды одан басқа.	
+	Шешесі жасап,	Her mother baking...
+	ондай қайдан келіпті оған.	Impossible for him to have such a skill.
+SPK0014	О: сливочные берега:,	
+	Сливочные берега:	
+	Такс.	Alright.
+	Енді не істейміз.	What are we doing now?
+	Такс бізге не керек.	What do we need now?
+	Маға:н,	I need a grater.
+	терка керек.	
+	Мына терканы аламын да?	I will take this grater and I am going to grate this butter into [the flour].
+	Қазір мен,	
+	мына майды,	
+	ішіне тёркылаймын.	
+SPK0032	Тала:й,	I need a lot of things [ingredients] apparently!
+	нәрсе керек екен ғой,	
+	мынаны мынаған сала салайын ба?	Shoud I just put this into this?
+SPK0014	Жоқ мынаған сала салыңыз.	No, just put it into this.
+SPK0032	Е:.	Ah, ok!
+SPK0014	Мынау маргарин ғой апа?	Grandma, it is margarine!
+SPK0032	Жоқ сонда да,	But still...
+	бәрі қоспа### айтамын.	I mean that mixing all this...
+SPK0014	Е:.	Ah!
+	Е ой аз,	It is not really a lot.
+	(TSK)	
+	мына оңай апа,	Grandma, it is easy.
+	вообще оңай.	Super easy.
+SPK0032	Еще оны,	Ah, one even needs to grate it first...
+SPK0014	STARTS_GRINDING_THE_FROZEN_BUTTER	
+SPK0032	төркілеп салады.	
+SPK0014	Енді тёркылап салғанда,	Well speaking of grating...
+	кішкене ұн қазір мен,	a little bit of flour... I will now...
+	ұнды жабыстырамын ғой мен бір біріне.	I will make the flour stick to each other.
+SPK0032	Аха.	Yes.
+SPK0014	Соған оңай.	It helps that.
+	Мынау им—	This...
+	Май әйтпесе,	Otherwise this butter will melt away very quickly. It is very cold now, right from the freezer.
+	тез ериді қазір,	
+	мынау,	
+	сұп-суық,	
+	морозильниктан шықты.	
+SPK0032	Мхм.	Mhm.
+SPK0014	Негізі тез еритін май ғой.	It is actually a butter that melts very quickly.
+	Бірден ериді.	Melts immediately.
+	Негізі мынаны ана,	Actually this... that...
+	вишня бар ғой?	You know the cherries.
+	Турап жатқан сіз.	The ones you are chopping.
+SPK0032	Иә.	Yes.
+SPK0014	Соның орнына курага қосатын.	Instead of them usually dried apricots are added.
+SPK0032	Е.	Ah I see.
+SPK0014	Бірақ қазір курага қос—	But now dried apricots [I am not adding]...
+	Білмеймін.	I don't know.
+	Курагамен істеп,	I never tried with dried apricots but the cherries are cheaper.
+	көрген жоқпын бірақ,	
+	вишня,	
+	арзан.	
+	Курага қымбат қой.	Dried apricots are expensive, you know.
+	Мә сухофрукты.	Oh my, dried fruits are so expensive, grandma!
+	қымбат екен апа.	
+	Мейіздің өзі,	If you take raisins for instance...
+	ең арзаны екі мың без жүз.	the cheapest one is 2500 tenges.
+	Теңге.	
+SPK0032	(TSK) (TSK) (TSK)	
+SPK0014	Вишняңыз үш мың теңге.	The [dried] cherries are 3000.
+	Ойлаңыз.	Think about it!
+SPK0032	Құдай сақтасын.	God save!
+	Астана тіпті қымбат дейді.	They say Astana is even more expensive.
+	Қайдан білемін.	How can I know...
+	Тамағын,	He talks about the food and stuff over there.
+	несін айтып жатады.	
+SPK0014	Кім айтты сізге.	Who said that to you?
+SPK0032	Осы Күршім,	About Kurshim...
+	қалаң да оңып,	... they say that cities are not good either.
+	тұрған жоқ дейді ғой.	
+SPK0014	Өй бәрі жерде бірдей.	[The prices] are the same everywhere.
+SPK0032	Қайдан білемін.	How can I know...
+SPK0014	Кім,	Did Zhanasyl say that?
+	¬Жанасыл айтты ма.	
+SPK0032	Жоқ,	No.
+	айтпайды ол сияқтыны.	He never talks about such things like that.
+	Әгі телевизордан айтып жатады ғой.	You know, they say such things on TV.
+	##	
+	####,	
+	¬Жанасыл немене жүр дейсің әйту #,	What can you possibly know about what he is up to these days...
+	ана үш бала бар,	He has three children...
+	одан жұмыс істемейтін қатын бар.	A wife who does not work...
+SPK0014	@@	
+SPK0032	Одан оның,	Then you've got her clothes sometimes.
+	киімі бар арасында.	
+	Миі ашып кетті ғой.	Of course he went crazy.
+	Осы жерде жүре беру керек еді осы,	He should have stayed here.
+	қаңғымай.	Without having to wander around.
+	Шешесі,	He could not help but move because his mom also moved.
+	шешесі деп,	
+	кеткеннен кейін,	
+	тоқтамай қойды ғой.	
+	Шешесі кетті.	His mother moved.
+SPK0014	Енді мамасы ғой.	Well because it is his mother!
+	@@	
+SPK0032	Не қылса ол қылсын,	Let him do whatever he wishes.
+	өзімнің балам өліп қалды не қылсам.	My own child died and I cannot change that.
+	Бірақ аман болсын.	But I wish him safety!
+	(Hx)	
+SPK0014	Осы жолы,	This time they went to Dubai, yes?
+	Дубайға ұшып келіпті иә.	
+SPK0032	¬Жанасылыма,	I pity my Zhanasyl.
+	жаным ашиды.	
+	Қайтемін.	There is nothing I can do!
+	Құдай ####,	God... one good... but he met this wife of his who is energetic (in a negative sense) and just an idiot.
+	бір көрім,	
+	не жолыққан екен мынау келіншегі #,	
+	шып-ширақ болып.	
+	Бір жәрмес,	
+	отырған әшейін.	
+SPK0014	@@ (H)	
+	Ой апа,	Oh grandma!
+	сөйлемейді ғой ол.	She never speaks!
+SPK0032	Өй,	No!
+SPK0014	Үні жоқ,	Not a word.
+SPK0032	ақылы жоқ,	She does not have wisdom/intelligence.
+SPK0014	Үні жоқ қой?	
+SPK0032	жаман келіншек.	Bad wife.
+	Бос әшейін.	Always lumbering...
+SPK0014	А:.	
+SPK0032	Жаман.	Bad.
+SPK0014	Енді,	Well her kids are not obedient, I agree.
+	балалары тәртіпсіз апа.	
+	Балаларына,	I think they two do not scold their children... They are very disobedient.
+	айт- ұрс-,	
+	ұрспайды ғой деймін екеуі.	
+	Балалары,	
+	өте тәртіпсіз.	
+SPK0032	Иә.	Yes.
+	Балалары тентек болғанда керемет.	They are the naughtiest as one could get.
+SPK0014	Тентек.	Naughty.
+SPK0032	Баланы,	"They never say ""No!"" to their chidlren."
+	қой деп айтпайды ғой.	
+SPK0014	Қой деп айтпайды.	They never say!
+SPK0032	Қой деп айтпайды.	They never do.
+SPK0014	Вообще.	At all!
+	Ужас просто.	So bad!
+	Жаман,	So bad ... they show me different fingers!
+	неше түрлі,	
+	қол көрсетеді маған.	
+SPK0032	О:й,	Oh, God, you know what else...
+	құдай,	
+SPK0014	Ана ¬Арайлым,	That Arailym is even worse.
+	вообще жаман.	
+SPK0032	¬Арайлым да мен айтамын мына,	What I say about Arailym is that...
+	¬Гүлжан шамданады оған.	..Gulzhan does not like when I say that...
+	Ана қыз,	That girl...
+	қыздың есі дұрыс емес,	...not everything is right with her head!
+	аутизм десем айтады,	When I say she may have autism, she says that I should not say that and that autstic children do not speak [while Arailym can clearly speak].
+	қойшы өйтіп айтпа мама,	
+	аутизмдер сөйлемейді дейді.	
+	Ана әшейін,	Asyl, you know what, just the other day they all came...
+	ана күні,	
+	келді ғой ¬Асыл.	
+	Бүйтіп,	She does like this... hides her eyes, and runs away from us.
+	көзін басып,	
+	бізден қашады.	
+SPK0014	Сөйтеді ол?	She does that - yes!
+	Ол білемін мен сондай істейді,	I know she does things like that!
+SPK0032	Ана,	That...
+SPK0014	ол—	She...
+SPK0032	ал енді ана біреу,	... well the other one [the other kid]...
+SPK0014	Аутизм емес,	But grandma it is not autism though; it is something behavorial. I do not really understand that either!
+	бірақ ол не апа,	
+	өзі сондай поведенческий #,	
+	бала өзі,	
+	түсінбеймін өзі.	
+SPK0032	Анау дұрыс емес.	She is not all right!
+	Анау күні ана,	The other day she broke her arm into two after curtains fell.
+	штор құлап,	
+	мына қолды қақ бөліп алыпты.	
+SPK0014	А:.	Oh really?
+SPK0032	Құлап.	She fell down.
+	Гипс.	Gypsum.
+SPK0014	Ол,	You know she jumps from the window.
+	ол,	
+	ол,	
+SPK0032	¬Арайлым.	I mean Arailym.
+SPK0014	терезеден секіреді ғой ол.	
+SPK0032	Иә.	Yes.
+	Скамейкадан секіреді.	Jumps from chairs.
+SPK0014	Иә,	Yes.
+	сөйтеді ғой.	She does that!
+SPK0032	Екі скамейканы бірінің үстіне бірін қойып,	They say she put two chairs on top of each other and jumped from the top.
+	секірген дейді.	
+SPK0014	Тәртіпсіз ғой.	So naughty!
+SPK0032	Тәртіпсіз.	Naughty!
+SPK0014	Апа ол анандай,	You know, grandma, she draws pictures like that!
+	сурет салады ғой?	
+SPK0032	Иә.	Yes.
+	Иә.	Yes.
+SPK0014	Өлген адамның суретін салады ғой.	She draws the pictures of dead people.
+	Қан ағып жатқан.	Of those bleeding.
+SPK0032	(TSK) (TSK) (TSK)	
+	Ананы қой демейді,	"They never say ""No!"" to them."
+	шешесі,	"The mother be like: ""You cannot do that!"""
+	нельзя нельзя дейді,	
+	о:й құдай.	Oh God [is that even scolding?]
+SPK0014	@@@@	
+SPK0032	Анау күні келін,	The other day, since the kelin [the bride] came...
+	келгелі,	
+	ана үйлерді оны ана,	...those appartments... then my own kelin becomes upset with me and complains to me about myself... As if I am making the kelin behave in this way.
+	келіншек ренжиді,	
+	артынан маған сөйлейді,	
+	мен істетіп отырғандай.	
+	Бізге сөйлейді.	She complains to us, as if I have birth to her and raising her up.
+	Мен соны,	
+	мен тауып,	
+	мен тәрбиелеп отырғандай.	
+	Немене ####### өзі,	What a...
+	шегіртке құрлы несі де жоқ,	She cannot even compare to a grasshopper.
+	түрі де жаман.	She looks ugly as well.
+SPK0014	@@	Grandma!
+	@Апа.	
+SPK0032	Көзге толымды,	I would not complain if she looked good to the eye [but she doesn't]!
+	болса да көрім ғой ондай,	
+	албасты ма бірдеңе отырған.	She is a crazy one.
+SPK0014	@@@@@@@@@	
+SPK0032	#,	
+	##.	
+	Не бір тапқан балалары жөнді емес.	Even the kids she gave birth to are all not normal.
+SPK0014	Кішкентай бала тәтті бірақ.	Thought the youngest one is cute.
+SPK0032	Қойшы.	No way!
+	Қайдағы тәтті.	What cute did you find in him?
+	Түрі жаман.	He looks ugly.
+	Маймыл сияқты.	Like a monkey.
+SPK0014	@@@@	
+	@Апа @қойыңызшы.	Grandma, you stop it!
+SPK0032	Не мұрны ##,	The nose...
+	көзі басы шала туған бала MIMICKS_A_CHILD'S_FACE	...his eyes and head are like that of a prematurely delivered baby.
+	адырайған,	Stare wide-eyed.
+	дәл мына,	He just resembles the Nurbolatovs'.
+	¬Нурболатовтар әшейін.	
+	Балаларының,	
+	түрі.	
+SPK0014	Немене дейсіз?	What did you say?
+SPK0032	Ана:,	He resembles his relatives from his grandmother's side.  Resembles Kunzhan's mother.
+	нағашыларына тартқан?	
+	К- ай—,	
+	¬Күнжанның,	
+	нелеріне,	
+	шешесіне.	
+	Дәл сол өлгені,	Yes, just like her.
+SPK0014	Соған тартқан ба сонда.	Oh, is that so, I see.
+SPK0032	анау,	
+	әмбе мына жерде бір бас иә,	Also, look, here there is one head...
+SPK0014	Иә.	Yes.
+SPK0032	артында бір бас өздерінің,	...then at the back there is their own head...
+	екі бас.	...two heads.
+SPK0014	Жоқ ана ұлдың басы үлкен апа.	Yes, grandma, the head of that child is big.
+	Денесіне қарағанда.	Compared to his body.
+	Әрең ұстайтын ғой,	He barely held it when he was little.
+	бұрында басын кішкентай кезінде.	
+SPK0032	Ұлдың,	I do not know for sure but there is something in his head.
+	ұлдың басын,	
+	әйту өзінде,	
+	бірдеңесі бар.	
+	Дұрыс емес.	Something is wrong.
+SPK0014	Жоқ,	No...
+	туған кезде,	Obvisouly when he was born.. when he was young... he could not hold his head.
+	басын ұстай алмайды ғой ол,	
+	кішкентай кезінде,	
+	ұстай алмайтын,	
+	өзі бертін ғана,	Just recently...
+	жүрген кезде де бүйтіп жүреді ғой,	When he walks.. he would walk like this, always falling.
+	апа ол бүйтіп,	
+	құлап.	
+	###.	
+SPK0032	Басын көтере алмайды?	He cannot hold his head [that's why].
+SPK0014	Басын әрең көтеретін енді,	He used to barely hold his head, but I do not know how he is doing now.
+	қазір білмеймін.	
+SPK0032	Басы үлкен бе оның,	No matter what - whether his head is big or he has a lot of brains - the fact remains: he walks tilted.
+	миі көп пе әйту,	
+	теңселіп жүреді.	
+SPK0014	Теңселіп жүретін иә апа,	Yes, grandma, he used to walk tiltedly; that child's head is big, I do not know why.
+	басы үлкен ана баланың,	
+	білмеймін неге екенін.	
+SPK0032	Сол басы үлкен баланы,	In our times, they used to cure those kids who had big heads because of the condition called rickets.
+	баяғыда,	
+	бұрын біздің заманымызда,	
+	рахит деп жататын,	
+	емдеп жататын.	
+	Басы үлкен бала,	They used to say that a child with a big head has rickets.
+	рахит болады деп.	
+SPK0014	Ол немене рахит деген.	What is rickets?
+SPK0032	Ауру.	A disease.
+	Балалардың ауруы.	Children's disease.
+	Рахит деген.	Called rickets.
+SPK0014	А:.	Ah I see.
+SPK0032	Денесі қисайып қалады,	Children's body get deformed,
+	басы үлкен болып,	with their heads getting big, and the other places not growing... they just turned into a skeleton.
+	басқа жері өспей,	
+	әшейін бүйтіп,	
+	сүйек болып қалады.	
+SPK0014	М:.	Mmm.
+SPK0032	Сонда осы,	In those cases the doctors would give them fish fat.
+	балықтың майын беретін,	
+	врачтар.	
+	Соны ішкіз деп.	Getting them drink it.
+	Әптектен алғызып.	After getting the [fish fat] from the pharmacy.
+	Рахит деген жаман ауру ол.	Rickets is a very bad disease.
+	Басы үлкен балалар сөйтеді.	Kids who have big heads are like that.
+SPK0014	Иә апа,	Yes grandma, look at this... ... you first get the flour mixed with butter like this... when you grind the butter, it is good because it becomes like this... you see?
+	осылай міне,	
+	майға ұнды бүйтіп аласыз,	
+	сол кезде,	
+	ы:,	
+	тёркылаған кезде сонысы жақсы ғой,	
+	осылай болып қалады міне.	
+SPK0032	Әне.	Ah look at this!
+SPK0014	Жақсы.	It is good.
+	Енді қазір мен,	And now I am going to make a dough by adding smetana to it.
+	сметана қосып,	
+	илеймін.	
+	Болды.	And that's it!
+	¬Жанасыл енді,	Well, so that's how it is: Zhanasyl went after his mom.
+	мамасының артынан кетті енді.	
+SPK0032	Иә.	Yes.
+SPK0014	Бірақ Астанада апа,	But grandma, it is hard to live in Astana.
+	қиын тұрған.	
+	Ол жақта,	There, appartments are expensive but groceris are like here.
+	қымбат негізі ана,	
+	квартира қымбат бірақ продукты,	
+	біз жақтікі секілді ғой.	
+	Квартира қымба:т,	Appartments are expensive.
+	балалар садик,	The kids, the kindergarten...
+SPK0032	Квартира,	They are now saying that appartments are getting even more expensive again now in Astana.
+	тағы қымбаттады де айтып жатыр әне,	
+	ай-,	
+	Астанада дейді.	
+SPK0014	Садик қымба:т.	Kindergarten is expensive. Everything is.
+	Бәрі қымбат.	
+SPK0028	EXPECTORATES	
+	THE_SPEAKER'S_ALARM_PLAYS	
+	BLOWS_HIS_NOSE	
+SPK0032	Е:,	Ehh, what can we do after all?
+	қайтейік.	
+SPK0014	Міне осылай,	Just like that.. keep on cutting them tiny like that...
+	ұсақ қылып турай беріңіз.	
+SPK0032	Жарайды осы,	Okay, I am cutting them tiny anyway.
+	ұcақ қылып тұрап отырмын.	
+SPK0014	Иә жақсы,	Yes, good.
+	жоқ осылай турай беріңіз жақсы.	No, I mean, keep on doing like this, it is all good.
+SPK0032	Сен айтқанның бәрін істеймін.	I do everything you say. I do what  people tell me to perfectly.
+	Мен,	
+	кісінің айтқанын бұлжытпай істеймін.	
+SPK0014	Иә рақмет апа.	Yes, thanks grandma!
+SPK0032	Үшке бөл дедің,	If you say cut into three pieces, I will cut into three pieces.
+	үшке бөлемін.	
+	Былай бөлдім,	I cut one like this.
+	мынаны төрт,	This one - four.
+	міне бүйтіп бүйтіп алып,	After cutting them like this, I cut again horizontally.
+	көлденең тағы бір бөлдім.	
+SPK0014	Иә.	Yes.
+SPK0032	Аха.	Aha.
+SPK0014	Жақсы апа.	Grandma, it is good!
+	Ана просто,	It is just that if use a blender, you know that thing that automatically cuts for you and goes drrr-drr... if I do using it, then it grinds them into too tiny piece.
+	неге істесем,,	
+	блендрға,	
+	анандай,	
+	автоматический,	
+	дыр дыр деп,	
+	бүйтіп,	
+	кесіп беретін бар ғой?	
+SPK0032	Иә.	Yes.
+SPK0014	Соған істейтін болсам ол,	
+	кішкене не,	
+	(H)	
+	қатты ұсақтатып жібереді.	
+	Адамның қолына жетпейді,	Still it does not compare to a human hand.
+	босқа да,	
+	кескенге.	To cutting by hand.
+	Кішкене сметана қосып жіберейін.	Let me add just a little bit of smetana.
+	SINGS	
+	(Hx)	
+	Мына жері,	This part of it...
+	мынаның бәрін алып,	Let me take all this...
+	бүйтіп,	... and do like this...
+	###.	
+	¬Жанат ерте тұрды ғой че-то.	Surprisingly Zhanat is awake early today.
+SPK0032	А.	Come again?
+SPK0014	¬Жанат бүгін че-то ерте тұрды ғой деймін.	I am saying that for some reason Zhanat got up early today.
+SPK0032	Кім.	Who?
+SPK0014	¬Жанат.	Zhanat.
+SPK0032	¬Жанат.	Zhanat.
+	Өй таңертең келді әке.	Oh, he came home very early in the morning!
+SPK0014	Иә?	Yes!
+	Таңғы сағат алтыда келді ме?	I think it was around 6 o'clock, right?
+	#?	
+SPK0032	Иә?	Yes.
+	Жай ##.	He came back very late.
+SPK0014	Сөйтеді олар.	That's why they [the young people these days] do.
+SPK0032	Жай жатады.	They go to bed late.
+	Үйге жарық түсіп қойған ##.	It was already sunny indoors.
+SPK0014	Қазіргі заманның балалары,	Kids these days...
+	түн түн мен,	... night and...
+	түн деген оларда,	they have no night...
+	жоқ ол,	... they do not sleep normally.
+	нормально ұйықтамайды.	
+	Сотка:.	Phones.
+	Далада жүреді.	They wander outside.
+SPK0032	Сол бір жерде отырады ғой иә.	They wander around one place, right?
+	Әйтпесе,	Because otherwise people are not normally out at night, working as cab drivers.
+	түніменен кіселер жүрмейді ғой енді,	
+	таксовать етіп.	
+SPK0014	Білмеймін ол не істейтінін.	I do not really know what he does.
+	Жұмыс істейді негізі ¬Жанат.	Zhanat actually works at night.
+	Түнде.	
+SPK0032	Е?	Ah, really?
+	Не істейді.	What does he do?
+SPK0014	Развозка жасайды дей ме,	I think it was something like transportation... he said something, and I do not understand it.
+	бірнәрсе дейді түсінбеймін.	
+SPK0032	Анау еріккен,	Other than those guys and girls who have nothing to do...
+	ұлдар мен қыздардан басқа,	
+	ана жақта бір әгі,	There in one place where people usually sit, [he] sells beer in a shop like this.
+	отыратын жерде,	
+	сыра сатады,	
+	мынандай магазинде.	
+SPK0014	Кім,	Who?
+	е Ә-,	
+SPK0032	Е магазин бар ғой.	There is a shop.
+SPK0014	¬Әкөш пе.	You mean Akosh?
+	¬Әкөш пе.	Akosh?
+SPK0032	Иә.	Yes.
+	Свет жанып тұр.	Oh the lights are working.
+	Бағана жоқ болатын.	Just the other time they were gone.
+SPK0014	Жоқ ана неде жоқ.	No, the lights are gone there, in that place...
+SPK0032	#.	
+SPK0014	Ваннада бар,	.. the lights are working in the bathroom, but not in the toilet...
+	неде жоқ.	
+	Туалетте жоқ.	
+SPK0032	Е:.	Ah, I see.
+	Туалетте жоқ па.	Oh so the lights are off in the toilet?
+SPK0014	Міне осындай тесто шығады апа.	Grandma, look, this is the kind of dough that we get at the end.
+SPK0032	A:.	Come again?
+SPK0014	Осындай тесто шығады.	We get a dough like this.
+	Осы тестоны қазір,	Then we put away this dough like this.
+	қойып қоямыз осылай,	
+	туру керек ол.	It should rest.
+SPK0032	Бетін жауып қой,	Cover it with a plastic bag.
+SPK0014	Иә бетін жауып қоямын,	Yes, I will cover it.
+SPK0032	целлофанмен.	
+SPK0014	қазір иә.	Yes, now.
+SPK0032	Ана қолыңдағыңның,	Take all this in your hand off too.
+	бәрін ал ана.	
+	Ана арғы жағындағы ####.	The ones at the back...
+	Тұрады сол,	Let it rest like this.
+	содан кейін анадығы тұрсын,	
+	сөйтіп демалып.	
+SPK0014	Дем алып алады.	It rests up.
+	Оны мен,	I will cover it with the lid.
+	бетін,	
+	қақпағымен жауып қоямын.	
+SPK0032	Бірдеңе жауып қоя иә,	Yes, cover with something.
+	қақпағынан дем алады.	It will breath through the lid.
+SPK0014	Иә әйтпесе,	Yes, otherwise the dough will be blown by the wind.
+	үрленіп кетеді.	
+	Желмен.	
+	Ауамен.	By the air.
+	Такс.	Alrighty...
+	OPENS_TAP_WATER	
+	Енді,	And now...
+	енді бүйтеміз апа.	Now, grandma, we are going to do the following.
+SPK0032	Ау.	Go on.
+SPK0014	Сіз турай беріңіз.	You keep on chopping.
+	Сіз турай беріңіз,	You keep on chopping, and I will do whatchamacallit...
+	немене істейміз қазір,	
+	не бар ғой,	.. you know that thingy...
+	немене еді,	...whatchamcallit...
+	немене,	...that thingy...
+	ы:,	
+	мен қазір,	I will now blend....I will make the nuts go 'drr-drr'.
+	орехтарды блен—	
+	Дыр дыр еткіземін.	
+SPK0032	А.	What?
+SPK0014	Орехтарды,	I will make the nuts go 'drr-drr' (I will grind them).
+	дыр дыр еткіземін.	
+SPK0032	Е:.	Ah ok.
+SPK0014	Үгітемін.	I will grind them.
+SPK0032	Е Алла.	Oh Allah!
+	Мына жерге әкелсеңші.	Bring it here.
+	###.	
+SPK0014	Жоқ мына жерге істеймін апа.	No, I will do it here, grandma.
+SPK0032	#,	
+	Е:.	Okay.
+SPK0014	Бір пахлава істеймін деп,	To do one pahlava, you have to be bother yourself like this many things...
+	осылай жүресіз міне,	
+	қатты,	It is not a lot of work, but...
+	көп,	
+	не емес?	
+	Жұмыс емес?	
+	Бірақ,	
+	не керек қой,	... what is needed is..
+	сөйтіп біреу турап берсе мынаны,	...if only someone can help you chop these...
+	жақсы.	that is very good,
+	Мен турағанды ұнатпаймын просто.	I just do not like chopping stuff.
+	Алдында,	The other time...
+	ең алғаш рет жасаған кезде,	... when I made it for the first time...
+	¬Бағдат апай рецепт берді ғой,	auntie Bagdat gave me the recipie...
+	соған қарап жасаған кезде,	...when I did everything according to it...
+	ы:,	
+	кішкене ішіне,	...I put a little too much of the filling.
+	көп салып қойыппын.	
+SPK0032	Ол,	She never chops these things; she puts them in the filling as they are..
+	мынаны,	
+	турамайды,	
+	өстіп ішінде бірақ жүреді.	
+SPK0014	Жоқ?	No!
+	Ол,	
+	турайды ол кісі.	She cuts them too. She does.
+SPK0032	А.	Come again?
+SPK0014	Ал кісі турайды.	
+SPK0032	Турайды ма?	Does she?
+SPK0014	Просто мен кішкене,	It is just that I put a little too much...
+	көбірек салып қойыппын алдында.	
+	Осы жолы дәл болу керек.	This time it should be just enough.
+	Ой,	Auntie Bagdat is so nimble and domestic!
+	¬Бағдат апай пысық қой апа.	
+SPK0032	Ау.	What do you say?
+SPK0014	¬Бағдат апай пысық қой деймін.	I am saying that auntie Bagdat is very domestic and nimble!
+	Бәрін істейді ғой.	She does everything!!!
+	Лезде.	Very quickly.
+	Тарс тарс тарс етеді.	Going 'tars-tars-tars'.
+	BLENDS_NUTS	
+	Міне.	Look.
+	(Hx)	The nuts are ready.
+	Орехы дайын.	
+	Такс.	Alright...
+	Енді бізге не керек.	What do we need now...
+	Бір кәсе,	We need one bowl of sugar.
+	қа:нт керек.	
+SPK0028	А мама,	Mom...
+	ой,	oh no...
+	¬Асыл тамақ бар ма.	Asyl, is there any food?
+SPK0014	Бар тамақ.	There is food.
+	Кешегі тамақ,	Zhanat, it is yesterday's food though.
+	бірақ ¬Жанат.	
+SPK0028	А.	Come again?
+SPK0014	Кешегі тамақ.	Yesterday's food.
+SPK0028	Мен жеген жоқпын ғой кешегі тамақты.	I never ate yesterday's food.
+SPK0014	Макарон.	Pasta.
+SPK0028	Е:,	Okay, give me some.
+	берші.	
+	Бар ма ##.	Is there any left?
+SPK0014	Бар.	There is.
+	PUTS_FOOD_INTO_THE_MICROWAVE	
+	I wanna sing	
+	I wanna shine	
+	Такс.	Alrighty...
+	Ой апа.	Oh my, grandma!
+	Үйде жұмыртқа жоқ қой.	There are no eggs left apparently!
+	Мәссаған.	Oh my god!
+	Жұмыртқа алып келейін.	Let me fetch some eggs.
+	Мен жұмыртқа,	I thought we had eggs... there are no eggs apparently...
+	бар ма деп жатсам.	
+	Жұмыртқа жоқ екен.	
+	Мынаған,	For this we need eggs, you know.
+	жұмыртқа керек қой.	
+SPK0032	Енді алып келесің бе.	Are you going to bring some now?
+SPK0014	Алып келемін барып.	
+	¬Жанатқа айтыңыз иә.	Please tell Zhanat to take his food from the microwave himself and eat the food, ok?
+	Тамағын өзі алып,	
+	микроволновкадан іше берсін.	
+SPK0028	WATCHES_SOMETHING_ON_PHONE	
+SPK0014	Немене ішіп жатырсың фу EXPRESSES_DISGUST	Disgusting, what are you drinking omg!?
+	Рассол ішесің бе?	Will you drink some brine?
+SPK0028	А.	What?
+SPK0014	Фу ¬Жанат мынау жаман ғой.	Omg, Zhanat, this is bad!
+	####.	
+	####.	
+SPK0028	##.	
+	##.	
+SPK0014	Қазір апа мен келемін.	I will be back in a jiffy, grandma!
+	Алып келемін.	I will bring [eggs].
+	Сүт те алып келе салайын.	Let me bring some milk as well.
+SPK0028	Тамақ қайда апа?	Grandma, where is the food?
+SPK0032	А.	Come again?
+SPK0028	Тамақ қайда тамақ.	Where is food?
+SPK0032	Ана ішінде жылытып қойды.	In there. He heated it up.
+SPK0028	А:.	I see.
+SPK0032	Жылытып қойды ¬Асыл.	Asyl heated it up.
+	Ыстық болмасын,	Make sure it is not too hot!
+	байқа.	Be careful!
+	Бірдеңемен ұста.	Hold it with something else.
+	Мына орамал бірдеңе жоқ па?	Isn't there anything like a towel?
+	Ұстайтын.	
+	Сонымен ұстай сал.	Hold it with that.
+SPK0028	(H)	
+	YAWNS	
+	(Hx)	
+SPK0032	Нан жемейсің бе.	Will you not eat bread?
+SPK0028	Нан.	Bread?
+SPK0032	Нан жемейсің бе.	Will you not eat bread?
+SPK0028	А- а SHAKING_HIS_HEAD	No.
+SPK0032	А?	Well okay.
+SPK0028	WACTHES_SOMETHING_ON_PHONE	

@@ -1,0 +1,824 @@
+speaker	span	translation
+SPK6001	Жазда қандай праздниктар бар?	What holidays do we have in summer?
+SPK6002	Жазда,	Well, in summer, there are almost none.
+	енді,	
+	почти жоқ.	
+	Июльдің бұрын,	At the beginning of July, in July, the fifth and sixth of July, the birthday of the first president is celebrated, now–
+	июльдің,	
+	бесі мен алтысында,	
+	кімнің туған күні болатын,	
+	бірінші Президенттің,	
+	тойлайтын,	
+	қазір–	
+SPK6001	Он алтысы,	It's the 16th, isn't it?
+	вроде да?	
+SPK6002	Иә.	Yes.
+	Кімнің,	Who else, ¬Gulmira, will turn sixty soon.
+	¬Гүлмира,	
+	алпысқа келеді екен.	
+SPK6001	Қашан?	When?
+SPK6002	Июльдің алтысы күні.	On the 6th of July. We will celebrate [her birthday] in Karaganda at the restaurant.
+	Қарағандыда,	
+	тойлаймыз,	
+	ресторанда.	
+SPK6001	Да?	Yeah?
+SPK6002	Мхм.	Yep.
+SPK6001	Маманды шақырған шығар да?	They'll probably invite my mother, too, right?
+SPK6002	Шақырады бәрін.	They'll invite everyone.
+	¬Заурені да,	And ¬Zaure, and everyone.
+	бәріңді.	
+	Барасың ба?	Will you go?
+SPK6001	М?	What?
+	¬Дана ана жолы,	Did ¬Dana go to Georgia that time?
+	Грузияда болды ма?	
+SPK6002	Грузияға барған жоқ әлі.	She hasn't been to Georgia yet.
+SPK6001	¬Дана?	¬Dana?
+SPK6002	¬Дана барған жоқ.	¬Dana didn't go.
+SPK6001	¬Дана барып келді.	¬Dana has already gone there.
+SPK6002	Қашан?	When?
+SPK6001	Осы:	Well, a week has already passed.
+	бір,	
+	бір апта болған шығар.	
+SPK6002	Ааа,	Oh, I didn't know.
+	оны білмеймін.	
+SPK6001	Неден,	Where, in Instagram–
+	Инстаграм–	
+SPK6002	Ол қазір жақсы,	She is doing well now, she is studying her thing and found a good job in Almaty, yeah, she also found a good job, in English, she is preparing, or something, for these I don't know, she is preparing.
+	ана несін оқып жүр,	
+	и,	
+	жақсы жұмыс тауып алды,	
+SPK6001	Алматыда жүр.	She is in Almaty now.
+SPK6002	Алматыда,	
+	жақсы жұмыс тауып алды еще,	
+	ағылшыннан,	
+	дайындай ма,	
+	нелерге,	
+	дайындайды.	
+	Ана,	This one, the first job was hard, found a good one, now she works there, she likes Almaty, says she does not want to return.
+	бірінші жұмыс ауыр болып жүрген,	
+	жақсы тауып алды,	
+	ана жұмыс істеп отыр,	
+	Алматы ұнайды дейді,	
+SPK6001	Кіммен тұрады?	With whom does she live?
+SPK6002	кел–	
+	келгісі келмейді.	
+	Үш–	With three or four girls who went to study with her.
+	төрт қыз ба өзі мына жақтан кеткен бірге барған бірге оқитындар.	
+SPK6001	Аа.	Ah. With them, I think–
+	А,	
+	солармен бірге,	
+SPK6002	Солармен бірге,	With them,
+SPK6001	по-моему–	
+	Жоқ,	
+	солармен бірге неге барып келген сияқты.	No, we'll go with them to where–
+SPK6002	Ааа.	Ah.
+	Ммм.	Mmm.
+SPK6001	¬Бибигүл,	Ask aunt ¬Bibigul.
+	тәтеден,	
+	@@	
+	сұрайсыз.	
+SPK6002	Сұраймын,	I'll ask, I didn't know, they didn't tell me.
+	оны білген жоқпын,	
+	айтқан да жоқ.	
+	И өткен аптада осы онда:,	And last week we did not talk about it, there was no time.
+	неде сөйлескен жоқпыз,	
+	ой уақыт жоқ.	
+	Алдында,	Before that, I went to the village.
+	ауылға барып келдім мен.	
+	Ол,	She is good, she found a good job.
+	бәрі жұ–	
+	жақсы жұмыс тауып алыпты.	
+	Жоқ ана қыздарды білмеймін,	No, I don’t know about those girls, in any case, she is earning her own money.
+	әйтеуір,	
+	ээ,	
+	кім өзінің-өзі,	
+	ақшасын нетіп жатыр.	
+	Алматыны жақсы көремін,	I love Almaty, she says.
+	деп айтады дейді.	
+	Жақсы көрсең сол жақта жұмыс тауып ал,	If you love [Almaty], find a job there, get a foothold, I'll sell the house and also move, I say.
+	қал,	
+	мына үйді сатып мен де барамын деп.	
+	@@	
+	¬Биби сөйдедім дейді.	Bibi said so [to her daughter].
+	Жалғыз қызы ғой,	The only daughter, after all, where she is, there she is.
+	қайда барам десе барады ғой соған.	
+	Со:л.	That's it.
+	Өздері,	I think these girls are the ones who studied with her, or—
+	неде бірге оқыған қыздар ғой деймін,	
+	или–	
+SPK6001	Политехта?	At the Polytechnic [University]?
+SPK6002	Иә.	Yeah.
+SPK6001	Солай шығар енді.	Maybe so.
+SPK6002	Төрт қыз бір жерде деді.	Four girls in one place she said.
+	Хотя бы екеуі ма.	At least two, well.
+	Со:л.	That's it.
+	Сендер бірге бітіргендер мен осы жерде жұмыс істеп жүргендер бар ма?	Are there guys who graduated with you and are working here now?
+	Турецкийді бірге бітіріп ана,	Those who graduate from the Turkic school or the Polytechnic University?
+	Политехті бірге бітіргендер?	
+SPK6001	Бар.	There are.
+	Бірақ олар,	But they work online.
+	былай не,	
+	онлайн істейді.	
+SPK6002	Онлайн ба?	Online?
+SPK6001	Бір жерде:,	They don't work sitting in one place, but just–
+	отырып емес,	
+	былай,	
+	жай–	
+SPK6002	Ааа,	Ah, so, like–
+	бүйтіп отырып,	
+	андай–	
+SPK6001	Иә.	Yeah.
+	Назарбаевскийлар,	From the Nazarbayev [University], here, they just recently graduated, a week ago.
+	осы,	
+	жаңа бір әзірде ғана бітірді.	
+	Бір апта бұрын.	
+SPK6002	Иә.	Yes.
+	Олар тұрады ғой енді.	They'll stay here now.
+SPK6001	Осы аптада бітірді енді–	They graduated this week.
+SPK6002	Магистратураға кететін шығар.	They will probably go to the graduate school.
+SPK6001	Жартысы кететін шығар.	Half of them probably will.
+SPK6002	Магистратураға неге тапсырмайсың?	Why don't you apply for the graduate program?
+	¬Микош–	¬Miko–
+SPK6001	Білмеймін,	I don't know, where?
+	қайда?	
+SPK6002	Магистратураға түсіп алып жүріп,	It is possible to apply for a master's degree and work additionally.
+	ол қосымша мынадай,	
+	неменені,	
+	жұмыс істеуге болады.	
+	Резюмеңді бере берсең–	If you send your CVs–
+	Анау ¬Нұржан деген бар ғой,	You know ¬Nurzhan right, who graduated from the construction [faculty] at the Polytechnic,
+	ст–	
+	Политехтің строительныйді бітірді ғой,	
+	строительно-архи–	
+	архитектурный.	
+	Сразу,	He found a new job immediately, some private objects in Balkhash. They told him there to fake a signature.
+	неде,	
+	жұмысқа алды,	
+	бірақ та частный,	
+	анау,	
+	объектілерді,	
+	Балқашқа неге барған,	
+	өтірік қол қой дейтін оны,	
+	мынаны.	
+	Бұл қоймайды.	He refused.
+	Өйткені анау ертең күні ана,	Because if tomorrow there is something wrong, he will answer.
+	дұрыс болмай шықса бұл отвечает.	
+	Содан кейін одан шығып кеткен қорқып.	So he left [this job] there, scared.
+	Содан осы жаққа ана резюмесін берген,	Then he sent his CV to some place here, and he got a job somewhere. Was it a private place or not - that I don’t know. He already bought a house, he says he has a lot of money.
+	осы жақта бір жерге алды,	
+	частный ма білмеймін,	
+	уже бір-біріне үй алды,	
+	оның ақшасы кө:п дейді.	
+	Кіріп кетті.	He got drawn in there.
+	А ол,	But he can’t talk to people, if he starts talking, his face keeps twitching, he's a stutterer.
+	адаммен сөйлесе алмайды,	
+	сөйлескенде бетінің бәрі жыбырлайды,	
+	кекеш.	
+	А,	But for such projects there, his head works.
+	бірақ анадай,	
+	проект,	
+	нелерге,	
+	басы істейді.	
+	Сразу шыққан жұмыс тауып алды,	Once he quit his previous job, he immediately found a new one and already bought a house.
+	үй алып алды.	
+	Бір-біріне.	To one another.
+SPK6001	Кекеш,	What is it, a stutterer?
+	деген не?	
+SPK6002	Ол,	He has it from birth, his father was an alcoholic or something, because of this he stutters.
+	туғаннан ана,	
+	әкесі ішкіш болды ма,	
+	содан,	
+	деп,	
+	не,	
+	кекеш болып сөйлейді.	
+	И кейде,	And sometimes, when he talks to people, his face cramps.
+	бетінің бәрі сөйлескенде жыбыр-жыбыр етіп кетеді.	
+	Сол спокойно,	But he does the scientific projects and so on with no problems.
+	істейтін жұмыс,	
+	проект,	
+	ғылыми,	
+	сондай бірдеме.	
+	Эээ,	Uh, recently where he went, he said, he went abroad recently, due to his work.
+	қайда барып келді дейді,	
+	таяуда,	
+	таяуда бір шетелге барып келіпті,	
+	сол жұмысыменен.	
+	Қазір ондай,	Now there are a lot of jobs for such people.
+	не еткен адамдарға,	
+	жұмыс көп қой.	
+	Резюмеңді беріп,	Send your CVs everywhere.
+	жан-жаққа жібере бер.	
+	Бір жерде болса бір жерде кейін,	From one place to another, if you don't like it, to a third. And there is that guy... he changed his job to some cool one, ¬Yedil. Apparently a new place was opened, he says.
+	ұнамаса,	
+	басқа жерге.	
+	Ана кім керемет күшті тағы бірдемеге ауысып алыпты,	
+	¬Еділ,	
+	сол таяуда бірдеме ашылды деді.	
+	Мына министр ¬Нұрбаев бар ғой,	You know the minister ¬Nurbayev, it's from his side..
+	соның не жағынан,	
+	Қазір мына ғаламтор,	Қазір мына ғаламтор, ITшниктерге,  керемет,  нелер қосыл– Now due to this whole Internet thing, to IT specialists there are some nice–
+	ITшниктерге,	
+	керемет,	
+	нелер қосыл–	
+	соның,	
+	біреуі ғой деймін,	something from this sphere, I think, he's found a good place.
+	жақсы жерге ауысып алыпты дейді.	
+SPK6001	Государственный ма?	A state one?
+SPK6002	Государственный емес ол,	Not a state one, I think he started his own company or something like that.
+	бір эээ,	
+	компаниялардың ашқа:н бір,	
+	бірдеме бірдеме,	
+	в общем,	
+	соған ауысып отыр дейді.	
+	Арабияға,	He didn’t go to Arabia, Arabia or something, to Egypt or the Emirates, somewhere, because of English, he was very upset about it so he began to learn English.
+	Арабия ма,	
+	Египетке,	
+	Эмиратқа ма,	
+	бір жерге,	
+	өте алмай қалды ағылшыннан дейді,	
+	соған психовать етіп,	
+	ағылшын изучать етіп отыр дейді.	
+	Сондай сондай жерлерге тапсырады,	He applied to such and such places, he started with Beeline, the usual one, went up through the Moscow Beeline, and there he learned the Japanese JAVA.
+	өзі,	
+	Билайннан бастады,	
+	обыкновенный,	
+	анау Москва арқылы,	
+	Москваның Билайныменен өсті,	
+	и,	
+	одан JAVA деген японскийді меңгеріп алды.	
+	Одан бірнеше адамдарға үйретіп бер–	He himself taught [JAVA] to several people, he says is already tired of his subordinates.
+	неше,	
+	ететін,	
+	қарамағындағыларға шаршадым депті.	
+	Сонда енді ана басқа жұмысқа ауысып отыр дейді.	Because of this, he now has a different job.
+	Көрдің ба?	Did you see?
+	Бір көзін тауып алса дейді,	You find one source, you learn this JAVA, even if they say that it is difficult, you need to delve into it, he himself suffered a lot, and then off he goes.
+	ана JAVAны меңгеріп алса,	
+	қиын дейді оны,	
+	соны изучать етіп,	
+	соған кіру керек дейді,	
+	кім қаншама қиналып соған кірді,	
+	и содан кетті дейді уже.	
+SPK6001	Ммм.	Mmm.
+SPK6002	Анау неге өткізгені керек жоқ.	There's no need to spend it like this...
+	Ана уақытың,	your time, staying up all night... in your sleep, for yourself, for your health, and if you open something like that, you can ask someone, what, where you can get it, these programs.
+	ана түніменен,	
+	ұйқыда,	
+	өзіңе,	
+	денсаулық,	
+	а,	
+	осындай бірдемені,	
+	ашып алсаң,	
+	кімнен сұрап алсаң,	
+	қандай,	
+	қайдан алуға болады,	
+	программа осыларды.	
+	¬Еділменен хабарласып не етсең.	If you communicate with ¬Yedil.
+	Қандай не жаңа ашылады,	Something new is being discovered, it is being taught, and now they are working with it.
+	соны меңгеріп алады дейді,	
+	соған кете береді дейді,	
+	қазір дейді.	
+	Қазір мынау,	Now this IT is growing because of the Internet, because of science and technology.
+	IT деген,	
+	өсе береді дейді,	
+	ғаламтордың несіне байланысты,	
+	ғылыми-техника–	
+	техникаға байланысты дейді.	
+	Тоқтау жоқ дейді.	There's no stopping it.
+	¬Аслан ¬Жакупов айтады ғой,	¬Aslan ¬Zhakupov said, Kazakhs become judges, economists, or something else.
+	не,	
+	судья дейді,	
+	экономист дейді,	
+	бірдемелер дейді,	
+	қазақтар дейді.	
+	Ана жапондықтар қалай көбейтіп отыр дейді.	And how do these Japanese grow?
+	Океанның үстінде дейді,	At the bottom of the ocean, they don't have our riches.
+	оларда біздікідей,	
+	неше түрлі байлық жоқ.	
+	Техникасын,	Because of inventing these new technologies.
+	өз технология,	
+	техникаменен,	
+	анау,	
+	нені ойлап тауып жатқан сол,	
+	е:ң бірінші шығатын техника–	
+	техникалар ойлап табатын солар.	
+	Соның арқасында дүниежүзіне әйгілі дейді.	Because of this they're famous to the whole world.
+	Балаларын он екі жасқа дейін,	They say they don't teach their children another language until they're twelve. They say that if they force them to work in this school, then nothing bad will happen to the children. They get along well with children, what they do. They do not interfere in anything else, just education, technology, and good upbringing.
+	басқа тілге үйретпейді дейді,	
+	балаларын еңбекке бауып анау мектепте жұмыс істетіп қойса олар ешкандай не етпейді істетіп қояды дейді,	
+	балаларын,	
+	и,	
+	балалармен керемет есептеседі соларды,	
+	не етеді дейді,	
+	басқа ештеңеге араласпайды,	
+	сол,	
+	оқу,	
+	техника,	
+	и,	
+	тәртіптері де бірін-бірін сыйлау жақсы дейді.	
+	Сондай сондай жерлерді не ету керек.	We have to support such ideas.
+SPK6001	(Н)	(Н)
+SPK6002	Хабарлаған жоқ па?	Hasn't he texted yet?
+SPK6001	Жоқ.	Not yet. He'll come closer to eleven o'clock, I think.
+	Он бірге қарай келетін шығар.	
+SPK6002	Мынау етті ма?	Did he do it?
+SPK6001	Өзі звондайды ғой қазір.	He'll call himself now.
+SPK6002	Жарайды.	OK.
+	Та:к.	So.
+	Жаңа,	And this one, is he Kazakh?
+	қазақ пе екен?	
+SPK6001	Да.	Yes.
+SPK6002	Ммм.	Mmm.
+	Қазір орыстар жөнді неде жүрмейді ей.	Today Russians do not work in places like this.
+SPK6001	Көбісі қазақ енд–	Most of them Kazakhs, in the InDriver.
+	неде,	
+SPK6002	Аха.	Yeah.
+SPK6001	индрайверда.	
+SPK6002	Қайсысына,	Everyone needs to do something for a living.
+	жан сақтау керек.	
+	Орыстар деген,	Russians, they are all in good places.
+	күшті орындарда ғой олар.	
+SPK6001	Кейде болады,	Sometimes it happens so they take one or two people as fellow travelers.
+	былай жай,	
+	попутканы ала салады,	
+	бір,	
+	бір-екі адамды.	
+SPK6002	Ааа.	Ahh, I see.
+SPK6001	Не емес,	Not this one, but just, when coming from afar–
+	просто жай,	
+	алыстан–	
+SPK6002	А,	Ah, when he goes and has a free slot.
+	өзі кетіп бара жатқанда бос болады.	
+	А,	Ah, so he doesn't go empty.
+	бос қайтпайын деп.	
+SPK6001	Иә.	Yeah.
+	Сіз–	You–
+	Шай ішесіз ба?	Want to have some tea?
+SPK6002	Шайды білмей тұрмын.	I don't know about tea.
+	Мынау неше дейді ##?	What does it say ##?
+SPK6001	Ау?	Ah?
+SPK6002	Мынау неше?	What does it say?
+SPK6001	Қайттан тұрыңызшы.	Stand again.
+	Жоқ,	No, again, on the top of it.
+	қайтадан,	
+	үстіне.	
+	Жетпіс,	Seventy, exactly.
+	ровно.	
+SPK6002	Бұрын жетпіс де бір ма,	Before that, it showed seventy-something.
+	бірдеме тұғын.	
+	Ана мектептің жанындағы бар ме екен,	Is there anything close to that school? It's always–
+	мынаны,	
+	ылғи–	
+SPK6001	Көршілермен,	Do you go with the neighbors?
+	барып жүрсіз ба?	
+SPK6002	Көршілер,	Neighbors can't wake up in the morning, if I walk with them, they walk slowly, I walk very fast, I do one hundred times, then that's it, I do leg exercises, two hundred times, then, that's it, that's it, that's it, do it a hundred times, then I return home–
+	таңертен тұра алмайды,	
+	олармен барсам жа:й бүйтіп жүреді,	
+	өзім,	
+	тез-тез барамын дағы,	
+	мынандайды жүз жасаймын,	
+	сосын былай,	
+	аяқпен жүретінді екі жүз жасаймын,	
+	сосын,	
+	былай,	
+	бүйтетін бар,	
+	оны жүз жасаймын,	
+	сонымен келемін үйге–	
+SPK6001	Мына үйдің,	This house's neighbours–
+	көршілер,	
+SPK6002	Жасай ма?	Do they [do exercises], too?
+SPK6001	Жоқ,	No, I don't know.
+	білмеймін.	
+SPK6002	Міне ¬Мариянікі.	Here's ¬Mariya's.
+SPK6001	Мына үйдің көршілері,	The neighbours of this house keep going out.
+	гулять ете береді.	
+SPK6002	А,	Ah, they go out themselves, right?
+	өздері шығып жүреді иә?	
+SPK6001	Жоқ,	No, I mean,
+	в смысле,	
+	қонаққа шақыра бере:ді,	They keep inviting me. They keep going out somewhere.
+SPK6002	Соны айтам.	That's what I'm saying.
+SPK6001	Бір жерге,	
+	шыға береді.	
+SPK6002	Соны айтам.	That's what I'm saying.
+	Жоқ-ау,	No, our neighbours, what, I woke up in the night and drank it, my stomack did something.
+	біздің көршілер,	
+	неде,	
+	түнде тұрып мынадан іштім,	
+	не,	
+	желудогім не етті.	
+SPK6001	Жоқ @ мына мынау,	No, this one, or just this house, or the Astana neighbors, it's like they're all are young.
+	ана,	
+	или осы үйдің бе,	
+	или Астананың көршілері,	
+	как будто жас сияқты,	
+	бәрі.	
+SPK6002	Жастар,	Youth, we saw that time.
+	анада көрдік қой.	
+	Кәрілер–	Old people, old people and those were younger than me there.
+	кәрілердің өзі менен,	
+	не екен,	
+	менен кішілер болды ғой,	
+	анада.	
+	Құран оқыдық қой сонда.	We read the Qur'an then.
+SPK6001	Сіз болдыңыз ба?	Were you there?
+SPK6002	Ойбай,	Оibai, have I not read the Qur'an then? ¬Nursick and others.
+	келіп Құран оқытып кеткен жоқпын ба мен?	
+SPK6001	Ааа.	Aaah.
+SPK6002	¬Нұрсик бәріміз.	
+	Мынаны ала салайын мен иә?	May I take it?
+SPK6001	Иә.	Yes.
+	А қазір іше салсаңыз ше?	Can't you drink it now?
+SPK6002	Тамақтан,	You're supposed to drink it after a meal.
+	ээ,	
+	кейін ішу керек оны.	
+	Қане,	Or give it here, maybe I'll drink it, cut it in half, please.
+	ішсем бе екен,	
+	ананы кесе салшы.	
+	Бір бананды неге алып кетпеймін иә?	Why don't I take one banana, right?
+SPK6001	А?	Huh?
+SPK6002	Бір бананды неге алып кетпеймін?	Why don't I take one banana?
+SPK6001	Ала беріңіз.	Take it, please.
+SPK6002	Бір бананды алып алайын,	I'll take one banana, for tomorrow–
+	мына неге ертеңге–	
+SPK6001	Маған біреуін бере саласыз?	Will you give me one please?
+SPK6002	Суық байқа.	It's cold, be careful.
+SPK6001	Сол,	That's right, let it get warm.
+	жылып тұра берсін.	
+SPK6002	Иә,	Yeah, I'll take it then.
+	мен оны онда салып ала салайын.	
+SPK6001	Жолға ма?	[You're gonna eat] on the road?
+SPK6002	Жолда удобный болса жеймін,	If it's comfortable to eat on the road, I will, if I don't want to eat, I won't.
+	жегім келіп тұрса,	
+	жегім келмесе жемеймін.	
+	Үйге барып жеймін азар болса,	Or I'll just eat at home.
+	ала салайын.	I'll take it.
+SPK6001	Сізді қонаққа шақырған жоқ па?	Haven't you been invited?
+SPK6002	Кім?	By whom?
+SPK6001	Мама айтты ғой?	Mom said..
+SPK6002	Сол көрші шақырған еді–	That neighbour did invite–
+SPK6001	Көрші ша–	that the neighbour invited–
+SPK6002	Сол уақыттары болмаған шығар қазір бәрінің,	They probably had no time [to receive me], no one has free time these days.
+	уақыты жоқ наверное.	
+SPK6001	Вот,	Well, that neighbour invited me.
+	кеше ана көрші шақырды ғой мені.	
+SPK6002	Иә.	Yeah.
+	Нешінші этаж?	From which floor?
+SPK6001	Тоғызыншы этажда.	From the ninth.
+SPK6002	Аха.	Uh-huh.
+SPK6001	Сол,	Well, a person of 70 years.
+	жетпістегі адам,	
+	@@	@@
+	Ноутбукпе:н там,	Sits with a laptop, does something with her computer, has two or three phones–
+	бірнәрсе отырады,	
+	компе–	
+	@	
+	сен екі–	
+	үш төрт телефоны бар ма,	
+	сол үш төрт телефонымен–	
+SPK6002	Сонымен ғана отырады ма?	Those are the only she uses?
+SPK6001	Жоқ,	No, she does something with these three phones, and asked me to help her with that.
+	үш төрт телефонымен бір нәрсе істейді,	
+	и,	
+	сонымен көмектессін дейді.	
+	Келдім,	I came, in short, the SIM card of one phone is in another phone, the code should come there, I called that person, I still needed to do something, I got all confused myself.
+	короче,	
+	бір телефонындағы сим картасы басқа біреуде,	
+	соған,	
+	код келу керек,	
+	сол кісіге звондап,	
+	қайттан бір нәрсені істеу керек,	
+	өзі запутался.	
+SPK6002	Баласы жоқ па?	Doesn't she have a son?
+SPK6001	Білмеймін,	Well, I don't know.
+	ну.	
+SPK6002	Сосын?	Then?
+SPK6001	Сол,	So, I went to her, did something, sat for two hours or something, how long I sat?
+	соған барып келдім,	
+	бірнәрсе істеп от–	
+	екі сағат отырдым ба,	
+	қанша отырдым.	
+SPK6002	Эй сен,	Hey you, should I heat up your soup, you haven't eaten yet, have you?
+	көже ысытып берейін ба,	
+	тамақ ішпедің ғой.	
+SPK6001	Жоқ пока ішкім келмей тұр.	No, I don't want to eat now.
+SPK6002	Блинчик бірдеме шығарып қойсайшы,	Get out some pancakes or something, please.
+	ана жерден.	
+	Мынау алма ма?	Is that an apple?
+SPK6001	Иә.	Yeah.
+SPK6002	Бөліп жейік те екеуміз.	Let's share and eat it.
+SPK6001	Жоқ мен жемеймін пока.	No, I don't want to eat.
+SPK6002	Да?	Yeah?
+SPK6001	Кешке жеймін.	I'll eat in the evening.
+SPK6002	Ана жерде бар ма,	Are there any more apples?
+	алма?	
+SPK6001	Болу керек.	There have to be.
+SPK6002	Мен секілді біреу ғой,	She's like me, right, she's willing to do something but can't, yeah?
+	ананы істегісі келеді,	
+	бірақ істей алмайды иә?	
+	Жарайды мына са–	OK have it–
+SPK6001	Жоқ бір нәрсені үйреніп жүр ме:.	No, she's learning something, I think.
+	Жоқ мен жемеймін алма әже,	No, I don't want an apple, grandma, mom doesn't eat them much either.
+	мама да жемейді аса.	
+SPK6002	Ааа,	Ah, OK.
+	жарайды.	
+	Мен онда аршып жеп қоямын қазір.	Then I'll peel it and eat it now.
+	Сондаймен отырады ғой.	So they do.
+	Жұмысы жоқ па?	Doesn't she have a job?
+SPK6001	Пенсионер ғой,	She's a retiree, she's seventy.
+	жетпістегі.	
+SPK6002	Ааа,	Ah, yeah, yeah.
+	иә иә.	
+	Мынада болғандар шығар ###.	There might be.
+SPK6001	Иә:.	Yeah.
+	Сол,	Well, relatives or something, in any case, they keep paying visits to each other.
+	туыс–	
+	білмеймін әйтеуір,	
+	сол,	
+	көршілер,	
+	бір-біріне,	
+	қонаққа жүре береді.	
+SPK6002	@@@	@@@
+SPK6001	Ана еще айтқан,	One said,
+SPK6002	Әжең кетті ме деп сұраған жоқ па?	Hasn't anyone askes if your grandma's gone yet?
+SPK6001	Жоқ,	No, and no one even knows.
+	білмейді да.	
+SPK6002	Ааа.	Aaah.
+	Біреуі біліп,	Someone knew and wanted to invite me, but I guess they didn't have time to receive me.
+	ойбай шақыру керек деп айтты деген,	
+	қолдары тимейді ғой че-то.	
+SPK6001	А:нау шығар,	Maybe [neighbours] from the 13th floor.
+	он үшінші этаждағы.	
+SPK6002	Ааа.	Aaah.
+SPK6001	Осы,	This house's what, cooperatives of apartment owners, ¬Gulnaz.
+	подъездің несі,	
+	КСК-сы,	
+SPK6002	Ааа,	Aah,
+SPK6001	¬Гүлназ тәте.	
+SPK6002	иә сөйдеді,	yeah, it was her, ¬Gulnaz.
+	¬Гүлназ деді.	
+	¬Гүлназдың қызы деді ме?	Was it ¬Gulnaz's daughter?
+	Қызы да осында тұра ма?	Does her daughter live here as well?
+SPK6001	Солай шығар.	Probably.
+SPK6002	Сөйтеді.	Maybe.
+SPK6001	Олардың,	They have a different layout of the house.
+	нелері,	
+	үйдің планировкасы басқа.	
+SPK6002	Тура осының үстінде ме?	Right above us?
+SPK6001	Жоқ.	No.
+	А,	Ah, yeah yeah, right above us, the 13th floor.
+	иә иә,	
+	тура осында,	
+	он үшінші этаж.	
+SPK6002	Оны басқа қылмаған ғой,	They did it differently, they, this one, as it used to be called, this one, the kitchen–
+	олардың,	
+	мынау,	
+	бұрын не дейді,	
+	мынау,	
+	кухня–	
+SPK6001	Мынау–	This–
+SPK6002	Туалет па–	A toilet–
+SPK6001	Ванный ма,	Bathroom, there was–
+SPK6002	Ванный туалет болыпты дейді.	They say there were bathroom and toilet.
+SPK6001	болған–	
+SPK6002	Екеуі,	Two, one there and one there.
+	ана жақта,	
+	мына жақта дейді.	
+	Соны,	They say they made a kitchen there.
+	кухня қылған дейді.	
+SPK6001	Ммм мына жерде,	Here, above–
+	үстінде–	
+SPK6002	Спальный ма бірдене болған шығар.	There probably was a bedroom or something.
+SPK6001	Жо–	No–
+SPK6002	Олардікі жақсы ме екен?	Do they have a good apartment?
+SPK6001	Маган ұнамайды осы,	I don't like the layout of this house.
+	үйдің планировкасы.	
+SPK6002	Неге?	Why?
+SPK6001	Коридор,	The hallway, empty–
+SPK6002	Ұзын,	Long, it's good.
+SPK6001	бос,	
+SPK6002	жақсы.	
+SPK6001	Ұзын,	Long, empty.
+	бос.	
+SPK6002	И бос болғанда не?	So what it's empty?
+	Бос,	
+	кеңі,	Wide, broad, it's good.
+	жақсы ғой.	
+SPK6001	Кімге?	To whom?
+SPK6002	Кең тұрған жақсы,	It's good it's broad, you can put a sofa there.
+	ана жерге,	
+	диван қоюға болады.	
+SPK6001	Жоқ бір,	No, one, two–
+SPK6002	Отдыхать етіп.	And rest there.
+SPK6001	екі–	
+	Екі комната ғана бар сияқты осы үйде.	It's like there are only two rooms in this house.
+	Мына жерде андай не жоқ,	There is no that thing in here..
+SPK6002	Арка.	An arch.
+SPK6001	Не арка ма,	an arch or a door.
+	ну есік пе:.	
+	Мына жерде кішкене,	If I speak here a little [loud], mom–
+	былай,	
+	не етсем,	
+	сөйлессем,	
+	маған мама жақ–	
+	естіленеді,	mom can hear it.
+	мама жаққа.	
+SPK6002	¬Мария,	¬Mariya said she wants to do something here, to make a living room here, the corner with your computer, it–
+	айтып отырған,	
+	мына жерлерді бірдеме кылып,	
+	мына жақты зал қылып,	
+SPK6001	Білмеймін оған–	I don't know, there–
+SPK6002	Ана жақта сенің компьютерін бұрыштығы,	
+	соған–	
+	соны не істейміз деп жүрді мынаны,	she wants to do something there,
+	а ортасын спальня қыламыз дей ме,	and in the middle she wants to make a bedroom or something, ¬Мariya.
+	бірдеме деп жүрді ғой ¬Мария.	
+SPK6001	Осы жазда істей ме?	She plans to do it in the summer?
+SPK6002	Оған ақша керек қой.	That takes money, you know.
+	Жүз мыңға ғана мына терезелерді жөндетті.	She spent one hundred thousand [tenges] only to change the windows.
+	Енді бәрін сондай қылғысы келеді,	She wants to change everything now, but that takes money.
+	оған ақша керек қой.	
+	Екі жүз мыңдай,	There is a mortgage for two hundred thousands or something–
+	несі бар,	
+	ипотека–	
+SPK6001	Мен мамаға айтып жүргем,	I told mom that windows are fine, why would–
+	терезе нормальный деп,	
+SPK6002	Жоқ-ау,	No, the wind blows–
+SPK6001	не үшін–	
+SPK6002	жел гуылдеп,	
+	соғып арасында–	
+SPK6001	Жоқ,	No, well, in general.
+	ну,	
+	в общем.	
+SPK6002	Тығып қояды мына–	She plugs the whole–
+	Жоқ айтыпты,	No, she said, everything's good–
+	нелері бәрі жақсы депті–	
+SPK6001	Вот,	Вот, солай айтты, просто несін ғана, айырбастаса– Well, she said so, it's just, if she changes–
+	солай айтты,	
+	просто несін ғана,	
+	айырбастаса–	
+SPK6002	Соны айырбастаса,	If she changes, yeah, only that took one hundred thousands, they only changed [the windows].
+	соның өзіне жүз мың,	
+	соны ғана айырбастады ғой.	
+SPK6001	Жоқ,	No, these, they changed [windows] in three rooms.
+	мына,	
+	үш комнатікін айырбастады.	
+SPK6002	Иә соны айтам,	Иә соны айтам, соның бәріне жүз мың. Yeah, that's what I'm saying, all that took one hundred thousand [tenges].
+	соның бәріне жүз мың.	
+SPK6001	Енді,	Now, the good?
+	нормально ғой?	
+SPK6002	Енді батареяларды бірдеме қылам дей ме,	Now she wants to do something with the batteries, this corner seems empty, she wants to do something with it, that bedroom–
+	мына бұрыш ашық тұр,	
+	соны бірдеме қылам дейді,	
+	анау,	
+	спальня–	
+SPK6001	А,	Well, the bedroom, yeah, one has to do something with it–
+	ну спальнядікін иә,	
+	бірнәрсе қылу керек–	
+SPK6002	А сосын со временем дейді,	And then with time, she plans to redesign everything... like she wants to make a living room out of this place.
+	барлығын өзгерткісі келеді мынаны,	
+	зал қылып.	
+SPK6001	Білмеймін,	I don't know, to me–
+	маған,	
+SPK6002	Анау,	This bedroom, where she sleeps, she wants to give you.
+	өзің жатқан спальняді сенің,	
+	саған,	
+	не қылып беремін деген.	
+SPK6001	Анау немене?	What is it?
+SPK6002	Қайсы?	Which one?
+SPK6001	Екі,	The two vessels there.
+	посуда анау.	
+SPK6002	Ананы не салып қоятын ғой.	It's for the–
+	Ааа,	Aah, there's salt in one of them.
+	мынау ғой біреуінде,	
+	тұз бар.	
+SPK6001	Ммм.	Mmm.
+SPK6002	Біреуін білмеймін.	The other one I don't know.
+	Мынада тұз бар,	There's salt in here, what about the other one?
+	ана жағы немене?	
+SPK6001	Бос.	Empty.
+SPK6002	Ааа.	Aaah.
+SPK6001	Қант,	Sugar, probably.
+	шығар.	
+	Или бұрыш.	Or pepper.
+SPK6002	Подарить еткен шығар.	She probably received it as a gift.
+SPK6001	Біз қа– @	We su– @
+	Біз қант жемейміз мына үйде.	We don't eat sugar in this house.
+SPK6002	Біз де жемейміз.	We don't eat either.
+SPK6001	Мына қант тұрады,	There's sugar and no one touches it.
+	и,	
+SPK6002	Біздікі да солай ғой.	It's the same in our house.
+SPK6001	ешкім тиіспейді.	
+SPK6002	Андай,	Why don't you put it in a cottage cheese or a porridge?
+	творогқа:	
+	неге қоспаса,	
+	кашаға?	
+SPK6001	Мед,	Honey, honey, eat–
+	мед,	
+	жей–	
+	жейміз,	we eat and drink [honey].
+	ішеміз.	
+SPK6002	Менде де ә–	I still have the honey that ¬Zhanibek sent.
+	әлі бар ¬Жәнібек берген мед.	
+	Анау жемейді ештеңе.	That person does not eat anything (referring someone in her household).
+SPK6001	Папа ¬Дианалармен отыр ма қазір,	So dad is with ¬Diana now?
+	сонда?	
+SPK6002	Кеше,	He was with them yesterday after lunch, he worked until lunch yesterday.
+	түстен кейін сонда отырды,	
+	ол түске дейін істеген ғой кеше.	
+	Түстен кейін сол үйге апарып тастаған ғой,	After dinner, he took them to that house, they have work you know.
+	жұмыстарына шығып жүр ғой.	
+	Әуре қылып ана жақта,	He fussed there, drove the car, what else could he do.
+	ана машинамен сақылдатты,	
+	қайтемін.	
+	Жолдан шарап келді өздері,	They were tired after the road, this far.
+	ана:у,	
+	алыста.	
+	Және жұмыстары қалып жатыр.	And he misses work.
+SPK6001	Алматыдан,	How did you come from Almaty, by car?
+	немен келді,	
+	машинамен бе?	
+SPK6002	Пойыз.	By train.
+SPK6001	Пойыз?	By train?
+SPK6002	Алматыға дейін,	They went to Almaty by this, Talgo, a high-speed train.
+	немен барды ғой,	
+	Тальго,	
+	тез,	
+	жүретін пойызбенен.	
+SPK6001	Қайтарда?	And came back?
+SPK6002	Сосын барып,	They came back how they went.
+	қайтарды да солай.	
+SPK6001	Заранее алып қойды ма?	Did they get [tickets] in advance?
+SPK6002	Қайтарды–	They came back–
+	Қашан қайтып келетін білмей алмай,	They didn’t know when they would return, so they didn’t book any tickets, then, they asked ¬Inzhu to look for for tickets on particular dates, but there weren't any. So they took them on Tuesday, and they arrived on Sunday night.
+	сосын,	
+	¬Іңжу осындай күнге ал деген ғой,	
+	оған жоқ болды,	
+	вторникке алды,	
+	олар воскресенье түнде келді.	
+SPK6001	Ммм.	Mmm.
+SPK6002	Алматыға,	To Almaty, aerop–
+	аэроп–	
+SPK6001	Орын болды ма?	Were there places?
+SPK6002	Содан,	They found a good place for Tuesday, bought it, what else–
+	орын,	
+	вторникке табылыпты ғой жақсы,	
+	орын,	
+	енді,	
+	бір бір алып,	
+	не кер–	
+SPK6001	Бір купе?	One coupe?
+SPK6002	Иә төртеуіне.	Yeah, for the four of them.
+	Соны алып қойыпты.	They took [the coupe].
+	¬Іңжу.	¬Inzhu.
+	Алматыға барсам менің Іңкәрдікіне апарып сені ана кім,	If I go to Almaty by Inkar, I can take you there, to those, you can acquintainted with the programms at ¬Yedil's, do you want to go?
+	кішкене,	
+	нелерменен,	
+	неше түрлі не ғой таныстырып,	
+	программасыменен,	
+	¬Еділ,	
+	барасың ба?	
+	А?	Huh?
+	Июльде?	In July?
+	Июльдің орта кезінде.	In the middle of July.
+	Екеуіміз бір жұма барып келсек,	Together, if we go on a day off, what is there, how, what can be done, we'll see JAVA, huh?
+	немене бар,	
+	қандай не,	
+	не етуге болады,	
+	JAVA-сын көріп,	
+	а?	
+	¬Мария айтты м–	¬Мariya told me that she looks for this thing, a plasma or something, when they take [blood] from there and put it in there.
+	саған не іздеп отыр деді,	
+	плазма деді ме,	
+	мына жерден алып мына жерге құяды деді ме.	
+SPK6001	Ну,	Well, this, we did it once, remember, this Chinese, medic–
+	оны,	
+	бір рет не еттік қой,	
+	помните,	
+	Қытайдың несін,	
+	медиц–	
+SPK6002	Полезно болды ма сол?	Was it useful?
+SPK6001	Бір–	First–
+	Бірінші уақыт,	First time it was useful.
+SPK6002	Кішкене бол–	Was a little–
+SPK6001	болды,	
+	полезно.	
+SPK6002	Сосын әрі қарай уход не жасау керек еді.	Then further care had to be done.
+	Сондай қылам деп отыр.	She wants to do it she says,
+	Соны іздеп жатырмын деді.	She is looking for it she says.
+SPK6001	Мен ойлап отырмын,	I think what if I go back there, to China?
+	может соған қайттан барып келейін бе анау,	
+	Қытайға?	
+SPK6002	Жақсы ме еді?	Was it good?
+SPK6001	Вроде жақсы–	It seems good-
+	Сіз де алып жүрдіңіз ғой бір дәріле:р,	You took some medicines too, right, the expensive medicines?
+SPK6002	Иә иә.	Yeah yeah.
+SPK6001	қымбат,	
+	бір,	
+	дәрілер?	
+SPK6002	Иә иә.	Yeah yeah.
+SPK6001	Ішіп жүрдік қой басында.	We took them in the beginning.
+	Сол білмеймін,	I don't know, I think it was OK.
+	мне кажется,	
+	но–	
+	нормально болған сияқты.	

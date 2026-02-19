@@ -1,0 +1,711 @@
+speaker	span	translation
+SPK0026	Алып кет ары қарай.	Take her away.
+SPK0023	Мхм.	Yes.
+	###	
+SPK0024	А—	
+SPK0028	SOUNDS_FROM_THROAT	
+SPK0024	Ойнатшы кішкене.	Play with her a little.
+SPK0026	Байқа,	Be careful, ## something.
+	бірдеңе ##.	
+SPK0027	Ана жерде жұмсақ ойыншықтар жатыр.	There are stuffed animals there.
+	Төсектің үстінде.	On the bed.
+	Көрсетші соларды.	Show them to her.
+SPK0028	Ойыншықтан көп нәрсе жоқ ###.	There are more toys than anything ###.
+SPK0024	Ойнатып,	Learn to play by playing with her.
+	үйрете бер.	
+	Үйрене бер.	
+	Балаң болса,	When you have a kid, you'll teach.
+	үйретесің.	
+	####.	
+SPK0026	Кетші эй.	Don't say that!
+	@@	
+	Содан кейін?	So then?
+SPK0027	(Hx) сөйтіп сол.	That's all.
+	Тойдың сондай қызықтары болды.	That's the fun stuff we had at the wedding.
+SPK0023	###,	
+	туған күн#,	Birthday #...
+	болдым болдым.	I finished.
+	Туған күні ғой деймін дейді.	He says maybe it is his birthday.
+SPK0026	А?	
+SPK0023	Таңертең сағат төртте,	I need to go fishing at 4 am in the morning.
+	балыққа кету керек маған.	
+	¬Бердаққа.	To Berdak's place.
+SPK0024	Иә.	Oh.
+SPK0026	¬Бердаққа?	To Berdak?
+SPK0023	Иә.	Yes.
+	#####	
+	Анау.	He wakes him up.
+	оятады.	
+SPK0028	Алло.	Hello.
+SPK0026	Мхм.	
+SPK0023	Чё-то,	"He says, ""I think he is done""."
+	#,	
+SPK0028	Я дома.	I am home.
+SPK0023	ол,	
+	болды ғой деймін дейді.	
+SPK0024	Ммм.	Mmm.
+SPK0026	Неге.	
+	Немене болды.	
+SPK0024	¬Бердаққа кетіп бара жатқанда айтады.	He says that when you are about to go to Berdak's.
+SPK0023	¬Бердақ,	Berdak..E-e.. Berdak.
+	е- е-,	
+	¬Бердақ.	
+	Мен айтамын қойшы эй өзің.	"I said, ""Stop it please!""."
+	Мен бүйтіп,	I turned my back and lay.
+	теріс қарап жатып алғанмын.	
+SPK0026	Иә.	
+SPK0023	Бір күні қайта айналып айтты,	"And one day he came back and said: ""Hey! I think this is over""."
+	эй кет- чё-то бітті.	
+	Cодан айдап апарды.	Then he took him right away.
+	Cодан кейін.	
+SPK0024	Берші ананы.	Give me that.
+	Әне тряпка.	There is the rag.
+SPK0025	Әне: ##.	There is the ##.
+SPK0024	#	
+SPK0023	Нешеде еді?	When was it?
+	#####	
+SPK0025	Қойшы.	No.
+	Түнімен жатты да,	He laid all night and went the following morning.
+	ертеңінде кетті ғой.	
+SPK0027	Неменені?	What?
+SPK0025	@@@	
+SPK0023	Жоқ эй.	No!
+	Таңертең апардым ғой.	I took him in the morning.
+	Түнде апардым ғой.	I took him at night.
+SPK0025	Жоқ.	No.
+	Түнде барып,	He went there at night, and he was gone only the following day in the afternoon.
+	ертеңінде,	
+	түсте бірақ кетті ғой.	
+SPK0023	Ңаа.	No.
+	###.	
+SPK0024	Әкел өзім не ете саламын.	Give it to me, I'll do this myself.
+SPK0027	Бар ойнатсаңшы.	Go and play with her.
+SPK0028	¬Серікжан ойнатып отыр ғой.	Serikzhan is playing with her.
+SPK0027	¬Серікжанға бере салдың иә?	You gave her to Serikzhan, right?
+SPK0028	Өзі сұрап алды ғой?	He himself asked for her.
+SPK0027	Ммм.	Ok.
+SPK0026	Ана,	"This is the way Manat  teaches his children: when we are about to sit for a meal, there are no small children with us at the table. Someone will voluntarily take the child and say ""I will play with the child and let you eat""."
+	¬Манаттардың тәрбиесі,	
+	міне,	
+	шәй ішкей жатырмыз ғой иә,	
+	бала жоқ.	
+	Балаға біреуге,	
+	өзінің еркіменен,	
+	мен бала ойната тұрамын,	
+	сендер т- тамақтарыңды ішіп алыңдар дейді.	
+	Санжар болса Санжар.	Sanzhar could do this.
+	Ммм.	Oh.
+	Қызы болса қызы.	His daughter could as well take the child.
+	Наргиз болса Наргиз.	Nargiz could do this as well.
+	(H)	
+	COUGHS	
+SPK0023	Ооо,	Oh...
+	######.	
+SPK0026	Балаларын ойнатып,	They play with the children...
+	COUGHS	
+	жоқ бәріміз бірге отырамыз,	No, all of us are at the table, sitting together with the children.
+	балалар бәрі отырады.	
+	Сол өз ө- ө-,	"One person among them will rise voluntarily and say: ""I'll take the child and play while you are eating""."
+	өзі біреу шығады ішінен.	
+	Баланы мен ойната тұрамын деп.	
+SPK0024	Мхм	I see.
+SPK0023	Мхм.	I see.
+SPK0026	Сөйтеді екен.	Apparently, that's how they do.
+SPK0023	Аааа.	I see.
+SPK0026	Ал,	But the adults do not do this. Manat and Dina, they sit. It is one of their three children who does this.
+	үлкендер,	
+	не етпейді.	
+	¬Манат отырады.	
+	Там ¬Дина отырады.	
+	А сол ана,	
+	үш баланың біреуі.	
+	COUGHS	
+	Кәдімөскей,	They will sit and casually play with the child.
+	ойнатып отыра тұрады.	
+SPK0027	Сіз сорпаңызды,	Have you finished your soup already?
+	ішіп алдыңыз ба?	
+SPK0026	Сөйтеді екен.	This is what they do, apparently.
+SPK0024	Содан.	So, then?
+SPK0027	А- араластырсаңызшы ананы.	Why don't you stir your soup.
+SPK0024	Араластырамын.	I will mix.
+SPK0027	Майы қатып қалыпты.	The fat it in got hardened a little.
+SPK0026	Ол біледі.	She knows how to drink the soup
+	Қалай ішетінін.	
+SPK0023	@@	
+SPK0026	Біледі ғой.	She knows.
+SPK0027	(Hx)	
+SPK0026	Араластырып араластарып ішіп ал.	Stir and drink it up.
+SPK0023	Келмегелі бір,	I guess it's been around six years since my last visit to this place, right?
+	алты жылдай болып қалды ғой деймін иә осы үйге,	
+SPK0027	Айтпа деймін.	You don't say.
+SPK0023	иә?	
+SPK0027	Мен ¬Жанар біздің үйге бірінші рет келіп тұр.	Zhanar came to our place for the first time.
+SPK0025	Мен де,	I've never been to this place either.
+	келіп,	
+	келіп көрген жоқпын.	
+	Бірінші рез келіп тұрмын @@	I am here for the first time.
+SPK0024	Ааа.	Oh, really?
+SPK0023	Лента тарту керек еді,	We should have tied a red ribbon at the door right when we came, yes?
+SPK0027	Иә?	Yes.
+	Вообще келіп көрген жоқ.	She's never come before.
+SPK0023	жаңа иә @@@	
+SPK0027	А.	Come again?
+SPK0026	Әй.	Hey you, you need to thank me.
+	Маған рақмет айт.	
+	Мен алып келдім.	It is me who brought them.
+SPK0027	Рақмет сізге.	Thank you!
+SPK0026	Аха.	Yes.
+SPK0025	@@@@	
+SPK0027	@@@@@@	
+SPK0026	Үйден алып келдім.	I brought them from home.
+SPK0024	Маған рақмет	Thank me as well.
+SPK0026	Кел-	Your kelin...
+	келініңді.	
+SPK0024	Тостырып қойдың ғой.	"You made this person wait, saying ""They will come now, they will come now""."
+	Қазір келеді,	
+	келеді деп.	
+	Мына кісіні.	
+SPK0026	Мені ме?	Made me wait?
+	И сен де звандағаның жақсы болды.	It was good that you called.
+	Әйтпесе отыра беруші едім мен.	Otherwise, I would have been sitting at home.
+SPK0027	Тух осы,	Ehh, my sister is tired all day now!
+SPK0024	Иә.	Yes.
+SPK0027	менің апайым да кешке дейін шаршады енді.	
+SPK0026	###	
+SPK0023	Ңа:	I see.
+SPK0027	Жиендерін күткенінен.	Because of looking after her grandchildren.
+SPK0025	Мх.	Oh.
+SPK0024	Кімдерді күтіп еді.	Whom did she look after?
+SPK0027	Апайым.	My sister.
+SPK0026	Мм?	Oh?
+SPK0027	Қызының төрт баласы бар ғой.	Her daughter's got four children.
+	Үш ұл бір қыз бар.	Three boys and one girl.
+SPK0024	Мхм.	Mmm.
+SPK0027	Бір жерге кеткенде,	Her daughter brings her three sons and leaves them at her place when she leaves for somewhere.
+	үш ұлды әкеп,	
+	кіргізіп кетеді екен.	
+SPK0024	Ааа.	Oh.
+SPK0026	Ммм.	Mmm.
+SPK0027	Ана қыз кішкентайын,	She takes the little one with her.
+	алып кетеді.	
+SPK0024	Ал өзінің ұлы,	Doesn't she have her own son?
+	жоқ па?	
+SPK0027	Ұлдан екі қыз бар.	Her son's got two girls.
+	Үйде.	They live with her.
+	Өзімен ғой олар.	
+	Ұлдан екі қыз,	Two girls from her son. And those three boys are her daughter's.
+	анау:,	
+	қыздікі.	
+	Үш ұл.	
+SPK0024	Жоқ.	No.
+	Өздерінің,	What I meant is don't they have their own mother, like their grandmother and grandfather?
+	шешелері жоқ па деймін.	
+	Ата-апалары.	
+SPK0027	Вот почему-то ¬Сарқыттардікіне қарай,	For some reason they are drawn to Sarkyt's place.
+	тянет соларды.	
+SPK0026	¬Сарқыт.	Sarkyt. She herself is...
+SPK0027	Барады.	No, they go there.
+SPK0024	##	
+SPK0027	Ол үйге де барады.	They go to that place as well.
+SPK0026	¬Сарқыттың өзі немене.	
+SPK0027	¬Сарқыт көп бағады негізі.	Sarkyt looks after them more.
+	Қарайды.	
+	Мектептің қасында тұрады,	She lives right near the school, and her daughter works in school.
+	ана қыз мектепте істейді ғой.	
+	Қызы.	
+	Жолай тастап кетеді.	She leaves them at Sarkyt's on her way to school.
+	Кіргізе салады.	"Leaves them at the door, saying ""Go to your grandma!"""
+	Бар апаңа деп бүйтіп.	
+SPK0024	Чё братишка.	What's up bro?
+	Куда пошел.	Where are you going?
+SPK0023	##	
+SPK0028	Кеттім мен.	I am leaving.
+SPK0027	Сен қайда кеттің.	Where are you going?
+	Кетпе қазір.	Don't leave yet. Your dad may arrive soon.
+	Папаң келіп қалады.	
+SPK0028	И чё.	So what?
+SPK0024	Сен че-то не етпей тұрсың ғой әгі.	You look so impatient.
+	Тоқтай алмай тұрсың ғой че то.	Like you cannot stand in one place.
+SPK0027	О:й бұл кісі,	Oh, this person never stands in one place.
+SPK0023	#	
+	#	He probably came to say goodbye.
+SPK0027	тоқтамайды.	
+SPK0023	Сау бол айтып келейін деп тұрған шығар баяғы.	
+SPK0024	А.	Come again?
+SPK0026	А.	Come again?
+SPK0023	Сау бол айтқай келіп тұрған шығар.	Maybe he came to say goodbye.
+SPK0026	Баланы алды иә.	He took the child, and he threw the child away and now he is leaving.
+	Баланы лақтырып кетті де,	
+	кеткелі тұр.	
+	Сол дұрыс па.	Is that a correct thing to do?
+SPK0025	@@@@	
+SPK0023	@@	
+SPK0028	Ее папам,	What happens if dad comes, mom?
+SPK0027	#####	
+SPK0028	папам келсе не болады мам.	
+SPK0027	Шығып кетеміз бе қайдан білемін мен.	Maybe we'll go somewhere together, I don't know.
+SPK0026	А.	Come again?
+SPK0028	Қазір что ли.	You mean now?
+SPK0026	Мұны қайдан білесіңдер.	How do you know this?
+SPK0028	Қойшы эй папа айта береді,	No. Dad just says so.
+	###.	
+SPK0024	Өй кеттік дейді,	"You know him. He'll say ""We are going now!"""
+	болды білесің ғой сен.	
+SPK0027	Иә.	Yes.
+SPK0024	Әкессігейін,	"He will be like ""Oh, what the hell, what are we lying? Let's instead get a little closer to the road!"
+	немене жатамыз,	
+	одан да жолға,	
+	бір кішкен болсын жақындай берейік дейді.	
+	Айтпады деме.	
+	Осы сөзімді тура айтады.	Don't say I didn't warn. He will say these exact words.
+SPK0027	Иә.	Yes.
+SPK0026	Мхм.	Yes, he will say so.
+	Сөйтеді ол.	
+SPK0024	¬Жексен ####.	Zheksen ####
+SPK0027	Мен еще айттым ғой.	"I told him two or three times: ""Make sure you don't come at 3 when you leave for katym at 4""."
+SPK0028	¬Гуля апай.	Aunt Gulya.
+SPK0027	Екі-үш рез қатымға,	
+SPK0026	А?	Yes?
+SPK0027	төртте барып,	
+	үште келіп жүрме деп.	
+SPK0026	А?	What?
+SPK0028	¬Гуля апай дедім мен,	I said aunt Gulya.
+SPK0027	####	
+SPK0028	¬Гуля апай.	
+SPK0026	Ол нең бар ¬Гуля апайдан?	What do you need from her?
+	Ол менің сіңлім ғой.	She is my younger sister, you know.
+SPK0028	Жақсы көрем ғой мен ¬Гуля апайды.	You know, I love aunt Gulya.
+	Білесіз бе не үшін.	Do you know why?
+SPK0027	¬Бекзат.	Bekzat!
+SPK0023	Прямой иә.	He is so direct, yes?
+SPK0026	##	
+SPK0028	@@@@@@@@	
+SPK0023	Прямой иә?	So direct, yes?
+SPK0026	¬Гуля апай дейді.	"""Aunt Gulya"", he says."
+SPK0024	Мына жерде немене бар.	There is this thingy there. Go and get it.
+	Бар алып келші?	
+	Бір саған екі мың берейін.	Let me give you a two thousand.
+SPK0028	Не,	No.
+SPK0024	Ақшам бар.	I have my money.
+SPK0028	Ақша сұрап тұрған жоқпын мен сізден.	I am not asking for money from you.
+SPK0026	Әй сен маған,	Hey you! Give me korimdik.
+	##	
+SPK0027	Бар.	Go away, Bakosh!
+SPK0026	маған берсеңші,	
+SPK0027	Бар.	
+SPK0026	көрімдік.	
+SPK0027	¬Бәкөш.	
+SPK0024	Мен ана,	That thing of mine hanging there...
+SPK0027	Тәртіпсіз болмашы.	Don't behave spoiled!
+SPK0024	к- нем қайда ана,	
+	нем тұр ғой деймін ілініп.	
+	Әй.	Hey.
+	Үйдің ыыы,	In the bedroom. Bring it!
+	спальнидің несінде,	
+	алып келші.	
+SPK0026	###.	
+SPK0024	Есігінде.	Hanging on the door.
+SPK0026	Туған күніме менің подаркі бер дейді.	"He calls me by video and says, ""Give me a present for my birthday!"""
+	Звандайды.	
+	##	
+	Ыыы,	He is so impudent.
+	наглый.	
+	Содан кейін бүйтеді.	"Then he goes like, ""I turned 20""."
+	Мен,	
+SPK0027	##	
+SPK0026	жиырмаға толып жатырмын деп сөйтеді.	
+SPK0023	Иә.	Yes.
+SPK0026	Әй мен алпыс беке толдым.	"I said, ""I turned sixty five""."
+	Сен бірінші маған подаркі бер.	"""You give me a present first, then I will..."""
+SPK0027	Қайдағы жиырма.	Not twenty!
+SPK0026	Мен содан кейін.	
+	А.	
+SPK0027	Он сегізде ғой ол әлі.	He is still 18.
+SPK0026	Кім.	Who?
+SPK0027	¬Бекзат.	Bekzat.
+SPK0026	Неге жиырмадамын деді эй?	Why did he say he was 20?
+SPK0028	Кім?	Who?
+SPK0027	Жиырмасы күні деген шығар?	Maybe he said the 20th?
+	Он сегізде ол.	He is 18.
+SPK0026	Аа.	Oh!
+	Онда неменеге тойлатып жүрсіңдер.	Then why are you celebrating?
+SPK0028	##	
+	Әне.	Look!
+	Рақмет ¬Сая а-,	Thanks au- Saya... aunt Gulya.
+	¬Гуля апай.	
+	¬Сая апай дегелі жатырмын ғой.	I was about to say aunt Saya.
+SPK0027	Кет бар.	Go away!
+SPK0028	Көрдіңіз бе ¬Сая апай,	Did you see aunt Saya?
+	байқамай ¬Сая апай деп айттым.	"I accidentally said ""aunt Saya""."
+SPK0023	@@@	
+SPK0025	@@	
+SPK0027	(TSK)	
+SPK0024	@Ах Әкең а.	Ah, you..!
+SPK0025	@@@@@	
+SPK0024	@@@@@	
+SPK0023	¬Гуля апайды жақсы көрем дейді иә?	He says he loves aunt Gulya.
+SPK0025	@@@@	
+SPK0024	Иә @@@@@@	Yes.
+SPK0023	¬Бекзат @@@@@@@	Bekzat.
+SPK0024	Содан,	He is standing here and dropping a hint!
+	намек тастап тұр ана жерге тұрып алып.	
+	####	
+SPK0027	Менің,	My...
+	маған.	To me...
+	Менің туыстарым маған,	"He says, ""None of my relatives gives nothing to me"". I say, ""Why does anyone need to give you anything?"""
+	еш:кім ештеңе бермейді дейді мен айтаймын,	
+	саған неге біреу бірдеңке беру керек өзі.	
+SPK0024	Иә.	Yes.
+SPK0028	Мам,	Mom, please transfer 20 thousand tenge to me by Kaspi, I will give you back by cash.
+	жиырма мың теңге Каспийға лақтырып берші.	
+	Мен саған,	
+	наличка бере салам.	
+SPK0027	Кім.	Who?
+SPK0028	Сен.	You give me.
+	Маған.	
+SPK0027	Сен менде жиырма мың наличка менде жоқ.	I do not have 20 thousand tenge by cash.
+	Менді бәрі—	All of my money is in another bank account.
+SPK0028	Каспийда бар ма.	No, I meant do you have money on Kaspi?
+SPK0027	Банк—	
+	Жоқ жоқ мен-.	
+	Басқа счетта.	
+SPK0026	Көрдің бе,	You see?
+	Жиырма мың деп сөйлеседі.	He speaks in 20 thousands.
+SPK0027	Жоқ онда,	No, there is money.
+SPK0024	Жаңа андағы еще менен екі мың алып кетті.	He just took another 2000 from me.
+SPK0027	ақша бар ғой.	
+SPK0024	Нечестно.	Unfair.
+SPK0023	@@@	
+SPK0026	Анда қызы бар.	He's got a girlfriend there.
+	Анда.	
+	Неде.	In that place.
+	Маған звандайды ғой.	"He calls me and says: ""I am around"""
+	М- маңайда жүрмін деп.	
+	Астанада.	In Astana.
+	Мен маңайда,	"He says, ""I am around, around your place right now"""
+	үйдің жанында маңайда жүрмін дейді.	
+SPK0023	Кім.	Who?
+SPK0026	¬Сая апай.	"He says, ""Aunt Saya, what kind of food are you cooking?"""
+	Немене тамақ,	
+	пысырып жатырсыз дейді.	
+SPK0027	¬Бәкөшті айтады.	Bakosh says so.
+SPK0026	¬Бәкөш ¬Бәкөш.	Bakosh, Bakosh.
+SPK0023	Еее.	Oh.
+SPK0026	Наглый.	Impudent.
+SPK0027	Ішсеңші кім.	You eat some more.
+SPK0025	#	
+SPK0023	@@	
+SPK0024	Қарын ашты,	"He says, ""I am hungry, what kind of food do you have?"""
+	не тамақ бар дейді.	
+SPK0027	Наглый ма бұл,	I don't know if he is impudent or if he is such a spoiled child.
+	әлде өзі еркеле-,	
+	ерке бала ма сондай.	
+SPK0026	Ерке бала ма сондай.	Is he such a spoild child.
+SPK0027	Иә.	Yes.
+SPK0026	##	
+SPK0023	@@	
+SPK0026	Әй наглыйлық та бар.	There is some imprudence as well though.
+SPK0027	Бәріне еркелей береді.	He fawns up to everybody.
+SPK0028	Мама,	Mom, do we have a tweezers?
+	пинцет бар ма.	
+SPK0026	Ана,	That one is not like that.
+	анау ондай емес.	
+SPK0028	Пинцет,	Tweezers, tweezers, tweezers.
+	пинцет,	
+	пинцет.	
+SPK0026	Оны немене қыласың?	What are you going to do with it?
+SPK0027	Білмеймін,	Bakosh, I do not know. Ask Serikzhan.
+	¬Бәкөш,	
+	¬Серікжандан сұрашы.	
+SPK0026	Мұртыңды жұласың ба?	Are you going to pluck your mustache?
+SPK0027	¬Серікжандан сұрашы.	Ask Serikzhan.
+SPK0028	Жоқ.	No.
+	Қазір қасымды алып береді біреу.	Someone will pluck my eyebrows for me.
+SPK0027	¬Серікжанға алдырта салмайсың ба.	Why don't you just let Serikzhan do it?
+SPK0023	Қасымды алып береді дей ме.	Did he just say someone is going to pluck his eyebrows?
+SPK0027	Қасымды,	Eyebrows, eyebrows.
+	қасымды.	
+SPK0023	Қас.	Eyebrows.
+	####	
+SPK0025	Қас жұлдыртасың ба сен де @@@@@	Do you also want to pluck your eyebrows?
+SPK0023	Қас жұлдырта алмай жүр ме,	Is he going to get his eyebrows plucked?
+	ойбай @@@@	Omg.
+SPK0024	Қас жұлады дейді?	Plucking eyebrows?
+SPK0025	@@@	
+SPK0026	Иә.	Yes?
+SPK0024	Өзінің қасын жұла ма.	His own eyebrows?
+SPK0027	Енді барғалы тұр ол,	He is planning to go there now. He is just bored.
+SPK0026	Бір жолдасы,	One of this friends will pluck.
+SPK0027	ерігіп жүр.	
+SPK0026	жұлып береді.	
+SPK0024	Ааа.	Oh, I see.
+SPK0027	¬Серікжан-ақ жұлып береді.	Serikzhan can do this himself.
+SPK0026	Может,	Maybe it is a girl.
+SPK0027	Жіппен.	With a thread.
+SPK0026	қыз шығар.	
+SPK0024	¬Серікжан жіппен жұла ала ма.	Can he thread?
+SPK0027	Жіппен,	With a thread.
+	###	
+SPK0024	Менің мына жерімді жұлып берсінші қазір.	Let him, Sakalok, thread this area of mine.
+	¬Сакалөк.	
+SPK0027	Мұрттың бәрін,	He does everywhere including his mustache with a thread.
+	жіппен алады ғой ол.	
+SPK0028	¬Серікжан саған,	Serikzhan, you've got orders coming up!
+SPK0024	Ммм.	Oh.
+SPK0028	заказ түсіп жатыр.	
+SPK0024	Ммм.	Oh.
+SPK0027	Пе:реді,	He does it so quickly, thread-thread-thread.
+	жіп-жіп-жіп.	
+SPK0026	Анау а-,	Is Serikzhan making money?
+	ақша тауып жүр ме эй а,	
+	¬Серікжан.	
+SPK0027	¬Серікжан,	Serikzhan is an assistant to a professor.
+	президент,	
+	ой,	
+	ассистент профессора.	
+SPK0026	Иә.	Oh?
+SPK0027	Мына жұмысты сол үшін істеп жатыр.	That's why he is doing this work.
+SPK0024	Иә.	Oh.
+SPK0027	Ақша,	He gets paid.
+	зарплата алады.	
+	Кішкене болса да.	Even if the money is big.
+SPK0026	Ммм.	Mmm.
+SPK0027	Ол еще биыл бітіреді ғой.	He is graduating this year.
+SPK0026	Мхм.	Yes.
+SPK0027	Мынандай нелері шық-,	If he has got such stuff like this, his own scientific publications and stuff, it will be an asset for his master's application.
+	жарияланған,	
+	өзінің ғылыми,	
+	нелері болса ол,	
+	плюс.	
+SPK0023	Мхм.	Yes.
+SPK0027	Магистратураға.	
+SPK0026	Ммм.	Oh.
+SPK0027	Сол үшін отызға жеткізу керек,	That's why he needs to reach 30 themes likes this.
+	отыз түрлі,	
+	осындай тема.	
+	Ол байқұс,	Poor him went out yesterday and wanted to record to old ladies and asked them if he can.
+	көшеге барып,	
+	бір-екі кемпірден сұраған ғой.	
+SPK0026	Мхм.	Yes.
+SPK0027	Екі апай дейді.	"They said, ""We were raised like Russians in the city, go find some younger people around to record""."
+	Біз орысша өскен адамдармыз.	
+	Қаланың.	
+	Жастарға барсаңшы деп.	
+	Содан бір-екі жас қызға барып едім дейді,	Then he said he went up to two younger girls, and he said they agreed.
+	әйту көрім екеуі келісе кетті дейді.	
+SPK0026	Ммм.	Oh.
+SPK0024	Ммм.	Oh.
+SPK0027	Ертеңінде кеткен.	"He went out the following day, saying ""Mom, I am going out again""."
+	Тағы кеттім мама деп.	
+	Ертеңінде ешкім сөйлеспей қойыпты.	The following day no one agreed.
+SPK0023	@@@@	
+SPK0025	@@@@@	
+SPK0024	@@@@@@	
+SPK0026	@@@@@	
+SPK0027	@@@	
+	Одан менің аға-жеңгемнің үйіне барып,	Then he went to my brother's place.
+	атасы мен апасы,	And he recorded his grandparents' conversation.
+	әңгімесін жазып.	
+SPK0026	Ана мені қайта-қайта шақырады ғой.	He tells me to come again and again.
+SPK0024	Ммм.	Oh.
+SPK0026	Маған бүйтеді.	He does this. He sends me two photos.
+	Екі фото жіберді ғой.	
+	Енді,	And he says there are more photos.
+	тағы да бар деп сөйтеді.	
+	Мен айтамын жіберсеңші (Hx),	"I say, ""Send them to me."""
+	үйге келгенде көрсетемін.	"He says, ""I'll show you them when you come to our place, ok?"""
+	Жарай ма @@@@@	
+SPK0025	@@@@@	
+SPK0023	#####	
+SPK0026	Үйге келші,	"He says, ""Come. I'll show you when you come to our place."""
+	үйге келгенде көрсетемін деп.	
+	Мені балаша алдайды.	He fools me like I am a kid.
+SPK0023	@@@	
+SPK0027	Іш.	Have some more!
+SPK0023	Болдым болдым.	No, thanks, I am full. I've had a lot.
+	Рақм-,	
+	көп іштім.	
+	Дәмді болды.	It was delicious.
+	Қолыңызға дерт бермесін.	May God give you no illness to your hands.
+SPK0026	Міне біреу қаракесек,	Why don't you eat this fatless meat?
+	жемейсіңдер ме ей,	
+	етті.	
+SPK0027	Жесеңдерші ей.	You eat please!
+SPK0023	Жедім жедім.	I ate, I ate.
+	Көп іштік.	We've had a lot.
+SPK0027	Біздің соғымның еті.	This is the meat of our sogym.
+SPK0023	Рақмет.	Thanks.
+	Ауқаттанып алдым.	I've eaten.
+SPK0026	Да.	Is that so?
+	Мәәә.	Wow.
+SPK0023	Қыстық соғым ба?	Is it the sogym for the winter?
+	Жаздық соғым ба.	Or for the summer?
+SPK0024	Жаздық соғым.	For the summer
+SPK0027	Между ними деп қойсам @@@@	What if I say something in between.
+SPK0023	@@@@@@	
+SPK0025	@@@@	
+SPK0024	Көктемдік деп қой.	Say it is a spring one.
+SPK0023	@@@ Бәсе,	I thought so. It should be so.
+SPK0027	@көктемдік @@	The spring one.
+SPK0023	сондай болу керек?	
+	Екіншісі ##.	The second one ##.
+	¬Манат алып келген емес пе случайно?	Isn't it, by any chance, the one that Manat brought?
+	Көктеме алған кезде ме.	When you took it for the spring.
+SPK0027	Иә иә.	Yes, yes.
+SPK0023	Сол?	That one?
+SPK0027	¬Манаттан алғанмын.	I bought it from Manat.
+SPK0026	Жақсы иә?	It is good, yes?
+SPK0023	Еее.	I knew it.
+SPK0026	Еті ¬Манаттың.	Manat's meat.
+SPK0023	Еее жұмсақ.	Yes, soft.
+	Күшті.	It is nice.
+SPK0027	Жеші.	Please eat.
+SPK0025	Болды тойдым #.	I am full already.
+SPK0026	Біздің ¬Жексентің үйі осы.	This is our Zheksen's home.
+	Біз ¬Жексен ¬Жексен дейміз ғой.	"The one whose name we keep saying, ""Zheksen Zheksen."""
+SPK0024	Танисың ба?	Do you know them?
+SPK0026	Ақашөк.	Akashok
+SPK0024	Тоғ- Тоқымдар.	The Togyms..
+	Тоғым ана кім.	The Togym.. those...
+SPK0023	@@@@###	
+SPK0025	@@@@@	
+SPK0024	@@@@@@	
+SPK0026	¬Жарасбаевтар.	The Zharasbayevs.
+SPK0024	¬Жарасбаев.	Zharasbayev.
+SPK0026	Мынау соның келіншегі.	This is his bride.
+SPK0027	Ойбай,	Omg, she know me.
+	менің таниды ғой енді.	
+SPK0024	Мынау келіншегі соның.	This is his bride that he married because he loved her.
+SPK0023	@@@@@	
+SPK0024	Сүйіп алған.	
+SPK0027	@@@	
+SPK0023	@@@@ сүйіп.	Loved.
+SPK0027	Бәрін біледі.	She knows everything, including whether he married because he loved me or not.
+SPK0023	@@	
+SPK0027	Сүйіп алған,	
+SPK0025	@@@@@@	
+SPK0027	алмағанын.	
+SPK0023	@@@@	
+SPK0027	@@	
+SPK0026	##	
+	Қа- мынадан жас кездерін ойласам,	If I now think about the times they were younger than now, I want to laugh.
+	күлкім келеді ей.	
+	Айтшы ¬Гуляшка.	Gulyashaka, you agree?
+SPK0024	Мхм.	Yes.
+SPK0026	А.	A?
+SPK0023	Неге?	Why?
+SPK0027	####	
+SPK0026	Мен ана,	Zheksen said he would introduce her to me.
+	¬Жексен айтады,	
+	таныстырамын дейді.	
+	Маған.	
+	Бірінші саған таныстырамын,	"""I will introduce her to you, and if you like her, then that's it, I will marry her"", he said to me."
+	содан кейін,	
+	ұнаса бітті деді.	
+	Үйленемін деді.	He said he will marry.
+SPK0027	Тох шіркін десеңші.	Omg, what a fantasy!
+SPK0026	Ее жарайды.	I said ok.
+	Содан алып келді ғой.	Then he brought her.
+SPK0023	@@@@@	
+	# Ұнады ма.	Did you like her then?
+SPK0026	Кел—	"""I cam..."". No. ""I came"", he said."
+	Жоқ.	
+	Келдім деді.	
+SPK0023	Ұнамай қалды ма @@@@@	You didn't like her?
+SPK0025	Жоқ деді @@@@@	She said no.
+SPK0026	####	
+SPK0027	Басында ұнамай қалған десеңші @@@@	Say you didn't like me in the beginning.
+SPK0025	@@@	
+SPK0023	@@@@@	
+SPK0026	@## @#	
+	Әгі,	So, Zheksen came first.
+	¬Жексен бірінші кірді де?	
+SPK0023	Мхм.	I see.
+SPK0026	Есіктен мынау екінші кірді.	And she entered second into the door.
+SPK0027	Жата берсінші ##.	Leave it there.
+	Өзім ала саламын.	I'll take it myself.
+SPK0026	Содан кейін бір уақта,	"Then, she was like ""Zheksen, Zheksen, I could not close the door""."
+	есікті,	
+	¬Жексен ¬Жексен,	
+	жаба алмай қойдым,	
+	жаба алмай қойдым деп тұр.	
+SPK0023	CLEARS_THROAT	
+SPK0026	Әй миіңмен ойлансаңшы деймін мен.	"I said, ""You think with your brain."""
+	Кірдің,	"""You entered""..."
+	@### @@	
+SPK0027	Сіздің есігіңіз теріс жабылатын ##,	What if I say now to you that your door used to lock in the opposite way.
+SPK0025	@@@@@@	
+SPK0026	Қ- қ- @@@@	How...
+SPK0027	деп иә @@@@@	
+SPK0026	Қалай жабылатынын,	"""How you close the door - you figure it out youself"", I said."
+	өзің ойлансаңшы деп сөйттім.	
+SPK0027	Соны,	I could not say it then. Let me say it now.
+	сол кезде айта алған жоқпын.	
+	Енді айта салайыншы @@@@@@@	
+SPK0025	@@@@@@@@@	
+SPK0023	@@@@@	
+SPK0026	Иә @@@	Yes.
+SPK0024	@@@@@@@@@	
+SPK0023	@@	
+SPK0026	Содан кейін екеуі,	Then they two...
+	содан содан кейін не еттің ғой.	They then came in, ate their food, and left.
+	Кірді.	
+	Тамақтарын ішті,	
+	не етті,	
+	кетті,	
+	кейін,	
+	жақсы екен дедім.	"Then I said ""she is good""."
+	Жамандаған жоқпын,	I did not say anything bad. I said good.
+	жақсы екен деп.	
+	Содан кейін бір күні түнгі сағат.	Then one day at night's hour...at midnight she calls.
+SPK0027	Сіз жаман деп вообще айтпайсыз ғой ешкімді.	You never call anyone bad.
+SPK0026	Түнгі сағат он екіде бар ғой звандайды?	
+	Не болып қалды,	"I said, ""What happened?"""
+	¬Сая апай қазір келейінші,	"""Aunt Saya, can I come now?"", says she.."
+	¬Сакалөкпен бірге.	With Sakalok.
+SPK0024	Ну иә ол ол,	Yes, this happened years later.
+	одан кейін ғой әгі.	
+SPK0026	Иә.	Yes.
+SPK0024	Ішіп жүрген кезде.	When he was drinking.
+SPK0027	Одан кейін ғой ол.	Yes, this happened long after that.
+	####	
+SPK0026	Жоқ сол,	No, yes, I am talking about things that happened after you got married.
+SPK0027	Үйленгеннен кейін.	After we got married.
+SPK0026	үйленгеннен кейін,	
+SPK0027	Иә.	Yes.
+SPK0026	нәрселеріңді айтып отырмын.	
+	Содан кейін кел-,	"Then I said, ""Come""."
+	кел дедім.	
+SPK0027	@@@@@	
+	Жасыл горшок бар қолда.	I have a green baby potty in my hands.
+SPK0026	Кел,	"'Come, there is my sister at home as well""."
+	тәтем бар.	
+	Тәтем бар болатын.	There was my sister at home.
+SPK0027	Горшокты пакетке салып аласың да @@@@@@	I put the potty in a bad like I usually would...
+SPK0025	@@@@@@@	
+SPK0023	@@@@@@@@	
+SPK0024	@@@@@@@@	
+SPK0026	@@@@@@@	
+	Содан кейін,	Then she got home.
+SPK0027	Ол кезде памперс жоқ.	There weren't dipers back then.
+SPK0026	же:тті.	
+	@@	
+SPK0014	Жүр.	Let's go.
+SPK0026	Жетті.	She got home.
+SPK0014	Мені қолмен ұстап алған.	She grabbed me with her hands.
+SPK0026	Жеткеннен кейін,	After she got home, I said...
+SPK0027	####	
+SPK0026	әгі,	
+	немене еді,	
+	тәтем,	
+	кім айттым.	
+	Тәтем отыр.	My sister was sitting.
+	Сосын айттым,	"Then I said, ""That's it! You're not going back to him."""
+	бітті бармайсың дедім мынаған.	
+	Сендер сөйтіп адам болмая қойыңдаршы.	"""I don't want you to be people like that."""
+SPK0023	Мхм.	Yes.
+SPK0026	Сен осы Ах-,	"""You dump Zheksen"", I said."
+	¬Жексентен отказ бер.	
+SPK0023	Мхм.	Yes.
+SPK0026	Болды.	"""That's it. That's all"""
+	Бітті деп.	

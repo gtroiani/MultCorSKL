@@ -1,0 +1,1012 @@
+speaker	span	translation
+SPK7002	құрамы қандай	what is the composition?
+SPK7003	(Hx)	(Hx)
+	эластан	elastane
+SPK7002	неше эластаны	how much of elastane does it have?
+SPK7003	жазды ғой	it's written
+	cotton эластан дейді	it says elastane cotton
+SPK7002	енді белгілі ғой	well, it is obvious that elastane is added
+	эластан қосылатыны	
+SPK7003	иә иә	yes, yes
+	бірақ енді мен білмеймін	but I don't know
+SPK7002	қанша қосылған	how much of it was added?
+SPK7003	ж- несі	that, the composition is not written, ¬Aizhan
+	қоспасы жазылып тұрған жоқ	
+	¬Айжан	
+	пайыз бойынша жазылып тұрған жоқ	it was not written by percentages
+SPK7002	пайызы жоқ па	is there no percentage written?
+SPK7003	пайыз жоқ	yes, there is no percentage written
+	иә	
+SPK7002	бірақ	but, you know, Hilfiger
+	не ғой	
+	хилфигер	
+	ыы	that
+SPK7003	көп қоспайды ма	it does not add a lot?
+SPK7002	мен	
+	иә	yes, it does not add a lot
+	көп қоспайды	
+	олардікі қанша дегенмен	their clothes have a lot of cotton though
+	хлопогы көбірек болады	
+SPK7003	мақтасы мынау	their cotton seems not that bad
+SPK7002	жаңағы	that one, yes, it does not have a lot of polyether and synthetics
+SPK7003	былай жаман емес	
+SPK7002	иә:	
+SPK7003	сияқты	
+SPK7002	полиэстер	
+	синтетика көп болмайды	
+	соны	I am thinking about it, you know
+	ойлап отырмын да	
+	бұл он алайын дейді	she is going to buy the size 10
+	он емес	what about buying the size 12, not 10?
+SPK7003	он екі ме	the size 12?
+SPK7002	он екі алға-	
+	алсақ қайтеді	
+	себебі мыналар	because these designs are fitted for a bit
+	кішкене	
+	модельдері приталенный болады	
+SPK7003	иә иә	yes, yes
+	он екі алу керек сияқты	it seems that we have to buy the size 12
+SPK7002	он екі алсақ	if we buy the size 12, it is more loose, even when she would do that
+	кішкене кеңдеу	
+	ана не еткенде де	
+SPK7003	иә	yes
+SPK7002	бірақ	but would it not be very big?
+	слишком үлкен	
+	болып кетпес пе екен	
+	қалай ойлайсың	how do you think?
+SPK7003	¬Айжан	¬Aizhan, it is coverall, yes, you know
+	ол деген	
+	иә:	
+	не ғой	
+	coverall	
+	coverall болған соң	due to it is coverall, it is better for the clothes to be bigger, yes
+SPK7002	ол не деген	what does it mean?
+SPK7003	ол деген	
+	иә иә	
+	ол деген	
+	кең болғаны да жақсы	
+SPK7002	жоқ	no
+	coverall деген	what is coverall?
+	не зат ол	
+SPK7003	комбинезон	coverall
+SPK7002	а:	understood
+	оны айта бермейсің бе	you could say it as coverall
+SPK7003	ағылшын	englis, in english it is coverall
+	ағылшын тілінде coverall дейді ғой мынаны	
+SPK7002	комбинезон деп	
+SPK7003	coverall деген жазуы бар	it is written that it is coverall
+SPK7002	комбинезон деп	why you did not call it as coverall?
+	айтпайсың ба	
+	басқа бірдеңелерді айтып	and not saying other things and making me confused
+	басымды қатырмай-ақ	
+	(H)	(H)
+	(Hx)	(Hx)
+	ұзындығын қарашы	look at its that, height
+	несін	
+SPK7003	ұзындығын болғанда	the height, you can make it shorter. No, no, look at this, here
+	оны қысқартуға болады ғой астын	
+SPK7002	жа-	No, the recent one
+	жал-	
+	жо:қ	
+SPK7003	жо- жоқ	
+SPK7002	жақ	
+SPK7003	мынаны қара	
+	міне	
+SPK7002	ол қысқартылған түрі ғой	it is the shortened version, you know
+	сол үшін мен саған айтамын	that is why I am telling you to look at its height
+	ұзындығын қара деймін	
+	ұзындығын қара	look at its height
+	себебі	because our daughter's height is short
+	біздің қыздың бойы	
+	кішкентай ғой	
+SPK7003	жиырма жеті	twenty seven
+	жиырма жетіні қазір көрсе- көбейту керекпіз	we have to multiply twenty seven now
+	екі бүтін	two
+	жүзден елу төрт	fifty four of hundreds
+SPK7002	иә	yes
+SPK7003	қазір қарайын	let me look at this now
+SPK7002	көбейтші	multiply it, please
+SPK7003	қазір	now
+	так	ok, twenty seven and, twenty seven multiplying two and fifty four of hundreds, it is sixty eight and a half
+	жиырма жеті да	
+	жиырма жеті	
+	көбейту	
+	екі бүтін	
+	жүзден елу тө:рт	
+	алпыс сегіз жарым	
+SPK7002	алпыс сегіз жарым	sixty eight and a half is when looking down from waist?
+	белден төмен қарай ма	
+SPK7003	иә иә	yes, yes
+SPK7002	жетпіс пе	is it seventy?
+	жетпіс деген	seventy seems to be like that of this
+	мынандайдың	
+	мынандай	
+	болатын шығар енді	
+	мына жерге дейін	what is yours? Was it eighty or ninety?
+	неше	
+	сексен бе еді	
+	тоқсан ба еді	
+	сенікі	
+SPK7003	иә	yes
+	жоқ мына	no, on its picture itself, ¬Aizhan
+	суретінде де өзі	
+SPK7002	сексен бе	is it eighty?
+SPK7003	¬Айжан	
+SPK7002	тоқсан ба	is it ninety?
+SPK7003	суретінде де	even on its picture, it is not reaching the bottom of the legs
+	аяғына дейін келіп тұрған жоқ қой міне	
+SPK7002	аяғы болғанда	I don't mean reaching the bottom of legs, here it is pictured as overshoe
+	ана	
+	по щиколотку	
+	болып тұр ғой	
+SPK7003	иә	yes
+SPK7002	а: жаңағы	is the model's height not written here?
+	рост модели	
+	деген жоқ па	
+	ана жерде	
+	қарашы	look there, please, it should be here
+	болатын еді	
+	негізі	
+	киіп тұрған адамның	they also should write the height of the model
+	бойын да жазатын еді ғой	
+	сондай нәрсе	is there no such thing here?
+	жоқ па екен	
+SPK7003	мына жерде	there is no such notes here
+	ы:	
+	ондай жоқ	
+	жазу	
+	а:	a, eleven, eleven. No, not eleven, not eleven
+	он бір	
+	он бір	
+SPK7002	не зат	what eleven?
+	он бір	
+SPK7003	жоқ	
+	он бір емес ол	
+	он бір емес	
+SPK7002	он бір жас па	is it age of eleven?
+	он бір не зат	what eleven
+	он бір не зат	what eleven?
+SPK7003	а мынау	a, this is that, that
+	не ғой мына жер	
+	мына несі	
+SPK7002	а	a
+	үсті ме	the top?
+SPK7003	иә иә	yes, yes
+	үсті	
+	иә иә	yes, yes
+SPK7002	жо:қ	no
+SPK7003	жоқ жоқ	no, no
+SPK7002	рост модели деймін	I am talking about the height of the model
+SPK7003	ондай не жоқ	there is no such thing
+	ондай не жоқ	there is no such thing
+SPK7002	мейлің онда	whatever
+	алып қала берші	save it
+SPK7003	он екіні ме	the size 12?
+SPK7002	иә	yes
+	он екіні алып қал	save the size 12
+SPK7003	мынау	this is petite high #
+	petite high #	
+SPK7002	жоқ	no, this is that, this is Calvin Klein
+	мынау не ғой	
+	Келвин Кляйн ғой	
+SPK7003	ол	it
+SPK7002	и	and, a, is it Donna Karan?
+	а	
+	Донна Каран ба мынау	
+SPK7003	иә	yes, it is Donna Karan
+	Донна каран	
+	жақсы мынау	it is good
+SPK7002	Жоқ ана	No, there also was a shortened version
+	SOUND_VIBRATION	
+	қысқалау түрі болды ғой	
+SPK7003	(H)	(H) a, that clothes's page was not opened
+	а ол	
+	ол ашылмай қалды	
+SPK7002	неге ашылмай қалды	why it did not opened?
+SPK7003	оны қайтіп іздеу керекпіз	we have look for it again
+SPK7002	негізі сол жақсы маған	this is better for me, in theory
+	ұнағаны сол еді	the one I liked was this one, to be honest
+	негізі	
+	тонау	that one, is not it?
+	сол емес пе	
+	басқа ма	or the other one?
+	қайсы	which one? Open and show me, please
+	көрсетші аш та соны	
+	жоқ жоқ	no, no
+	ана	
+	қызылдың қасындағы	the one near to the red one
+	басқа ма	is it the another one?
+SPK7003	мынау ма	is it the this one?
+	басқа мынау	is it the another one?
+SPK7002	басқа ма	is it the another one?
+	негізі сол жақсы еді	in theory, this one is better
+	бірінші соны алу керек еді	we had to buy this one first, in theory
+	негізі	
+	себебі классический	because I saved the classique grey one
+	серыйын кеше	
+	белгілеп қойып едім ғой мен	
+SPK7003	мына жерде көп	the basic ones are a lot here, there are a lot of customers
+	основной міне	
+	customerлар	
+SPK7002	жоқ	no
+	бізге көбі керек емес	we do not need 'a lot of'
+SPK7003	көп	
+SPK7002	бізге именно	we need precisely this design
+	сол модель керек еді ғой маған	
+SPK7003	қазір табармын	I would find now, let me finish looking these ones
+	бөлек	
+	мынаны қарап	
+	бітірейін	
+	қазір қарайын	let me look now
+SPK7002	ашылмай қалды емес	it is not 'did not opened', you yourself closed the page of it
+	өзің жауып тастаған болып тұрсың	
+SPK7003	жоқ	no
+	а:шылмайды қалды	it did not opened
+	арасында ашылмай қалады	sometimes pages do not open
+	сосын бір	
+	үш төрт күннен қайтып ашылады	then they open again after three-four days
+	мына ішіндегі IPA	because this IPA, IP adress is Kazakhstan, they might block it
+	IP адресі Қазақстан болғасын	
+	олар блокировать етіп тастауы мүмкін	
+	себебі де мына кейбіреулері сатылса	because if some clothes are sold, some clothes are not sold to Kazakhstan
+	кейбіреулері Қазақстанға сатылмайды	
+	сол себептен бұлар IP адресін	because of it, they can open IP address again
+	тұс- тұс- қайтып ашуға болады	
+	құрама штаттарына	we will do that to united states
+	ne	
+	не жасаймыз	
+	не	
+	(H)	(H)
+	доставка жасаймыз	we will do the shipping
+SPK7002	сонда ## ## тастаған біреу ма не	so it turns out that someone did ## ##?
+SPK7003	(H)	(H)
+SPK7002	солай болып тұр ғой	so it turns out to be that
+	ана жерге	save it to that place
+	шығарып таста онда	
+SPK7003	иә	yes
+	сендер не қарап отырсыңдар	what are you looking?
+SPK7002	сені қарап отырмыз	we are looking at you
+SPK7003	(H)	(H)
+SPK7002	сол қарап отырған	we are looking at the thing you are looking
+	нәрсеңді	
+SPK7003	YAWN	(YAWN)
+	иә	yes
+	иә	yes
+	иә	yes
+SPK7002	енді не зат анау	so what is it?
+	қарап отырған	what is that red thing which you are looking at?
+	ана	
+	қызыл майкасы не зат	
+SPK7003	жоқ	no
+	ана алдындағы мынаны қалай ба-	how is the recent one, oh okay, it should be changed
+	бәсе өзгеру керек шығар	
+	нешеде	at which hour he said he will come?
+	сағат нешеде келемін-	
+	жаяу келем деді ме	did he say that he will come on foot??
+SPK7002	иә	yes
+	өзі келе береді	he will come on foot
+SPK7003	ис-	what they are doing?
+	не істеп отырлар олар	
+SPK7002	олар	they pro-
+SPK7003	walts па	вальс па?
+SPK7002	вып-	
+	иә:	yes
+	выпускной	prom
+	а выпускной емес	oh, not prom
+	последний	the last ring
+	звоно:к	
+	подготовка к линейке	the preparation for the school event
+	и:	and it is already, did he about the school waltz
+	там уже	
+	школьный вальс деді ме	
+	бірдеңе деді	he said something
+	(H)	(H)
+SPK7003	а:	ah
+SPK7002	өздерінің дайындығы	their rehearsal
+SPK7003	не ме	is is that
+	жаттығу ма	rehearsal?
+SPK7002	иә	yes
+	репетиция	rehearsal
+	енді неше	so, how many
+SPK7003	күнде жасайды ма сонда	so, they will do rehearsals everyday?
+SPK7002	иә	yes
+	күнде жасайды	they will do rehearsals everyday
+	азғантай күн қалды ғой	not that much days are left
+SPK7003	(H)	(H)
+	а	ah
+SPK7002	енді кеше	their last exams finished yesterday, one eighteens
+	он сегізіне бітті ғой	
+	соңғы емтихандары	
+	түгел параллель босағандықтан	because the whole parallel got free, they are now doing rehearsals themselves
+SPK7003	иә	yes
+SPK7002	енді өздері	
+	анандай дайындық жүргізеділер	
+SPK7003	(H)	(H)
+	иә:	yes
+SPK7002	(Hx)	(Hx)
+	сен	what are you looking for?
+	не іздеп отырсың	
+SPK7003	тек	just
+	жай қарап отырмын мен	I am just looking
+SPK7002	жай емес	not 'just'
+	жаңағыны ашсаңшы	open the recent one
+SPK7003	қазір қазір	wait a minute, wait a minute
+	қараймын қараймын	I will look, I will look
+SPK7002	## IN_A_WHISPER	## (IN A WHISPER)
+SPK7003	қазір кішкене шыдай тұр	wait a minute, wait for a bit
+	оны да ашу үшін	ah, we need that to open this one too
+	не керек қой	
+	екеу	two
+	қараймын енді	I will look now
+	ол қандай еді	which one it was?
+	Калвин Кляйн ба	was it Calvin Klein?
+SPK7002	соны білмеймін	I do not know about it
+	кляйн ба	is it Klein, is it Donna Karan
+	донна каран ба	
+SPK7003	қазір	wait a minute
+SPK7002	бірдеңе еді	it was something, nevertheless
+	әйтеуір	
+	(H)	(H)
+SPK7003	қазір	wait a minute
+	қазі:р	wait a minute
+SPK7002	қайсысы екен	whic one is it, interesting
+	(Hx)	(Hx)
+	не уверена болып тұрмын	I am not sure which one
+	қайсысы екенін	
+	есімде жоқ	I do not remember
+	бірақ	but the design is good
+	моделькасы жақсы еді	
+SPK7003	ы:м	yes
+	қазір қарармыз	we will look now
+	бала не істеп жатыр	what that child is doing right now?
+SPK7002	ол бала енді	that child knows himself what he will be doing, because his classes are over
+	сабағы біткесін	
+	не істесе де	
+	өзі біледі	
+	кеше репетиторство жасаған балалары	The children he trained yesterday, received thirty four out of fourty and received five total
+SPK7003	иә	yes
+SPK7002	биологиядан	
+	қырықтан	
+	отыз төрт жинап	
+	бес алыпты	
+SPK7003	өзі	what about himself?
+	өзі қанша	what score did he receive?
+SPK7002	өзі	he received thirty seven out of fourty
+	қырықтан отыз жеті жинапты	
+SPK7003	(Hx)	(Hx)
+SPK7002	біздің бала	even if our child did not finish school, he can work as a teacher
+	мектеп бітірмесе де	
+	мұғалім болып істей алатын түрі бар ғой	
+SPK7003	сол	so
+	кімге	to whom, is it only one student he trained?
+	кім	
+	тек бір бала ма	
+	көшір- үйрететін	
+	бір балаға үйретіп жүр ме соны	
+SPK7002	соны не уверена	I am not sure about it
+	бірақ бір баланың атын айтады	but he mentions the name of one student
+SPK7003	шамалы оқитын болған ба ол	does he study bad?
+SPK7002	білмеймін	I do not know how he studies
+	қалай екенін	
+	не	no, he seems to have a grade of three in term
+	үші бар сияқты	
+	тоқсанда	
+SPK7003	а:	ah
+	кім қалай	how is he, ¬Dani?
+	Дани	
+SPK7002	¬Данияр да	¬Daniyar also got to study bad, that is why his mother was invited to the school several times recently
+	нашарлады деп	
+	қайта қайта өткенде	
+	мамасын шақырып жүр ғой	
+SPK7003	а:	a
+SPK7002	енді	so, in the class, our child and one more, that one, who is from the second subgroup, two Zhary boys study good
+	ішінде	
+	біздің бала мен	
+	тағы бір	
+	жаңағы	
+	екінші подгруппадан бір бала	
+	екі Жары бала	
+	жақсы оқиды	
+	сосын тағы бір қызды айтып жатыр еді	then they were also telling about one girl
+SPK7003	ыхым	ыхым
+SPK7002	сол ана бала екеуі	that two boys from the class
+	класстың ішінде	
+SPK7003	баяғы неге баратын ба	the one who attends that one?
+	ана ағылшын тілге баратын ба	the one who attends the english classes?
+SPK7002	жоқ	no
+	ағылшынға бармайды олар	they do not attend the english classes
+	жаңағы папасы	the recent boy is came from America, because his dad was intern there
+	Америкада стажироваться етіп	
+	сол жерден келген бала ғой	
+	білмеймін	
+SPK7003	а:	a
+SPK7002	неше жыл стажироваться еткен	I do not know how many years his dad was an intern
+	ол баланың да ағылшыны жақсы	that boy is good at english, his math and logic skills are good, his physics skills are good
+	математикасы	
+	логикасы мықты	
+	физикасы жақсы	
+SPK7003	(H)	(H)
+SPK7002	екеуі жарысады да жүреді	they always compete with each other
+	класста да сол	it is the same at class, they compete over terms, sometimes this one is first at class and that one is second, sometimes this one is that
+SPK7003	ы:	understood
+SPK7002	тоқсан сайын	
+SPK7003	а	a
+	қай мектепте оқыды ол	in which school did he study?
+SPK7002	біресе анау бірінші	
+	мынау екінші	
+	біресе анау не	
+SPK7003	мына мектепке дейін	in which school did he study before this school?
+SPK7002	(H)	(H)
+SPK7003	қай мектепте оқыды	
+SPK7002	(Hx) ы:	(Hx)
+	оныншы мектептен келген ау деймін	I suppose he is from the school number ten
+	(Hx)	(Hx)
+SPK7003	а:	a
+SPK7002	былай енді	it is like this, this boy at school is that
+	ол бала мектепке өзі	
+SPK7003	ол не ме	is he, was he born in America?
+SPK7002	несі	
+SPK7003	Америкада туған ба ол	
+SPK7002	жо:қ	no
+	осынан кеткен ғой	he is from here
+SPK7003	а:	a
+SPK7002	осынан кетіп	he left from here
+SPK7003	а әкесі қайда істейді	where does his father work?
+SPK7002	білмеймін	I do not know
+SPK7003	ТШО	TCO?
+SPK7002	білмеймін	I do not know
+	дым дым дым	nothing, nothing, nothing
+	білмеймін	I do not know
+	ондай	
+	информация жоқ менде	I do not have such information
+SPK7003	а	a
+SPK7002	әйтеуір	nevertheless
+	не	that
+	ы:	um
+	математический склад ума	his mathematical thinking, logic skills are good
+	логикасы мықты ол баланың	
+SPK7003	(H)	(H)
+	шешесі қарап отырған шығар	maybe his mother is tracking his studies
+	сабағына	
+SPK7002	негізі мен естіп едім	to be honest, I heard from someone that his mother was teaching at Yessenov
+	мамасы:	
+	Есеновте сабақ береді деп	
+SPK7003	а:	a
+SPK7002	бірақ қазір	but now she is at maternal leave
+	декретныйда отырған адам сияқты	
+	бірақ қай пәннен береді	but I do not know which course she is teaching
+	білмеймін	
+SPK7003	(H)	(H)
+SPK7002	қазір жұмыс жасамайды	she does not work now
+	кішкентай баласы бар	she has a small baby
+	жасқа толған ба	is this baby one, or not yet, or turned one recently
+	толмаған ба	
+	толса да	
+	жақында толған ба	
+	сондай	
+	бір не	something like that
+	(Hx)	(Hx)
+	ым:	
+	алдында	um
+	ана физикаға	in the past, that boy was attending the physic classes together with our child at that, at Uniq
+	бірге қатысып жүрді ғой	
+	неге	
+	Uniqқа	
+	сол бала	
+SPK7003	иә	yes
+SPK7002	сол екеуі жарысып	they were competing with each other
+	келе жатқан	
+	қайда шығып кеткенсің	where did you leave for again?
+	тағы	
+	сені айтамын	I am talking about you
+	қайда шығып кеткенсің	where did you leave for?
+SPK7003	жоқ	no
+	мен	
+	мен	I am done, done, done here, done
+SPK7002	сен басқа отдельда	you are at another department
+SPK7003	болдым	
+SPK7002	жүрсің	
+SPK7003	болдым	
+	болдым мінә	
+	болдым	
+SPK7002	сен деген	you are at another department
+	басқа отдельда жүрсің	
+SPK7003	енді мынаны мен қарап жатырмын	so, I am looking at this
+	иә	yes
+	айтпақшы	by the way
+SPK7002	мен әлі күтіп отырмын	I am still waiting
+	бұл басқа отдельды:	but he is chilling at another department
+	қыдырып жүр арқайын	
+SPK7003	мынау ма	this one?
+SPK7002	жоқ	no
+	қайсы	
+	мен өзім қарайыншы	let me look myself
+SPK7003	мә сен қара	here, look yourself
+SPK7002	(Hx)	(Hx)
+SPK7003	мә әлде	or maybe this one?
+	мынау ма	
+	мынау саған	this is for you
+	(H)	(H)
+SPK7002	оны маған емес	this is not for me
+	біз саған сыйлаймыз	we  take it and give you this as a gift
+	алып беріп	
+	тұра ғой	stand up, please
+SPK7003	а:й	ah
+SPK7002	өзім қарайын	let me look myself
+	тұра ғой	stand up, please
+	дүкеннің ішінде жүрсің	you are at shop
+	ұмытпа	do not forget about it
+SPK7003	иә	yes
+SPK7002	онлайн болса да	is is shop even it is online
+	дүкен ғой	
+SPK7003	не болды	what happened?
+SPK7002	(Hx)	(Hx)
+SPK7003	қара ал	so, look
+	сұра	ask
+	көрсет	show
+SPK7002	түсіндіріп айтасың ба	will you explain?
+SPK7003	(Hx)	(Hx)
+SPK7002	анау өтіп кеткен емес пе екен	was it not sold out while we were looking at this
+	біз қарап отырғанда	
+	бірақ бәрі размер	but it is impossible for all sizes to be sold out at once
+	бірдей өтіп кету мүмкін емес қой	
+SPK7003	жоқ	no
+	ол	
+	кіш-	it will appear after a bit time
+	кішкенеден кейін шығады	
+	үш төрт күннен кейін	after three-four days
+	жоқ болып кетеді де	it disappears and appears
+	шығады	
+	өткенде де бір нәрсе	last time one thing disappeared as well
+	сөйтіп жоқ болып кеткен	
+SPK7002	COUGH	(COUGH)
+	мынау	
+	бірінші бетінен қараған жоқсың	this one, you did not look from the first page
+	солай ма	is it that?
+SPK7003	жоқ	no
+	бірінші беті	
+	мен оны қарадым ғой	the first page, I looked it
+	қайтіп қарасаңшы	look at it again, please
+SPK7002	что то мынау	It seems that it is not the first page
+	бірінші бет емес сияқты ғой	
+	тым жақсы іздеп	where did you close the page which I looked for perfectly, then found it and opened it
+	тауып	
+	ашып қойған бетімді	
+	қайда жауып тастағансың	
+SPK7003	ашылмай қалды	It did not open
+	енді қайтіп аштым	now I am opening it again
+SPK7002	мына жерде бар ғой	It is here, you know
+	сол	
+	донна каран көріп жатқан жоқпын	I am not looking at Donna Karan clothes
+	сен белгілеп	Didn't you divide Donna Karan clothes from others by marking them?
+	бөліп тастаған жоқсың ба	
+	донна каранды бөлек	
+	а	a?
+	¬Серік	¬Serik?
+SPK7003	жоқ	no
+SPK7002	мына жерде тек келвин кляйнның нелері тұр	Here are located that things of Calvin Klein
+SPK7003	иә	yes
+	соны ашшы	open that, please
+	мына	It seems that prcies for these houses are declining
+	үйлер	
+	түсіп жатқан сияқты	
+SPK7002	қай үй	which
+SPK7003	кез келген үй	any house
+	мына	
+	менің кеше	I am watching that things, stories of that estate agents
+	риелторлардың несін қарап отырмын	
+	стористерін	
+	кілең жаңа	all that
+	не алдында	in front of that
+SPK7002	кәдімгі квартира ма	the real apartments?
+	жоқ	
+	жер үй ма	or house?
+SPK7003	квартира	apartment
+SPK7002	###	###
+SPK7003	квартира	
+	иә	yes
+	кілең жаңағы	all that
+	ы: он миллион	ten million, if they decline the price it would be nine and half
+	ценасын снижет	
+	тоғыз жарым деп шығады	
+	сондай	like this
+SPK7002	и: құрсын	whatever
+	түсіп жатыр дегенге	when you said it is declining, I was thinking that it declined a lot
+SPK7003	өткенде	It was released on Internet as well recently
+	интернетке де шықты ғой	
+	Ақтауда не	that in Aktau
+SPK7002	біршама түскен шығар десем	
+SPK7003	жоқ	no
+	ол	
+	біршама	it won't decline a lot that quickly
+	сразу түспейді ғой	
+SPK7002	енді ажиотаж	I think that things like agiotage, boom are over now
+	бум дегендер	
+	біткен шығар енді	
+SPK7003	бітті	everything is over
+SPK7002	өзінің бағасына	so maybe the prices are coming to its initial version
+SPK7003	бәрі	
+SPK7002	келейін деп жатқан шығар	
+SPK7003	(H)	(H)
+	мына үш бөлмелі	this three room apartment says to be located in sixteenth microdistrict, residential complex Adal
+	он алтыншы	
+	шағын аудан	
+	ЖК Адал дейді	
+	жүзі черновой	it is in draft version
+	жиырма бір	twenty one
+SPK7002	таба алмай тұрмын	I can not find it
+	мынаны қарашы	look at this, please
+	өткен заказ беріп тастауым ғой	I had to order it last time
+SPK7003	оны нені қарашы	look at that, please
+	ана	that Calvin Klein jeans
+	Калвин Кляйн	
+	джинсы	
+	¬Айжан	
+	тек мен оны ашқан жоқпын	I only did not open it
+	бұл сол жерде шығар	It is in that place, maybe
+SPK7002	ол джинсы емес	it is not jeans
+	ол классический зат қой	it is classical thing
+	мен ашқанның бәрін жауып	did you have to close all these things I have opened?
+	нең бар еді сенің	
+	мен ғой	It is me who selected things, which I need, perfectly
+	өзіме керегімді	
+	ірікте:п	
+	тым жақсы қылып қойдым	
+	еще өткенде менің ашқандарым	Also, it seems that there are no things I have opened last time
+	жоқ сияқты ғой	
+	мына жерде	
+SPK7003	а:	a
+SPK7002	қарашы мынаны	look at this, please
+	мынандай ертең аламыз ба	Will we buy this tomorrow?
+SPK7001	skinny ғой мынау	it is skinny, you know
+SPK7002	мынау ғой	this is the thing we were looking at
+SPK7001	а:	a
+SPK7002	біздің қарағанымыз	
+SPK7001	алайық	let buy it
+SPK7002	# болып тұр	it is #
+	мынау шы	what about this one?
+	мынаны қарап па едік	did we look at this one?
+SPK7001	ы:м	um
+	мынау да ниче	this is, the colour of it is also good
+	цветі	
+	¬Айжан мынау слишком	this one, its colour is too much
+	цветі	
+SPK7002	мынау бар	we have this
+	енді мынау жырығы бар	this one has torns
+	қайсы	which one?
+SPK7001	ыхым	yes
+SPK7002	мынау ма	this one?
+	мынау ма	this one?
+SPK7001	да	yes
+	жо- жоқ	no, no
+	мынау	
+SPK7002	сосын мынау бар	we also have this
+	классик дегені	the one which is classic
+	мынау ма еді	is it this, the one we looked at?
+	қарағанымыз	
+SPK7001	жоқ	no
+	мынау шығар	I think this one is
+	светлыйын қараған жоқпыз ғой	we did not look at the light one
+SPK7003	онда	so, reset the filter and look at all of them from the beginning
+	ана фильтрді алып таста	
+	басынан бастап түгел қара	
+	¬Айжан	
+	екі мың	two thousand, three thousand things can be found
+	үш мың зат бар шығар	
+SPK7002	мынау ма	this one?
+SPK7003	одан да бетер	the good one, the better one would be found
+	жақсысы табылар	
+SPK7001	түсі әдемі	its colour is beautiful
+SPK7002	(Hx)	(Hx)
+	а	
+SPK7001	түсі әдемі	its colour is beautiful
+SPK7002	мынаның ба	this one's?
+SPK7001	иә	yes
+SPK7002	несі шы	what about that?
+SPK7001	андай	it is that, good
+SPK7002	ы:м	um
+SPK7001	нормально	
+SPK7002	мынаны қара енді	now look at this one
+SPK7001	классик	it is written that it is classic
+	деп тұр ғой	
+	нормально сияқты	I think it is fine
+	көрдік қой	we looked at these jeans last time, you know
+	өткенде мына джинсиды	
+SPK7002	осыны көрдік пе	did we look at this one?
+SPK7001	осыны	this one, I guess
+	сияқты	
+	а жоқ	oh no
+	осыны емес	not this one
+SPK7002	кілең түсі әдемі екен	the colour of all of these is beautiful
+SPK7001	иә	yes
+	бірақ ол	
+	ана джинсидың түсіндей ғой ол	but it has the same colour as that jeans
+SPK7002	ы:м	um
+	басы жастыққа тиді:	his head touched the pillow
+	әндетіп бастады:	he started to sing
+	солай ма	is it that?
+SPK7003	иә	yes
+SPK7002	ән айтып жатқаныңды естіп жатсың ба	do you hear yourself, how you sing a song?
+	өзіңді	
+SPK7003	жоқ	no
+SPK7002	э	um
+	ән күшті кетіп жатыр ғой	the song is going well
+SPK7003	не туралы	what is it about?
+SPK7002	ән ## #	song ## #
+	мынау	what do you think about the colour of it looking from the back?
+	артынан қара	
+SPK7001	ыхым	yes
+SPK7002	түсі қалай	
+SPK7001	сол нормально	that is fine
+	мынау әдемі	this one is beautiful
+SPK7002	онда	so, let's mark this one
+	осыны белгілейік	
+	мә	oops
+	мынау мынандай	this one is like this
+SPK7001	size chart-тан қарасаңшы	look at the size chart
+	(H)	(H)
+	(Hx)	(Hx)
+	мынау еді ғой менікі	this one should be mine
+	да	is it?
+SPK7002	мынау ма	this one?
+SPK7001	сол сияқты	I guess this one is
+SPK7002	иә	yes
+	он екі	twelve?
+SPK7001	он екі	twelve
+SPK7002	енді он төрт үлкен болатын шығар	I guess fourteen would be big for you
+SPK7001	иә	yes
+	он төрт үлкен	fourteen is big
+SPK7002	он екі	twelve
+	онда не	so, will we buy this one?
+	осыны қоямыз ба не	
+SPK7001	осыны алайық	let's buy this one
+	басқасы жоқ па	isn't there any other options?
+SPK7002	білмеймін	I do not know
+	осыны қарадым мен	I looked this one
+	енді қарайық мына жерді	now, let's look at this page, the another one. Oh no, where was it, the one which was an additional page
+	басқа	
+	жоқ	
+	қай жер еді	
+	қосымша жаңа	
+	мынау ма еді	was it this one?
+	менің отырғаным	I am sitting
+	мынау ма еді	was it this one?
+	мынау сияқты по-	I guess it is this one
+	э:	hey
+	мынаны қара	look at this
+	келвин кляйнды ашып алып	you said there is no such clothes by opening the Calvin Klein page
+	жоқ дейді	
+	мен айтам ғой	I am telling you that this one was from Donna Karan
+	мынау донна каран сияқты	
+	қосайық	let's add it
+	сол	
+	что	what?
+	не зат	what?
+	а:	
+	мінекей	a
+	енді осынан қарайық	so, let's look at this how would it be going
+	қалай болатынын	
+	ол өтуі мүмкін емес	it can not be sold out
+	ол деген	that is, it had a lot of that things
+	нелер көп еді ғой	
+SPK7001	не іздеп жатырсың	what are you looking for?
+SPK7002	өткенде ана	do you remember that thing?
+	есіңде ме	
+	мынандай қысқаша келген	it is this short
+	мына жерінде разрезі бар	it has a torn in this place
+	күшті: юбка брюки тауып едік қой	we found a cool culottes
+SPK7001	а:	a
+SPK7002	донна каран еді	it was from Donna Karan
+	сол донна каран сияқты	so, I guess it is from Donna Karan
+	келвин кляйн емес ол	it is not from Calvin Klein
+	соны таба алмай отырмын мен	I can not find this thing
+	бұл жоқ жоқ	this is no, no
+	##	
+	там келвин кляйн емес ол	It is not Calvin Klein here
+	осындай емес пе	isn't it like this
+	жоқ	
+	бұл басқа	this is another one
+	типа осындай	like this
+	бірақ басқаша еді ғой	but it was a bit different
+SPK7001	ыхым	yes
+	может	maybe they have that
+	оларда не шығар	
+	там	they remove from the website, then add them again
+	сайттан алып тастайды	
+	потом қайтадан	
+SPK7002	жоқ	no
+SPK7001	қосады	
+SPK7002	ол	this is your father who closed it
+	папаң алып тастаған	
+	просто донна каран	it is because this one is from Donna Karan
+	сосын ғой	
+SPK7001	бес бет екен	it is five pages
+SPK7002	көресің	you see
+	енді келвин кляйн қосылды	Calvin Klein opened now
+	сол мана кілең	recently, all things of Donna Karan were opened
+	а:м	
+	донна каран қосылды	
+	мана деген	but before, only Calvin Klein was opened
+	кіле:ң	
+	келвин кляйн болып тұр еді ғой	
+	көресің	you see
+	мынандайлар жоқ еді мана	there were no such these things recently
+SPK7001	ы:м	um
+SPK7002	көрдің	see?
+SPK7001	ыхы	yes
+SPK7002	мынау кішкене бірақ	this one is a bit, look at the waist please, this button would fit for you like that, I suppose
+	мына бел жағын қарашы	
+	мына ілгегі саған	
+	не болып тұратын шығар	
+	просто мешать етіп тұратын сияқты	iy would disturb you, I guess
+	әйтеуір	nevertheless
+	мынау күшті еді	this one, the design of it was good
+	моделькісі	
+	иә	yes
+	осылар ғой өткенде қарағанымыз	We looked at these ones recently
+	міне	here
+	мынаның	
+	қара түрі ғой міне	it is the black version of this one, here
+SPK7001	а:	a
+SPK7002	міне	here
+	осы еді ғой	it was this one, the one we looked at
+	біздің қарап кеткеніміз	
+SPK7001	иә иә иә иә иә	yes, yes, yes, yes, yes
+SPK7002	ойбай	oh no
+	сасқаннан	I guess we clicked the another thing because I got confused
+	басқа затқа басып кеткенбіз ғой деймін	
+	осы ғой	it is this one
+	менің айтып отырғаным	the one I talking about
+	өмірдің рахаты сол ғой	this is the joy of the life
+SPK7001	@@@	@@@
+SPK7002	дүкен аралап жүрі:п	while walking in the shop
+	солай ма	is it like that?
+SPK7003	ау	yes?
+SPK7002	дүкен аралап жүрі:п	is it the relaxing sometimes while walking in the shop? it is the joy of the life
+	арасында демалып қойға:н	
+SPK7003	иә	yes
+SPK7002	осы ғой да	
+	өмірдің қызығы сол ғой	
+SPK7003	жоқ	no
+SPK7002	бері кел	
+	мынау менің айтқаным	this one I have talked about
+	қарашы	look at, please
+SPK7003	қайсы	which one?
+	бірақ	but the colour was different
+	түсі басқа болды ғой	
+SPK7002	міне міне	here, here
+	аштым	I have opened it
+SPK7003	иә иә	yes, yes
+	осы ма	this one?
+SPK7002	осы	this one
+	иә	yes
+SPK7001	күшті	cool
+SPK7003	а мына шы	what about this, DKNY?
+	DKNY	
+SPK7001	осы	this one is
+SPK7002	осы міне	it is this one, here, DKNY
+	DKNY	
+SPK7003	жоқ	no
+	тағы да DKNY болды ғой ана	there was another DKNY which is that classic
+	классика	
+	қара	look
+SPK7002	сен мынаны қарасаңшы	look at this, please
+	мына қандай күшті бол-	how this one is good
+SPK7003	көрдім иә	yes, I saw
+	көрдім	
+	жақсы	it is good
+SPK7002	қалай көріп жатырсың	how do you see it?
+SPK7001	@	@
+SPK7003	и көрдім	I said I saw
+	көрдім ғой оны	I saw it
+	иә	yes
+	осы	
+	көрдім ғой	I saw it
+SPK7002	онмен бітеді	Its larger size is ten
+SPK7001	а:	a
+	а нет	oh, no
+	он нормально	ten is fine
+	менікі отыз жарым еді ғой	mine was thirty and half
+	мынаны қара	look at this
+	сегіз бен онның арасы	between eight and ten
+	онды алсақ болатын шығар	I suppose we can buy the size ten
+SPK7002	бар кезінде алып тастау керек шығар	I suppose we have buy it when it is available
+SPK7003	ертең бесінші күн бе	is it friday tomorrow?
+SPK7001	оларда	it will be thursday for them
+	төртінші күн болады ғой	
+SPK7003	(Hx)	(Hx)
+SPK7001	алтыншы күні қарау керек	we have to look at it on saturday
+SPK7003	ертең	waking up tomorrow, on saturday
+	су:ббота күні	
+SPK7001	иә	yes
+SPK7003	тұрып	
+	оянған	woke up
+	суббо-	saturd-
+	сенбі күні таңертең оянасың ғой	after waking up at the morning on saturday, you will drink tea, then you will send them your size and the price
+	шайыңды ішесің	
+	содан кейін	
+	размерін	
+	бағасымен жазып жібересің	
+SPK7002	жалпылдап хабарласасың	you will contact them happily
+SPK7003	иә	yes
+SPK7002	Калифорния	California
+	привет	
+	@қалайсыңыз @деп	@қlike @how are you
+SPK7001	иә	yes
+SPK7003	сосын	then, you will contact them on saturday afternoon
+	суббота күні	
+	түсқайта жазып жіберерсің	
+SPK7002	көресің	you see
+	сол мына- мынандай нелері	that things of these
+	несі	
+SPK7001	ыхым	yes
+SPK7003	(Hx)	(Hx)
+	(H)	(H)
+	Macy's-ті көрсетпеу керек еді	I had to not to show you Macy's to you, ¬Aizhan
+	¬Айжан сендерге	
+	@@@	@@@
+SPK7002	ы	hm, well
+	енді	
+	@@@@	@@@@
+SPK7003	@	@
+SPK7002	@енді @өміріңде @сөй- @сөйтіп @өкініп @отыр	@now @regret @about @it @your @whole @life about why did you show it
+	бекер көрсеттім а:у деп	
+SPK7001	үстіндегі рубашкасы күшті	this shirt on the top is cool
+SPK7002	сенікі жоқ па мынандай	don't you have such?
+SPK7001	рубашка ма	shirt?
+SPK7002	рубашка емес қой	it is not shirt
+	кофточка ғой	it is blouse, you know
+	рубашка деген	shirt has to have a button in the front like this, isn't it
+	ілгек болмайтын ба еді	
+	алдында мынандай	
+SPK7001	ну какая	doesn't matter
+	блузка	
+	ладно	okay
+SPK7003	Macy's	Macy's
+	бірақ	
+	Macy's жақсы	Macy's is good
+SPK7002	қарасаңшы мынандай	look at things such this
+	Top	
+	Top деп	like Top
+SPK7001	қара	look
+	қарашы	look, please
+SPK7003	жұмыста	if we had American people at work, we could order from there
+	американецтер болғанда	
+SPK7002	мынау ма еді	was it this?
+SPK7003	сол жақтан алдыртатын едік қой	
+SPK7002	а	a
+	осы жерде ғой	it is here
+SPK7001	мынау не ғой	it is that, you know
+	шалбарлар ғой	trousers, you know
+SPK7002	біреуді тапсаңшы	find someone
+	осы жерден ашамыз да	we open from here
+	мінекей	here
+SPK7001	м	I
+	ал	well
+SPK7002	қайсы еді	which one was it?
+	мынау ма	was it this?
+	жо:қ	no
+SPK7001	жоқ	no
+	tops	tops?
+SPK7002	о:	oops
+	осынан қараймыз	we look here
+SPK7001	blouse деген жоқ па	is there no such things like blouse?
+SPK7002	ал енді	what will you do now?
+	не істейсің	
+SPK7001	top style	look in top style, please
+	дегеннен қарашы	
+SPK7003	YAWN	(YAWN)
+SPK7002	и бәрін қарай берейік	
+	просто	
+	не	
+	бренд пен	
+	нені сайлап алайық	
+	өзімізге	
+	не зат еді анау	
+	анау	
+	жаңағы	
+	Донна Каран ғой	
+	үсті де	
+	Донна Каран шығар	
+	деп ойлаймын	
+	енді мен	

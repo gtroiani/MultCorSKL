@@ -1,0 +1,1146 @@
+speaker	span	translation
+SPK0035	Ладно.	Well.
+SPK0034	Елу минутқа дейін жеткізсек болады?	Should we do it till 50 minutes?
+SPK0035	Оған просто,	She just needs to be there at 15:30. I mean, ¬Kamila will wait, nothing will happen to her, her ass won't fall off.
+	общество он бес,	
+	он бестен отыз кеткенде болу керек.	
+	Ну ладно наверное успею.	
+	Если что ¬Камила подождет.	
+	Артық ешбір жері,	
+	түсіп қалмайды мені күткенше,	
+	құдай де.	
+SPK0034	@@@@	@@@@
+SPK0033	А это,	Do you get money for it?
+	ақша тауып жатыр?	
+SPK0035	Иә,	Yes, I do but I am not working yet. What day is it?
+	ақша тауып жатырмын просто,	
+	жұмыс жасап тұрған жоқпын,	
+	бүгін втор-	
+	бүгін қандай күн?	
+	Среда?	
+SPK0034	Среда.	Wednesday.
+SPK0033	Ох-	Oh my God, already Wednesday?
+	фигеть,	
+	сегодня среда?	
+SPK0034	Бүгін среда,	Yes.
+	иә.	
+SPK0033	Мне надо еще поехать за AirPodsами.	I also need to go and get my AirPods.
+SPK0035	Менде--	I...
+	менде кеше жұмыста scrum meeting болды да.	... had a scrum meeting yesterday.
+SPK0033	Ол не?	What is it?
+SPK0035	Scrum когда ты,	This is when you meet and say what you did over the last 2 days.
+	встречаешься и говоришь,	
+	что ты сделал за два дня.	
+SPK0033	Ой бля.	Damn.
+SPK0035	И мен такая,	"And I was like, ""Didn't do anything."""
+	я ничего не делала.	
+SPK0033	Сосын?	And then?
+SPK0035	Ничего не сказали.	No one said anything about it. When I was on my EAP classes on Foundation program, our tutors would always check our projects and I swear, if you hadn't done anything for like 1-2 days, they would've got so pissed offf about it. My professor was also very toxic and just choking me you know.
+SPK0034	Да.	I see.
+	Бізде деген ЕАП-та,	When I was on my EAP classes on Foundation program, our tutors would always check our projects and I swear, if you hadn't done anything for like 1-2 days, they would've got so pissed offf about it. My professor was also very toxic and just choking me you know.
+	Foundation-да,	
+	күнде тексеретін еді,	
+	біздің,	
+	проекттарымызды,	
+	типа тьюторларымыз,	
+	сондай,	
+	бір-екі күн жасамасаң,	
+	ол уже,	
+	давить ететін еді,	
+	и есть же у меня же проф был такой говенный,	
+SPK0035	М.	M.
+SPK0034	типа,	
+	душнила,	
+	токсик,	
+	все все все.	
+SPK0033	# У меня этот,	"Mine was like, ""Have you done anything?"" And I was like no. My topic was also procrastination, funny enough."
+	ты опять ничего не сделала я такая,	
+	@	
+	У меня короче тема еще про прокрастинацию была @	
+SPK0034	Е @@@@@	Е @@@@@
+SPK0035	@@@@@	@@@@@
+SPK0033	Иә а я просто делаю research @	Yes, yes, I am researching you know.
+SPK0034	Фаундта ма?	Was it on Foundation?
+SPK0033	Да @	Yes.
+SPK0034	М.	М.
+SPK0035	Ты прокрастинировала.	You were already procrastinating.
+SPK0033	Ну типа как,	I mean like how perfectionism affects your procrastination.
+	перфекционизм влияет на прокрастинацию,	
+	что-то такое.	
+SPK0034	А.	А.
+SPK0035	А.	А.
+SPK0034	Прикольно.	Interesting.
+SPK0035	@@@	@@@
+SPK0034	Ужас.	Damn.
+SPK0035	Синхронизация @@	You were synchronizing with your topic.
+SPK0034	@@@@@	@@@@@
+SPK0035	Бізде,	When we were studying offline at school, our classes started at 9 AM till 3PM.
+	э,	
+	бізде,	
+	сабақтар,	
+	тоғызда басталатын ғой азанғы,	
+	и типа,	
+	бізде типа,	
+	просто по расписанию в школе,	
+	когда оффлайн было,	
+	все типа до трех,	
+	часов дня же длилось,	
+	и когда мы на онлайн перешли,	And we started studying online, everyone was like and how will it be? And then they shortened our classes from 90 minutes till 45.
+	все такие,	
+	блин,	
+	как теперь учиться.	
+	И уроки сократили с,	
+	девяносто минут,	
+	на сорок пять.	
+	и тоқсан минут.	So, 90 minutes, and...
+	И--	
+SPK0033	Вам пары типа сделали?	Did you have like lectures like at universities? Like two classes in a row with a break?
+	Типа первый второй урок?	
+SPK0034	Тоқсан минут,	Won't your ass become a stone after sitting for 90 minutes.
+	Онлайнда,	
+	отырсаң,	
+	күтің тас болып кетеді ғой?	
+SPK0035	Иә.	Yes.
+	А бізде короче,	So, firsly they made classes 45 minutes, not 90. Like the first class - 20 minutes, then a 5-minute break, then another 20-minute class.
+	тоқсан минуттық қырық бес минут қалды и,	
+	жиырма жиырма минуттан,	
+	бөлді то есть жиырма минут онда отырасың,	
+	бес минут демаласың,	
+	и екінші сабақ жиырма минут.	
+	Собственно,	So, the classes were shortened and everyone would finish at the same time, like at 1PM. So, at one 9AM class named KMW, our curator...
+	урокты сократили,	
+	и біздің,	
+	сабақтар примерно бірде бітетін.	
+	И я помню,	
+	тоғызда,	
+	КС-	
+	КС-	
+	КСМ,	
+	болып жатады,	
+	и,	
+	куратор,	
+	барлығына,	...called the overslept students' mothers to send them to the classes.
+	мамаларына,	
+	телефондарына звондап шығады ғой,	
+	оятындар аналарды ұйқыдан деп,	
+	сабаққа.	
+SPK0034	Иә.	Yeah.
+SPK0033	Мне кажется у меня не было.	I think we didn't have that subject in our school.
+SPK0035	Казахстан в современном мире.	Kazakhstan in the modern world.
+SPK0034	Ойбай.	Oh my God.
+SPK0035	Чисто--	You know, it is just a subject about Nazarbayev.
+SPK0033	А почему у нас таких уроков не было?	Why didn't we have it?
+SPK0035	Чисто, чисто--	
+SPK0034	#	#
+SPK0035	Чисто, чисто--	
+	там курс для Назарбаева ғой.	
+SPK0033	Мы C++ проходили, брат @	We studied C++ though.
+SPK0035	Не не чисто,	
+	курс про,	
+SPK0034	Нихуя себе у вас, развитые вы.	Wow guys, you were indeed modern.
+SPK0035	Назарбаева.	
+	Чисто курс про Назарбаева.	Just a subject about Nazarbayev. Now I know his biography well.
+	Мен бүкіл оның,	
+	биографиясын помню.	
+SPK0034	Бля.	Fuck it.
+SPK0033	Где он родился,	"Like, ""Where was he born? In Temirtau."""
+	в Темиртау.	
+SPK0035	Да,	Yes, yes, just like that. I also won a book because I participated in the quiz.
+	и,	
+	прикольно что я,	
+	выиграла книгу.	
+SPK0034	Бізде--	I've just remembered how we, being 5th or 6th graders, were sent to a very old cinema to watch a movie on Nazarbayev's life.
+SPK0035	Викторинаға қатысып.	
+SPK0034	менде-	
+	есімде,	
+	(TSK)	
+	жетінші класста ма,	
+	алтыншы класста ма бізді,	
+	э,	
+	кинотеатр болған типа,	
+	старинный кино көрсетті,	
+	сол жаққа барғанда,	
+	Назарбаевтың өмірі туралы кино көрсеткен.	
+SPK0033	Бля.	Holy fuck.
+SPK0034	Такой скучный,	It was so fucking boring.
+	ебать.	
+	Мен,	
+	я,	
+	мен еще андаймын,	"I was there also like, doing you know those sounds, ""Lame, when are we finishing it already?"""
+	маған бірдеңе ұнамаса,	
+	я публично типа,	
+	а,	
+	деп отырамын.	
+SPK0035	Менде солай,	Yes, same.
+SPK0034	Типа (TSK)	
+	м,	
+	қашан бітейік,	
+	деп.	
+SPK0035	@@@	@@@
+SPK0034	Все на меня огрызались за это,	Some people were angry with me because of it, like, don't show your rudeness here.
+	типа өзінің мінезіңді неге көрсетіп жатырсың деп ну--	
+SPK0035	По факту--	Facts.
+SPK0034	Мне,	I just wanted to piss them off, you know.
+	мне нравилось просто,	
+	на зло им,	
+	знаешь.	
+SPK0035	Иә,	Yes, I feel you.
+	менде солай,	
+SPK0034	И мен сөйтіп отырмын,	"And was sitting like that there, making those claims. Then the girls in front of me turned around and said, ""Could you not be so loud, we cannot hear the movie."" Really?? They were really watching it, holy shit."
+SPK0035	жақсы.	
+SPK0034	қашан бітеді,	
+	это так скучно деп,	
+	и алдында,	
+	қыздар отыр менің кластастарым типа (TSK)	
+	можно потише,	
+	мы не слышим деп.	
+	@@@@ Реально,	
+SPK0035	@@@	@@@
+SPK0033	@@@	@@@
+SPK0034	на полном серьезе қараған ғой.	
+SPK0033	COUGHS	(COUGHS)
+SPK0034	@@@@	@@@@
+SPK0035	@@@	@@@
+SPK0033	COUGHS	(COUGHS)
+SPK0035	Негізі--	The whole movie is just for brainwashing students.
+SPK0033	COUGHS	(COUGHS)
+SPK0034	##	##
+SPK0035	brainwashing қой.	
+	Чисто--	
+SPK0034	Иә.	Yes, I watched only like 20 minutes, there was something like where he was born, where he was eating apples and some stupid things like that.
+SPK0033	Иә.	Yes.
+SPK0035	Назарбаев ##.	
+SPK0034	Мен бірінші жиырма қарадым,	
+	там он родился,	
+	бір ауылда туған,	
+	алма жеген.	
+SPK0033	А знаете что некоторые думают,	Do you know that some people truly believe that Nazarbayev is their father from the very childhood?
+	что типа этот,	
+	Назарбаев типа их отец,	
+	типа,	
+	с детства.	
+	У меня подруга думала что Назарбаев отец типа,	My friend thought that Nazarbayev was her father or grandfather or someone like that.
+	ее дедушка что-ли,	
+	что-то такое я такая.	
+SPK0035	Иә,	Yes, it is a very popular phenomenon here. Whenever you open any book, whether you are in your first year at uni or in class 1 at school, you will see his face in any book and just feel proud you know.
+	образ того что Назарбаев твой дедушка это очень,	
+	распространенно потому что қара,	
+	любой кітапты ашқанда,	
+	бірінші курс,	
+	бірінші класста,	
+	бірінші фотка Назарбаев тұрады и такой,	
+	дедушка.	
+	И бүкіл,	"And all books are like, ""Nazarbayev, Nazarbayev, Nazarbayev,"""
+	на весь этот,	
+	книжки,	
+	Назарбаев,	
+	Назарбаев,	
+SPK0034	Примерно,	Looks like North Korea.
+SPK0035	Назарбаев,	
+SPK0034	Солтүстік Корея сияқты ол @@	
+SPK0035	Негізі қызық,	Interesting thing once happened to me too. They told us that we would watch some movie, like just for an hour. We went to the assembly hall, we didn't have classes that day too.
+	э,	
+	бізге бір рет жаңа фильм,	
+	көрсеткен.	
+	Они освободили нас от уроков,	
+	актовый залға отырғызып қойды,	
+	қазір бір сағат бір фильм көресіңдер де,	
+	и мы такие,	
+	жарайды,	
+	и,	
+	там был фильм как Назарбаев сохранил наши границы.	And then they would show us that movie about how Nazarbayev protected the borders of Kazakhstan.
+	На час.	
+SPK0034	Сам он бере-	Like he himself, with his hand, right?
+	бүйтіп,	
+	ұстап тұрған көбіміз бірде ұстап тұр.	
+SPK0035	@@@@	@@@@
+SPK0033	@@@@	@@@@
+	Это не ваша земля.	"""This isn't your ground, go away."""
+SPK0035	Андай,	"He is standing in an aul and saying, ""Go away, go away, go away."""
+	ауылда тұр ғой,	
+	өтпе өтпе өтпе,	
+	#### ####,	
+	## ####.	
+SPK0033	Это есть же Дамблдор,	"Like Dumbledore saying ""You shall not pass"""
+	не проходи.	
+SPK0035	@@@@	@@@@
+SPK0034	Бас-	Like in the basketball.
+	баскетболда бүйтесің ғой.	
+SPK0033	####	####
+SPK0035	##	##
+	Жоқ.	No, no. He is so tall that his hands cover the whole perimeter of Kazakhstan,
+	Солай тұрды короче,	
+	и ол короче,	
+	и,	
+	настолько Назарбаев длинный что,	
+	бүкіл Қазақстанның территориясын қолын.	
+	ұзартты короче?	
+	солай тұрды.	
+SPK0034	Мхм.	Mhm.
+SPK0035	Сюрреализм.	Surrealism, but well...
+	Жарайды.	
+	Ну,	
+	солай.	
+SPK0033	А у нас показывали типа этот,	"As for us, at school they showed us the negative effects of the drug named ""Krokodil."" Everyone was like, ""Oh, that's dusgusting."" But I was like, ""Yes, show me some more."""
+	нас собрали,	
+	показывали типа наркотик крокодил.	
+	Типа,	
+SPK0034	О.	О.
+SPK0033	эффекты крокодила.	
+	Там короче все такие,	
+SPK0034	@@@	@@@
+SPK0033	фу э я такая,	
+	ах,	
+	покажите еще типа анау-мынау.	
+	Типа,	"Do you know what ""Krokodil does to you?"" It basically eats away your meat, leaving the bones."
+	знаете,	
+	этот наркотик короче делает так что-то типа,	
+	а,	
+	бүкіл етін кетеді и только кость остается.	
+SPK0034	А,	"Isn't ""Krokodil"" that synthetic drug that was popular in the 1990s?"
+SPK0035	Ох.	Damn.
+SPK0034	кро-	
+	крокодил деген,	
+	андай фейковый,	
+	тоқсан жылда шығарылған наркотик па?	
+SPK0033	Да,	"Yes, that one. And I was like, ""Wow, cool movie."""
+	да,	
+	типа такого.	
+SPK0034	Полностью синтетический.	
+SPK0033	Я короче сидела такая,	
+	ах,	
+	ема.	
+SPK0034	Классно @@@	Pretty cool, huh?
+SPK0033	Да,	"Yes, but everyone was like, ""How are watching it?"""
+	все такие фу как ты это смотришь.	
+SPK0034	Да,	Yes, I also like those scary things.
+	маған да ұнаған сондай тема типа,	
+	ужасающая.	
+	Бізде,	"I think in class 8 or 9 I once had an olympiad organized by fund Daryn. So, the olympiad was over, we had lunch, and then there was that ""performance"" about the drugs."
+	бір сегіз-	
+	а тоғызыншы класста оныншы класста бізде,	
+	Дарынның несі бар ғой центрі типа,	
+	где олимпиады проводятся,	
+	и Дарын центрге апарған,	
+	обед іш-	
+	олимпиада бітті,	
+	обед іштік,	
+	сосын бізге бір представление көрсеткен мына,	
+	про наркотики--	
+SPK0033	Тататара тататарара @	*makes circus music*
+SPK0034	@	About the drugs.
+SPK0035	@@	@@
+SPK0034	про наркотики.	
+	И нам раздали бумажки типа,	And we were given some sheets of paper to write all the drug names we know. Me, a passionate Shameless enjoyer since grade 8, I wrote like a list of 15 drugs or something.
+	напишите наркотики которые вы знаете.	
+	И я,	
+	которая,	
+	сегізінші класста бесстыжие-ны көріп,	
+	андай бүкіл наркотиктар список,	
+	он бес штук жазған болатынмын.	
+SPK0035	@@@	@@@
+SPK0033	@@@ ###	@@@ ###
+SPK0034	Окситоцин,	Oxytocin, vike,
+	викодин,	
+	там,	
+SPK0035	Амфетамин?	Amphetamine?
+SPK0034	Иә иә,	Yes, yes. Also like heroin, synthetical crystals, methadone, you know, according to the list.
+	амфетамин,	
+	герои-	
+	кристаллический метадон,	
+SPK0033	@@@	@@@
+SPK0034	бәрін кетіп жатыр там,	
+	по списку.	
+SPK0033	@@@@@	@@@@@
+SPK0035	@@@	@@@
+SPK0034	Опиоидные,	Opium, non-opium.
+	неопиоидные.	
+SPK0035	You took it too seriously,	You took it too seriously, it wasn't a test.
+SPK0034	Да да да.	Yes yes yes. Also, the others around didn't seem to know any drug whatsoever. I was like, hey dude, write something, not just simple marijuana.
+SPK0035	это не было тестом @@@@	
+SPK0034	Еще,	
+	еще қасымда отырған адамдарға сэ этот,	
+	мәә аналар дым жазбай.	
+	Просто типа,	
+	мариухана деп жазды ғой мен айтамын,	
+	эй ұялмайсың кішкене жазып қойсайшы,	
+SPK0035	@@@@	@@@@
+SPK0033	@@@@@@@	@@@@@@@
+SPK0034	советую.	
+	Ну это,	Try to write something like methadone or cocaine, you know.
+	метадон бар,	
+	там,	
+	кокаин бар.	
+SPK0033	@@ COUGHS	@@ (COUGHS)
+	COUGHS COUGHS	(COUGHS) (COUGHS)
+SPK0034	Сол.	So.
+SPK0033	А что тебе сказали?	Did they tell you anything?
+SPK0034	Ничего не сказали,	No, just collected my paper, I guess they were fucking shocked by my list.
+	просто жинап алды @@	
+SPK0033	@@@	@@@
+SPK0034	В ахуе болған ғой @	
+SPK0033	@@@@	@@@@
+SPK0034	қаншама біледі деп.	
+	Просто у меня гиперфиксация.	It is because I have hyperfixation - I like remembering things.
+SPK0033	@@	@@
+SPK0034	Я люблю вещи запоминать.	
+	Андай еще туториалдар болады ғой,	"Also because of it I like watching some tutorials like, ""How to bury a person,"" ""How to get rid of the clues,"" etc."
+	как закопать человека,	
+SPK0033	@@@@	@@@@
+SPK0034	как там у-	
+	уничтожить улики,	
+	деген,	
+SPK0033	@ Мен да,	You see ¬Zhibek, now that I kill someone I will know what to do.
+SPK0034	тоже самое нәрсе.	
+SPK0033	¬Жібек десе,	
+	эм,	
+	я я теперь знаю,	
+	теперь если я кого-то случайно убью?	
+SPK0034	Да да да да.	You are right.
+SPK0033	э я буду знать ¬Жібек.	
+SPK0034	Андай,	Also something like what to do after the nuclear explosion to minimize lethal risks and contamination.
+	типа,	
+	что делать при,	
+	взрыве ядерной бомбы деген сияқты болады ғой.	
+	Чтобы,	
+	типа,	
+	уменьшить риски и,	
+	заражения уменьшить рес-	
+	риски летального исхода.	
+	Сонда не істеу керек.	What to do in these situations, like this.
+	Сол.	
+SPK0033	Водичкой,	Pour some water or I don't know.
+	или я не знаю.	
+SPK0034	Не не не не,	Not really.
+SPK0033	Чем-то прикрыться,	Cover yourself with clothes or something.
+SPK0034	Просто,	When you see the explosion light, you have like 8-30 seconds (depending on your position to the explosion). During this time, you have to find some hiding place and lie down there covering your ears and nostrils so that nothing comes there.
+SPK0033	одеждой.	
+SPK0034	взрыв,	
+	бір жарықты көргенде,	
+	сен короче,	
+	например где-то сегіз тире,	
+	отыз секунд бар,	
+	в зависимости от места нахождения.	
+	И сол,	
+	сегіз тире отыз секундтың ішінде сен,	
+	бір,	
+	укромный жерге жатып қалуың керексің именно вот,	
+	пластом,	
+	и закрыть все вот,	
+	ноздри,	
+	уши,	
+	чтобы туда ничего не залетело.	
+SPK0033	Потому что они сгорят нахуй.	Because they will burn the fuck out.
+SPK0034	Потому что от,	Because this explosion blast can tear apart your vessels from inside your body, so you have to cover them.
+	взрывной волны типа,	
+	сенде могут все взорваться изнутри,	
+	там легкие могут лопнуть,	
+	и соны жауып қоюың керексің и,	
+	взрыв біткеннен кейін,	
+	андай,	Then, after the explosion, you have to sit still in this hiding place for like 2 days, because after that...
+	бункер сияқты бір жерді тауып сонда,	
+	барып отырып,	
+	күтуің керексің бірнеше күн,	
+	где-то,	
+	қырық сегіз сағат па,	
+	потом уже қырық сегіз сағаттың ішінде,	
+	ең андай,	
+	мықты радиация өтеді.	...the most harmful impact of the nuclear explosion happens. If you spend 3 minutes outside during the first 2 days of explosion, you will just die because of it.
+	Типа сол қырық сегіз сағаттың ішінде,	
+	сен сыртта болатын болсаң?	
+	типа за,	
+	три минуты exposure,	
+	сен потом,	
+	вообще,	
+	ну сразу өліп қаласың,	
+	типа из-за радиации.	
+	из-за,	Because of contamination, and that is it.
+	contamination-a.	
+	Сол.	
+SPK0033	I think there is no chances that I will,	I don't think there is any chance of me surviving during this.
+	типа,	
+	типа выживу,	
+	в яд-	
+	в ядерной ##.	
+SPK0034	Ну да.	You are right.
+	Еще андай ғой типа,	Also, you know, during the tsunami I am hiding behind the tree.
+	цунами болғанда,	
+	и просто ағаштың артына тығылып қаламын деп.	
+	@@@	@@@
+SPK0035	@	@
+SPK0033	@@@@@	@@@@@
+SPK0034	Когда,	When it is so strong that is destroys the houses.
+	анау,	
+	цунами,	
+	настолько сильное что,	
+	үйдің бәрін бүйтіп құлатады.	
+SPK0033	У меня была идея типа,	I thought one just should swim.
+	плавать.	
+SPK0034	просто,	I mean,
+	Бля.	Fucking crazy.
+SPK0033	@@@@	@@@@
+SPK0035	Үлке-	Like a big pool, right?
+	үлкен бассейн ғой.	
+SPK0033	@ Вот именно.	Exactly, we somehow manage to swim in the sea.
+	В море же как-то плаваем.	
+SPK0034	@@@	@@@
+SPK0035	Иә,	Yes yes, swimming with your house nearby.
+	арасында там,	
+	үйің плавает.	
+SPK0034	Серфинг,	Surfing, you know what I mean bro?
+	серфинг,	
+	қой брат.	
+SPK0035	Take it easy.	Take it easy.
+SPK0034	Can’t stand it ###.	Can’t stand it ###.
+SPK0033	###	###
+	Наслаждайся.	Simply enjoy everything.
+SPK0035	@@	@@
+SPK0034	@@@@@@	@@@@@@
+SPK0033	@@@@	@@@@
+	Миыма реально кірмейді.	I really didn't think of it this way.
+SPK0034	Смотри на позитивные части ма?	Always see something positive, this way? TsunamI? Well, I can swim and train my back.
+	Цунами?	
+	Ну зато можно поплавать.	
+SPK0035	@	@
+SPK0034	Потренироваться,	
+	накачать спину.	
+SPK0033	Можно,	You can also steal whatever if floating nearby.
+	спиздить вещи,	
+	которые плавают	
+SPK0035	@@@@	@@@@
+	Ядерный взрыв?	What is positive about the nuclear explosion then?
+	Что?	
+	Позитивного?	
+SPK0033	Ну--	Free tan.
+SPK0034	Светиться будешь.	You will glow.
+SPK0033	бесплатный автозагар.	
+SPK0035	Этот,	So, you won't have to work for 2 days, suck it, capitalism.
+SPK0034	Бля.	Damn.
+SPK0035	жұмыс істемейсің екі күн,	
+	капитализм соси.	
+SPK0033	О,	Yes, well-deserved days off.
+	выходные.	
+SPK0035	Посижу в бункере,	Finally I am going to stay in the bunker and have some rest.
+	отдохну наконец.	
+	Ұйықтап аламын.	Finally can get some sleep.
+SPK0034	По идее,	Have you watched Chernobyl by HBO?
+	сендер Чернобыль деген сериалды көрдіңдер ма?	
+SPK0033	Нет.	No.
+SPK0035	А--	Yes.
+SPK0034	От HBO.	
+SPK0035	көрдім.	
+SPK0034	Ну а ты же видела как там просто,	Do you remember how bad it was there, pure horror.
+SPK0033	COUGHS	(COUGHS)
+SPK0034	это ужасно.	
+SPK0033	COUGHS	(COUGHS)
+SPK0034	Қорқынышты жаман.	
+	Я тогда решила что не,	I decided then, that I won't be a nuclear physicist.
+	стану ядерным физиком.	
+SPK0033	А ты щ-	And you...
+SPK0034	Мен просто,	I saw that there are two programs - engineering and nuclear physics, you can chose either.
+SPK0033	Мхм.	Mhm.
+SPK0034	программа көргенмін что есть,	
+	типа инженерия,	
+	и есть ядерная физика,	
+	можно пойти на разные.	
+	В,	Foreign programs.
+	шетелде,	
+	программалар.	
+SPK0035	Ядерная физика бомба туралы ғана емес қой?	Isn't nuclear physics about making bombs? You can create atomic energy.
+	Ты можешь,	
+	энергию,	
+	делать.	
+	Атомная.	
+SPK0034	Иә,	Yes, I know that.
+	білемін.	
+	Мені бірақ,	Now, I...
+	анандай,	
+SPK0033	Ну это же работа моей мамы.	This is my mother's work, by the way.
+SPK0034	р-	
+SPK0033	Она тут работа-	
+	она так работает,	
+	а,	
+	это,	
+	короче,	Her employer oversees a university and a kindergarten.
+	их руководитель руководит универом,	
+	и,	
+	садиком АБД.	
+SPK0035	М.	М.
+SPK0033	Моя мама типа бухгалтером работает в компании.	My mother is an accountant there.
+SPK0034	Мен,	I have to... one moment.
+	а,	
+	подожди,	
+	мына жерде мына жерде мына жерде бірдеңе керек ұштайтын.	
+SPK0033	Это новая вакансия.	This is a new position.
+SPK0035	Прикольно	Interesting.
+SPK0034	##	##
+	По идеи не встрече люди не разговаривают получила высшее образование,	...people don't talk on the meetings, she got a higher education...
+	аа.	
+	От HBO.	So, coming back to that one by HBO.
+	А,	I am also triggered by that radiation detector.
+	меня короче триггерит	
+	ана,	
+	радиацияны анықтайтын прибор бар ғой.	
+SPK0035	Соның даусы.	Its sound.
+SPK0034	Да	Yes, its sound.
+	соның даусы,	
+	ужас.	
+SPK0035	Түсінемін.	I see.
+SPK0033	IMITATES_THE_TOOL'S_SOUND	(IMITATES_THE_TOOL'S_SOUND)
+SPK0034	Который еще,	Also, there is this traffic light near Mega Silkway, it also makes this sound.
+	я,	
+	Megaда-	
+	Megaға өтетін,	
+	пешеходта,	
+	сондай дыбыс шығады ғой.	
+	IMITATES_THE_TRAFFIC_LIGHT'S_SOUND	(IMITATES THE TRAFFIC LIGHT'S SOUND)
+SPK0035	Негізі маған сол фильм ұнады,	In general, I enjoyed the film.
+	жақсы фильм.	
+SPK0034	Маған да ұнады.	Me too.
+SPK0033	Это же не фильм а сериал.	I think this is a TV series, not a movie.
+SPK0034	Это сериал.	Yes.
+SPK0035	Да сериал.	Yes, series.
+SPK0034	Есть два-	There are two Chernobyl TV series - a Russian sci-fi one, and the one by HBO.
+	есть два сериала,	
+	есть российский,	
+	который фантастика,	
+	и есть HBO-ның серьезный,	
+	документальный сериал.	
+SPK0035	Жақсы түсірген иә?	Great series, isn't it?
+SPK0034	Мхм.	Mhm.
+SPK0033	Мен босаған едім,	I don't really like documentaries.
+	бірақ та маған документалки не залетают.	
+SPK0034	Андай еще сюжет то что там кто-то,	The plot revolves around lying, when they were writing a report, they just wrote it for the sake of writing.
+	все,	
+	этот завязано на обмане,	
+	то есть,	
+	ана,	
+	отчет жазғанда,	
+	просто ради--	
+SPK0033	Отчета.	...just to write it.
+SPK0034	т--	
+	ради отчета жазып тастаған да андай,	
+	неисправности с-	They didn't fix what was malfunctioning.
+	жөндемеген ғой и сондықтан бәрі,	
+	с-	
+	нетіп кетті.	
+SPK0035	Иә,	Yeah.
+	и--	
+SPK0034	И типа,	And they wanted to prove that it was the reactor that was to blame, not people.
+	они хотели доказать что это,	
+	вышка виновата в том что это случилось.	
+	А не,	
+	вот люди которые там сидели.	
+SPK0035	Бірақ,	And they say in this series that this catastrophy was caused by a chain of decisions.
+	ол жерде,	
+	айтады ғой,	
+	ну то есть,	
+	ответом на вопрос,	
+	почему так произошло,	
+	это серия,	
+	решений,	
+	которые типа,	
+	как цепочка,	
+	друг-другом.	
+SPK0033	Эффект бабочки.	Butterfly effect.
+SPK0034	Иә,	Yes.
+SPK0035	Иә.	Yeah.
+SPK0034	иә иә иә.	
+SPK0035	Не,	Not really, but close. It was a chain of actions both from the side of people working there and from their superiors. So, it all affected one another.
+	эффект бабочки емес,	
+	серия действий которые и,	
+	со стороны,	
+	людей которые там работали,	
+	и со стороны,	
+	э,	
+SPK0034	Начальства.	Superiors.
+SPK0035	Начальства.	
+	Друг-друга әсер етті и вот такой вот,	
+	тотальный исход был.	As a result, we had what we had there.
+SPK0034	Мхм.	Mhm.
+	Сол.	So.
+SPK0035	Чисто теория вероятности ғой.	Probability theory in practice.
+	На практике.	
+SPK0034	Өте қызық болды.	It was very interesting looking at it.
+	Соны қарағанда.	
+SPK0035	Иә маған да ұнады.	Liked it too.
+	Тағы ондай,	Also, Americans speaking Russian, really?
+	американские,	
+	адамдар,	
+	орысша,	
+	сөйлеп,	
+	орысша,	
+SPK0033	Мне наоборот нравится когда они на русском говорят.	I on the contrary like when they spoke Russian.
+SPK0035	жоқ олар э,	
+	репликаларды ағылшынша же айтты ғой.	
+	И оларды аударған.	But the script was translated from English and they made it look like they were speaking Russian.
+	Орысшаға,	
+	и прикольно типа.	
+	Ағылшынша сөйлеп жатады,	Imagine if they spoke Enlgish in Russia, looks weird, doesn't it?
+	на фоне России.	
+	@	
+	Ну,	
+	такое себе,	
+	зрелище,	
+	ну,	
+SPK0034	Ну хотя бы слова нормально написали.	At least the words were written correcty.
+SPK0035	эй.	
+	Да.	Yes.
+SPK0033	Ну блин,	I noticed that they hate Russians in Stranger Things TV series.
+	в Очень Странных Делах там,	
+	очень,	
+	так,	
+	хейтят,	
+	русских.	
+	русские,	Those damn Russians.
+	русские,	
+	русские,	
+	русские,	
+SPK0035	Американский империализм ғой.	It is American imperialism.
+SPK0033	#.	
+SPK0034	Это же вось-	It was eighties, right? There was something like...
+	восьмидесятые было,	
+	типа с этим--	
+SPK0035	Да,	Yes, Cold War.
+	хо-	
+	холодная война.	
+	Мне кажется наоборот,	I liked the fact that they showed it.
+	классно что они это показали.	
+	Ну,	Yes, Cold War was the thing, it affected people's decision-making.
+	холодная война была ### #,	
+	реально,	
+	действовала на людей.	
+SPK0034	Особенно,	Especially Americans.
+	американцев.	
+SPK0033	What I want to tell.	What I want to tell.
+SPK0034	YAWNS	(YAWNS)
+SPK0033	А,	In Stranger Things, there also was some sort of manipulation...
+	кстати вот,	
+	в,	
+	в Очень Странных Делах,	
+	там,	
+	короче тоже манипулятивный этот	
+	э-	
+	ну,	
+	как,	
+	э,	Number 1 used to tell the main character that he didn't lie but tried to save her.
+	ноль один,	
+	он типа говорил,	
+	главной героине типа вот,	
+	я тебя не обманывал.	
+	Типа я тебя спас.	
+	И это сейчас зафорсили в тиктоке.	Not it is trending on TikTok.
+SPK0034	М.	М.
+SPK0033	I tricked you.	I tricked you. No, I saved you.
+	No,	
+	I saved you.	
+	#.	#.
+SPK0035	М.	М.
+	Мен,	I didn't see Stranger Things.
+	о-	
+	осыны көрмегенмін.	
+SPK0033	М.	М.
+SPK0035	Мен Очень Странные Дела көрмедім.	
+SPK0034	Мен екінші сезоннан кейін тастап кеткен сияқтымын.	I stopped watching it after Season 2.
+SPK0035	Қанша сезоны бар?	How many are there?
+SPK0034	Төрт.	I think they released final season, season 4.
+	Төртіншісі шыққан.	
+	Не фина-	
+	финалымен.	
+	##--.	##--.
+SPK0035	Болды ғой фильмнің?	Is it finished?
+SPK0033	#####.	#####.
+	###.	###.
+SPK0034	Финал бітті ма уже,	Is it over now or will they continue shooting it?
+	получается,	
+	или әрі қарай табылады ма?	
+SPK0033	Иә,	It is over.
+	бітті.	
+	Жоқ,	No, it is just Season 5.
+	это бесінші сезон всего лишь,	
+	#--	
+SPK0035	А,	And what is this series about?
+	не туралы,	
+	бұл,	
+	сол сериал,	
+	білмейді екенмін.	
+SPK0033	Про русских и американцев де.	Russian and Americans... Just kidding.
+	Там короче,	Something about the monsters.
+	монстры,	
+	##.	
+SPK0034	Там,	There is something like SCP Foundation there.
+	типа,	
+	Scp foundation сияқты,	
+	бірдеңе.	
+	Типа знаешь--	Something mysterious, you know. Something like they performed experiments on people.
+SPK0033	Типа,	Like they did some research there.
+	исследования проводили,	
+SPK0034	тайна--	
+SPK0033	типа.	
+SPK0034	тайная база там создавали,	
+	людей,	
+	типа,	
+SPK0033	Суперспособности.	Supernatural abilities.
+SPK0034	ноль о- а ой,	
+	одиннадцать деген,	
+	вот типа эксперимент.	
+SPK0033	А это типа телепатия или что-то?	Something like telepathy?
+SPK0034	Этого,	A person was stolen and there was something about the chips, or she was born this way.
+	человека украли,	
+	то есть там какие то чипы сделали,	
+	или она такой родилась.	
+	И оның андай,	And then, her genes...
+SPK0033	Не,	No, she wasn't born this way.
+SPK0034	Гене-	
+SPK0033	она не родилась.	
+	Ну короче есть ноль один,	There is this person, called Number 1, he was born with telekinesis, and they researched him and made children like him.
+SPK0034	А,	Homunculus, I see.
+	гомункул.	
+SPK0033	Ноль один,	
+	он,	
+	реально таким родился,	
+	типа телекинезбен ал ол,	
+	и типа над ним сделали исследование,	
+	и и сделали похожих детей на него.	
+SPK0034	А.	Yes, yes, with telekinesis, and she is like...
+	И вот сол иә,	
+	сонда телекинездің несі бар.	
+	Типа она вот так.	
+	Управляет штуками.	Manipulating things.
+SPK0035	(H) Мен ¬Дамирді көріп тұрмын.	Oh, I see Damir now.
+SPK0034	Ой ¬Дамир.	Oh, Damir, hi!
+SPK0035	Бірақ ол кетіп бара жатыр.	But he is not coming to us.
+SPK0034	Привет.	
+	Окей.	OK.
+SPK0033	He has a nice ass.	He has a nice ass.
+	@	@
+SPK0035	Что?	What?
+SPK0034	Да.	Yes.
+SPK0033	Есть же,	I mean he has a good ass.
+	классная жопа,	
+	задница.	
+SPK0034	Damn.	Damn.
+SPK0035	Иә.	Yes.
+SPK0033	But he can't twerk.	But he can't twerk.
+SPK0034	Өте өкінішті.	That is a pity.
+SPK0035	Үйренетін шығар.	Seems like learning or have to learn.
+SPK0034	Үйрету керек @	He must learn.
+SPK0035	Үйрету керек.	
+SPK0034	Ертең,	Tomorrow we will drink, so I will teach him.
+	ертең,	
+	ертең ішеміз да сонда үйретемін.	
+SPK0035	Просвещение тверком.	Twerk education.
+	Туй мен осы сендермен,	I won't be able to drink with you, how sad it is.
+	іше алмаймын ба,	
+	как грустно.	
+SPK0033	А что?	Why not?
+SPK0035	Э,	They will have a party on the 19th.
+	олар он тоғызы ішейін деп жатыр.	
+	Ал олармен,	There will be Galya, Damir, Saya, and Aslan with them.
+	¬Ғалия,	
+	¬Дамир,	
+	¬Сая,	
+	¬Аслан.	
+SPK0034	Здесь?	Here?
+SPK0035	¬Қасым,	Also, Qasym, you, and Nurgul too.
+	сен,	
+	и ¬Нұргүл ## де.	
+SPK0034	(H)	(H)
+	Ема.	Wow.
+SPK0035	Ал мен,	And I am not coming.
+	келмеймін.	
+SPK0033	Неге?	Why not?
+SPK0035	Кетіп қаламын он сегізі утром.	I am leaving on the 18th morning.
+	Неге-	Because the program will start on the 19th, but on the 18th, at 10 AM we are leaving by bus.
+	программа начинается девятнадцатого,	
+	бірақ он сегізі,	
+	сағат онда,	
+	кетеміз.	
+	Автобуспен.	
+SPK0034	А бізге қарай келе жатыр.	Oh, he is walking towards us.
+SPK0035	Сә-	Hi, Sir ¬Damir.
+	С сәлеметсіз бе,	
+	¬Дамир.	
+	Мырза.	
+SPK0033	Қалыңыз қалай?	How are you?
+SPK0034	А ой подожди,	Did you receive a mail?
+	на почту пришло?	
+	А.	A.
+	Маған,	I receieved mine recently, but not via mail or EGOV, I don't have one on my mobile phone.
+	келген,	
+	бірақ мен,	
+	почтаға емес.	
+	Менде,	
+	ЕГОВ жоқ қазір телефонда.	
+SPK0033	Ты можешь,	You can find it via UMC app.
+	через UMC посмотреть,	
+	пришло.	
+SPK0034	Андай,	Do you have any complaints, symptoms?
+	жалобы есть?	
+	Типа симптомы?	
+SPK0035	Тогда не паникуй.	So don't panic.
+	Байқадыңдар ма?	Did you notice that people started wearing masks again?
+	Көбісі қайтадан маска кие бастады.	
+SPK0034	Бүгін,	Yeah, half of UMC staff are sitting in masks today.
+	UMCда,	
+	кө-	
+	жартысы маска кие отырды.	
+SPK0033	Страшно.	Scary.
+SPK0035	Туй,	Maybe I should start wearing masks too. By the way, what do you think? Will the Fall semester be online or offline?
+	может қайтадан маска киюді бастаймын.	
+	Қалай ойлайсыңдар?	
+	Fall онлайн?	
+	Немесе оффлайн?	
+SPK0034	Ой.	Oh, I think...
+SPK0033	Оффлайн,	I will manifest offline.
+	оффлайн,	
+	оффлайн,	
+	оффлайн,	
+	оффлайн,	
+	оффлайн.	
+SPK0034	По--	
+SPK0033	Manifestation.	
+SPK0034	по идеи--	
+SPK0035	Менің ойымша,	I don't think they will pay attention to statistics because they know that everyone is fully vaccinated.
+	э,	
+	статистика уже оларға әсер етпейтін болады.	
+	Себебі барлығы вакцининованные,	
+	деген логикамен жүретін болады ғой.	
+SPK0034	М.	М.
+SPK0035	Типа как грипп.	You know, it will be like a seasonal flu, people get sick with it, so what?
+	Типа,	
+	это же и,	
+	подразумевает что это как,	
+	грипп будет.	
+	Типа люди болеют и что.	
+SPK0034	Да да.	Yes yes.
+	Енді маған,	So, I've received a link in UMC, how do I check my results now?
+	UMC-ға ссылка жіберейін деп,	
+	как проверить свой этот,	
+	а ой,	
+	результаты анализа.	
+SPK0035	Білмеймін.	I don't know.
+SPK0033	UMC результа--	UMC results...
+SPK0034	Код пациента қандай?	What is my patient code?
+SPK0035	Код пациента?	Patient code?
+SPK0033	Синее сообщение келмейді ма,	Didn't you receive a blue message?
+	ондай?	
+SPK0034	Жоқ.	No, I don't have EGOV app.
+	Менде ЕГОВ жоқ қой.	
+SPK0033	Жок жоқ жоқ,	No no no, you should've received the message if you were tested here. Were you?
+	мына сообщение должно было,	
+	прийти на твой номер тот,	
+	ты когда это ты,	
+	анализы сдавала тут?	
+SPK0034	Да.	Yes.
+SPK0035	Тебе надо бы к терапевту сгонять.	I think you'd better go and see your doctor.
+SPK0033	Там,	So, you should have this patient code, or you can ask...
+	тогда они скидывают тебе код пациента,	
+	либо ты можешь спросить--	
+SPK0034	Пароль--	"Password, does ""құпиясөз"" mean password?"
+	э,	
+	құпиясөз пароль деген осы ма?	
+SPK0033	Да вроде этого.	I think so.
+SPK0034	Блин.	Geez.
+SPK0033	А,	You should type your IIN there.
+	ты пишешь туда свой ИИН вроде.	
+SPK0035	Бүгін,	Did you (INAUDIBLE) when going to the swimming pool?
+	э бассейнге баратын,	
+	### ## #####?	
+SPK0034	М.	М.
+SPK0033	Иә.	Yes.
+SPK0035	Жарайды сіздер.	All right you girls.
+SPK0034	Я забыла сама.	I forgot it myself.
+SPK0033	Мен бүгін,	I went to taekwondo today, so I had some physical activity today.
+	Таэквандоға барып,	
+	менде физ активность қой болады.	
+	Жарайды,	???
+	##### керек.	
+SPK0034	Қызым бар.	???
+SPK0033	Екі жарым сағат.	???
+SPK0035	Или бармай-ақ қояйын ба.	Or I won't go because I have a lot of work.
+	## ###,	
+	жұмысым көп.	
+SPK0034	¬11,	¬111111111
+	¬11,	
+	¬11,	
+	¬111.	
+SPK0033	@ @ ондай ##.	???
+SPK0034	¬11,	¬111111111. 3 minutes left.
+	¬11,	
+	¬11,	
+SPK0035	Бізде,	We have 3-4 minutes left.
+	үш төрт минут қалды.	
+SPK0034	¬11 ладно.	
+	¬11--	¬111111
+SPK0033	###.	###.
+SPK0034	¬11,	
+SPK0033	#####.	#####.
+SPK0034	¬11.	
+SPK0033	¬111.	¬111.
+SPK0035	Иә,	Yeah, I will go outside, just need to quickly pack my things.
+	мен барып тез-тез,	
+	заттарымды алып.	
+	Шығамын.	
+	Сыртқа.	
+	(Hx)	(Hx)
+SPK0033	Я хочу замуж.	I want to get married.
+SPK0035	О.	О.
+	О.	О.
+	Купи себе вибратор.	Just buy a vibrator.
+	Ой.	Oh.
+SPK0033	@@@@	@@@@
+	Не тут брат @	Don't say it here bro,
+	@@ не тут да.	
+SPK0035	Типа накопли-	Just save some money.
+	накопли блин,	
+	накопи.	
+SPK0034	Сен а,	You said you wanted to get air pods, buy a vibrator instead of it.
+	а ай-	
+	air pods-ты тапсыр да,	
+	соның орнына сатып ал.	
+SPK0035	Советую вакуумный,	Try a vacuum one, it costs 3 times less. You can buy three of them.
+	стоит,	
+	раза в три дешевле.	
+	Ты можешь,	
+	три вида купить @@@	
+SPK0034	Negative,	Negative, yeey.
+	е.	
+SPK0035	Slay.	???
+SPK0034	Три ви-	Did you say vacuum one? Is it the one with suction cups?
+	ой,	
+	вакуумный дейсің ба?	
+	Этот который с присосками?	
+SPK0035	Вакуумный.	Vacuum one.
+	М.	М.
+SPK0034	Который как пингвин выглядит?	The one looking like a penguin?
+SPK0035	М.	М.
+	И ол тағы не,	Looking like this thing on a dolphin.
+	нет ол как,	
+	э,	
+	не,	
+	дельфиннің,	
+	э,	
+	несі сияқты,	
+SPK0034	М.	М.
+SPK0035	қанаты сияқты.	
+SPK0034	А,	These ones?
+	вот эти которые?	
+SPK0035	Ну нет,	Not really this one, this one is for outer lips, but there is also the one for a clit.
+	олар емес,	
+	ол для,	
+	внешних губ.	
+	А есть,	
+	для клитора.	
+	Вакуумный он для клитора.	
+SPK0034	Мне кажется вот эти которые с усиками,	I think the one with antennae is more effective because...
+	более эффективные потому что,	
+	э,	э,
+	#--	
+SPK0035	It-	It depends, it depends. You know it depends.
+	It depends,	
+	it depends.	
+SPK0034	Иә,	yes, some people like it this way, some that.
+	it depends,	
+	кейбіреулеріне,	
+SPK0035	You know it depends.	
+SPK0034	Кейбіреулеріне,	
+	былай,	
+	напрямую контакт ұнайды кейбіреулеріне там,	
+	еще в процессе типа сначала начинает там,	Also you can start with a clit and then cover the outer parts.
+	с,	
+	самого клитора,	
+	потом,	
+	типа,	
+	шетіне қарай.	
+SPK0035	Иә.	Yes, maybe you need a universal one, but I root for vacuum vibrators.
+	Мүмкін саған универсальный керек,	
+SPK0034	#--	#--
+SPK0035	но я за вакуумный.	
+SPK0034	Все--	Yes, it depends. I think the one looking like a microphone is better.
+	все от человека зависит.	
+	Мне кажется лучше вот этот который как микрофон,	
+	выглядит.	
+SPK0035	Да.	Yes.
+SPK0034	Просто,	You can cover different things with it.
+	можно,	
+	напрямую можно там,	
+SPK0033	И микрофон еще.	And it is also a microphone.
+SPK0034	другие места.	
+	Микрофон сияқты түрі.	The one like a mic.
+SPK0035	Иә,	Yes, very big, Look at this size.
+	өте дәу.	
+	Қазір мен саған размерін,	
+SPK0034	А ондай @	And also...
+SPK0035	мынандай.	
+	Мынандай.	Like rhis.
+SPK0034	Мынандай и--	Like this and like this.
+SPK0035	Вот этот сияқты ####?	Is it this one?
+SPK0034	Мынандай--	
+	Бля,	Big big question.
+	сұрақ,	
+	үлкен сұрақ.	
+	Үлкен.	
+SPK0035	Үлкен,	Very big question.
+	сұрақ.	
+SPK0034	И жоқ,	No no, do you know that one looking like a bullet? It is better.
+	андай пуля сияқты болады ғой еще лучше.	
+SPK0035	(H)	(H)
+SPK0033	А.	А.
+SPK0035	Пуля сияқты сатып ал,	Buy it, you can...
+	еще оны можно,	
+SPK0034	У них размеры вот такие.	They have these sizes.
+SPK0035	Ты можешь--	
+SPK0033	Не хочу я,	"I don't want to type ""vibrators"" in a search bar because they will target me with similar ads."
+	в поиск писать вибратор,	
+	потому что у меня ### будет считать эти данные,	
+	там будет рекламу показывать.	
+SPK0035	Эй жоқ.	No, no. I will send you the link on Kaspi, I trust this particular shop.
+	Мен саған каспи жібере аламын.	
+SPK0034	#####.	#####.
+SPK0035	Мен сағат ссылкасын жібере аламын,	
+	проверенный,	
+	shop-қа.	
+SPK0034	андайда,	There is nothing on Kaspi.
+	ол,	
+	каспиде жоқ.	
+	Эм,	
+	каспида,	
+SPK0035	@	@
+SPK0034	каспи ## ###.	
+SPK0035	@@@	@@@
+	Короче,	Also, the one like bullet is very sneaky, it looks like a keychain.
+	как пуля,	
+	он еще как этот,	
+	брелок сияқты тақсаң болады,	
+	ешкім байқамайды.	
+SPK0034	М.	М.
+SPK0035	Шын айтамын.	To tell you the truth.
+	Ондай,	It is very fancy.
+	c-	
+	fancy,	
+	fancy,	
+	такой,	
+SPK0033	Иә,	Did you see my keys?
+	ты видела мои ключи @	
+SPK0034	Да.	Yes, and your ass will fit it nice.
+	Сенің көтің нендей кішкентай ғой ананың размері.	
+SPK0035	Да да да.	Yes yes yes.
+	Эй жоқ.	No no.
+SPK0034	А не.	Oh, no, the key ones.
+	Как ключи да.	
+SPK0035	Мыны-	This one like a bullet.
+	мынандай.	
+	мынандай.	
+	Пуля.	
+SPK0034	Типа.	You can use it in whatever way you want.
+	их можно как угодно использовать вообще.	
+SPK0035	Да.	Yes, you can also... Bro, you there is remote control too.
+	Оны еще--	
+SPK0034	Массажер для лица.	For example to do face massage.
+SPK0035	Блин,	
+	брат,	
+	брат,	
+	оны,	
+	дистанционное управлениесы бар.	
+	@@@@	@@@@

@@ -1,0 +1,546 @@
+speaker	span	translation
+SPK4010	Теңсіздікті	In many developed countries there are many problems with inequalities, that is why the programs that aim at mitigating them are being planned.
+	жоятын программаларды	
+	э ау	
+	ойластырып жатыр	
+	Себебі	
+	бір	
+	көптеген	
+	дамып	
+	жатқан	
+	эм	
+	елдер	
+	Олар көптеген қиыншылықтарды көріп жүр	
+	Осы бағытта	
+	болашақта	In future, I want to make my own contribution.
+	өзімнің	
+	бір	
+	үлесімді қосқым келеді	
+	Осы	I wish fewer people died from hunger.
+	э	
+	азырақ адамдар	
+	эм	
+	аштықтан қайтыс болсын деп	
+	Эм	Today many children suffer from curable diseases, but their countries lack vaccines or the health programs are not developed right.
+	емделетін аурулардан қазір көптеген балалар эм	
+	қатты зардап шегіп жатыр өйткені оларда бір вакцина жоқ	
+	немесе олардың мемлекетінде	
+	эм	
+	осы	
+	көмек беру	
+	бағдарламалары	
+	дұрыс дамымаған	
+	сондықтан	That is why for the next two years I will study in the direction of Political Development.
+	осы	
+	болашақтағы екі жолды	
+	эм политикалық девелопмент	
+	осы даму саясаты бағытыны	
+	бойынша	
+	оқимын	
+	Содан кейін	After that I am planning to work in such organizations.
+	өзім бір	
+	осындай	
+	эм	
+	организацияларда жұмыс істеймін деп э	
+	Эм	
+	ойлаймын	
+	Бір	I like helping out people; that is why, in my opinion, this career path suits me well.
+	адамдарға көмектесуді өте жақсы көремін сондықтан менің ойымша	
+	осы бағыт	
+	маған өте өте	
+	эм	
+	(TSK)	
+	ту-	
+	тура келеді деуге болады	
+	Білмеймін сол	Don't know, considered different options, now I am considering foreign universities.
+	өйт--	
+	былай қарап	
+	олай қарап	
+	эм	
+	таңдадым	
+	Сонда бір	
+	эм	
+	шетелдегі университеттерді	
+	эм	
+	қарастырып жатырмын	
+	Мен қазір	I will be taking IELTS in 2 weeks, so I have to prepare for it now. Besides, there is a motivational letter to be written.
+	мен	
+	екі аптадан кейін уже айелтс	
+	тапсырамын соған дайындалу керек	
+	Иә содан кейін	
+	анау мотивационный письмоның	
+	тоже	
+	жазуды бастау керек	
+	Бірақ менің басымда	But I have nothing in my head now: what to start with, which university I am interested in - it bothers me a lot.
+	ноль	
+	идея	
+	Неден бастап	
+	қалай	
+	университетті қызықтырамын деген сұрақтар қазір @ көп @ менің @ басымда	
+	Эм	But I have made initial steps. I have chosen the program and the direction, and now there is only documentation left.
+	бірақ менің ойымша бірінші қадамдарды	
+	жасадым	
+	Осы	
+	бағдарламаларды таңдадым	
+	Эм	
+	қандай бағытта	
+	эм жүретінімді таңдадым енді бір мындай	
+	Документтерді жинау процессі қалды маған	
+	Сен де м э	What about your Master's? Did you choose a direction?
+SPK4011	Мхм	Mhm.
+SPK4010	магистратураға барасың ғой сен	
+	Эм	
+	бағытты таңдадың ба	
+SPK4011	(TSK)	Mhm. Can I share my impressive plan first?
+	Аха	
+	қазір мен осы айтып бергенмін одан бұрын айтып тастайыншы керемет	
+	эм	
+	план	
+	Керемет	
+	impressive дейді ғой	
+	Себебі	Not to get jinxed, but the majority do not like this question or haven't decided yet.
+	ну тфай тфай эм	
+	э	
+	көзім тимесін	
+	Просто	
+	мм	
+	(TSK)	
+	көбісі	
+	ну бұл сұрақты ұнатпайды или	
+	әлі	
+	таң-	
+	өздері	
+	шешпеді ##	
+SPK4010	Мен осы сұрақты	"I want to discuss this question with everyone, with my friends, but they won't do it because it is stressful and I am thinking ""Why?"""
+	әрбір адаммен	
+	осы сұхбаттасқым келеді өйткені мен	
+	достарыммен сөйлескенде	
+	олар	
+	стресс болады да оларда @@	
+SPK4011	Иә @	Yes.
+SPK4010	И қойшы--	
+SPK4011	Депрессия	Depression.
+	@@@@@	
+SPK4010	Ол туралы сөйлемейікші деп айтады мен неге	They say 'Let's not talk about it' and I ask why?
+	Бізге керек қой ол	We will need it in the future, won't we?
+	болашақта келеді ғой @	
+	Деп айта болады	
+SPK4011	Иә иә	Yes, same. I wish you good luck with that.
+	Тоже солай	
+	Сол үшін	
+	эм	
+	мен саған тек қана сәттілік тілеймін	
+	Мен	I know, I have read about village programs.
+	ауыл бағдарламалары туралы білемін оқығанмын	
+	Көбінесе ондай	"Mostly in those Telegram and Instagram groups, you know, the ones names like ""Opportunities."""
+	мм	
+	(TSK) телеграммда немесе инстаграммда отырасың ғой группалар болады ғой ондай	
+SPK4010	иә иә	Yes yes
+SPK4011	возможности	
+	деген сияқты	
+	Сонда көп көретінмін сондай	There I used to see many internships and volunteering opportunities from UNESCO and the UN.
+	әртүрлі волонтерские программы	
+SPK4010	Мхм	Mhm.
+SPK4011	немесе сондай стажировкалар	
+	от ООН	
+	ЮНЕСКО деп көп келе жататын	
+SPK4010	Мхм	Mhm.
+SPK4011	Соның бәрі қызық болатын бірақ маған менің бағытыма келмегеннен кейін менің мейджорыма келмегеннен кейін мен просто	I mean they were good, but since they were not related to my  track, major, I would just say cool.
+	оқитынмын күшті екен деп қоятынмын	
+SPK4010	Мхм мхм	Mhm.
+SPK4011	А вот	What I liked there though were the programs related to children support. Myself those programs-
+	соның ішінде әсіресе маған ұнайтын	
+	м	
+	(TSK)	
+	балаларға көмектегені себебі мен өзім	
+	осындай	
+	волонтерские программы	
+SPK4010	Мхм	Mhm.
+SPK4011	соның ішінде именно	Among all those global problems like water and hunger, I felt the most sorry for children, I am a person who wants to help them.
+	просто там жаңағы	
+	аштық	
+	су	
+	проблемалардың глобальный ішінде	
+	вот именно	
+	балаларға өте қатты өзім	
+SPK4010	Мхм	Mhm.
+SPK4011	жаным ашиды мысалы соларға қатты	
+	өзім көмектескім келетін адаммын да	
+	а	That is why I am happy when I see such programs. So I wish you good luck with entering the program you want.
+	сол үшін соларды көрген кезде қуанып жатамын сондай бар екеніне	
+SPK4010	Иә иә иә	Yes yes yes.
+SPK4011	сол мен сол үшін саған тек қана сәттілік	
+	А	
+SPK4010	@	@
+SPK4011	қайда	
+	барып түскін келсе де түсіп кетесің деген үміттемін	
+SPK4010	Иә	Yes.
+	Ал мен болашақта президент болайын	Yeah. And if I become president, will you give me your vote? OK?
+SPK4011	А	
+	мен	
+SPK4010	сен маған өзіңің дауысың	
+SPK4011	Иә @@@@@	Yes.
+SPK4010	дауысыңды бересің	
+	жарайды ма @@@@	
+SPK4011	Жарайды	I will remember that. I will say that I knew this girl in my fourth year and will be proud.
+	мен	
+	есімде болады	
+	сенімен сөйлескенім сосын ойлаймын	
+SPK4010	@	@
+SPK4011	(TSK)	
+	төртінші курста мен бұл қызбен танысқанмын деп	
+SPK4010	@@	@@
+SPK4011	(TSK)	
+	мақтанып жүретін боламын	
+SPK4010	Иә иә иә @	Yes yes yes.
+SPK4011	А	So, let me answer first to my question?
+	сосын	
+	менің сұрағыма жауап берейін	
+	А	
+	сұрағыңа жауап бермей тұрып мен айта салайыншы	Before answering your questionm I forgot to tell a funny thing before.
+SPK4010	Мхм	Mhm.
+SPK4011	Э	
+	прикольно бағаңа айтуды ұмытып кетіппін	
+	Мен	
+	эм	When I was small, and when I was being born, you know that relative named a godmother?
+	кішкентай кезімде	
+	вообще мен	
+	немді	
+	мм	
+	(TSK)	
+	туылған кезде	
+	кіндік шеше деген болады ғой	
+SPK4010	Мхм	Mhm.
+SPK4011	Эм	You know, the one that cuts your umbilical cord, they are your godparent. The doctor, that is my Godfather, that was in the maternity hospital is a minister now.
+	который кіндік бала	
+	потом этот	
+	кеседі	
+SPK4010	Мхм	Mhm.
+SPK4011	кіндікті сондай адам кіндік шеше болып	
+	считаться етеді сол	
+	менде	
+	роддомда болған	
+	врач	
+	оказывается	
+	қазір	
+	а	
+	министр болып отыр екен де	
+SPK4010	Вау	Wow.
+SPK4011	Иә	And my mother often reminds me of my Godfather minister.
+	И	
+	сосын	
+	мен	
+	жай күнде жүрген кезде	
+	мамам мені соны қайта қайта шақырып көрсетеді де типа вот	
+	сөйлеп жатыр сенің кіндік шешең кім	
+SPK4010	Аха	Yeah.
+SPK4011	не не деп	
+	Сосын	My mother used to say to me that if I look carefully at his path to become like him.
+	Эм	
+	соның бәрі	
+	сонда	
+	с	
+	айтатын типа	
+	ол кісі	
+	министр болғалы	
+	біраз жыл болып қалды да сол	
+	бұрын маған айтатын	
+	вот	
+	сол кісінің жолын беріп сен де министр боласың боласың деп	
+SPK4010	@@@	@@@
+SPK4011	сосын айтайын дегенмін	That's why I wanted to say if you will be a president, than I will be your minister.
+	(TSK)	
+	президент болсаң @	
+	мен министр боламын @@	
+SPK4010	@@@	@@@
+SPK4011	@ білмеймін ішінде қандай министр боламын	Not sure which one though, maybe the Minister of Education.
+SPK4010	Иә иә иә	Yes yes yes.
+SPK4011	какой именно	
+	скорее всего образование бірақ енді көреміз	
+SPK4010	Мхм	Mhm.
+SPK4011	сол үшін	
+	(TSK)	
+	А	But in general, if the God allows me, I will be a Master's student.
+	вот	
+	ал	
+	негізі	
+	мен	
+	иә бұйырса магистратураға тапсырамын тоже	
+SPK4010	Министр экономики боласың ба	Will you be a minister of economy?
+SPK4011	(TSK)	
+	А	
+SPK4010	@@	@@
+SPK4011	Болмаймын	No, not really. I just want to choose a major and apply to a university.
+	со	
+	cол бағытымды таңдаймын болды @@@	
+SPK4010	@@@	@@@
+SPK4011	Магистратураға сол жаққа кетемін	
+	ммм (TSK)	
+	план бар	
+	Aа	The most important thing is that I will enter the university, for sure.
+	негізі	
+	(TSK)	
+	магистратураға	
+	түсемін деп иә өзім таңдап қойдым	
+	а	
+	точно тапсырамын	
+	Aa	The plan is the following: next year, probably until March, I will be busy with the documents, because in the US universities, the deadline is until winter, something like December or November.
+	негізі план былай	
+	а	
+	келесі жылдың примерно	
+	мартқа дейін	
+	магистратурамен жүгіріп жүремін документ өткіземін өйткені	
+SPK4010	Мхм	Mhm.
+SPK4011	м АҚШтан	
+	университеттеріне көбінесе дедлайн	
+	қысқа дейін ғой	
+	декабрь	
+	ноябрь сондай да	
+SPK4010	Менікі октябрь вообще бірінші	Mine is the 1st of October.
+SPK4011	###	
+	вот	"There is also a thing called ""Early decision,"" I mean, in Europe, it continues until March, so I am thinking of preparing the documents until March, yeah."
+	иә	
+	early decision деген бар ғой еще	
+SPK4010	Мхм	Mhm.
+SPK4011	а кімдікі	
+	еуропаныкі	
+	в основном ол	
+	жалғаса береді бірақ примерно мартқа дейін сондай да	
+SPK4010	Мхм	Mhm.
+SPK4011	и	
+	өзім ойлаймын соған дейін	
+	документтер тапсырамын	
+	aа	So, I will be busy with the Master's, and after March when I am done with it, until June, while the results and everything will be slowly coming out, I will find a job or maybe an internship.
+	сол магистратураның қамымен жүгіріп жүремін деп	
+	a содан кейін уже c	
+	марта	
+	примерно	
+	осы	
+	июньге дейін пока результаты	
+	шығады	
+	и	
+	универ	
+	официально бітіргенге дейін уже жұмысқа лақтырамын ба деп	
+SPK4010	Мхм	Mhm.
+SPK4011	или стажировка	
+	Aаа	I will then consider which one is more profitable for me because we all know that even though I want to apply to Master's, it is very expensive.
+	одан кейінгі жұмыс	
+	offer	
+	job offer мен	
+SPK4010	Мхм	Mhm.
+SPK4011	Вот а	
+	и	
+	план сондай и	
+	потом соның ішінде қарастырамын да қайсысы	
+	выгоднее болады соған кетемін өйткені	
+SPK4010	Иә	Yes yes yes.
+	иә иә	
+SPK4011	магистратураға	
+	өзім	
+	оқығым келеді конечно же бірақ онда	
+	ол үлкен	
+	өте үлкен	
+	қаражат	
+	ақша	
+	Эм	To get a stipend, you must be one of a kind, an outstanding student.
+	(TSK)	
+	стажи ы именно не жеңіп алу эм	
+	эм	
+	стипендия жеңіп алу өздерінікін ол қиын	
+SPK4010	Мхм	Mhm.
+SPK4011	оған сен прямо	
+	outstanding	
+	студент болу керексің ол үшін	
+SPK4010	Мхм	Mhm.
+SPK4011	ол а ол өте қиын	
+	ал	
+	Болашақ деген бар мысалы # бірақ Болашақпен қайтып келгеннен кейін	"Also there is a ""Bolashak"" program, but we don't know whether we will have to work in Kazakstan after studying or not."
+	э	
+	Қазақстанда бес жыл	
+	отработка деген бар	
+	Өзіміздің # оқығаннан кейін отработка непонятно ол оған барып қосыла ма	
+SPK4010	Иә	Yes
+SPK4011	жоқ па	
+SPK4010	Иә иә @@@	Yes yes.
+SPK4011	Сол былай	Wasting all my time that I spent studying.
+	басқа түк кететін болды онымен	
+	Сол үшін	So, which one is better - that one I will choose.
+	эм	
+	смотря вот	
+	если ты магистратура	
+	как	
+	получится	
+SPK4010	Мхм	Mhm.
+SPK4011	вообще қайсы выгоднее болады	
+	сонымен	
+	сол жолмен кетемін деп ойлаймын да	
+	или	
+	(TSK)	
+	хотя бы бір жыл жұмыс жасап	Or maybe I will go to Master's after working for one year, who knows.
+	одан кейін	
+	магистратураға может содан кейін түсемін бірақ	
+SPK4010	Мхм	Mhm.
+SPK4011	в планах	
+	әйтеуір бәрібір магистратураны	But of course I would at least go to Master's.
+SPK4010	Мхм	Mhm.
+SPK4011	точно оқып ####	
+SPK4010	АҚШта магистратурада олар GRЕ сұрайды ма	Do they ask GRE in the USA?
+SPK4011	А	No, no, they removed it.
+SPK4010	## #	## #?
+SPK4011	жоқ	
+	кстати	
+	қазір	
+	көбісі	
+	алып тастапты GRЕ-ді	
+SPK4010	Эм	Oh, that's good, huh?
+SPK4011	точнее мм	
+SPK4010	күшті иә	
+SPK4011	Эм	
+	иә	I mean if you have one, that is OK, but they won't make you pass it.
+	э	
+	обязательно емес деп	
+SPK4010	Аха	Aha.
+SPK4011	то есть көбісі	
+	м	
+	тапсырсаң болады бар болса бірақ эм	
+	біз сені	
+	заставлять етпейміз @ дейді ###	
+SPK4010	Мхм	Mhm.
+	мхм	
+SPK4011	Өйткені еще осы пандемия кезінде	Because even during the pandemic, people discussed that GRE looks like our ENT, it isn't abour your knowledge but rather your ability to pass the test.
+	көбісі айтады да	
+	GRE ол біздің ЕНТ сияқты да	
+	сенің	
+	эм	
+	полностью	
+	потенциалыңды көрсетпейді деп	
+SPK4010	Әрине де	Yes, agree with you. It just shows that you can take an exam under the stress for four hours.
+SPK4011	Ол сен жай ғана осы экзаменді	
+SPK4010	Ол стресстың астында сен	
+	осы	
+	экзаменды қалай тапсыра алатыныңды тексереді себебі ол	
+SPK4011	иә	Yes.
+SPK4010	төрт сағат па	
+	Иә	
+	Ол	
+SPK4011	Иә иә иә	Yes yes yes.
+SPK4010	Экзамен	
+SPK4011	Осы дайындала аласың ба	That is why most people look at your CV and motivational and recommendation letters.
+	еще	
+	соны	
+	соны ғана тексереді дейді	
+SPK4010	##	##
+SPK4011	сол үшін	
+	көбісі	
+	СV -шкаға	
+	сосын	
+	мотивационное письмо дегендерге қарайды сол көбісі	
+SPK4010	Мхм	Mhm.
+SPK4011	рекоммендейшн дегенге	
+SPK4010	Иә иә күшті	Yes, good.
+SPK4011	сол	
+	А так эм	But yes, so far I haven't chose the program, university or the country.
+	мен әлі	
+	мемлекет	
+	немесе университет	
+	таңдамадым мен просто бағдарлама	
+	и бағыт ғана таңдап қойдым	I've just chosen the direction, I think it will be Data Science.
+	а	
+SPK4010	Мхм	Mhm.
+SPK4011	мен	
+	Data Science	
+	бағытымен	
+	эм	
+	бармақшымын	
+SPK4010	Иә	Yes, Data Science is a good skill.
+	өте керек бір скилл ол #	
+SPK4011	@@	@@
+SPK4010	data	
+	da-	
+	data science деген	
+SPK4011	Иә	Yeah, it is interesting and just started to grow.
+	и өте	
+	қызықты	
+	өйткені	
+	оның	
+	пока что ол енді ғана	
+	пайда болып келе жатқан не ғой	
+	мамандық қой	
+	(TSK)	
+	и	Also, many companies ask their employees to know some Data Science, becuase it is like a bubble or like a person with many hands who can do this and that.
+	негізі ол былай қарасаң как пузырь сияқты пока он не понятно кім екені потому что	
+SPK4010	Мхм	Mhm.
+SPK4011	әртүрлі	
+	компаниялар өзі	
+	әртүрлі адамды негізі	
+	сұрайды да сол үшін data science ол как қазір	
+	не сияқты бір	
+	бәленбай қолы бар адам сияқты бәрін может ананы да мынаны да деп	
+SPK4010	@@@	@@@
+SPK4011	а	
+	в будущем ол уже бөлінетін болады	And in future Data Science will divide more, but know yeah, many companies want those workers.
+	әр түрлі бағыттарға менікі пока что data science	
+	полностью	
+SPK4010	Мхм	Mhm.
+SPK4011	а	
+	мені еще қызықтырған	
+	момент ол	
+	а	
+	себебі	
+	(TSK)	
+	ол	
+	әртүрлі	
+	компанияға	
+	барлық жерде керек	
+	мамандық та то есть	
+SPK4010	Мхм	Mhm.
+SPK4011	мен қазір былай	Now I am searching for job offers and I've noticed that all jobs starting from cosmetology and all technical jobs require one to know data science.
+	жұмыстық	
+	job offer -ларды разный қарап отырсам интернетте мысалы үшін ол	
+	эм	
+	косметологияда да керек	
+SPK4010	Мхм	Mhm.
+SPK4011	мысалы үшін	
+	или сен более	
+	технический адам болсаң	
+	то какой-то IT компанияға барсаң болады	
+SPK4010	Мхм	Mhm.
+SPK4011	Немесе	I mean you just need to choose whatever is closer to you, it can even be business or marketing.
+	бизнеске қатысты болуы мүмкін	
+	то есть	
+	эм	
+	өзіңе қай жақ жақын	
+	НR болуы мүмкін	
+	маркетинг болуы мүмкін	
+SPK4010	##	##.
+SPK4011	Сол үшін	
+	өзін таңдап	
+	кете бере аласың	
+SPK4010	Мхм	Mhm.
+SPK4011	И эм	And the list is growing. So, keep studying, it is interesting to learn.
+	бітіп қалмайды да оның	
+	оқи бересін оқи бересін және	
+SPK4010	Иә иә Мен қазір білемін қазір барлығы	Yeah, I've also noticed that all jobs require some kind of data science and even Python.
+SPK4011	шыға береді в общем интересно изучать	
+SPK4010	Data Science және	
+	анау	
+	Python деген	
+	эм	
+	программирование тілін	
+	сұрайды барлық жерде	
+SPK4011	Мхм	Mhm.
+SPK4010	Сондықтан мен	That is why even me, a political science student, also needs to study Python, it isn't something extra.
+	өзім де	
+	байқадым	
+	даже мен	
+	осы политикалық science -ты оқитын	
+	эм	
+	адамдар	
+	бізге де Python	
+	осы артық болмайды екен	
+	Сондықтан осы жақында	That is why I will soon...
+SPK4011	Мхм	Mhm.
+SPK4010	мен де соны	
+	бір	
+	қарап	
+	бірақ мен	

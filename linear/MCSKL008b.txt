@@ -1,0 +1,198 @@
+speaker	span	translation
+SPK0031	Моншалары бар ғой деймін,	They have their own sauna I guess, am I right?
+	иә осы?	
+SPK0032	Кімнің?	Who?
+SPK0031	¬Жаниялардың.	Zhaniya and her family.
+SPK0032	Білмеймін.	I don't know.
+	Баяғыда,	
+	монша салып жатырмыз деп жүретін.	A long time ago, I remember she used to say she and her family was building a sauna.
+	Қайдан білемін.	How can I possibly know anyway.
+SPK0031	Болу керек ей.	They must have one though.
+SPK0032	## шығар.	Maybe ##.
+	Монша болмағанда енді.	Of couse they cannot not have a sauna (that would be weird if they did not have one).
+SPK0031	Құдай сақтасын.	Oh my god!
+SPK0032	Бар шығар.	They probably do have one.
+	Әгі жоя:н,	That big tree... I remember it was just two months old but it is still there these days, you know.
+	терек екі айлық болып тұрған анау әлі тұр ей.	
+SPK0031	А.	Come again?
+	Теректі айтасың ба?	You mean the tree?
+	Бас жағын кішкене ####.	#### the tip of it a bit.
+SPK0032	Бас жағы қурап ###	The tip of it is withering and ###.
+SPK0031	Бір терек,	One tree there is so white and is just withering.
+	бір терек аппақ болып,	
+	қурап тұр әшейін.	
+SPK0032	Иә?	Oh yeah?
+SPK0031	Сұмдық ей.	It is really awful you know.
+	¬Жанналар жақ шетте.	In the edge of the place where Zhanna and her family lives.
+SPK0032	Иә.	Yes.
+SPK0031	Екі терек қурап тұр.	Two trees are withering.
+	Бір терек әгінде,	The other time one tree...
+	ойба:й.	Oh my god.
+SPK0032	Соны анау,	If they cut them down, it is firewood for them.
+	отын ғой енді кескізіп алса.	
+	Электр,	They say they don't take down the tree because it is located close to the electrical system.
+	ана,	
+SPK0031	##	
+SPK0032	электрдің жүйесі жақын,	
+	құлатпаймыз дейді.	
+SPK0031	Иә,	Yes.
+	қо-,	
+	оны,	It..
+	Мына жағы бос екен,	This side of their house is empty, so they need to pull it towards their stayka.
+	өзінің,	
+	стайкісіне қарай,	
+	тарту керек ананы.	
+	Тартып байлап қойып құлатса,	If they tie it and pull it down, that's all what's needs to be done.
+	болды?	
+	Өзіне қарай тартып.	By pulling it towards themselves.
+	Ой құдай,	Oh god, who is going to do this anyway.
+	оны кім істейді.	
+	Ол үшін ұзын ####.	For this, a long ####.
+SPK0032	Істейтін ана қолқандай кісі жүр емес пе еді.	As you know, the big person who can do this job is there.
+SPK0031	Ей соны мм,	That is the thing. He is not there.
+	жоқ қой ол.	
+	Әйтпесе анау жанталасса қоя ма.	Because otherwise if he once start doing it, he won't stop until he is done.
+	Бәрін істеуге болады.	One could do everything.
+	##	He is just like some useless thing...sitting.
+	Бірдеңе әшейін отырған әшейін.	
+	Әгі жайлау екінші.	It is like he is in a pasture.
+	Содан #########	Then #########.
+SPK0032	######	
+SPK0031	Енді қайтеді.	What else will he do?
+	Жалғыз ол,	What can he accomplish alone?
+	не істейді.	
+	Құдай,	Oh my god!
+	ай.	
+SPK0032	Не бала ұсақ дейді,	He complains that his children are too young. And look at his mother, sitting and saying that he does not even have a job.
+	не,	
+	жұмыс жоқ дейді әне отыр шешесі.	
+	Енді ана,	She transfers her pension to that person.
+	пенсияны,	
+	анаған аударады.	
+	Сонда несі қалады.	If she does so, then what will she be left with?
+SPK0031	CLEARS_THROAT	
+	Несі қалады?	What will she be left with?
+	##	
+	Cол күнге дейін сол мәшінді алмай сол.	Them not buying a car until that day...
+SPK0032	Содан кейін әгі сиыр с-.	Then they said that they were thinking about buying one more cow.
+	Тағы бір сиыр сатып аламыз ба дегенбіз дейді.	
+	@	
+	# ұстап қалдым дейді.	He says he held # in the morning.
+	Таңертең дейді.	
+	¬Сапарәли айтты.	"Moldagali said, ""I go out and I just look at my front and back""."
+	Шығамын да алды артыма қарап тұрамын дейді.	
+	Баяғыда мен сөйтіп бұзау айдап жатқанда.	In the past, once when I was running after two calfs like that...
+	##########	
+	Соны мен де айттым.	"Then I said, ""There are many cows in the village. There are many cows in Sashke's house, people say, and there are many animals like that are for sale."""
+	Осы мына,	
+	ауылда көп емес пе.	
+	¬Сәшкенің үйінде сиыр көп дейді.	
+	Сол сияқты малдар көп қой енді сататын.	
+SPK0031	Иә сататын өзінің маңайынан алу керек ол.	Yes, he should buy from his own area, without having to buy from Kosan. Why the fuck bother with Kosan anyway?
+SPK0032	Сенімді нәрседен.	From something trustworthy.
+SPK0031	¬Қосаннан алмай Қосанда,	
+	оның неменесі бар әкеңнің аузын.	
+	CLEARS_THROAT	
+SPK0032	Сенімді кісіден.	From someone trustworthy.
+	@	
+SPK0031	(H) (Hx)	
+	(H) (Hx)	
+SPK0032	BURPS	
+	Күршім қандай ыстық деп қояды ¬Нүке.	"Nuke says, ""It is so hot in Kurshim""."
+	Күйіп тұр дейді.	He says it is searing hot in there.
+SPK0031	COUGHS	
+	COUGHS	
+SPK0032	Қой.	Alright.
+	Белім-ай.	Oh, my back!
+SPK0031	Жат енді.	Then just lie.
+SPK0032	Белім ісіп қалады.	My back gets inflamed.
+	¬Жаннаға массаж жасап берді о.	Kunnaz gave Zhanna a massage by applying that thing.
+	Әгі нені жағып отырып ¬Күнназ.	
+SPK0031	¬Жәнелге жасау керек белі ауырып жүр.	Zhanel needs to get a massage. Her back is hurting lately.
+SPK0032	¬Сәкөге жасадым дейді.	She said she gave Sako a massage.
+SPK0031	¬Жәнелге.	I mean Zhanel.
+SPK0032	Иә соны айтамын.	Yes, that's what I am saying.
+	######	
+SPK0031	И: әкең а.	Oh, your father!
+SPK0032	Көзі қандай көкпембек,	Oh look at this whore's blue eyes!
+	қаншықтың.	
+	Крем дейді.	She says cream.
+	Телохранитель.	Bodyguard.
+SPK0031	@Тү.	Oh!
+	###	
+SPK0032	Кешке дейін,	Kunnaz said she has been looking after Sako's daughter all day.
+	¬Сәкөнің қызын бақтым дейді ¬Күннәз айтады.	
+	Ұйықтағаны есептелмейді,	"She says, ""They will pay me for the hours before she fell to sleep, excluding the time when she was sleeping."""
+	соған дейінгі @ақшамды @төлейді.	
+	@	
+	Әкәм-ау айырылмай,	I mean, wow, you couldn't seperate them two, with the kid even falling asleep in her arms.
+	алдында ұйықтап.	
+SPK0031	#.	
+SPK0032	Әгі біти,	That little, yellow girl.
+SPK0031	Кімнің алдында.	In whose arms?
+SPK0032	сары қыз.	
+SPK0031	Кімге барып жүр ол.	Who does she go to?
+SPK0032	¬Күннәзға барып жүр.	She goes to Kunnaz.
+SPK0031	¬Күннәзға қайдан барады ей?	Why would she go to Kunnaz?
+SPK0032	Құдай-ау,	Oh my good.
+	айырылмай,	She (Kunnaz) said that she (the girl Kunnaz looked after) even calls her 'nana', and the two of them never seperate.
+	нәнә деп айтады дейді.	
+SPK0031	Ой Алла.	Oh God!
+SPK0032	Соны құшақтап,	She was hugging her...
+	жаңа тама—	Just now...food...
+SPK0031	Бізге келмейді ол.	She does not come to us.
+SPK0032	Бізге келмейді.	She does not come to us.
+	Тамағын беріп.	She gave her (the little girl) food after which she fell asleep in her arms, she (Kunnaz) says.
+	Алдында ұйықтап қалды дейді әгі.	
+SPK0031	###.	
+SPK0032	Содан кейін ана боқасын айтады екен.	Also, the little girl tells when she needs to poop apparently.
+	Бөкә деп айтты дейді.	Kunnaz said that she said 'poop'.
+	Бір горшокқа отырғызып алып,	"Kunnaz said, ""When I put her on the potty... she actually wanted to sit on the potty by herself""."
+	өзі отырып алады дейді.	
+SPK0031	Пәлесін қара.	Oh, look at how naughty she is!
+	###	
+SPK0032	@	
+SPK0031	###	
+SPK0032	@@	
+	## пәле екен.	Apparently, she is naughty ##.
+SPK0031	Мхм.	Yes.
+	Дәл өзі екен.	He looks just like her.
+	Кемпір сияқты.	Just like an old woman.
+SPK0032	Мен айт—	I said...
+SPK0031	Ба—	Head...
+	Басты қарашы.	Look at this head...
+SPK0032	А.	What?
+SPK0031	дене жоқ,	There is no body, just a head sticking out.
+	құр бас шығып тұр.	
+SPK0032	¬Дикош та ####	Dikosh aslo ####.
+SPK0031	Ау.	Come again?
+SPK0032	¬Дикош та келді жаңа Күршімнен.	Dikosh also came from Kurshim just now.
+SPK0031	Иә.	Oh, yes.
+	Қайда барасың.	Where are you going?
+SPK0032	Ана жаққа барамын енді не істеймін.	I am going there, what else am I supposed to do?
+	(Hx)	
+SPK0031	Әгі қа—	That...
+	Нені әперіп жіберші әгі ##	Could you please pass that thing to me ##?
+SPK0032	(Hx)	
+	Мәйіт табылды деді.	A body was found they said.
+	Құдай-ай сақтай гөр.	Let God protect us.
+SPK0031	Екеуі де өліп қалыпты.	They both died.
+SPK0032	А.	Come again?
+SPK0031	Келіншегін өлтіріп,	After killing his wife, he then hung himself apparently.
+	содан кейін өзі асылып қалыпты.	
+	Келіншегін тұншықтырып өлтіреді дағы?	So after suffocating her wife to death ...
+SPK0032	Атырау,	Atyrau district.
+	облысы.	
+	Ажырасу кезінде дейді.	She says during divorce.
+	Қайда дейді.	She said where?
+SPK0031	Тұра тұр тұра тұр.	Hold on hold on.
+	Тележканың астында отырған баланы басып кетіпті алты жасар баланы.	Apparently, a six-year-old child sitting under a tractor trailor was run over.
+SPK0032	(TSK)	
+	Трактор #	Tractor.
+	Салтанат Әзірбек қалай семіріп алған құдай сақтай гөр.	"Oh my God, how on Earth Saltanat Azirbek got so fat, with all her face going ""flop-flop""."
+	Бет ауызы салп-салп етіп.	
+	Милиция келіншекті айтамын.	I am talking about the police woman.
+	Кәмпиттері қайда тұр өзі.	Where are all their candies?
+	#####	
+	###	
+	##	

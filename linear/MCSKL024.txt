@@ -1,0 +1,1095 @@
+speaker	span	translation
+SPK4001	Секіре алмаймын	I can't jump.
+	Бір	How long is it from this place?
+	жерден	
+	мынау қандай болады	
+	Жиырма сантиметр ма	Is this twenty centimeters?
+	мынау	
+	Жиырма сантиметрге секірсем	If I jump for twenty centimeters, it is okay.
+	нормально	
+SPK4002	Нет это больше	No, it's longer or twenty two.
+	или двадцать два	
+SPK4001	Ну солай жиырмаға шамалы	Yes, around twenty.
+SPK4002	Солай иә	Yes, like that.
+SPK4001	Спорт	"Well, if we say ""sport"" , what if we go to beach, near the shore if we find a place, for example."
+	спорт дегенде	
+	пляжға барсақ	
+	мысалы судың жағасына	
+	бір жерге	
+	тапсақ баратын жер	
+	Волейбольный	We can play voleyball with a ball.
+	доп алып	
+	ойнауға болады ғой	
+SPK4002	Мхм	Mhm
+SPK4001	Екі	Secondly, we can merge two plans.
+	Мысалы екі планды қосып жіберіп	
+	дейтін сияқты	
+	Настольный теннистің	Table tennis..
+	ААА	
+	Біздің жақта десятый микрорайон бар ғой	You know the Tenth neighbourhood?
+	сонда	There, there are new table tennis tables (facilities).
+	үйлердің	
+	жанында нелер бар ғой	
+	новыйдан салынған	
+	Настольный теннистің	
+	столдары бар	
+SPK4002	мхм	mhm
+SPK4001	ммм	
+	Олардың	They have a net in the middle, right?
+	ортасында тұратын	
+	сеткасы болады ғой	
+	Ондайы жоқ сияқты	Apparently, they don't have them.
+	ммм	
+SPK4002	Қай жақта дейсің	Where are they, you saying?
+SPK4001	и біздің жақта новый район салынды ғой	Well, the new neighborhood was built near us, right?
+	¬Диананың үйінің жанындағы	Those houses in front of the ¬Diana's house side.
+SPK4002	ААА	AAA, yes, yes, yes.
+SPK4001	алдындағы үйлер	
+SPK4002	иә иә иә	
+SPK4001	Вот	Well, last year there were new tables, this year, mm, I don't know how are they after the winter.
+	Сол жерлерде	
+	енді былтыр новый болды ол	
+	столдар	
+	Биыл	
+	ммм	
+	қыстан кейін	
+	қандай екенін білмеймін	
+	Назар аудармадым ондайға	I have not paid attention to it.
+SPK4002	иә	Yes.
+SPK4001	МММ	
+	Менің	My brother's son goes to, what I have said, to pingpong classes.
+	ағамның баласы:	
+	неге барады ғой	
+	сол пи нгпонгтан	
+	айттым ғой	
+SPK4002	иә иә	Yes, yes.
+SPK4001	үйірмеге барады	
+	Ол	He bought two tennis rackets.
+	екі ракетка алды	
+	Басында біреуін алды	At first, he bought one, later after saying it was not good, he bought more expensive one.
+	сосын	
+	ол онша емес дегесін	
+	кішкене қымбаттауын алды	
+	Ана	I am going to take the first one to play when I go to the university.
+	басында біріншісін	
+	мен алайын деп отырмын	
+	университетке барғанда	
+	ойнауға	
+SPK4002	мхм	mhm
+SPK4001	Ойнамасам біреуге сатып жіберемін	If I don't play, I don't know, I am going to sell at more expensive price to someone
+	білмеймін	
+SPK4002	иә иә	Yes, yes.
+SPK4001	Қымбаттырақ	
+	Соны сұрап алып	I can ask that and later find it in another place, right?
+	сосын тағы бір жерден табуға	
+	болатын шығар да	
+SPK4002	Нені	What? That table?
+	Сол	
+	столды ма	
+SPK4001	Ракетка	Racket, racket.
+	ракетка	
+SPK4002	А ракетка иә	Aah, racket, sure.
+SPK4001	Ракетка болса	If there is a racket in our house, there is its small ball too.
+	біздің үйде	
+	добы да бар сияқты	
+	кішкентай	
+	Анда өзіміз ойнай бере аламыз ғой	We can play there by ourselves.
+SPK4002	Күшті екен	So good.
+SPK4001	иә ###	Yes...
+	GASP	
+	Сумкасын көріп тұрсың ба	Do you see her bag?
+SPK4002	иә	Yes.
+SPK4001	Ойыншықтың несін	"That toy's.., ""Stray Kids."""
+SPK4002	Ана не ғой	Is it that..?
+SPK4001	Стрей кидс	
+SPK4002	иә	Yes.
+	Банчандікі	Banchan's?
+SPK4001	иә	Yes, so good.
+SPK4002	Офигеть	Wow.
+SPK4001	Күшті екен	
+SPK4002	Еще үсті мынандай	Also the front of it is like this, like a model
+	модель сияқты прям	
+SPK4001	иә	Yes.
+SPK4002	Күшті күшті	Good, good, something was like a piece by piece.
+	кусок кусок болыпты	
+	бірдеңе	
+SPK4001	Мына жерге отырғың келмейді ма	Don't you want to sit here, on the chair
+SPK4002	Жоқ:	No, it's just the owner is going there
+SPK4001	отырғышқа	
+SPK4002	Анда хозяйка жүр	
+	просто	
+SPK4001	Мына жерге отырсаң ше	What if you sit here?
+SPK4002	Ей ладно	Well, just sit, there is nothing bad about it.
+	отыра бер	
+	Ничего страшного	
+SPK4001	МММ	
+	МММ	
+	Тағы не деп жаздық	What else did we write?
+	біз	
+SPK4002	Қазір мен қарайын	Let me look now.
+	Бильярд	Billiard.
+	Хотите	Do you want it?
+SPK4001	Бильярдқа болады	I am up for the billiard.
+	Оны кішкене	We have to watch about it on youtube a little.
+	ютубтан қарап	
+SPK4002	Сол ойлап тұрмын	I have been thinking of it, there is a person mentoring you.
+	там қасында жүретін адам болады	
+	или	Or, is there a need to come with a person who knows, firstly?
+	білетін адаммен барып келу керек па	
+	бірінші	
+	Менің нағашым біледі	My mom's relative knows. He owns a game shop.
+	Ойназавры бар	
+	Танцует	He dances too.
+SPK4001	Ойназарвға барайық	Let's go to the game shop.
+	Ойындар ойнамыз	We will play a lot of games.
+	көп:	
+SPK4002	Адам жинайықшы	Let's gather people.
+	сен неше адам шығасың	How many people would you come with?
+	мен:	
+	постараюсь кого нибудь вытащить	I will also try to go with someone.
+	тоже	
+	Жанлары екі бастадым	
+SPK4001	Ugh	
+	Clickin the tongue)	
+	Мен кетпестен бұрын	Before I will leave, haven't I told about —Sara that she is in a university?
+	¬Сараны айттым ғой	
+SPK4002	Мхм	Mhm
+SPK4001	Университетте деп	
+	Ол мында келеді	She will come here.
+	Қай күні келетінін	I don't know on which day, forgot it.
+	білмеймін мен	
+	ұмытып қалдым	
+	Бірақ августтың басында сияқты	But it seems that in the beginning of August.
+SPK4002	Мхм	mhm
+SPK4001	Как раз сол уақыттарға	We can, well, gather at that time.
+	ЭЭЭ	
+	шамалап	
+	не істеуге болады ғой	
+	жиналып	
+SPK4002	Сен августтың төрті	You will leave by August the fourth, right
+	уже кетесің ғой	
+SPK4001	иә	Yes.
+	июльдің соңында келе ма:	Will it come in the end of July?
+	ол	
+	Бір аптадай	It seems that we will [gather] for a week until I will go.
+	не істейтін сияқтымыз	
+	мен кеткенше	
+SPK4002	Ол анда жұмыс істеп жатыр ма	Is she working there?
+SPK4001	Жоқ онда оқиды ғой	No, she studies there.
+SPK4002	Ай	Oh
+	Всмысле	What do you mean?
+SPK4001	Жазда	In summer..
+SPK4002	Жазғы триместрға ол	Did she stay for a summer trimester
+	қалды ма не	
+SPK4001	иә иә	Yes yes.
+	Триместр дегенде ол	Well, to say, trimester is not that she won't pass unless she takes exams.
+	не емес	
+	андай	
+	тапсыра алмай қалып	
+	өтпей қалып отырған жоқ	
+	Ол керісінше	Conversely, she is taking one course only
+SPK4002	Не істеп жатты	What was she doing?
+SPK4001	МММ	
+	бір курсты алып отыр	
+SPK4002	Ай:	Oh
+SPK4001	Күзде	So that she won't study a lot in fall, yes.
+SPK4002	По свободнее еще###	And [she will feel] freer, good
+SPK4001	көп оқып кетпеу үшін иә	
+SPK4002	Кайф	
+SPK4001	Енді уақыты қалады	It's like she will have time.
+	деген сияқты	
+SPK4002	Кайф кайф	Good, good
+SPK4001	Жазда	Moreover, you study one course for four-five days a week in summer.
+	тем более	
+	төрт күн ба	
+	бес күн ба	
+	сол	
+	нені оқисың ғой	
+	бір курсты	
+SPK4002	МММ	
+SPK4001	Басқа нелерге	You don't get stressed out about other things.
+	алаңдап кетпейсің	
+	дейтін сияқты	
+SPK4002	Бәсе наверное	Ah, that’s why, possibly America has that system, right?
+	Америкада сондай система да	
+	Мен олардың видеоларын қараймын	I watch their videos on Youtube
+	ютубтан	
+	Май саммер бірдеме	"it [video] says ""My Summer something, university something"""
+	юниверсити бірдеме	
+	дей дейді	
+	Я такая	I am like, what are they saying?
+	не дейді	
+	Еще май фест дей	"Also, they say things like ""My first day, something, off campus""?"
+	бірдеме дейді	
+	оф кампус дейді ма	
+	Я такая	I am like...
+SPK4001	иә иә иә иә	Yes yes yes yes, they show the inside, the outside of the block.
+	ішін көрсетеді	
+	сыртын көрсетеді дейсін	
+SPK4002	иә иә иә	Yes yes yes
+SPK4001	Блок	
+SPK4002	Мықты мықты бірдемелер	Something really impressive.
+SPK4001	иә:	Yes.
+SPK4002	Бәрі машина айдайды	Everybody drives a car there, by the way.
+	оларда кстати	
+SPK4001	Оларда он алты жастан бастап емес па	The start to [drive] from sixteen, right?
+SPK4002	Он жеті ма	Isn't it seventeen, yes, something like that.
+	иә сондай бірдеме	
+SPK4001	Он алты	It seems sixteen.
+	он алты сияқты	
+SPK4002	Айдай береді	They are already driving, not that they only take licence.
+	не то что права алады	
+	Бізде права он алтыдан алады	Ours obtain licence by sixteen, but drive from eighteen.
+	бірақ айдайды он сегізден	
+SPK4001	А да	Oh yes?
+SPK4002	Солай сияқты иә	Seems like that, yes.
+	Он алтыдан алады	They take [licence] it from sixteen, it's allowed.
+	болады алуға	
+SPK4001	Бола ма	Is it possible?
+	Мен он сегізден деп ойладым	I thought from eighteen.
+SPK4002	Олай вроде можно	One can do it, I guess.
+SPK4001	Ұстай тұрасың ба	Can you hold it?
+SPK4002	Қолым талып қалды деші	Say that your hands got numb, huh.
+SPK4001	или ана	Or that, ugh, let me take that thing on the back off, it's possible.
+	ugh	
+	артындағысын алып тастайын	
+	алуға болса	
+SPK4002	Мә	Here, see, how many minutes it have been?
+	қарашы	
+	неше минут болғанын	
+SPK4001	А айтпақшы	Ah, by the way, you add six to that.
+	алты қосасың бұған	
+SPK4002	Мхм	Mhm, twenty.
+	Жиырма	
+SPK4001	Да	Yes?
+SPK4002	иә	Yes.
+	А ойбай	Woah, I say what I had on mind.
+	ойдай айтамын	
+	Он екі	Twelve.
+SPK4001	Бәсе	I knew it.
+	МММ	
+	Жаңа осы бірдеңе ойлап тұрдым айтам деп	i had something on mind that I wanted to say.
+	Алдында ¬Жансұлтан ба—	Lately, was it ¬Zhansultan..
+SPK4002	@(Hx)	
+SPK4001	Жо жоқ	No no, he is not handsome, right?
+	онша емес да	
+SPK4002	Не ол	What is it?
+SPK4001	Шақырсақ деймін ғой Ойназаврға	I want to invite him to the game shop.
+SPK4002	ААА	
+	Вообще болады	Well, we can do it.
+	поидее	
+	Еще мен соның	And I could not still manage to talk to his younger brother.
+	інісімен таки	
+	сөйлесе алмадым ғой	
+	Дикий кринж	Cringe.
+	@@@	
+	Біртүрлі ғой енді	It is strange/lame to talk with his elder brother, and not to talk with the younger one.
+	үлкен ағасымен сөйлесіп	
+	мынаумен сөйлесе алмай	
+	ААА	
+SPK4001	Кәдімгі	Your elder brother is not twenty six, he is thirty two, turning thirty two.
+	үлкен аға сенде жиырма алты емес	
+	ол отыз екі: деп	
+	отыз екіге келеді	
+SPK4002	Сол сол	Yeah, yeah.
+SPK4001	Менің ағаларыммен	He seemed like a peer to my brothers.
+	құрдас cияқты болып көрінді	
+	Не мен ана ұялып қалдым	I got so shy there, you know, there
+	бар ғой анда	
+	Бір бала жүрді	Was there a little kid?
+	өзі	
+SPK4002	Мхм	mhm, mhm, yes, yes, me too.
+SPK4001	құттай	
+SPK4002	Мхм	
+	иә иә мен де—	
+SPK4001	Атын ұмытып қалдым	I forgot his name.
+	Соның баласы ғой	I thought that was his kid.
+	деп қоямын ғой	
+SPK4002	@@@@	
+SPK4001	Мамам ұйықтап отыр	My mom is sleeping, don't disturb, please.
+	шуламаңдаршы деп бірдеңе	
+	Айтады маған	He says [that] to me.
+	Папаңның жанында отыра тұрсаңшы	"I said ""Sit next to your dad then."""
+	дедім ғой	
+SPK4002	@@@@	
+SPK4001	Жоқ мен тек	No, I am here just with my mom.
+	мамаммен жүрмін деді	
+SPK4002	@@@@	
+SPK4001	Анау	That person is not your dad then?
+	папаң емес па	
+	сонда еді	
+	Мынау балаңыз емес па деймін	"I say ""Is not this your child?"""
+	Жоқ мен:	"""No, I don't have a child."""""
+	балам жоқ	
+	Нешедесіз деймін	I say how old are you?
+	Жиырма алтыдамын деді ғой	I think he said twenty six.
+SPK4002	@@@@	
+SPK4001	Бәрі солай айтты ғой	However, everyone said that.
+	бірақ та	
+SPK4002	иә	Yes.
+SPK4001	Өздері солай	Possible, they hear that often.
+	көп еститін шығар енді	
+SPK4002	Еще	And the kid was chubby.
+	бала томпақ болды	
+SPK4001	иә	Yes, he is a spitted image of him.
+	аумайды ғой кәдімгі	
+	аумайды	
+	Мұрны	His nose, eyes, well not a nose, but the eyes seemed identical.
+	көзі	
+	мұрны емес енді	
+	Көзі аумаған сияқты болып көрінді	
+	Жаман ұқсайды прям	He is so alike.
+SPK4002	Оның інісінде андай	His younger brother got those big eyes.
+	жаңағы	
+	бат—	
+	батырайған	
+	батырайған көз	
+	Пипяо	[slang meaning big eyes]
+SPK4001	Мхм	Mhm
+SPK4002	Кәдімгі	Just as chameleon.
+	хамолеон сияқты	
+SPK4001	МММ	
+	Сол:	Well, he said to contact about something like K-POP
+	айтты ғой	
+	K POP деген жазыңдар: деп	
+SPK4002	Да	Yes?
+	Қашан	When?
+SPK4001	Өзіне емес те—	Not to him—
+SPK4002	Прям айтты ма	Did he tell that for real?
+SPK4001	CLICKING_THE_TONGUE	
+	Әлгі	How was that?
+	қалай еді	
+	Айттық қой андай	We said k-pop, anime, this and that, and then something.
+	K POP	
+	аниме	
+SPK4002	ААА	
+SPK4001	мынау мынау	
+	тағы сосын тағы	
+	Сосын	Theh, ugh, K-POP—
+	ugh	
+	K POP—	
+SPK4002	Кім жазады оған	Who will text him? I won't.
+	Мен жазбаймын	
+SPK4001	Жоқ	No, not to him.
+	оған емес	
+	Былай ғой	Let me explain.
+SPK4002	¬Диасқа жазуға болады	One can text ¬Dias.
+SPK4001	Інім	My younger brother said that thing is in the front office of that.
+	інім	
+	ugh	
+SPK4002	Ой все	I am done.
+SPK4001	ана нені	
+	соның басында деді ғой	
+SPK4002	фест	Fest, yes.
+	иә	
+	А танцы	Oh, dances or something.
+	деп бірдеңе	
+SPK4001	фест—	Fest or festivals, they organize random dance battles when they dance, right?
+	фестивальдар:	
+	или	
+	билегенде андай	
+	рандомный	
+	ран—	
+	ˈrandom ˈdance ˈдеп	
+	не істейді ғой	
+SPK4002	Мхм	Mhm
+SPK4001	Сондайларда	If you want to participate in those, or want to make a cover, text me so I can accomplish it.
+	қатысқыларың келсе	
+	а или cover	
+	cover жасағыларың келсе	
+SPK4002	Мхм мхм	mhm mhm
+SPK4001	үйреніп	
+	онда жазыңдаршайшы деді	
+SPK4002	Сейчас	One moment
+SPK4001	Інім не істейді	My younger brother works at its front office, he said it's even better if we say we know him.
+	соның басында	
+	мені танимын деп айтсаңдар	
+	тем более деп	
+SPK4002	UGH	
+SPK4001	Өзі ұсыныс жасады	He made an offer himself.
+	Сен сөйлескің келмесе	If you don't want to talk with him, we can.
+	біз сөйлесе аламыз ғой інісімен	
+SPK4002	Давай	Let's do it.
+	@@@	
+	AAA	
+	Мен Алм—	If I go to Almaty certainly, when will he tell me that?
+	Астанаға кетіп қалсам	
+	уж точно	
+	Қашан айтады екен ол маған	
+	CLICKING_THE_TONGUE	
+	Эх	
+SPK4001	Енді сендерге айтқанда:	When he tells you that, I will already study there for a month.
+	сендер—	
+	Мен уже анда	
+	бір ай оқып отыратын шығармын	
+SPK4002	Мхм	Mhm
+SPK4001	Бір ай жарты ай	I will be there for a month and half.
+	уже анда боламын	
+SPK4002	Сендерде сабақ не	Your classes start in the August?
+	августтан басталады ма не	
+SPK4001	Біз	They show the inside [of the campus] for a week.
+	бір	
+	апта	
+	ана	
+	ішін көрсетеді	
+	емес па	
+SPK4002	ААА	
+SPK4001	Ugh	
+	Мына жерде аптека	Here is the drugstore, the supermarket.
+	мына жерде	
+	UGH	
+	супермаркет	
+	Тамақ	If you want to eat, you can buy something and eat.
+	ішкің келсе	
+	ішуіңе болады	
+	сатып алып	
+	UGH	
+	Кіріңді мында жуасың	You can do you laundry here, they introduce everything.
+	дейтін сияқты	
+	бәрін таныстырады ғой	
+SPK4002	@(Hx)	Laundry.
+	Кіріңді	
+SPK4001	иә иә	Yes yes.
+SPK4002	@@@@	
+	UGH	
+	Күшті сендерде	It's good that they show you everything.
+	көрсетеді	
+	Бізде дым жоқ	We have nothing, you are like a drop in the ocean/fish in the sea.
+	как рыба в океане	
+	Қайда барасың	Wherever you go, nobody cares.
+	бәрібір	
+	Өтірік сұрайсың бәрін	You ask everything pretentiously.
+SPK4001	H)	
+SPK4002	Деканатты	I have looked for the dean's office like nobody.
+	кстати	
+	іздемей ит болдым ғой	
+	В какой то момент	"At one moment, a girl said to me something like ""the fourth floor, room 415"""
+	бір қыз айтты	
+	и төртінші этаж	
+	төрт жүз он бес дейді ма	
+	бірдеңе дейді	
+	Ма барып келсең	When I went there, it was a dean's office of Philology department.
+	ана филологический деканат дейді	
+SPK4001	@@@	
+SPK4002	Құрғыр	Damn it
+	Сонда сұрамаймын қай факультет	I did not even ask the department name.
+	Ойлап: қалған болатынмын	I was perplexed that I am also a philologist and whatever.
+	мен де филологпын	
+	бірдеме бірдемемін деп	
+	Бә	Woah, how many minutes have passed?
+	неше минут болды	
+SPK4001	¬Дина сонда	¬Dina are already stting [in the wagon] today there, right?
+	бүгін отырып отыр да уже	
+SPK4002	Бүгін иә	Today yes.
+SPK4001	Бүгін кешке ма	When is it? Today's evening?
+	қашан	
+SPK4002	иә кешке	Yes, in the evening.
+SPK4001	МММ	
+	Негізі шаршатады	It makes you tired, in reality.
+	Пойыз—	The train.
+	Пойыздың өзі емес те	It's not the train, but the act of going forth and back.
+	былай	
+	бір барып	
+	бір келіп	
+SPK4002	Өтетін уақыты дейсің	And the time you spend.
+SPK4001	Сосын анда дейтін	And her trip there wasn't a relaxation.
+	оның барғаны	
+	кәдімгідей демалыс болған жоқ қой оған	
+SPK4002	иә	Yes.
+SPK4001	Ауырды:	She got sick.
+SPK4002	Ауырды сосын	Got sick, then we were not nearby.
+	біз болған жоқпыз қасында	
+	Ну имею ввиду	I mean, one of her peers.
+	ровесниктан біреу	
+SPK4001	Сосын	Then, she was not well with her grandmother.
+	апам—	
+	Апасы ұнамады:	
+	Сиыспады ма	The could not get along or something.
+	сондай болды ғой	
+SPK4002	Да	Yes? I thought she said it was the oPSTPite.
+	Наоборот айтып еді ғой	
+	Мынау мен апам	This is my grandmother who is not —
+	типо которая	
+	не—	
+SPK4001	Жоқ	No, it is not the grandmother she went with, but with whom she lived.
+	Барған апасы емес—	
+	сондай	
+SPK4002	AAA	
+SPK4001	тұра тұрған	
+SPK4002	Алматыдағы ма	The one in Almaty? Yes.
+SPK4001	иә Алматыдағы апасы	Yes, the one in Almaty.
+SPK4002	иә иә иә	
+SPK4001	Барғанда сол ғой	She made fun of her nerve when they went there what a bummer.
+	тиісе тиісе береді қасқа	
+	Мен:	I would not tolerate that to be honest.
+	шыдамас едім	
+	бар ғой негізі	
+SPK4002	Личные границы	Personal boundaries.
+SPK4001	иә	Right.
+SPK4002	Менде маманың	My mom has a sister, who is older for several years.
+	туған апасы бар	
+	үлкен	
+	Бірнеше жасқа үлкен	
+	Сонымен бір кездері	We went with her to Saint-Petersburg once.
+	Питерға бардық қой	
+	Мә жаман қырылыстым	I had a serious beef with her.
+	бар ғой	
+	Конечно прям кәдімгідей қырылыспайсың	Not that it was too dramatic, but when she said something I would not do that immediately.
+SPK4001	иә иә	Yes.
+SPK4002	Но бірақ андай	
+	(H)	
+	бірдеңе десе	
+	мен	
+	сразу	
+	істемеймін	
+	Бөйткен сөйткен: деп шығамын	I made different excuses.
+SPK4001	Енді	It's better than simply obeying.
+	сүмірейіп	
+	жүре бергеннен жақсы ғой	
+SPK4002	Айтпашы	So true.
+	Одан сайын кетіп қалады ғой	It becomes worse later on.
+	сосын	
+SPK4001	Сосын	Then, it's your kin and whatever you say, she will accept it.
+	туысқан ғой енді	
+	не айтсаң да	
+SPK4002	###	
+SPK4001	қабылдайды ғой	
+SPK4002	иә	Yes, you will get along no matter what.
+	бәрібір	
+	не істейсіңдер ғой	
+SPK4001	Мысалы	For instance, if it was an unknown person—
+	таныс емес адам болса—	
+SPK4002	Бір жөн	Right.
+SPK4001	иә	Yes.
+	Неге маған олай	"You can say ""Why are you talking to me like that"" or ""Why are you talking me back?""'"
+	сөйлейсің:	
+	деп	
+	Неге маған олай жауап қайтарасың:	
+	деп	
+	Мысалы	He\She may stop talking to you, but if it's your kin, you are already related by blood, they can't get away from you no matter what.
+	сөйлеспей қалуы мүмкін	
+	А туысқан болса енді	
+	уже	
+	қанмен	
+	байланысып тұрған адамсың	
+	қашып кете алмайды сенен	
+	бәрібір	
+	UGH	
+	Ақтөбеге бар ғой	Before Aqtobe—
+SPK4002	МХМ	
+SPK4001	оған дейін—	
+SPK4002	Неше теңге аламыз	How much money we shall take with us?
+SPK4001	Қанша	How much?
+	Аквапаркқа қанша екен	How much is it for a ticket to the aquapark?
+SPK4002	Мен осы	I have recently looked at it.
+SPK4001	Билеті	
+SPK4002	недавно қарап едім	
+	Билетін білмеймін сол	I don't know about the ticket. One needs to ask and look at it.
+	сұрау керек еді	
+	қарау керек еді	
+SPK4001	Сол—	Yeah—
+	ААА	
+	А жоқ	Oh no.
+	¬Жанна бар ғой жаңағы	You remember ¬Zhanna, who is my friend?
+	досым жаңағы	
+SPK4002	Ұйықтап отырмын	I am sleeping.
+SPK4001	Ол дейтін:	She went to the park in Aqtau
+	Ақтауға барғанда	
+	анда	
+	паркке барған	
+SPK4002	Мхм	
+SPK4001	Алматыдағы сияқты	Like one in Almaty, but it has water.
+	бірақ та анда	
+	суы бар	
+SPK4002	Мхм	Mhm
+SPK4001	UGH	
+	Жақсырақ сияқты даже	Seems even better.
+SPK4002	Жап жақсырақ	Better.
+SPK4001	Парк парк	Park.
+SPK4002	Ақтау ма	Is it Aqtau?
+SPK4001	Ақтау	Aqtau.
+	Ақтаудағы парк	Entertainment park in Aqtau.
+	Парк #	
+	развлечения	
+	(H)	
+	Ugh	
+SPK4002	Ақтауға барып келу	We need to go to Aqtau.
+	өзі:	
+	не ғой	
+SPK4001	иә	Yes.
+	Вот	Well, she said it cost her eleven thousand [tenge].
+	сол он бір мың болды деді	
+	Он бір мың ма	The entrance was eleven thousand or twelve thousand.
+	он екі мың ба	
+	кіруі	
+	Біз бес мың төледік	We paid five thousand, they paid eleven thousand.
+	Ол олар оң бір мың төлеген	
+	Бірақ сол ақшасы	But they say the money is worth it.
+	кәдімгі тұрады дейді	
+SPK4002	МММ	
+	А	Ah, it is like a fantasy park that's also in Aqtau ?
+	тоже фентези парк сияқты	
+	только Ақтауда да	
+SPK4001	иә иә иә	Yes yes yes.
+	Сосын андай мындай	Then there were U-shaped swings.
+	качеля сияқты болды	
+	былаймен	
+SPK4002	ААА	Yes yes.
+	иә иә иә	
+SPK4001	Ю: сияқты болып тұрады	
+SPK4002	иә иә иә	
+	иә иә	Yes.
+SPK4001	Содан кейін	When you go down, the water splashes.
+	төменге қарай түскенде	
+	анда	
+	су шашырайды	
+SPK4002	GASPING	
+SPK4001	Судың ішінде тұр ғой	It is inside the water.
+SPK4002	Ақтауға билет	How much is the ticket to Aqtau you saying?
+	неше теңге дейсің	
+	@@@@@	
+SPK4001	EEE	
+	Мен дейтін ойлап отырсам бір	I was thinking of working for four days and saving up for the ticket to Aqtobe, but turns out my money is not nearly enough for Aqtau.
+	төрт	
+	төрт күн шығып	
+	Ақтөбеге би летке	
+	ақша жинаймын ба	
+	деп отырсам	
+	Ақтауға вообще жетпейді ғой	
+SPK4002	Қаз қаз ##	Hold on.
+SPK4001	Құдай жұмыс істеу керекпін ғой	I have to work a lot for that, not spending to food, to nothing.
+	мен оның	
+	Тамаққа	
+	ештеңеге кетірмей	
+	Ақтөбе	Aqtobe, Aqtau
+	UGH	
+	Ақтау:	
+	Ақтау Ақтау	Aqtau Aqtau.
+	Ақтауға мысалы	We can go to Aqtau next summer.
+	келесі жазда баруға болады	
+SPK4002	Жб ғой енді	It is certain, what does he say?
+	Не дейді	
+	Мә	Woah, three months.
+	үш ай	
+	Неге ау	Why is there no ticket?
+	билет жоқ	
+	Түсінбедім	I did not get it.
+SPK4001	Би лет жоқ дейсің	Do you say there is no ticket?
+SPK4002	иә	
+	или Ақтауға—	Or to Aqtau—
+	ААА	
+	Ақтауға билет жоқ па	There are no tickets to Aqtau or something?
+	бірдеңе ғой	
+SPK4001	Алматыға:	You take tickets to Almaty then.
+SPK4002	Кстати—	By the way..
+SPK4001	неге аласың ғой онда да	
+	А жоқ	Oh no, it has to appear if you type Aqtau.
+	Ақтау деп жазсаң	
+	шығу керек қой	
+	МММ	
+	Әлгі	I have been meaning to tell something else.
+	тағы бірдеңе айтатын деп отыр едім	
+SPK4002	Неге	Why ###
+	###	
+SPK4001	Менде мана:	I had ten thousand tenge on my phone earlier
+	телефонда	
+	он мың теңге болып еді	
+	Оны саған төледім	I paid that to you.
+SPK4002	Мхм	Mhm
+SPK4001	Сосын:	Then I spent it to something else.
+	тағы бірдеңеге жібердім	
+	Жаңағы	I paid for the cinema.
+	киноға төледім	
+	MMM	
+	Тамақ—	I paid almost everything for food.
+	тамаққа өзім төледім ғой	
+	барлығын	
+	почти	
+	Киноға оған:	Eleven hundred for the movie.
+	мың бір жүз	
+	Маған	
+	мың бір жүз шықты	It cost me eleven hundred.
+	Тамаққа	it was overall one thousand and seven hundred for food.
+	общий мың жеті жүз шықты	
+	Мың жеті жүзді	How much is seventeen hundred divided by two?
+	бөлгенде қанша	
+	екіге	
+SPK4002	Қазір	One moment.
+	Сейчас	One moment.
+SPK4001	иә иә	Yes yes.
+SPK4002	Он алты	Sixteen, I have seen that.
+	просто көріп едім	
+	Тоже	It's also, well, let me have a look—
+	ну это	
+	қане—	
+	Сменның соңында	In the end of the shift, in the end of the shift , the chef has seen me talking a little and said something.
+	сменның соңында	
+	Hx)@###@@	
+	шеф көріп еді	
+	деп просто кішкене	
+	енді как-то	
+	cөйлеп еді	
+	Я такая	I was  like MMM
+	МММ	
+SPK4001	ААА	
+SPK4002	Мхм	Mhm
+	Жоқ	No, it is nothing by itself.
+	былай	
+	поидее	
+	ничего такого ғой	
+	Мен просто:	It's just if I talked when someone came, but there is no one.
+	біреу	
+	келіп тұрса	
+	сөйлесіп отырсам	
+	бәрібір адам жоқ	
+SPK4001	иә	Yes.
+SPK4002	Бірақ сен осы	But your talking—
+	сөйлеу—	
+SPK4001	Отыру керексің ба не	Do you have to sit in that place?
+	ана жерде	
+SPK4002	Жоқ:	No, not obligatory, I mean the important is there are no people.
+	Не обязательно	
+	ну то есть	
+	главное ведь людей нету же	
+SPK4001	Иә	Yes.
+SPK4002	Бірақ не	But what, they can come.
+	Cөйлеуі мүмкін	
+	сияқты:	
+SPK4001	Кішкене былай қарай	We can stand a little like this.
+	тұрайық онда	
+SPK4002	Ма еще қолым ##	And my hand ###
+	Ода емес те ол	It is not even that.
+SPK4001	МММ	
+	Мынау	How much are the bikes there?
+SPK4002	###	
+SPK4001	велосипедтер қаншадан екен	
+	мына жердегі	
+SPK4002	Ау білмеймін	Oh I don't know.
+	Қымбат бұлар бірақ	But they are expensive, everthing is expensive now.
+	Бәрі қымбат қой	
+	қазір	
+SPK4001	Алпыс:	Will they cost sixty thousand tenge?
+	сондай болады ма екен	
+SPK4002	Каспидан алған	Dad has bought from kaspi, it cost sixty thousand, yes.
+	папа	
+	алпыс мың болды	
+	иә	
+SPK4001	Арзанырақ та табуға болады ғой	There are cheaper variants too, if, let's say, those for sixty thousand are good bikes.
+	алпыс дейтін мысалы	
+	жақсы	
+	велосипедтер болса	
+SPK4002	МММ	
+	Жақсы дегенде сол	Other than good, he bought the speedy one for sixty thousand.
+	скоростной алды	
+	ол еще	
+	Алпыс мыңға	
+	Ну это типо	Well is it like a speed bike?
+	скоростной ма	
+	что-то между	Something in between.
+SPK4001	МММ	
+	Мен	I have thought about it last year's fall that thiigs go well If I had a bike.
+	ана	
+	ана жылы енді	
+	күзде	
+	ана жылдың соңында ойлағанмын	
+	Мә велосипед болса	
+	күшті болады ғой	
+	деп	
+SPK4002	Мхм	Mhm
+SPK4001	Бірақ енді	But now, I will not be at home and I say if we could buy one for home.
+	мен	
+	үйде болмаймын	
+	үйге алатын болсақ деймін ғой	
+	Біздегі	Ours is a bike bought ten years ago.
+	баяғыда	
+	он жыл бұрын ба	
+	алынған велосипед қой	
+SPK4002	Hx)	
+SPK4001	Анау	It was left under the rain.
+	жаңбырдың астында қалады:	
+	Қасқа	Pity, it corroded and turned yellow.
+	тот басып кетті	
+	Сап сары болып	
+	Еще жүргенде де	And when you ride it, it produces strange noises because the wheels run out of the air.
+	сықыр сықыр	
+	дөңгелегінің	
+	желі шығып кетеді	
+SPK4002	Сен тебе аласың ғой	You can ride a bike, right?
+	да	
+SPK4001	Тебе аламын ғой	I can ride.
+	Қиын емес қой	It's not difficult, just need to learn it once.
+	бір үйреніп кету керек	
+	Бір үйренсең	You won't forget once learned.
+	ешқашан ұмытпайсың	
+SPK4002	Мен үйрендім	I have learnt but I am scared.
+	бірақ	
+	AAA	
+	не	
+SPK4001	Ұмытып қалдым десеңші	Say you forgot it.
+SPK4002	қорқам:	
+	О мен опять қорқам	I am afraid again.
+	Мен еще	I am a bad person, a coward.
+	жаман адам	
+	Қорқақпын	
+	бар ғой	
+	Доптан қорқамын	Scared of the ball, of something else, of the bike.
+	бірдеңе қорқамын	
+	Велосипедтен қорқамын	
+	Шикарно	Nice.
+	МММ	
+SPK4001	Мен де қорқамын	I am also scared of it thinking will I fall.
+	негізі	
+	Құлаймын: ба	
+	деп	
+	Бір жерімді ауыртып алсам	it heals for a long time if I hurt some place.
+	ұзақ:	
+	не істейді ғой еще	
+	жазылуға	
+	ұзақ уақыт керек	
+	Енді анда	Well, you know, but let me tell.
+	білесің ғой	
+	бірақ айта берейін	
+	Ана	I told how I was running backwards in the tenth grade at school.
+	оныншы класта ма	
+	мектепте	
+	артқа қарай	
+	жүгіріп бара жатқанымды	
+	айттым ғой	
+SPK4002	Мхм	Mhm
+SPK4001	иә	And it was the physical education lesson.
+	дене	
+	шынықтыру болып жатты	
+SPK4002	МММ	Move on a little here.
+	Былай тұршы	
+	былай	
+	иә	Yes.
+SPK4001	Дене шынықтыру болып жатты	It was the physical education and then our teacher organized something new.
+	сосын	
+	біздің	
+	мұғалім	
+	өзінше бір	
+	новый	
+	бірдеңе	
+	ұйымдастырып отыр	
+	Күн сайын негізі	We used to do warm-up exercises every day.
+	барғанда	
+	не істейтін едік	
+	Просто қыздырыну	
+	жаттығуын істейсің	
+	Сосын	Then it was the third semester when we had PE inside of the building.
+	үшінші тоқсан болды	
+	анау іште болғанда	
+	Гимнастика ма	Was gymnastics in the third semester?
+	үшінші тоқсанда ма еді	
+SPK4002	Мхм	Mhm
+	Екі	The second?
+SPK4001	Екінші тоқсан ба	The second semester?
+SPK4002	иә	Yes.
+SPK4001	Білмеймін әйтеуір	I don't know but it is inside of the building.
+	іште өтеді ғой	
+SPK4002	Пиво ішке	The beer goes in, sir.
+	аға	
+SPK4001	Гимнастика	She made us do some gymnastics.
+	сондай бірдемелердің	
+	істетеді	
+	Сосын	
+	біз отырамыз	Then we sat, intending to run.
+	Жүгіреміз дейтін сияқты	
+	Ана күні	Maybe she wanted to make that day more interesting?
+	кішкене	
+	сол қызық	
+	етіп өткізгісі келді ма:	
+	Жарыстырды:	She made us race like a relay race.
+	эстафета сияқты	
+	Сөйтіп жүргенде	In the middle of it or what, I ran backwards.
+	мен	
+	артқа қарай	
+	жүгірдім	
+	Жүгіргенде де	And when I ran, I didn't run right.
+	жүгірген жоқпын дұрыс	
+	Өзім ойладым	I thought to myself, maybe I would fall inwards.
+	ішімнен құлайтын шығармын	
+	деп	
+	Өзімнің	I could not control my body or something.
+	денемді дұрыс басқара алмаймын ба	
+	сондай бірдеңе	
+SPK4002	Мхм	Mhm
+SPK4001	Еще	Besides, you need to know, ugh, how to fall, you have learn it.
+	дұрыс құлау—	
+	Ugh	
+	білу керек қой	
+	оны үйрену керек қой	
+	Паркурлар ана	Parkourists, they show how to fall.
+SPK4002	Мхм	Mhm
+SPK4001	паркурщиктар	
+	Қалай құлау керек екенін көрсетеді ғой	
+	Мен ойладым	I thought, for example, if I fall and turn my hand into a supporting base, they will hurt.
+	мысалы	
+	Құласам	
+	қолмен тіреп қалсам	
+	қолым ауырып кетеді	
+	МММ	
+	Артқа қарай сол	When I run backwards, I said to people that my sneakers were stuck in the floor.
+	жүріп бара отырғанда	
+	адамдарға айтқанда	
+	кроссовкаң	
+	не	
+	полға дейтін	
+	тіреліп қалды деп айтам	
+	Бірақ сол	But they did not stuck anywhere.
+	ештеңе тірелмеген не сияқты ма	
+	Просто өзім	I just could not lift my feet.
+	аяғымды көтере алмай	
+	әйтеуір	
+SPK4002	Мхм	Mhm
+	А иә иә иә	Oh yes, now I remember.
+	енді	
+	есіме түсті	
+SPK4001	иә	Yes.
+	Отырып қалдым	I just sat on the ground
+	жерге	
+	А нормально шығар	I thought it was okay and when I wanted to move, I could not
+	деп ойладым да	
+	сосын	
+	қозғалайын десем	
+	қозғала алмаймын ғой	
+	Дем ала алмаймын	I could not breathe, my back, spine, and everything got numb as if it was an electric shock.
+	как бы	
+	белім	
+	арқам	
+	барлығы	
+	омыртˈқам бүйˈтіп	
+SPK4002	Мхм	Mhm
+SPK4001	не істеп	
+	тоқ соққан	
+	сияқты болып кетті	
+	Тоқ соққан да емес даже	Not that the electric shock, I just could not move.
+	просто	
+	қозғалмай қалды ғой	
+	Дем ала алмай қалдым	I could not breathe.
+	Мына	
+	өкпем дейтін	My lungs as if have stopped, felt like they did not function at all.
+	Просто	
+	бір	
+	неде тоқтап	
+	қалған сияқты	
+	тұрып қалған сияқты	
+	Содан екі апта үйде жаттым:	After that I rested at home for two weeks.
+	Дем алдым:	
+	деген сияқты	
+SPK4002	МММ	
+SPK4001	Одан кейін сосын	Then, I did not participate in PE for a good half year.
+	жарты жыл денеге дұрыс қатыспадым	
+	Белім ауырады	You say my back hurts and do your yoga or whatever, and I don't even have any prescription paper.
+	белім ауырады	
+	деп қоясың	
+	Бүйтіп	
+	жайлап:	
+	өзіңнің йогаңды істейсің ба	
+	не істейсің	
+	отырасың ба	
+	ешқандай медицинский	
+	(H)	
+	нем жоқ	
+	Қағазым жоқ бірақ	Although I don't have the prescription, the teacher has seen how I fell.
+	мұғалім енді	
+	көрді ғой	
+	құлап қалғанымды	
+	и	"""You better don't run"" she says to me."
+	сен	
+	жүгірмей ақ қой	
+	дейді маған	
+	Жарайды жарайды	"I say ""Alright, alright, thanks teacher"""
+	рахмет апай деп	
+SPK4002	Сол апай болды ма не	Did you have her as the teacher?
+SPK4001	Күшті	Good.
+SPK4002	сендерде	
+SPK4001	Бізде былай болды—	It was like that—
+	Ugh	
+	Ер балаларға	Boys had a male teacher and us, girls had a woman teacher.
+	ағай	
+SPK4002	Мхм	Mhm
+SPK4001	Біздерге	
+	қыздарға	
+	апай	
+SPK4002	ААА	Oh, ### good.
+	###	
+	күшті	
+SPK4001	Бірақ жақсы дегенде	But aside telling that it was good, two classes had a PE at once.
+	Ugh	
+	Екі	
+	класта қатар өтеді ғой	
+SPK4002	Мхм	Mhm
+SPK4001	Орыс класының апайы	The teacher for the Russian class did better exercises.
+	кішкене	
+SPK4002	Жастау	Is she younger?
+SPK4001	жақсырақ жаттығулар істейді	
+SPK4002	ААА	
+SPK4001	Енді	Those you see in Youtube?
+	Ютубтан қарағанда	
+	көресің ғой	
+SPK4002	Мхм	Mhm
+SPK4001	Там как	They follow the rules there: how to sit and stand.
+	Бәрін	
+	по правилам	
+	қалай отыру керек	
+	қалай тұру керек	
+	Қай жеріңді	How to bend that place, how to do the arm like that, bending to ninety degrees.
+	Ugh	
+	бүйтіп	
+	қою керек	
+	қолыңды былай істейсің	
+	Ортасында	
+	ана	
+	бұрышы тоқсан	
+	градус болу керек деп	
+	Соның бәрін айтады	She COMucts on that, but our teacher is a bit older.
+	а біздің апай	
+	кішкене	
+	үлкендеу ғой енді	
+SPK4002	Бәрібір деп айтсаңшы	Things don't matter to her.
+SPK4001	иә бәрібір	Yes, don't matter.
+	Бірақ көп ұрыспады	But she didn't yell a lot.
+SPK4002	¬Дина	¬Dina went to Almaty, right?
+	К—	
+	кетіп қалды ғой	
+	Алматыға	
+SPK4001	иә	Yes.
+SPK4002	Сол маған	That day this seemed to me the first [of the month].
+	бірі күні сияқты болып	
+	көрініп тұр	
+	Как будто—	As if—
+SPK4001	Өзің бармағасын	it seems because you did not go, isn't it?
+	солай көрінеді ма	
+SPK4002	Бірнеше күн	Because she is not with us for a couple of days, oh, for  one or two days, right?
+SPK4001	Сыртынан	Outer perspective.
+SPK4002	емес	
+	##	
+	жоқ	
+	қасымызда	
+SPK4001	иә иә	Yes, yes.
+SPK4002	жүрмегесін	
+	ААА	
+	бір	
+	бір екі күн ба	
+	Сондай сияқты	
+	бір	
+	Ощущение сондай	i have that impression.
+SPK4001	Hx)	
+	Еще жазып қоям десеңші	Say that you also text her you miss her and something.
+	сағындым:	
+	бірдеңе деп	
+SPK4002	Соны: айтам	Exactly.
+SPK4001	Өтірік жазып отырсың ба не	Are you texting her the lie?
+SPK4002	ААА	The truth.
+SPK4001	Ну—	Well, sort of.
+SPK4002	Шын	
+SPK4001	Типо типо	
+SPK4002	Мен наоборот сол	I oppositely ###.
+	###	
+	CLICKIN THE TONGUE)	
+	Эх	Ah If ¬Dina was here, she would have did that and told that.
+	¬Дина болса	
+	қазір	
+	бүйтетін сөйтетін еді	
+	бүйтіп айтатын еді	

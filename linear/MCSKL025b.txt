@@ -1,0 +1,1189 @@
+speaker	span	translation
+SPK7003	(Hx)	
+	көп пе	is it a lot? what did you open (pages opened)
+	ашқаның	
+SPK7002	көп емес	not that much
+	менің қараған затымды ашып тұрған	it does not open the pages which I looked at before
+	жоқ	
+	басқа бір нәрсені ашып тұр	it opens something else
+	а:	a
+	иә иә	
+	таңдағаным көп	I picked up a lot of things
+	мен мына	I thought you were asking about which things I am looking at right now
+	дәл қазір қарап отырғанымды сұрап отыр ғой десем	
+SPK7003	(Hx)	
+	(H)	
+	(Hx)	
+SPK7001	аштың ба	did you open?
+SPK7002	аштым	I opened
+SPK7001	мынау интересное	this one seems interesting
+	да	isn't it?
+SPK7002	жоқ осы ғой менің айтып отырғаным	no, THIS is the one I am talking about
+SPK7001	тоқсан доллар	ninety dollars
+	мынау да ничего так	this one seems interesting too
+SPK7002	мынаның майкасы әдемі	this one's T-shirt is good
+	екен	
+SPK7001	ы:м	yes
+	и жеңі де	and look at sleeves too
+	қара	
+SPK7002	м:	yes
+SPK7001	күшті иә	it is good, isn't it?
+SPK7002	ыхым	yes
+SPK7001	ертең мектепке нешеде барасыңдар	what time will you go to school tomorrow?
+	он бір жарым дедің бе	did you say that at 11:30?
+SPK7002	он бір деді	they said that at 11:00
+SPK7001	бастайды	it will begin?
+	уже	that early?
+SPK7002	иә	yes
+SPK7001	значит он жарым-	it means that at 10:30-
+SPK7002	он жарымнан кете-	after 10:30-
+	иә	
+	сол он жарымда бара берсек	we can come there at 10:30
+	болады	
+	мынау емес па?	isn't it it?
+	өткенде таңдағанымыз	the one we chose last time
+	жоқ деген	
+	жоқ	no
+	басқа ма?	or it was another one?
+SPK7001	басқа сияқты	I guess it was another one?
+	мынау сары ғой	this is one is yellow, you know
+SPK7002	сенің де қарағаның сары	the one you picked was yellow too
+	бірақ басқа фирма сияқты	but I guess it was from another brand
+SPK7001	ол сары	it was yellow
+	басқа иә	Another brand, yes
+SPK7002	қай фирма екенін	I cannot remember which brand was it from
+	есіме түспей тұрғанын қарасаңшы	
+SPK7001	Хилфигер	Tommy Hilfiger
+SPK7002	Хилфигер ме еді?	Was it Tommy Hilfiger?
+SPK7001	ы:м	yes
+	полоска	strip
+SPK7002	мынау ала бажақ сияқты	this one seems too much
+SPK7001	ау	yes?/sorry?/what?
+SPK7002	ала бажақ сияқты деймін	I say it seems too much
+	много много	there are a lot of heaps, you know
+	нагромождений да	
+	мынау ғой	It is this one, the yesterday one
+	кешегі	
+SPK7001	ы:м	yes
+	менікі	mine
+SPK7002	енді ананың	I wanted to look at the clothes which s/he was wearing
+	кімнің үстіндегісін қарайын деп едім	
+SPK7001	кімнің	who?
+SPK7002	¬Динаның өзінің	The clothes which Dina was wearing
+	киіп тұрғаны бар ғой	
+SPK7001	а:	understood
+SPK7002	мынау мынау	this one, this one seems the same
+	ұқсас	
+	бірақ басқа мынау	but it is another one
+	қара	
+SPK7001	ы:м	yes
+SPK7002	ана	it looks like a newspaper page, right?
+	газетаның беті сияқты	
+	болып тұр да	
+SPK7001	мына футболка жаңағы	this T-shirt seems alike to the previous shirt
+	рубашканікіндей	
+	смотри	
+SPK7002	мынау ма?	this one?
+SPK7001	иә	yes
+SPK7002	иә	
+SPK7001	мынау не	what is it?
+	Франция	France
+	иә	yes?
+SPK7002	иә	yes
+SPK7001	а:	understood
+	әдемі	beautiful
+SPK7002	енді	well
+	тұр ғой міне	it is here, here
+SPK7001	(H)	
+	Париж	Paris
+	Пағи:	Paris
+	#	
+SPK7002	мынау ғой	this one
+	міне міне	here, here
+	помоему да	I think yes
+	киіп тұрған	the wearing one
+SPK7001	а:	understood
+	да да да	yes, yes, yes
+SPK7002	осындай	this one
+SPK7001	ыхы	yes
+	көреміз	we will see
+	Парижді	Paris
+SPK7002	осындай алсаңшы	buy this one, please
+SPK7001	мынандай ма	this one
+SPK7002	ы	yes
+SPK7001	не хочу	I don't want it
+SPK7002	күшті болып жүресің сосын	You will look stunning, then
+	@@@@@	
+SPK7001	рубашка болса	If it is shirt, isn't it better to be blank?
+	анандай	
+	пустой болғаны	
+	әдемірек	
+	емес пе	isn't it?
+	мы а-	a-, I meant plain
+	однотонный	
+	дегенім ғой	
+SPK7002	менің анандайдан	I get eye fatigue from this
+	көзім шаршайды	
+	когда много много	when there are a lot of prints
+	печать болғанда	
+SPK7001	рубашка базовый болғаны жақсы сияқты	It is better for shirt to be the basic
+SPK7002	мына ең біріншісі ұнайды	Actually I like this first one
+	негізі	
+	ақ па мынау?	Is it white?
+SPK7001	ыхым	yes
+SPK7002	и мынаның тағы бір беті бар	This one also has another page
+SPK7001	(H)	
+SPK7002	біз өткенде	We looked at few pages only recently
+SPK7001	(Hx)	
+SPK7002	бір екеуін көрдік те	
+	сонымен жауап тастадық ау деймін	and closed the web-site
+	(H)	
+	(Hx)	
+	екеу ма не	is it only two?
+	бар жоғы?	
+SPK7001	мынау не очень	This one is not good, the two of them
+	екеуі де	
+	@@	
+SPK7002	иә	yes
+	сосын ғой	that is why
+	соңына қалып қойған десеңші	it was left for the last
+SPK7001	солай шығар	that is why
+SPK7002	last дейді	it says it is last
+	мә мынаны қара	wow, look at this
+	он төрт	fourteen
+	он бес	
+SPK7001	а:	understood
+	алайық	
+	дейсің	you say let's buy it, but you didn't select it
+	баспаған сияқтысың	
+	а жоқ	wait, no
+SPK7002	жоқ бастым	no, I selected it
+SPK7001	мынау	this one
+	иә	
+	әдемі	yes
+	біріншісі	first one is good
+SPK7002	мынадан да гөрі	than this one
+	мынау тек алдында	this (print) is in the front
+	артында	I guess there is nothing in the behind
+	дым жоқ ау деймін	
+	көрсетпейді	it does not allow me to see it
+	а:	
+	жоқ	a
+	артында дым жоқ	there is nothing in the behind
+SPK7001	не деп тұр	what it says?
+	дым жоқ	there is nothing
+SPK7002	мынаны қара	look at this
+	мынаны қара	look at this
+SPK7001	неге	why?
+SPK7002	білмеймін	I don't know
+	может ана	maybe because of the fabric quality
+	качество ткани	
+	бірдеңе шығар	something like that
+	разница беріп тұрған	which gave the difference (in prices)
+SPK7001	может быть	maybe
+SPK7002	ананы түртіп жібер	push that one
+	қазір даусы кетіп қалады ана жаққа	its voice will go there now
+	хо:р	choir
+	естіліп қаласың	you will be heard there now
+	ана жаққа қазір	
+SPK7003	э	yes?
+SPK7002	естіліп қаласың	you will be heard
+SPK7003	түртпе	don't push
+SPK7002	э:	hey
+	етпе	
+	а:	understood
+	жақсы	okay
+	көрініп жатыр ма саған?	do you see it?
+SPK7003	иә	yes
+SPK7002	а:	understood
+	жақсы	
+	қарап жат	okay
+	онда	look at it
+	қалай	how
+	мынаны қалай көресің?	what do you about it?
+SPK7001	ұнайды	I like it
+	ұнайды	
+	күшті	good
+SPK7002	ұнайды	like it
+SPK7001	@@@@	
+SPK7002	бізбен	we will make to pay the person who is at store with us
+	дүкен аралап жүрген	
+	адамның мойнына	
+	қиып саламыз да	
+	оплатасын	
+	банковская карточкасына	with his/her credit card
+SPK7003	(H)	
+	(Hx)	
+SPK7001	@@@@@@	
+SPK7002	@@@@@@	
+	(Hx)	
+	күрсіндің ғой что то	you sighed
+	@@@@@	
+	а:?	right?
+	@@@	
+SPK7003	Каспиден кетпей ме	Won't we pay from Kaspi credit card?
+SPK7002	амал жоқ	no options
+	енді қайтейін енді	what else can I do now
+	дейсің ғой	
+	а:	a
+	бірақ иә	
+	но каспиға да	but someone should put money into Kaspia credit bank too
+	біреу салып тұру керек қой	
+	оны	
+	халық банктан	someone should put money from Halyk bank credit card
+	лақтырып тұру керек қой біреу	
+	ана	so it won't be empty, and fill it up
+	бітіп қалмайтындай	
+	қылып	
+	пополнение жасап	
+	мынау не?	what do you think about it?
+	алып тастайын ба?	should I remove it?
+SPK7001	жоқ	no
+	керек емес	I don't like it
+	мынау	this one?
+SPK7002	мынаны не істейсің?	what will you do with this one?
+SPK7001	мынаның бар ғой	how about to buy this version's T-shirt, not shirt
+	рубашка емес	
+	футболка түрін алсақ ше	
+SPK7002	білмеймін	I don't know
+	қарайық қазір	let's look now
+SPK7001	футболка да болсын	I meant, we could have T-shirt too
+	дегенім ғой	
+	просто	
+SPK7002	а:	a
+	қарайық қазір	let's look now
+	(Hx)	
+SPK7001	бізде	Our brands # names of the cities on clothes
+SPK7002	(Hx)	
+SPK7001	киімде	
+	қаланың аттары	
+SPK7002	мынаны қара	look at this
+	бірдей да	it is the same, yes
+	мына екеуі бірдей	these two are the same
+	мынау қара	look at this
+SPK7001	#-	
+SPK7002	төмендеу	its price is lower
+SPK7001	неге екен	why?
+SPK7002	Price-ы	
+	мынау не екен	what is it, interestingly, hm?
+	а?	
+SPK7001	мода	the trend
+SPK7002	жоқ мына	no, I am talking about what is on the page
+	бетіндегісі	
+	сурет пе екен?	is it picture?
+	ілгек пе екен?	or is it button?
+	тек салып кеткен	or is that one that was only drawn?
+	не ме екен?	
+	қара нүктелер ме екен?	is it black dots?
+SPK7001	ілгек шығар	maybe buttons
+SPK7002	тігіліп қалған	is it buttons which were sewed?
+	ілгек пе екен?	
+SPK7001	вряд ли	I don't think that it is image
+	сурет	
+SPK7002	бірақ бағасы	but its price is same with the previous one
+	жаңағымен бірдей екен	
+SPK7001	ы:м	yes
+SPK7002	мынаны қара	look at this
+SPK7001	ы ым жоқ	no
+SPK7002	пиджак киесің	you will wear blazer
+	ана пиджагыңның астына	under that blazer
+SPK7001	надпись болса	if there is a text
+	бір ғана надпись болғаны жақсы ғой	it is good to be only one text
+	бірнеше надпись	few texts are too much
+SPK7002	м:	hm
+SPK7001	слишком	
+	тяжелый	heavy
+SPK7002	нагромождение	will it be heap (adj)?
+	не болып кете ме?	
+SPK7001	да	you know
+SPK7002	мына екеуі бірдей	these two are same
+	қара	look
+SPK7001	не	what?
+SPK7002	жазуы	the text
+SPK7001	а:	understood
+SPK7002	мына екеуі	these two
+	тек жеңдері	only sleeves give that
+	несі беріп тұр	
+SPK7001	мынау видишь	do you see, this one's font is bigger
+	мынау	
+	шрифті үлкендеу	
+SPK7002	иә	yes
+SPK7001	и түсі басқа	and the colour of it is different
+	анау қарасы	it seems that its black one is better
+	лучше сияқты	
+SPK7002	мынаны қара	look at this
+	тоже	
+	Price жаңағындай да	its price like that one too
+SPK7001	м:	hm
+	бірақ мынау неочень	but this one is not good
+	интересно	interesting
+SPK7002	иә	yes
+	мына	this one
+	уже өзінен	because of it has strips from it itself
+	бетінен полоска шыққасын	
+	уже ананы	it didn't make that one heavy
+	артық жасамаған болып тұр ғой	
+	мынау ана	this one is that
+	# бар ғой	it is #, you know
+	рисунок	it seems like the image
+	сондай сияқты	
+SPK7001	мынау	this one like what grandmothers wear
+	әжелердің киетіні	
+SPK7002	сол	yes
+SPK7001	несі	
+SPK7002	сол айтам ғой	
+	ана баяғы	that old ones
+	нелер	
+	жаңағы	the recent one
+	не зат еді?	what was it?
+	ана Голландские мельницалар	that Dutch mills
+SPK7001	а:	a
+SPK7002	нелер	
+	кілең	that ones
+	сондай рисункасы	that images
+SPK7001	@	
+SPK7002	қара	
+SPK7001	неге Голландия	why Dutch?
+SPK7002	біздің ассоциациямыз сондай шығар	Maybe it is our associations?
+	негізі Голландия емес шығар	maybe it is not Dutch
+	просто	just
+	бізге сондай болып елестеп тұрған шығар	we imagine them like that
+SPK7001	солай шығар	maybe
+SPK7002	мынау ше?	what do you think about it?
+SPK7001	жоқ	no
+	простенький	it is too simple
+SPK7002	манжеті ақ қой	its cuffs are white
+	десең да @	you say
+SPK7001	@	
+SPK7002	мынау жаңа да	this one was here recently too
+	болған сияқты	
+	да?	right?
+SPK7001	иә	yes
+	болды	it was
+	анау да болды	that one was here too
+	розовый надписьпен	the one with pink text
+SPK7002	мынау ма?	this one?
+	иә	
+	бұл да болады	it was too
+SPK7001	неге	why it was shown twice?
+	екі рет шығып жатыр	
+SPK7002	ұмытып кетіп	they forgot it, and posted it again, you say
+	қайтіп салған десеңші	
+SPK7001	не мына	no, this shirt
+	рубашка	
+	а ой	
+	футболканы айтамын	I mean T-shirt
+SPK7002	м?	yes?
+SPK7001	дешевый	cheap?
+SPK7002	че	what?
+	иә	yes
+SPK7001	рукава нормальные	its sleeves are OK
+	да	right?
+SPK7002	а:	a
+	мынаны	look at this
+	қара	
+	қапталында да жазуы бар	it has a text on the side too
+SPK7001	иә	yes
+SPK7002	джинсысында	look it in its jeans
+	қара	
+SPK7001	ну	well
+	вроде	
+	джинсылар сондай	jeans like these one are the trend now, maybe
+	қазір мода сияқты	
+SPK7002	жазылған ба?	the written one?
+SPK7001	не то чтобы мода	not the trend itself
+	но	
+	киеді	but people wear it
+	иә	yes
+SPK7002	қарасаңшы онда	select them, then
+	біздегі қазір не шықты	what we have now?
+SPK7001	анандай	it has that
+	несі бар	
+	типа	
+	ткань	like
+	пре-	the fabric is aranged like this
+	проводят вот так	
+	потом	
+	үстінен надпись жазады	write text on it
+SPK7002	жоқ	no
+	енді біз қазір рубашка қарап отырмыз ғой	we are lookin for shirts now
+	джинсысын қарасаң	if we look at jeans
+	ол да бар шығар	maybe we will find like these ones too
+SPK7001	ым:	yes
+	я не хочу	I don't want to wear jeans like that
+	ондай джинсы киюге	
+SPK7002	мынаны қара	look at this
+	әдемі ме?	is it good?
+	мынау қырық тоғыз	this one is fourty nine
+	мынау отыз тоғыз	this one is thirty nine
+	жаңа сенің белгілегеніңді	the one you selected is thirty nine
+	отыз тоғыз болып тұр	
+	(H)	
+	(Hx)	
+SPK7001	может	maybe that one
+	не шығар	
+	составь ткани	what is the fabric composition, by the way?
+SPK7002	м?	yes?
+SPK7001	қандай кстати	
+SPK7002	қайсы?	which one?
+	жаңа ашқанымыз	is it the one we opened recently
+	сол ма?	
+	мынау ма?	is it?
+	ашылып жатыр	the opening one
+SPK7001	иә	yes
+	сол	that one
+SPK7002	қайсы?	which one?
+	қай жерден қарайтын едік?	where we were looking it?
+SPK7001	бір жерде жазылып	it was written somewhere
+	тұратын еді ғой	
+SPK7002	мына жерде сияқты да?	here, I guess, yes?
+SPK7001	а:	a
+	да	
+	қарашы	look at it
+	cotton	cotton
+	spandex	spandex
+	мынау не	what is it?
+SPK7002	не	that
+	синтетикпен араласып тұр ғой	it is mixed with the synthetics
+SPK7001	а:	a
+	может поэтому	maybe that is why it is cheap
+	арзан шығып тұр	
+SPK7002	мынаны қарайық	let's look at this
+SPK7001	қара	look
+SPK7002	просто	just
+SPK7001	бірақ	
+	қарасын	but I don't want to wear the black one
+	кигім келіп тұрған жоқ	
+SPK7002	жоқ	no
+	қарайық	let's see its composition
+	құрамын	
+SPK7001	а:	a
+	подороже	because it is more expensive?
+	болған соң ба	
+SPK7002	иә	yes
+	бұл да сондай	this one is also like this
+	бәрібір	whatever
+SPK7001	может	maybe, just, this one's that, cotton is more
+	просто мынаның	
+	несі үлкен шығар	
+	cotton-ның	
+SPK7002	проценті ме?	the percentage?
+SPK7001	иә	yes
+	ана	that
+	предыдущийға	to the previous one
+SPK7002	болмаса	or
+	ананың да мынандай жазуы бар	that one has this text too
+	бірақ жағасында мынау да сондай	but on the collar it has this too
+SPK7001	и соның	and its
+	не шығар	maybe that one
+	материалы шығар	maybe its fabric
+SPK7002	мынау негізі # пе екен?	isn't it #?
+	тас	
+	бірдеңелер бар емес пе екен?	doesn't it have that ones, stone?
+SPK7001	а:	a
+	наверное	maybe
+SPK7002	может	maybe
+	сондай шығар	that one
+SPK7001	мынаның	I wanted to see its image in more details
+	рисункасын	
+	көрейін деп едім	
+	детально	
+SPK7002	қайсы?	which one?
+SPK7001	мынаның	this one's
+SPK7002	мынаны ма?	this one?
+SPK7001	интересно	interesting
+	мынаны қарашы	look at this, please
+	кофейня тұр	it has cafe
+	адамдар тұр	it has people
+	башня тұр	it has tower
+	и мына жерде	and here
+	Love from Pari-	Love from Pari-
+	а	a
+	L-	
+	нет	
+	Love	no
+	Love from Paris	Love from Paris
+	P- Paris	P- Paris
+	н- на английском сложно произносить	it is more difficult to pronounce it in English
+	и Карл	and Carl
+SPK7002	сен қазір	in which language do you read now?
+	қай тілде оқып жатсың?	
+SPK7001	маған	it is easier for me in French
+	на французском легче	
+SPK7002	м:	understood
+SPK7001	потому что	because it is easier to pronounce it like that
+	так легче произносить	
+	ағылшынша	it is more difficult in English
+	сложно это	
+SPK7002	көресің	you will see
+	дәл өзінің несі	it is itself's
+SPK7001	иә	yes
+SPK7002	костюм қылып көрсетіп тұр	it shows as suit
+SPK7001	ну да	well, yes
+	модель их	maybe it is their model
+	наверное	
+SPK7002	бәрі бар екен	it has everything
+	пока	for yet
+SPK7001	м:	hm
+	күшті	
+SPK7002	(H)	
+	(Hx)	
+SPK7001	сұрайық	let's ask
+SPK7002	кімнен?	from whom?
+SPK7001	пападан	from dad
+SPK7002	папасы	her/his dad
+	қарашы	
+	мынандай қалай?	what do you think about it?
+SPK7001	мына	this T-shirt
+	футболка	
+SPK7002	қарсы емессіңіз бе?	don't you disagree?
+	@@@@	
+	## ## ## #	
+SPK7003	# жақсы шығар	I guess # is good
+SPK7002	сен басқа	do you walking in another depart-
+	отдель қарап жү-	
+SPK7003	шығарып қойсаңшы	select it
+	шығарып қойсаңшы	select it
+	қараймыз ғой	we will look at it
+SPK7002	басқа отдел	do you walking in another department?
+	қарап жүрсің бе?	
+	сен қалай қалай	you like that?
+	что то түсінбей қалдық қой	we didn't understand that
+SPK7003	ана ¬Айжан	Aizhan, I have lie down after it was poured into an ear
+	құлаққа құйылғасын	
+	жату керекпін ғой	
+SPK7002	түсіндік қой	we understood that  that you are walking in another department
+	енді	
+	басқа отдельді қарап жүргеніңді	
+SPK7001	##	
+	рисункасы	its image is good
+	интересный	
+SPK7002	черно белый	like black and white film, you say?
+	кино болып	
+	дейсің бе?	
+SPK7001	м:	m
+	қызыл бар ғой	we have the red one
+SPK7002	негізі	by the way
+	қай жерде отыр едім мен?	where was I recently?
+	жаңа	
+	ал шықтым да	I quited, and forgot where I was
+	ұмытып кеттім	
+	қай жерде отырғанымды	
+SPK7001	қарасаңшы бәрін	look all
+	нет	no
+SPK7002	мынау	this one
+	қара	look
+SPK7001	)	
+	мына	this
+	не да	that, right
+	просвечивает	grins
+SPK7002	майка киесің ғой	you will wear T-shirt under it
+	бәрібір астына	
+	керек емес пе?	you don't need it?
+SPK7001	по идеи	actually
+	давай	
+	алып тастайық	let's remove it
+	басқалары	just, others are way better
+	интереснее просто	
+	мынау кофта	this is jacket
+	да	
+	мынаның бар ғой	can I wear it in business style?
+	ы:	
+	официальный	
+	стильде	
+	бола ма	
+	киюге	
+SPK7002	жоқ	no, of course
+	конечно	
+SPK7001	маған именно сондай	I need precisely the one, which can be casual and business style
+	и который	
+	и casual	
+	и	
+	бизнес style	
+SPK7002	мынау да	this one is also consisted of cotton and polyester
+	коттон	
+	полиэстер дейді	
+SPK7001	м:	understood
+	(H)	
+	(Hx)	
+SPK7002	мына жерге	there is #### in here, I guess
+	ондай #### сияқты	
+SPK7001	ой ладно	oh, whatever
+SPK7002	енді бірақ	now, this one is more that comparing to that ones
+	мыналарға қарағанда	
+	кішкене мынау нелеу ғой	
+SPK7001	ыхым	yes
+	кофтаны пока қарамай ақ қояйық	let's not look at the jacket for now
+	пока	now let's look at that
+	нелерді қарайық	
+	топ	
+SPK7002	тұра берсін	let it be
+SPK7001	тұра берсін	let it be
+	ладно	
+SPK7002	бітіп-	it is going to end, you say
+	бітіп бара жатыр	
+	десең да	
+SPK7001	несін қарашы	look at that, composition
+	составын	
+SPK7002	міне	here
+SPK7001	жазылмаған	not written?
+SPK7002	полиэстер	polyester
+	эластан	elastane
+	спандекс	spandex
+SPK7001	а:	a
+SPK7002	стопроцентный	it means that it is 100% synthetics
+	синтетик деген сөз	
+SPK7001	онда	let's remove it then
+	алып тастайық мынаны	
+	мынау	this one seems good
+	интересный сияқты	
+	нет	right?
+	как думаешь	what do you think?
+SPK7002	құрамын қараймын да мен	I look at the composition firstly
+	бірінші	
+SPK7001	а:	a
+SPK7002	котон	cotton
+	полиэстер	polyether
+SPK7001	ну ладно	OK
+	удалять можно	we can remove it
+	ұнамай тұр ма	you don't like it?
+SPK7002	білмеймін	I don't know
+	киетін сен ғой	It is you who will wear it
+	өзің қарасаңшы	it is up to you
+SPK7001	но ладно	OK
+	удаляй	remove it
+SPK7002	мынау не зат?	what is it?
+	мынаны қарамайсың ба?	will you select it?
+SPK7001	жоқ	no
+SPK7002	мынау	this
+SPK7001	м:	hm
+	мынау простенький сияқты	this seems too simple
+	нет	no?
+SPK7002	енді может	maybe it is for good
+	сонысы и жақсы шығар	
+	dry clean	dry clean
+	даже стирать нельзя	you cannot even wash it
+SPK7001	@@@	
+	қалай жуам мен ертең	how will I wash it in the future?
+	@@@@@	
+SPK7002	соны айтамын	I mean it
+	каждый раз химчисткаға жүгіріп жүресің	you will visit dry-cleaner's all the time
+SPK7001	неге	why dry clean?
+	dry	
+SPK7002	білмеймін	I don't know
+SPK7001	шелк-	silk-
+SPK7002	тонкая ткань шығар	maybe it is thin fabric
+	андай	
+	нежный не шығар	maybe it is that fragile
+	суға салсаң	if you put it in water, it will be that, harden, maybe, or will turn into something, maybe
+	не етіп кететін шығар	
+	қатып	
+	или бірдеңе қылып	
+	кететін шығар	
+SPK7001	мынаны кие алмаймын ғой	I won't be able to wear it in the future
+	ертең	
+	@@@@	
+SPK7002	сол	I mean it
+SPK7001	киемін	I will wear it once, and that is it
+	и все	
+	@@@@@@@	
+SPK7002	қысылып	It will be uncomfortable, you say
+	дейсің ғой	
+SPK7001	посылкамен үйге жіберіп	send it to home via logistics
+SPK7002	бұны енді жаппау керек	We have to not to close this page
+	мынау үшін ғой	this is for it
+SPK7001	а:	a
+	мынау уже	this one is already
+	а вот	here it is
+SPK7002	мынау	this one is what we were looking at recently
+	қарап отырғанымыз еді ғой	
+	жаңа	
+	мынау жаңа анау	this is the recent colourful one
+	түрлі түсті	
+	түсі ма не?	the colour of it?
+SPK7001	мынау более	this one is more general
+	обширный	
+	анау более детальный	this one is more detailed
+SPK7002	ым	yes
+	сказал	photographer said
+	фотограф	
+	дейсің ғой	
+SPK7001	ыхым	yes
+SPK7002	мынау қызық екен	this one is interesting
+	бантигі бар	it has bow here
+	мына жерде	
+SPK7001	сол	yes
+SPK7002	жаңағы баланың	like the carrot in the photo of that boy
+	суретіндегі	
+	морковкасы қатып қойғандай	
+SPK7001	@@@@@@@@@	
+SPK7002	@@@@@@@	
+	(H) мамасы соны айтып	his mom is trying to say it, but cannot reach her thoughts
+	жеткізе алмай отыр ғой	
+	өзі күлкісі де келеді	she can laugh too
+	жаңағы	like that
+	и смех	and laughter, and sin
+	и грех	
+	деген бар ғой	we have that expression
+	күлейін десе	she wants to laugh, but it is her child, so she cannot
+	өз баласы да	
+	прям не етіп бара жатыр	
+	күлмейін десе	she also doesn't want to laugh, but the creativity of the photographer is that
+	ананың	
+	фотографтың ана	
+	анандай	
+	көз қарасы да	
+	фотоға анау	
+SPK7001	и	maybe s/he didn't notice it
+	ол	
+	не шығар	
+	байқамаған	
+	шығар ол	
+SPK7002	жоқ	no
+	мен ойлаймын	I think that he(child) had to keep it in different way
+	ол басқаша ұстап отыру керек шығар да	
+	ана бала	maybe that boy put his arms down
+	өзінше	
+SPK7001	иә	yes
+SPK7002	қолы түсіп кеткен шығар	
+SPK7001	иә	yes
+SPK7002	бірақ	
+	жалпы сәбіздің қажеті жоқ да	that picture does not even require the carrot
+	ана суретте	
+	вообще ешқандай	
+	не үшін ұстатып қойған	why s/he made him to hold it in here
+	ана жерге	
+	қай	
+	действительно	what idea was that, so photographer gave him a carrot?
+	қай фантазиямен	
+	фотограф	
+	ол жерге сәбіз	s/he put in there a carrot, you know
+	қыстырып қойып отыр да	
+	(H)	
+	жаңа	that one
+	сколько людей	how many people
+	столько мнений	that many opinions
+	столько вкусов	that many preferences
+	дегенге барып тұр ғой	it is meaning that
+SPK7001	ыхым	yes
+SPK7002	әркімнің өзінің көз қарасы	everyone has his/her own vision
+	енді	so, this one is like that too
+	мынау да сондай ғой	
+	қарасаңшы мынаны	look at it
+	қажеті қанша мыналардың?	why these are here?
+	мына мына	this, this
+SPK7001	(H)	
+	(Hx)	
+SPK7002	наверное мен түсінбейтін шығармын	maybe I just didn't get it
+SPK7001	солай шығар	maybe
+SPK7002	мә	wow
+	мынаны қара	
+	мынау	this one is good, yes?
+	қызық да?	
+	мынау да қара	this one too, look
+SPK7001	о:	wow
+SPK7002	ұсақ та	it is very small, you know
+	несін қара	look at that
+	ашып қарайық	let's open look at it by opening it
+	шифон ба екен	is it chiffon?
+SPK7001	(SNEEZE)	
+SPK7002	полиэстер ме екен	is it polyether?
+SPK7001	(SNEEZE)	
+SPK7002	жәрекімалла	Bless you
+SPK7001	(SNEEZE)	
+	(SNEEZE)	
+SPK7002	жәрекімалла	bless you
+SPK7001	(SNEEZE)	
+	(SNEEZE)	
+	(Hx)	
+SPK7002	будь здорова	bless you
+SPK7001	(Hx)	
+	рақмет	thank you
+SPK7002	наконец то	finally
+	мә мына	wow, this
+	мен не күтіп отырмын	What I am waiting for?
+	ашылған екен ғой	it was opened, you know
+SPK7001	м:	yes
+	бірақ	
+	рукавасын смотри	look at sleeves
+	короткие	they are short
+	оны тек қана	I can wear it only with jacket, shirt
+	кофтамен кимесем	
+	рубашка	
+SPK7002	нейлон	nylon
+	с хлопком	with cotton
+	hand wash	hand wash
+SPK7001	нейлон деген	is nylon a rubber?
+SPK7002	ручная стирка	hand wash
+SPK7001	резинка ма	
+	типа	like this one
+	мынау	
+SPK7002	нейлон деген	nylon is that
+	не ғой	
+	бантиктарға не ететін	that one that to bows
+	не еді	what was that
+	жұқа	It meant it is thin that
+	не	
+	дегені ғой	
+	мынаны қара	look at this
+	андай сеточка	like that net
+	қара	
+	основаниесін көрдің бе?	did you see its foundation?
+SPK7001	иә	yes
+SPK7002	сондай	it says that it is that hand wash
+	ручная	
+	стирка дейді	
+SPK7001	о:й	oops
+SPK7002	қызық емес шығар	I think we don't like it
+	деп ойлаймын	
+SPK7001	рукава	sleeves are short
+	короткие	
+SPK7002	иә:	yes
+SPK7001	ручная стирка	hand wash
+SPK7002	непрактичная вещь	not practical thing
+	деп қойсаңшы	you say
+SPK7001	да	yes
+	сол сол	yes, yes
+SPK7002	ең жақсысы мынау шығар	this is the best option
+	да?	
+SPK7001	иә	yes
+SPK7002	мынау не?	what is it?
+SPK7001	жаңағы рубашка	the recent shirt
+	и мына не	and this that
+	панамка	panama hat
+	@@@	
+SPK7002	@@@@	
+SPK7001	и күшті ғой	it is good
+SPK7002	мынау	maybe this one is what father selected for his child
+	папаңның баласына таңдап қойғаны шығар	
+SPK7001	ж- жоқ	no
+	мен кеше	
+	ана панаманы киіп жүрдім ғой	I was wearing that panama hat yesterday
+SPK7002	м:	yes
+SPK7001	маған	panama hat is big for me
+	үлкен	
+	панама	
+	и мен оны каждый раз былай үстіп жүрдім де	and I had to keep it like this all the time
+	и ойлаймын анандай	and thought if there was this in the below
+	астындағы	
+SPK7002	резинка	that if there was a rubber, you did not have to keep it like this
+SPK7001	несі	
+SPK7002	болса ғой	
+	ұстау керек жоқ деп	
+SPK7001	иә	yes
+	жақсы шығар	maybe it is good
+	зато с размером	so you won't be mistaken in size
+	не прогадаешь	
+SPK7002	алсын	let him/her buy it
+	мен соны киемін	and I will wear it
+	десеңші	
+	мә	say it
+	мынаны қара	wow
+SPK7001	иә	yes
+SPK7002	жүз пайыз	100%
+SPK7001	о:	wow
+	тем более	especially
+	тем более	especially
+SPK7002	бағасын қарайық	let's look at its price
+	демалысқа қалай	to the weekends
+	мынау	this one
+	мынауысы артық емес пе?	isn't this an odd one?
+SPK7001	эй	hey
+	не ғой	it is that
+	типа как	
+	визитная карточка	something like business card
+SPK7002	визитная карточка емес	not a business card
+	не дейтін еді?	what it was called?
+	э-	not emblem
+	эмблема емес	
+	не дейтін еді?	what it was called?
+SPK7001	лого	logo?
+SPK7002	ы:	hm
+	знак фирмы ма	brand's logo?
+	не зат еді?	
+	ана	it is sewed on dresses in here, in the back of the head
+	көйлектерге тигеді ғой мына жеріне	
+	желкесіне	
+	андай	
+SPK7001	а:	a
+SPK7002	мынандайды	that one
+SPK7001	білмеймін	I don't know
+SPK7002	оны желкесіне тікпей	they did not sew it in the back of the head
+	мына жерге бәрін көрсетіп	but instead sewed it in here to show to everyone, I guess
+	тігіп қойған сияқты	
+SPK7001	интересно же	it is cool, isn't it?
+SPK7002	мынаны қара	look at this
+	мына	
+	именно кеше	precisely yesterday
+	мына	
+	соңғы алған	the designs of recently bought dresses' back is like this too
+	көйлектердің моделькалары да	
+	арты жағы мынандай	
+SPK7001	күшті	cool
+SPK7002	кәдімгі	
+	ұзын болып тұр да	it is long, indeed
+SPK7001	не сияқты	it's like that
+	көйлек сияқты	like dress
+	артынан қарасаң	if see it from the back
+SPK7002	мынау именно	this one precisely
+	мынаны қара	
+	қандай немен киген	it worn with like that
+	көресің	you see
+SPK7001	skinny	skinny
+SPK7002	иә	yes
+SPK7001	(H)	
+SPK7002	мына көйлектер	these dresses are meant to be worn with like these, I guess
+	именно сондаймен киюге	
+	арналған сияқты	
+	себебі мынау асты	because this sole are only in the lastest designs
+	соңғы модельмен шыққан	
+	кең джинсыларға	it won't be suited with wide jeans, I guess
+	мынау жараспайтын шығар	
+	сен мынандай	you this
+	не	that
+	үлкен	big
+	үлкен болып кететін шығарсың	you will become big, I guess
+	бесформенный болып	by being formless
+	именно осындайларға	it is needed for these, I guess
+	осы керек шығар	
+	ал мынандай	but for these with wide sole
+	асты кең келгендерге	
+	үсті мынандай	the top is like that
+	ана жаңағы	
+	(H)	
+	м	m
+	футболка сияқты	something is needed, like a T-shirt
+	сондай керек шығар	
+	деп ойлаймын	I think
+SPK7001	ыхым	yes
+SPK7002	потому что бір жағы кең болса	because if one side is wide
+	екінші жағын уравновешивать ету үшін	the second side can be balanced
+	кішкене ы:	a bit
+	нелеу	more that
+	компактныйлау болып алу керек сияқты	we have buy it like more dense
+	аштым ба мен мынаны	did I open it?
+	көрейік	let's see
+	көйлек ашылып тұр ғой	this dress is opened
+	мынау	
+	қарайық онда	let's see it then
+	осыны	
+	негізі маған алдында да	actually, I liked this one last time as well
+	осы ұнап еді	
+SPK7001	м:	I see
+SPK7002	бірақ анау да	but that one is like that too
+	енді кішкене не	
+SPK7001	күшті	cool
+	бұл да	this one too
+SPK7002	классикаға жақындау да	it is more like a business style, you know
+	кішкене	
+	пиджакпен кигенде	you can hide it, when you wear it with a blazer
+	спрятать можно	
+SPK7001	а:	a
+SPK7002	мынаны заправкаға жіберсең	if you tuck in this
+	анау көрінбейді де	that one even won't be seen
+	не етіп	
+	а мынау	but this, one side of it will be seen
+	бір шеті бәрібір көрініп қалады	
+	да	you know
+SPK7001	но	but
+SPK7002	мынау уже	this one is already
+SPK7001	өзін кию керек	you have to wear it itself
+SPK7002	да	you know
+	бұның өзін киесің	you will wear it itself
+	или бұны кигенде де	or when you wear it too
+	андай	
+	классический костюм емес	not a suit
+	более	more like that
+	кішкене андай не	
+	ы:	
+	спортивный емес те	not a sport suit
+	анандай түріне не етесің	you will that to that kind
+SPK7001	casual	casual
+SPK7002	иә	
+	сондайға киюге болады	you can wear it with that
+	жақсы да мынау	it is good, right
+	кішкене мынау пиджакты мына жеріне кішкене көрінге де	you will that to this blazer in here and
+	ол	
+	слишком ерсі болмайды	it won't be that bad
+	в порядке вещей болып тұрады	it will look fine
+	а сенікі негізі мынандай еді ғой	and yours was like this, you know
+	міне	here
+	оны арқайын	it, freely
+	видишь?	see?
+	жасап тастауға болады	you can make it
+SPK7001	о:	o
+	күшті	
+SPK7002	классическиймен кигенде	when you wear it with business style
+	еш жерінен көрінбейді мынау	it won't be seen from anywhere
+	мынауы да кетіп қалады	it will be gone too
+SPK7001	да	yes
+SPK7002	мынау да	
+	жаңа	it will go into that sleeve, you know
+	жеңнің ішіне кіріп кетеді де	
+SPK7001	да даже	even when you wear it with business style trousers, it will look fine
+	ы	
+	классика	
+	классический	
+	ы	
+	шалбармен кигенде де	
+	нормально болып тұрады	
+SPK7002	иә	yes
+	иә	yes
+	а мынау	and this one, precisely, is like that
+	именно мынандай не болып тұр	
+	мынаның ішіне	into this, you will need like these ones, I guess
+	мынандай нелер керек шығар саған	
+SPK7001	майка ма	T-shirt?
+	бар ғой	I have it, white T-shirt
+	ақ майка бар менде	
+SPK7002	мына жаңағы кімнің киіп жүргенін көрдің бе?	did you what that person is wearing?
+	анандай	
+	жазу	I showed you that one by saying it like that text, text, text
+	жазу	
+	жазу	
+	дегенді көрсеттім ғой	
+	мынандай деп	
+SPK7001	иә иә	yes, yes
+SPK7002	ол ана	s/he is wearing that open clothes
+	мына ашып киіп жүр	
+	астына	
+	анандай майка киіп жүр да	and wear a T-shirt inside
+SPK7001	а:	a
+SPK7002	көрдің?	did you see?
+	ол как анандай	it like that
+SPK7001	не как рубашка	not like a shirt
+SPK7002	иә	yes
+SPK7001	а как кофта	but like a jumper
+SPK7002	да	yes
+	сол кофта ма	is it jumper
+	ана курточка ма	or is it coat
+	пиджак па	or is it blazer
+	сондай и:	s/he wears it like that
+	ретінде киіп жүр да	
+	ол	
+	көп жерде	in many places
+	анандай	
+	онікі мынандай	her/his like that
+	не	
+	астына лосины киген де	s/he wear leggings with a T-short
+	футболочка мен	
+	үстіне анандай не етіп киіп алған да	s/he wear like that, you know
+	сосын онікі	then, because of her/his clothes are black and white
+	ана	
+	ақ қара болғасын	
+	ол	it is more not like light
+	больше	
+	не как светлое	
+	даже	but even more like dark
+	к темному ближе идет да	
+	сосын любой цвет футболка кигенге	then, when you wear T-shirt of any colour
+	нормальный	it looks fine, like in harmony
+	горманичный	
+SPK7001	бірақ	no
+SPK7002	не етеді	
+SPK7001	суға	when you wash it?
+	жуғанда	
+SPK7002	цветнойға саласың	you will wash it with colourful clothes
+	дым болмайтын шығар	everything will be OK
+	деп ойлаймын	I guess
+	оның аппағы	its white one
+	аппақ па?	is it white?
+	сәл серыйлау ма?	or more like grey?
+	білінбейтін шығар	it won't be noticed
+	бәрібір қасында қара түрі тұрады ғой	it will have a black one near to it, anyways
+SPK7001	но	but
+	иә	yes
+SPK7002	сосын	then
+	білінбейтін шығар деп ойлаймын	it won't be noticed, I think
+	енді мынаған	
+	енді	but for this
+	бірақ	so
+	аккуратно	you will do that carefully
+	не етесің	
+	себебі бұнікі	because if something touches it
+	сәл бірдеңе түссе-	
+	дақ түссе де	even a spot touches it
+	көрініп тұрады да	it will be seen
+	уже	
+	сәл не еткенге	for something small
+SPK7001	сол	right
+SPK7002	но мынау	but this
+	кішкене не	something like that
+	необычный не болып тұр да	seems very unusual
+	жақсы	good
+SPK7001	ақ киімнің	the con of white clothes is this, it gets dirty fast
+	сонысы жаман	
+	сразу кірлейді	
+SPK7002	(H)	
+	(Hx)	
+SPK7001	##	
+	мына жерінде	in here
+	мына жерінде	in here
+	қарайып бастайды	it started to become black
+SPK7002	иә	yes
+	сосын	
+	дақ түссе	if there is a spot
+	кетіріп тастау да қиын оны	it is difficult to remove it too
+	не етіп	by doing that
+SPK7001	бір рет	once
+	тамақ жеп отқанда	when I was eating
+SPK7002	мына	if you push this person, it would be right
+	кісіні	
+	түртіп жіберсеңіз	
+	дұрыс болар еді	
+	негізі	
+	дүкенді аралап жүрген	the one who is walking in the store
+	десең да	you say
+	@ (H)	
+	дүкен аралап жүргенде	when you are walking in the store
+	енді көрген нәрселерді	the things you have noticed
+	деген сияқты	like that
+	естімей жатыр	s/he doesn't hear it
+	қаттырақ	louder
+	білмеймін енді	I don't know
+	мына	
+	мына көйлек қалай болады	what do you think about this dress
+	енді не ететінге	for that
+	деп	
+	қатты шығып кетіп жатыр	it becomes louder
+	деген сияқты	I mean
+	мынаны қарайсың ба?	will you look at it?
+SPK7001	көрсет	show me
+	жаңағы	the last one was better
+	жақсы еді	
+SPK7002	иә	yes
+SPK7001	мынау	this
+SPK7002	кішкене	a bit
+SPK7001	мынау	this
+	мынау бар ғой	this one is
+	более	more a sport style
+	спортивный стиль	
+SPK7002	иә	yes
+	мынау енді дым	and this one is nothing
+	вообще	its that, design, is not good at all
+	қызық емес несі	
+	моделі қызық емес	
+	не де болса	let this one be left, for whatever
+	осы қала берсін	
+	(H)	
+	(Hx)	
+	енді білмеймін	I don't know
+	(Hx)	
+	қызық па?	is it good?
+SPK7001	#####	
+SPK7002	ы:	hm
+	қанша несі?	how much is that?
+	футболкасын	will you look at its T-shirt or others like that too?
+	или не	
+	қарайсың ба тағы басқасын да?	
+	Келвин Кляйнның футболкасын қарайсың ба?	will you look at Calvin Klein T-shirt?
+	Сенде бар еді ғой негізі	You have one, actually
+	Келвин Кляйнның футболкасы	Calvin Klein T-shirt
+	Келвин Кляйнның футболкасы бар	You have Kalvin Clein T-shirt
+	ым	hm
+	Донна Каран жоқ сенде помоему	I think you don't have Donna Karan one
+	да?	
+	футболкалары	its T-shirts
+SPK7001	иә	yes
+SPK7002	давай Донна Каранның футболкасын	let's look at Donna Karan T-shirt
+	қайсы?	which one?

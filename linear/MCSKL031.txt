@@ -1,0 +1,2195 @@
+speaker	span	translation
+SPK6010	(H) Да,	Yes, classes are over already.
+	сабақ,	
+	сабақ бітті уже.	
+	Че, как курс,	So, how did your Spring semester go?
+	бітірдіңдер,	
+	Spring-та?	
+SPK6011	Керемет.	Amazing.
+SPK6009	(???)	Bad.
+SPK6010	QQQQ	QQQQ
+SPK6011	QQQ	QQQ
+SPK6010	Мен главное capstone-ды тапсырдым,	Most importantly, I submitted my capstone, so I am chilling.
+	все маған,	
+	кайф.	
+SPK6009	Capstone-ды топпен жазасыңдар ма?	Do you write the capstone project in group?
+SPK6010	М?	Pardon?
+SPK6009	Capstone-ды топпен жазасыңдар ма?	Do you write the capstone project in group?
+SPK6010	Жоқ,	No, you write it on your own.
+	өзің жазасың.	
+	Вообще, лингвистика capstone какой-то э.	Actually, capstone in linguistics is not good.
+SPK6009	Неге?	Why?
+SPK6010	Бір жыл,	Basically, you do nothing the whole year.
+	ештеңе істемейсің,	
+	по сути.	
+	Не то что ештеңе іс-,	Not like you really do nothing but they keep telling you to do this or that.
+	тиісе береді саған.	
+	Мынаны істе, мынаны істе.	
+SPK6011	М.	Мmm, I see.
+SPK6010	Literature review,	Literature review was an useless thing to be honest.
+	вообще,	
+	бесполезный нәрсе болған.	
+	Вот.	That's it. Capstone in Mathematics is cool, it goes only one semester in spring.
+	Математикада күшті capstone,	
+	бір семестр ғана.	
+	spring-та.	
+SPK6011	М.	Oh.
+SPK6010	Еще бізде презентация,	And the capstone presentation, imagine that you write your capstone project for one year and they give you only five minutes to present it.
+	capstone-ның,	
+	прикинь сен бір жыл,	
+	проект істейсің,	
+	и сол проектті презентация,	
+	жасауға,	
+	саған бес минут береді.	
+SPK6011	Это вообще.	That is not good.
+SPK6009	Неге бес минут?	Why five minutes?
+SPK6010	Бес тире жеті.	Five dash seven.
+	Білмеймін.	I do not know.
+	Біз өзі көп емеспіз,	There are not so many of us, so they could have given us more time.
+	бізге можно было нормально уақыт беруге,	
+	математикарда,	Mathematics or engineering students were given thirty minutes for each one to present but we only had five minutes.
+	или инженерлерда, біреуінде,	
+	COUGH отыз минут,	
+	презентация.	
+	Бізде бес.	
+SPK6009	(Hx)	(Hx)
+	###	###
+SPK6010	Пока теманы объяснить еткенде уже,	It takes four minutes to only explain the topic.
+	төрт минут кетеді.	
+SPK6011	Мхм.	Yes.
+	А offline-да қалай болды?	What about offline semester?
+SPK6010	Адамдардың алдында.	In front of people.
+SPK6011	М, қанша минут болды?	No, I mean how much time they had to present?
+SPK6010	Білмеймін.	I do not know.
+SPK6011	М.	Oh, okay.
+	М, көбірек болған шығар по-любому.	Hmm, they for sure had more time.
+SPK6010	Мхм.	Yes.
+	Кажется социологтарда,	If I not mistaken, sociology students presented their capstone projects in front of other universities, not universities, but potential employers.
+	COUGH	
+	а, capstone болғанда,	
+	басқа университтерден,	
+	университет емес,	
+SPK6011	(H)	(H)
+SPK6010	жұмыс,	
+	беретін адамдар да болған,	
+	короче,	
+	қарауға,	
+SPK6011	М.	Мmm.
+SPK6010	презентацияларды.	
+	Потенциальный работодательдер.	
+SPK6009	Сонда,	So, some of students do not write a capstone project, right?
+	а кейбіреулерінде capstone жоқ, иә?	
+SPK6010	Можно capstone алмауға, да.	Yes, you may skip the capstone project.
+SPK6009	А.	Oh, okay.
+SPK6011	Это осы жылдан бастап.	It is only starting from this year.
+SPK6010	Бізде осы жылдан бастап,	Starting from this year we, linguistics, to be specific WLLC students [may skip the capstone project].
+SPK6011	А, сендерде.	Oh, only you.
+SPK6010	лингвистикада,	
+	ВЛЛ-да точнее.	
+SPK6011	Бірақ capstone-ды жаппасан типа,	But you cannot get accepted for a master's degree if you did not write a capstone project, right?
+	магистратураға бара алмайсын вроде как,	
+	да?	
+SPK6010	Ну,	Well, it is preferable to write one because it shows that you did an individual research on your own.
+	желательно capstone-ды жазуға, если магистратураға барсан,	
+	типа,	
+	вот,	
+	индивидуальный проект жасадым деп,	
+	өзім research жасадым деген нәрсе ғой.	
+SPK6011	М.	Oh, okay.
+	М,	Who does not have a capstone project? ECON and PLS students, right?
+	бізде кім жазбайды?	
+	ECON жазбайды,	
+	PLS тоже жазбайды, иә?	
+SPK6010	Білмеймін.	I do not know.
+SPK6009	P-,	What is PLS?
+	PLS деген не?	
+SPK6010	Political.	Political.
+SPK6011	Political,	Political science.
+	science.	
+SPK6010	Кажется жазбайды ол.	I think they do not have it.
+SPK6009	А, PSIR мен PLS бір ме,	Ah, PSIR and PLS are one thing, right?
+	бір нәрсе ме?	
+SPK6010	PSIR жазады.	PSIR have a capstone project.
+SPK6011	Ой,	Oh, right, it is PSIR, not PLS.
+	какой PLS,	
+	иә, PSIR.	
+SPK6009	А, басе.	Ah, now I get it.
+SPK6011	QQ	QQ
+SPK6010	PSIR-да.	Yes, it is PSIR.
+SPK6011	(H)	(H)
+	PSIR, ECON,	PSIR, ECON, and who else?
+	COUGH	
+SPK6010	COUGH	(COUGH)
+SPK6011	тағы кім?	
+SPK6010	CS-та у них,	Computer science students have a senior projects, which is similar to capstone.
+	senior project,	
+	capstone,	
+	сияқты нәрсе, но project.	
+SPK6011	Ну, ладно,	Well, I would not cound it then.
+	оны санамай-ақ қоямын онда.	
+	Биология?	Biology?
+SPK6009	Олар да жаза ма?	They also do write [the capstone project]?
+SPK6011	М, жоқ, менде просто типа сұрақ,	Oh, no. I am just asking if they write or not.
+SPK6009	А.	Аh, okay.
+SPK6011	жаза ма жазбай ма.	
+	Жазбайды ғой деймін, иә?	I do not think they have it, right?
+SPK6009	М.	Hmm.
+SPK6010	Жазады.	They have...I do not know.
+	Білмеймін.	
+SPK6011	Химия?	Chemistry?
+	М,	Hmm...
+	м,	
+SPK6009	А соц пен антро-,	What about sociology and anthropology?
+	пология?	
+SPK6010	Соцтар жазады.	Sociology students have a capstone project.
+SPK6011	Олар жазады.	They write it.
+SPK6009	Тарих?	History?
+SPK6011	Жазады.	[They] write it.
+SPK6010	Гумдардың көбісі жазады,	Most of humanities have a capstone project but they got a choice to write one or not eariler [than linguistics students].
+	только оларда тоже, кажется,	
+	COUGH	
+	пораньше было,	
+	то, что можно было не писать деген нәрсе,	
+	бізде, например, обязательный болды,	It was compulsory for us, for example, but starting from this year you can take two of four hundred level courses instead of the capstone project.
+	если хочешь выпуститься,	
+SPK6011	Мхм.	Yes.
+SPK6010	обязательно capstone жазасың.	
+SPK6009	М.	Oh, I see.
+SPK6010	Мына жылдан бастап,	
+SPK6009	(H)	(H)
+SPK6010	они сказали можно просто екі,	
+	төрт жүз,	
+	курс алуға и все.	
+SPK6011	Мхм.	Yes.
+SPK6010	Получается екі,	So, you take two of four houndred level courses as a core requirement and two of four hundred level courses instead of the capstone project.
+	екі,	
+	core,	
+	core requirement,	
+	екі төрт жүз кус,	
+	курс,	
+	и,	
+	төртінші курста,	
+	екі төрт жүз ку-,	
+	курс аласың,	
+	короче төрт төрт жүз курс.	
+SPK6011	М, core requirement-та үш жүз бен төрт жүз ғой,	No, you can also take a three hundred level courses as a a core requirement.
+SPK6010	А,	Yes, basically, you take four of four hundred courses.
+	ну, короче,	
+SPK6011	типа,	
+	да.	
+SPK6009	(H)	(H)
+SPK6010	и,	
+	төрт аласың төрт жүз.	
+SPK6011	Бірақ төрт жүз деген аз ғой бізде,	But we have only a few of four hundred courses.
+	курстар в целом.	
+SPK6010	У нас вообще,	Everything is unclear here.
+	какой-то непонятный вообще.	
+SPK6009	COUGH	(COUGH)
+	(H)	(H)
+SPK6010	Барлық. который интересный курстар,	All the courses that were interesting to me were during the first and second years.
+	бірінші курста болған менде,	
+	екінші курспен.	
+	Оның барлығын,	All of them were always taken by senior students, and I did not have time, like there was never a place for me.
+	senior-лар алған,	
+	маған уақыт,	
+	типа не хватало мест никогда.	
+	Мен senior болғанда,	When I am a senior student, all courses are bad.
+	беспонтовые все курсы.	
+SPK6009	QQQ	QQQ
+SPK6011	QQQQ	QQQQ
+SPK6010	(TSK)	(TSK)
+	Не честно вообще.	So unfair.
+SPK6011	По идее осы жолы аз болды,	Actually, there were only a few courses this time.
+	курстар.	
+SPK6009	Ол сонда өзгере бере ме курстар,	So, your courses may change? Why?
+	неге?	
+SPK6010	Профтар,	Sometimes professor have no time, or there is no professor.
+SPK6009	А.	Аh, I see.
+SPK6010	профтардың уақыты бар,	
+	жоқ,	
+	проф өзі жоқ бар ма.	
+SPK6009	QQ	QQ
+SPK6011	Q	Q
+SPK6010	¬Petrakis кетеді.	¬Petrakis leaves [the university].
+SPK6011	Yes.	Yes.
+SPK6009	Кім?	Who?
+SPK6010	Профессор,	Professor whose I am a fan of.
+	фанатпын.	
+SPK6011	Q	Q
+SPK6010	QQQ	QQQ
+SPK6011	Бізде тоже неміс тілінен,	My german language professor also left.
+	профессор кетіп қалды,	
+	капец күшті болған,	She was really good.
+	м.	
+SPK6010	Қандай major-сыңдар?	What major are you?
+SPK6011	М?	What?
+SPK6010	Қандай major-сыңдар?	What major are you?
+SPK6011	Major-сыңдар?	Major?
+SPK6010	Да.	Yes.
+SPK6011	Мен ВЛЛ-мын ғой.	I am also WLLC.
+SPK6009	QQ	QQ
+SPK6011	QQ	QQ
+SPK6009	М- механик.	Mechanical.
+SPK6010	А.	Oh.
+	QQ	QQ
+SPK6011	QQQ	QQQ
+SPK6009	COUGH	(COUGH)
+SPK6010	Самый важный вопрос.	The most important question.
+	QQ	QQ
+SPK6009	Атың кім деп еді деп пе?	So, what is your name?
+	(H)	(H)
+SPK6010	QQQ	QQQ
+SPK6011	Q	Q
+SPK6009	COUGH	(COUGH)
+SPK6010	¬Әйгерім.	Arailym.
+	QQQ	QQQ
+SPK6009	(H)	(H)
+SPK6010	(H)	(H)
+SPK6009	¬Анар.	¬Anar.
+SPK6010	¬Mary-дан курс алдың ба?	Did you take courses from ¬Mary?
+SPK6011	¬Алия.	¬Aliya.
+SPK6009	(H)	(H)
+SPK6011	¬Mary?	¬Mary? No.
+	Жоқ.	
+SPK6010	Ал,	Take one, it will be an easy A.
+	easy A.	
+SPK6011	Страшно QQ.	I am scared.
+SPK6010	Аха,	No, easy A, you should take her courses. I have taken all of her courses.
+	easy A,	
+	ала бер.	
+SPK6009	(H)	(H)
+SPK6011	Ну ладно.	Okay.
+SPK6010	Мен оның,	
+	барын курсын алғанмын.	
+SPK6011	(Hx)	(Hx)
+SPK6009	Неге ВЛЛ-ға түстіңдер?	Why did you choose WLLC?
+	(H)	(H)
+SPK6010	Биолог болғанмын мен.	I was a biology student.
+SPK6011	Q	Q
+	Мен тілдерді оқығым келген просто,	I just wanted to learn languages.
+SPK6010	QQ	QQ
+SPK6009	Q	Q
+SPK6011	все.	
+SPK6010	Мен просто биолог болғым келген жоқ.	I did not want to be a biology student.
+	Биолог болып түстім,	I was admitted as a biology student but then I transferred.
+	сосын перевелась.	
+SPK6009	А.	Oh, I see.
+SPK6011	М.	Mmm.
+SPK6009	И сен қай тілдерді оқып жатырсың?	So, what languages are you learning? German and?
+	Неміс,	
+	сосын?	
+SPK6011	М,	So, I took German in Spring.
+	мен по идее,	
+	spring-та.	
+	неміс тілін алдым.	
+SPK6009	Мхм.	Yes.
+SPK6010	Алып келемін.	I will bring it.
+SPK6011	Fall-да мен,	In Fall, I also took German and I think that is it.
+SPK6009	(H)	(H)
+SPK6011	тоже неміс тілін алдым,	
+	кажется, больше алған жоқпын.	
+SPK6009	А.	I see.
+SPK6011	Білмейін просто последний раз.	The last time I took Chinese among others.
+	қытай тілін алғанмын басқалардан.	
+SPK6009	О.	I see.
+SPK6011	Вот,	But I did not study it much.
+	но мен оны,	
+SPK6010	¬Daisy.	¬Daisy.
+SPK6011	дұрыс оқыған жоқпын QQ.	
+SPK6010	¬Daisy ма?	Was it ¬Daisy?
+SPK6011	Мхм.	Yes.
+SPK6010	Милашка.	She is a cutie.
+SPK6009	(H)	(H)
+SPK6010	COUGH	(COUGH)
+SPK6011	Но менде басында,	But I had another teacher, I mean professor, in the beginning course.
+	жүз бірде басқа мүғалім болды,	
+SPK6010	А.	I see.
+SPK6011	профессор точнее.	
+SPK6009	(H)	(H)
+SPK6010	Мен ¬Daisy-мен алғанмын,	I took the beginner classes with ¬Daisy.
+	beginner-ді,	
+	бірінші.	
+SPK6011	Маған негізі,	To be honest, I liked the first teacher because she was from Taiwan.
+	ана мұғалім ұнаған,	
+	потому что ол короче,	
+SPK6009	А, рақмет.	Oh, thank you.
+SPK6011	Тайваньнан.	
+SPK6010	Мхм.	I see.
+SPK6011	И типа,	She was really cute and good at explaining everything.
+	ол прям капец милашка болды да,	
+	и онымен бәрі,	
+	прям,	
+	түсінікті болды.	
+	М, ¬Daisy-ға жүз екіге көшкен кезде ол,	When we switched to ¬Daisy in 102 class, she suddenly started speaking in Chinese during class.
+	что-то резко,	
+	қытайша сөйлеп кетті де,	
+SPK6009	QQ	QQ
+SPK6010	А.	Oh, she used to speak in Chinese in 101 class too.
+SPK6011	сабақта прям.	
+SPK6010	Ол бір,	
+	бір жүз бірде тоже қытайша сөйлеген бізбен.	
+SPK6011	Иә,	Yes, but we are not used to that and it was after summer, so we did not remember much.
+	ал біз оған үйренбегенбіз,	
+	типа еще жаз өтіп кетті,	
+	типа вообще,	
+SPK6009	А.	I see.
+SPK6011	пустота,	
+SPK6009	Q	Q
+SPK6010	QQ	QQ
+SPK6011	туман.	
+	И,	She started speaking Chinese right away, so I was like wow and my motivation dropped.
+	этот,	
+	сразу бастайды да,	
+	и я такая отырамын,	
+SPK6010	Иә.	Yes.
+SPK6011	вау деп.	
+	И менің мотивациям короче вот так,	
+SPK6010	COUGH	(COUGH)
+SPK6011	вчух,	
+SPK6010	¬Ming лаошы,	Teacher ¬Ming,
+SPK6011	кетіп қалды.	
+	Да.	Yes. I also took and passed the 201 class and I am still shocked that I passed it.
+SPK6009	А.	I see.
+SPK6011	Но мен екі жүз бірді тоже алдым,	
+SPK6009	(H)	(H)
+SPK6011	жаптым,	
+	нормально типа.	
+SPK6010	QQ	QQ
+SPK6011	До сих пор ойлап отырмын,	
+SPK6009	(H)	(H)
+SPK6011	қалай мен жауып тастадым оны деп.	
+SPK6009	Q	Q
+	(H)	(H)
+SPK6011	(H)	(H)
+SPK6009	А қандай қытай тілі?	Which Chinese is it? Is it Mandarin or?
+	Типа мандарин,	
+	или?	
+SPK6011	Мхм.	Yes, right.
+SPK6010	Мандарин, иә.	Mandarin, yes.
+SPK6009	Китайский.	
+SPK6011	Мхм.	
+	Вот.	Right.
+SPK6009	Манда-.	What is Mandarin in Kazakh?
+	Мандариннің, қазақшасы қалай екен?	
+SPK6011	М.	Hmm.
+SPK6010	Мандарин.	Mandarin.
+SPK6011	Қытай тілі,	Chinese and that is it.
+SPK6010	QQ	QQ
+SPK6011	все QQ	
+SPK6009	(H)	(H)
+	М.	I see.
+SPK6011	Вот,	So, yes.
+	м.	
+SPK6010	Мен онымен,	I took her class when she just came to the university.
+	COUGH	
+	когда она только,	
+	пришла в универ алғанмын,	
+	бірінші жыл у нее был.	It was her first year and we were her first class.
+SPK6011	М.	She is amazing because she is energetic and stays engaged no matter how many classes she had.
+SPK6010	Бірінші класс болғанбыз біз.	
+SPK6011	Но ол күшті,	
+	типа,	
+	м,	
+	қанша сабақ берсе де,	
+	типа,	
+	сағат берсе де,	
+	все равно типа,	
+	энерг-,	
+	энергичная деп отырады.	
+SPK6010	Мхм.	Yes.
+SPK6011	Это прям,	
+SPK6009	Кәрі кісі ме?	Is she old?
+SPK6011	stays engaged.	
+SPK6010	Жоқ.	No.
+SPK6011	No.	No.
+SPK6010	Где то отыз.	Somewhere around thirty.
+SPK6011	Отыз бірденеде ғой короче.	Yes, thirty something.
+SPK6010	Мхм.	Yes.
+SPK6009	А.	I see.
+SPK6010	Милаха.	She is a cutie.
+SPK6011	Мхм.	Yes.
+	Мен еще естігем типа,	I also heard that she used to invite students and organize something during offline semesters, right?
+	offline болған кезде ол,	
+	студенттерді шақырып,	
+	бірдене ұйымдастыратын, иә?	
+SPK6010	Иә иә.	Yes yes.
+SPK6009	О.	Wow.
+SPK6011	Комната ой,	At her room, I mean apartment.
+	QQ квартирасында.	
+SPK6010	Біз не,	We had a party when classes were over after the last class.
+SPK6009	Q	Q
+SPK6010	бізде не болған,	
+SPK6011	(H)	(H)
+SPK6010	party сияқты,	
+SPK6011	Вау.	Wow.
+SPK6010	нәрсе.	
+SPK6009	Мхм.	Yes.
+SPK6010	Біт-,	
+	курс біткенде.	
+	последний сабақта.	
+SPK6011	Как называется какой-то,	How is that holiday called?
+	праздник типа,	
+	м.	
+SPK6009	Не істейді онда?	What people do usually at that holiday?
+SPK6011	Білмеймін.	I do not know. They made some cookies.
+SPK6010	Новый год па?	New Year?
+SPK6011	Какой-то печенькалар жасаған	
+SPK6009	QQ	QQ
+SPK6010	Новый год па?	Is it New Year?
+SPK6009	Хэллоуин?	Halloween?
+SPK6011	Ну,	Hmm. Maybe, or was it Lunar Rabbit Year? It was associates with rabbit and moon.
+	может быть,	
+	типа,	
+SPK6010	Новый год шығар.	It is probably New Year.
+SPK6011	заячья луна ма, қалай?	
+	Луна зайчик деген бір нәрсемен ассоциироваться етеді.	
+SPK6010	М, мхм.	Yes.
+SPK6011	Сол шығар, наверное.	Seems so.
+SPK6009	Лунный заяц,	Lunar Chinese New Year of Rabbit?
+	китайский новый год?	
+SPK6010	Мхм.	Yes.
+SPK6011	Наверное,	I guess so.
+	Сонымен барғанбыз,	So, we went to her apartment for that.
+	вот.	
+SPK6010	COUGH	(COUGH)
+SPK6011	Ол еще этот бір рет,	Once she messaged in Zoom that she has some pieces of tiramisu cake left, so take it if you are staying in dormitory.
+	а, жазады,	
+	типа Zoom-да жазды ғой деймін,	
+	вот менде торт қалып қалды,	
+SPK6009	А.	Wow.
+SPK6010	QQQ	QQQ
+SPK6011	кім,	
+	кім дормда типа алыңдар андай мындай,	
+	тирамису деп айтады.	
+SPK6010	QQQ	QQQ
+SPK6009	Вау.	
+SPK6011	Вау деп бір қыз короче барып келді,	One girl was like 'Wow' and went there, it was quarantine at that time.
+	ол кезде карантин.	
+SPK6009	QQ	QQ
+SPK6010	QQQQ	QQQQ
+SPK6011	Вот,	What did we have other than that?
+	потом неме болды тағы?	
+	Бірдене болған тағы,	I remember we had something.
+	QQ	QQ
+SPK6010	Милаха өзі сондай.	She is so cute.
+SPK6011	Мхм.	Yes.
+SPK6010	Инстаграмын көрдің бе?	Did you see her Instagram?
+SPK6011	Мхм.	No.
+SPK6010	Инстаграмы бар, я подписана,	She has an Instagram page and I follow her. She is so cute, I guess she grows something in her apartment.
+	(TSK) вообще капец милаха,	
+	ана,	
+SPK6009	(H)	(H)
+SPK6010	не,	
+	дормда,	
+	кабине-,	
+	фу,	
+	(TSK)	
+	өзінің квартирасында что-то выращивает,	
+	кажется.	
+SPK6011	М.	I see.
+SPK6010	Соны,	So, she publishes things and writes things like happy New Year and so on. Cute.
+	этот,	
+	выкладывает.	
+	Бірдене жазады сосын,	
+	вот с новым годом деп.	
+SPK6009	Q	Q
+SPK6011	QQ	QQ
+SPK6010	Бірдене бірдене,	
+	сол cute.	
+SPK6011	Мхм.	Yes.
+SPK6009	Күшті,	Cool. SEDS professors do not care about anything, they do not read your emails even if you write it 5 times.
+	SEDS-тің профтарына бәрібір,	
+	email-ді бес рет жазсаңда оқымайды.	
+SPK6011	(H)	(H)
+SPK6010	QQQ	QQQ
+SPK6011	QQ	QQ
+SPK6009	COUGH	
+	Сосын Zoom-да сұрасаң игнор,	They also ignore you if you ask them in Zoom and you cannot do anything about it.
+	шығып кетеді,	
+	содан кейін,	
+SPK6010	QQ	QQ
+SPK6009	жүресің сосын.	
+SPK6010	Она еще бір рет,	Once I missed a quiz, something like that and I did a make-up quiz in her office.
+	у нее короче бір quiz-ді,	
+	пропустила что ли,	
+	у нее make-up,	
+	quiz жазғанмын.	
+SPK6011	Мхм.	Yes.
+SPK6010	кабинетіне барып.	
+	Сосын,	So, I finished with writing the quiz and I was approaching her and then she asked if she can ask me something. I was like okay.
+	quiz біткенде,	
+	бумажканы алып,	
+	столдың үстіне қойып жатырмын,	
+	потом маған қарап,	
+	можно я спрошу вопрос дейді.	
+SPK6011	Мхм.	Yes.
+SPK6010	Такая okay.	
+	Сен типа,	She was like why are you so tall?
+	(H)	
+	(Hx)	
+	почему ты такая высокая дейді.	
+SPK6009	QQ	QQ
+SPK6011	QQQQ	QQQQ
+SPK6010	QQQ	QQQ
+SPK6009	COUGH	(COUGH)
+SPK6010	Я такая,	I was like I do not know, everyone in family is tall. Then she said that you probably have good genes.
+	мен білмеймін мен,	
+	типа,	
+	семьям өзі сондай высокий,	
+	она такая а,	
+	типа,	
+	генылары күшті дейді,	
+	я такая QQQ	
+SPK6011	QQQ	QQQ
+SPK6009	QQ	QQ
+SPK6011	Капец прикол.	That is so funny.
+SPK6010	(H)	(H)
+	Такая милаха,	She is so cute.
+	вообще.	
+SPK6011	Q	Q
+SPK6009	А сенің бойын қанша?	What is your height?
+SPK6010	Жүз жетпіс бес.	
+SPK6009	Кайф.	Wow.
+SPK6011	Такие азиатки же не такие деп.	She probably asked because asians are not tall.
+SPK6010	А QQ	Yes.
+SPK6009	QQ	QQ
+SPK6010	Шаблоны,	Stereotype was demolished.
+	сломался,	
+SPK6011	Мхм.	Yes.
+	Но қытайда бар шығар ондайлар типа,	But there has to be tall people in China.
+SPK6010	Иә.	Yes, I do not remember whether it is south or north but in one of these regions in China people are tall.
+SPK6011	по-любому.	
+SPK6010	Бір,	
+	бір жағында не,	
+	север ма юг па,	
+	біреуінде точно,	
+	наоборот,	
+	высокие барлығы.	
+SPK6011	Мхм.	Yes.
+SPK6010	Білмеймін қай жақта правда.	
+SPK6011	Оларда еще может операция жасап жүрген,	They also probably might be doing surgery to increase their height.
+	шығар типа на,	
+	этот,	
+	на рост.	
+SPK6009	Олай жасауға бола ма?	Is it possible?
+SPK6011	Мхм.	Yes.
+SPK6010	Иә.	Yes.
+SPK6009	А сонда қай жеріне ауыстарады?	So, what part of the body do they perform surgery on?
+SPK6011	Косточкаларын кажется ұзартады ғой деймін как-то,	I guess they extend their bones or something.
+SPK6010	Ол не,	No, they break the bones in legs.
+SPK6011	что-то делают там.	
+SPK6010	короче,	
+	мына жерде,	
+	аяғын несін,	
+SPK6009	(H)	(H)
+SPK6010	а,	
+	сүйегін короче сындырып.	
+SPK6009	(H)	(H)
+SPK6011	Бірдене жасайды.	
+SPK6010	Иә.	Yes, they break the bone and put metallic something instead, so the leg gets extended.
+SPK6009	QQ	QQ
+SPK6010	Анау бар ғой который,	
+	темір ме,	
+	длинный который,	
+	кажется,	
+	үсті,	
+	астыңғысын,	
+	аяғын сындырып,	
+	косточканы, сосын,	
+	металический нәрсені қояды,	
+	металический нәрсемен короче,	
+	увеличивают.	
+SPK6009	Фу.	Ew.
+SPK6011	Q	Q
+SPK6010	Но ол капец,	But it is a bad surgery.
+	ол беспонтовый не.	
+SPK6011	Ну, потом өмір бойы жүресің,	But you would not be able to go out in hot weather your whole life.
+	типа,	
+	ыстықта жүруге болмайды скорее всего,	
+	типа андай мынандай.	
+SPK6010	М,	It is a surgery than can get bad easily.
+	өмір бойы,	
+	очень,	
+	easy,	
+	да- жаман болатын,	
+	операция ол.	
+SPK6011	М, потому что бізге бір балада,	Because one kid I know had flat feet and had titanium something in his leg, so he was told to walk less and do not go out in hot weather, or it will heat up.
+	қатты плоскостопия болды да,	
+	оған короче,	
+	титановый бірдене қойды,	
+	аяғына,	
+	и оған потом айтты типа,	
+	көп жүруге болмайды,	
+	и,	
+	ыстықта жүруге болмайды,	
+	потому что мынау қызып кетеді типа.	
+SPK6009	А.	I see.
+SPK6011	Ну, опасно.	Yes, it is dangerous.
+SPK6009	А қызыса не болады?	What if it heats up?
+SPK6011	QQ	QQ
+	Жаман болады такая.	It is going to be bad. I do not know. I did not ask about that.
+SPK6010	QQ	QQ
+SPK6011	Білмеймін мен,	
+	типа ол жағын сұраған жоқпын.	
+SPK6009	Типа балқып кете ме?	Is it going to melt?
+SPK6011	Ну,	Well, I guess it is going to heat up, the temperature increases, and maybe the leg muscles could basicall get cooked. Who knows.
+	совсем ыстық болып кететін шығар,	
+	типа температурасы көтеріліп,	
+SPK6010	Мхм.	Yes.
+SPK6009	А.	I see.
+SPK6011	аяқтың,	
+	может быть,	
+	еті,	
+SPK6010	Да Q	Yes.
+SPK6011	там,	
+SPK6009	Мхм.	Yes.
+SPK6011	пысып кетеді возможно, кім біледі.	
+SPK6010	Q	Q
+SPK6009	А.	I see.
+SPK6010	Может быть.	Maybe.
+SPK6011	Это ужасно,	It is horrible, but in general yeah.
+	в общем да,	
+	вот.	
+SPK6010	Вот,	So, they break the leg.
+	сол аяғын сындыр	
+SPK6011	А,	Oh, there was another kid who got his legs extended because the lengths of his legs were different.
+	еще бізде бір балаға по идее,	
+	аяқ ұзартқан,	
+	короче потому что,	
+	оның аяқтары,	
+	екеуі әртүрлі де,	
+SPK6010	М.	I see.
+SPK6011	ұзындықтары.	
+	И типа біреуы қысқа,	He said that since one leg was shorter, it was extended.
+	и оны кішкене ұзартып тастады деп айтқан.	
+SPK6010	М.	I see.
+SPK6011	Вот.	
+SPK6010	Капец.	Holy!
+SPK6011	QQ	QQ
+SPK6010	COUGH	(COUGH)
+SPK6009	(???)	(???)
+SPK6011	Just take it.	Just take it.
+SPK6009	I can't.	I can't.
+SPK6010	Аллай,	God.
+SPK6011	Ала сал,	Just take it.
+SPK6009	(???)	(???)
+SPK6010	Ала сал.	Take it.
+SPK6011	Ала сал реально.	Seriosly, take it.
+SPK6009	А.	Ah!
+SPK6010	QQ	QQ
+SPK6011	Былай бөле сал просто.	Just divide it like that.
+SPK6010	Иә.	Yes.
+SPK6011	Иә.	Yes.
+SPK6010	Давай давай давай.	Go go.
+SPK6011	Сен жейсің ғой все равно.	Anyway you are the one who is going to eat it.
+SPK6009	(???)	(???)
+SPK6010	Let's go let's go.	Let's go let's go.
+SPK6011	Йе,	Yay!
+	де такая	
+SPK6009	Ура.	Hooray!
+SPK6011	QQQQ	QQQQ
+SPK6010	QQQQ	QQQQ
+	(H)	(H)
+SPK6011	Okay.	Okay. What else can you do then?
+SPK6010	Ну,	I know right.
+SPK6011	что поделать дейсің,	
+SPK6010	ну.	
+SPK6011	вот.	
+SPK6010	Песочный нәрсе,	Crumbly thing will make crumbles.
+	песок болады.	
+SPK6009	QQ	QQ
+SPK6011	QQ	QQ
+SPK6010	Песочьный торт,	Crumbly cake it is.
+	сондай ол.	
+SPK6011	Солай,	So, I started watching documentaries, such as plastic surgery in Korea, when classes ended.
+	мен,	
+	сабақ біткен кезде,	
+	документалкалар қарай бастадым,	
+SPK6010	М, что за?	Mmm, what kind of?
+SPK6011	там,	
+	пластическая,	
+SPK6010	(TSK) Вау.	Wow.
+SPK6011	операция,	
+	в Корее деп короче.	
+SPK6010	QQ	QQ
+SPK6011	Документалка BBC,	BBC documentaries and I also watched about modern slavery in Africa.
+SPK6009	(H)	(H)
+SPK6011	потом,	
+SPK6009	QQ	QQ
+SPK6011	а потом неме,	
+	а,	
+	современное рабство дегенді көрдім,	
+SPK6010	Мә.	Wow.
+SPK6011	Африка жақта.	
+SPK6009	Африка? Мен	Africa? I suddenly remembered OnlyFans.
+	OnlyFans есіме түсіп кетті.	
+SPK6011	Мхм.	Yes.
+SPK6010	QQQ	QQQ
+SPK6011	What?	What?
+	А.	Ah, yes, BBC also has something like that.
+SPK6010	Иә.	Yes.
+SPK6011	А, ондай тоже бар по идее BBC-да.	
+SPK6010	Мхм.	Yes.
+SPK6011	Но мен сондайды көрдім,	But I watched about children who were bought from young age like three years old.
+	типа,	
+	анда кішкентай кезден бастап,	
+	үш жастап даже бастап,	
+	балаларды сатып алады екен,	
+SPK6010	Мхм.	Yes.
+SPK6011	И олар типа,	And these children work by fishing at one lake.
+	кө- бір көлде,	
+	жұмыс істейді екен балық аулап.	
+SPK6010	Мхм.	Yes.
+SPK6011	И олар оказывается даже сетьтарда запутоваться етіп өліп қалады екен.	And they also die by fishnet.
+SPK6009	GASP	(GASP)
+SPK6010	GASP	(GASP)
+SPK6011	Прикиньте,	And these children are sold by their parents, which is like trash, insane.
+	и оны сататын,	
+	ата-аналардың өздері.	
+SPK6010	Иә.	Yes.
+SPK6011	Это вообще,	
+	типа,	
+	trash,	
+	жесткий.	
+SPK6010	Ақша үшін.	For a litle amount of money.
+SPK6011	Мхм.	And these kids, yes, shortly get saved by rescuers.
+	А потом ол балаларды,	
+SPK6010	Даже көп емес.	
+SPK6011	аха,	
+	ол балаларды короче сосын,	
+	м,	
+	алып кетеді,	
+	типа спасательный,	
+	адамдар,	
+	спасaтельдер.	
+SPK6010	Мхм.	Yes.
+SPK6011	М,	They are taken to pensior or boarding school, where they have classes.
+	потом бір,	
+	білмеймін пансионат деп атай ма,	
+	как,	
+	интернат сияқты жерге алып келеді,	
+SPK6010	COUGH	(COUGH)
+	Мхм.	Yes.
+SPK6011	и сол жақта балаларды оқытады короче.	
+	Сосын ата-аналарын,	They search for children's parents because they can only stay there for a year because they need space for other children.
+	іздейді.	
+SPK6010	Мхм.	Yes.
+SPK6011	И сол интернатта балалар бір жыл ғана бола алады типа максимум,	
+SPK6009	М.	Mmm.
+SPK6011	потому что басқалар келеді,	
+SPK6010	Мхм.	Right.
+	Мхм.	I see.
+SPK6011	орын керек андай мынандай.	
+	И потом ата-аналарымен,	They work with parents something like that and if parents want to take their child back and child agrees, they take the child.
+	а, там жұмыс жасайды,	
+	что-то такое,	
+	и сосын,	
+	ата-аналары алып кетем десе и бала өзінің,	
+	рұқсатын берсе, онда алып кетеді қайтадан.	
+	И типа олар қол қояды,	And they also sign a paper that says that if they sell their child once again, then they will be imprisoned.
+SPK6010	Мхм.	Yes.
+SPK6011	егер сендер қайтадан сатып жіберсеңдер, онда сендерді все типа,	
+	түрмеге жабамыз дейді.	
+SPK6010	Мхм.	Yes.
+	Ну да.	Of course.
+SPK6011	Вот.	
+SPK6009	Мен бірақ ондай ата-анаға қайтқым келмеуші еді.	I would not want to go back to such parents.
+SPK6010	Мхм.	I know, right?
+SPK6011	Кейбіреулері қайтпайды,	Some do not leave but good city mayors may take them like an action of caring.
+	бірақ оларды,	
+	типа қаланың мэрлары алып кетеді,	
+	типа заботливые,	
+	солар.	
+SPK6010	Да.	Yes.
+SPK6011	Вот так вот.	That is it.
+SPK6010	Капец по сути.	This is insane to be honest.
+SPK6011	Мхм.	Yes.
+SPK6009	Қызық.	Interesting.
+SPK6010	Мен,	What did I watch when school was over?
+	мен не қарадым,	
+	мектеп біткенде,	
+	о,	
+	ойын.	
+SPK6009	Мектеп QQ	School?
+SPK6011	QQ	QQ
+SPK6010	Мектеп деймін бе?	Did I say school?
+	Универдан кейін,	After university, I bought and played games on Steam.
+	ойын ойнадым мен,	
+	steam,	
+	steam-да ойын,	
+SPK6011	Nice.	Nice.
+	¬Нұрсұлумен ойнадың ба?	Did you play with ¬Nursulu?
+SPK6010	сатып алып.	
+	Жоқ,	No, it is a different game called zero escape, which is a logic game where nine people are trapped in what, a ship by someone.
+	басқа ойын,	
+	zero escape деген,	
+	не ол,	
+	а,	
+	логикамен,	
+	жасайтын,	
+	типа,	
+	там тоғыз адам,	
+	оларды,	
+	неде,	
+	корабльде,	
+	қамап тастаған,	
+	бір адам.	
+SPK6011	Мхм.	I see.
+SPK6010	И,	And everyone has a braclet with a number from one to nine.
+	барлық адамдарда короче не бар,	
+	браслет қолында,	
+	и сол браслетті типа,	
+SPK6009	(H)	(H)
+SPK6010	браслетті бірден,	
+	тоғызға дейін короче,	
+	цифра,	
+SPK6011	Мхм.	I see.
+SPK6010	вот.	
+	И олардың,	And they have nine hours to get out from the ship.
+	оларда тоғыз сағат бар,	
+	чтобы,	
+	выбраться из этого коробля.	
+SPK6011	М.	Mmm.
+SPK6010	Там есіктер короче,	They need to go through doors and these doors have numbers such as number five or number one, and door with number nine is an exit, and they need to find it.
+	есіктерден өту керек,	
+	каждый есікте короче номер бар,	
+	типа вот.	
+SPK6011	Мхм.	I see.
+SPK6010	Номер бес там есік,	
+SPK6009	(H)	(H)
+SPK6010	номер бір деген,	
+	и,	
+	номер тоғызыншы,	
+	есік ол не,	
+	выход короче,	
+SPK6011	М.	Mmm.
+SPK6010	соны табу керек.	
+	Но есіктен өтуге,	But minimum three and maximum five people can go through one door.
+	өту үшін,	
+	а,	
+	минимум үш,	
+	максимум бес адам өте-,	
+	өте алады,	
+	бір есіктен короче.	
+SPK6011	М.	Mmm.
+SPK6010	И,	And to go through the door, the digital root of their number, there is a thing...Tell me any number.
+	өту үшін олардың,	
+	цифралардың,	
+	digital root деген короче нәрсе бар,	
+	есть же,	
+	такая фигня,	
+	типа,	
+	какое-то любое,	
+	сан,	
+	сан айта салшы.	
+SPK6009	Он үш.	Thirteen.
+SPK6010	Сан.	Number.
+	Он үш?	Thirteen?
+SPK6009	Мхм.	Yes.
+SPK6010	Вот,	The digital root of thirteen is four because one plus three and if you have a large number, then you have to add them until you have one digit number.
+	он үштің digital root-і короче төрт болады,	
+	типа бір плюс үш,	
+	типа,	
+	короче,	
+	фигня такая, что если,	
+	какое-то длинное число,	
+SPK6011	Мхм.	I see.
+SPK6010	олардың барлық,	
+	цифраларына короче складывать складывать етеді,	
+SPK6011	Мхм.	Okay.
+SPK6010	чтобы,	
+	бір цифра осталась,	
+SPK6011	М.	Мmm..
+SPK6010	в конце.	
+	Вот,	And these digital root needs to match the door number and you have to find keys and so on.
+	и соның,	
+	а,	
+	сол нәрсе должна есікпен совпадать,	
+	и вот солай өту керек и там всякий не,	
+	(TSK)	
+SPK6009	(H)	(H)
+SPK6010	а,	
+	кілт табу,	
+	короче бла бла,	
+	сондай нәрсе.	
+SPK6011	М.	Мmm.
+SPK6010	Соны ойнадым.	I played this game.
+SPK6011	Мен ойындар ойнамаймын вообще.	I do not play games at all.
+SPK6010	QQQ	QQQ
+SPK6009	Q	Q
+SPK6011	QQ	QQ
+SPK6010	Еще valorant ойнадым,	I also played Valorant a bit.
+	кеш- кішкене.	
+SPK6011	Прикол.	Nice.
+SPK6010	Вот.	Yes.
+SPK6011	QQQ	QQQ
+SPK6010	Еще не,	I am also learning to play the league of legends.
+SPK6009	(H)	(H)
+SPK6010	мен,	
+	league of legends,	
+	l- league of legends-ті,	
+SPK6009	COUGH	(COUGH)
+SPK6010	учусь,	
+	ойнауға.	
+SPK6011	Мен оны тоже білмеймін7	I do not know that one either.
+SPK6010	QQQ	QQQ
+SPK6009	QQ	QQ
+SPK6011	QQ	QQ
+SPK6009	(H)	(H)
+	Олардың анимациясын күшті.	They have great animations
+SPK6010	Мхм.	Yes.
+	Arcane-ді көрдің бе?	Did you watch Arcane?
+SPK6011	Мхм.	No.
+SPK6010	Жоқ.	No? Okay. Did you watch Arcane?
+	Okay.	
+	Көрдің бе arcane?	
+SPK6011	QQ	QQ
+SPK6009	Жоқ, бірақ білемін,	No, but I know it. I have read its plot and watched some movies of it, I mean videos.
+	но сюжеткасын оқып тастағанмын,	
+	содан бұрынғы,	
+	неме,	
+	сол,	
+	ы,	
+	movie-ларын көргенмін,	
+	ну как,	
+SPK6010	М.	I see.
+SPK6009	MV-ларын.	
+	Күшті.	
+SPK6010	Иә.	Yes.
+SPK6009	QQ	QQ
+SPK6011	Q	Q
+SPK6010	Мен CS-тан алғанмын,	I took one computer science class...the 151 one.
+	короче бір сабақ,	
+	CS,	
+	для про- сто пятьдесят один,	
+SPK6011	Сто пятьдесят один?	151?
+SPK6010	###	###
+	Мхм.	Yes.
+SPK6011	Это сен биология оқыған кезде.	Was it when you were a biology student?
+SPK6010	(Hx)	(Hx)
+	Жоқ,	No.
+	QQ	QQ
+SPK6011	Просто так?	Did you take it for fun?
+SPK6010	Я хотела minor.	I wanted minor in CS.
+SPK6011	Бісіміллә просто.	That is insane.
+SPK6009	Ойбай.	Oh my God.
+SPK6010	Потом алғанмын,	I took it and then I did not take any other CS course.
+	короче,	
+	поэтому больше алған жоқпын ештеңе.	
+SPK6011	Поняли какие там профессоры и такая все пока.	You saw their professor and said bye, right?
+SPK6009	Q	Q
+SPK6010	Dean даже көрдім,	I even saw their Dean since we even went to Dean. because in our group we had a combo of ¬Rossi as a professor and ¬Sholpan as the teacher assisstant.
+	dean-ға бардық қой,	
+	dean-ға дейін.	
+SPK6011	М.	Mmm.
+SPK6010	Потому что бізде короче был этот,	I even saw their Dean since we even went to Dean. because in our group we had a combo of ¬Rossi as a professor and ¬Sholpan as the teacher assisstant.
+	а, комбо болды,	
+	біз,	
+	біздің группада,	
+	біздің профессорымыз ¬Rossi болды,	
+	а,	
+	біздің TA-іміз ¬Шолпан.	
+	QQQQ	QQQQ
+SPK6011	О,	Oh, I do not know ¬Rossi but I have heard of ¬Sholpan.
+	мен ¬Rossi-ні білмеймін, бірақ ¬Шолпан туралы естідім прям.	
+SPK6010	QQ	QQ
+SPK6009	Ол кім?	Who is it?
+SPK6011	от души.	
+	Ол бұрын CS-тан берген.	She used to teach computer science class.
+SPK6010	Аха.	Yes.
+SPK6011	И, оны короче бәрі жек көретін,	And everyone hated her because she did not teach well and used to repeat the same information about herself all the time.
+SPK6010	Мхм	Yes.
+SPK6011	потому что ол дұрыс сабақ бермейтін,	
+	и типа,	
+	бір информацияны қайта-қайта айта беретін,	
+	өзі туралы типа.	
+SPK6010	М.	Mmm.
+SPK6009	А.	I see.
+SPK6011	Солай естігенмін, но ол маған,	I heard like that but I have never taken her courses.
+SPK6009	(H)	
+SPK6011	берген жоқ,	
+SPK6010	Вот, а ¬Rossi короче,	Well, ¬Rossi once wasted thirty minutes on quiz day by making us move tables.
+SPK6011	типа сабақ,	
+SPK6010	бар ғой,	
+	бір рет,	
+	бізде quiz болған,	
+	(H)	
+	и quiz-дің,	
+	отыз минутын,	
+	Чероне потратил на то, чтобы,	
+	парты двигали,	
+SPK6011	Nice.	Nice.
+SPK6010	Хотя біздің сабағымыз бар,	Even though we had a class after that.
+	содан кейін,	
+SPK6011	Nice.	Nice.
+SPK6010	Пофиг оған.	He does not care.
+SPK6011	QQ	
+SPK6010	(H) Сосын біз солай не,	So, he did not teach us at all and we went to Dean to complain.
+	а ни-,	
+	ни- нифига ничего не поэтовал,	
+	сабақ бермеген короче,	
+	потом,	
+	мы все пошли жаловаться,	
+	кімге,	
+	Dean-ға.	
+	Dean бізді нормально тыңдамай,	Dead did not listen to us properly when we were telling him that they do not teach us properly.
+	короче,	
+	мы ему сказали так и так деп,	
+	короче,	
+	вот что за фигня,	
+	нормально не у-,	
+	не учат деп.	
+SPK6011	Странно.	Strange.
+SPK6010	И он такой этот,	And we has like well, that is ok blah blah.
+	ну,	
+	ну нормально,	
+	бла бла бла бла,	
+	и я такая,	
+SPK6011	(H)	
+SPK6009	QQ	
+SPK6011	(Hx)	
+SPK6010	вот.	
+SPK6011	Но спустя долгие годы,	But after a long time ¬Sholpan was dethroned.
+	¬Шолпан свергли.	
+SPK6009	Вай.	Yay.
+SPK6010	QQ	
+	C minus алдым, бітті.	I got C minus and that is it.
+SPK6009	QQQ	
+SPK6011	QQ	
+SPK6010	QQQ	
+SPK6011	Q	
+SPK6010	(H)	
+	О-.	I went throught that and have forgotten.
+	өттім кеттім,	
+	да.	
+SPK6011	Ол қалай кетіп қалды?	How did she leave?
+SPK6010	Білмеймін,	I do not know.
+SPK6011	Көп жалоба кетіп қалған,	She recevied a lot of complains, for example, last fall, most students were complaining but she was not fired.
+	потому что,	
+	а- алдыңғы fall-да,	
+	типа балалардың көбі жаловаться еткен,	
+	и ы- этот,	
+	оны все равно алып тастаған жоқ қой.	
+SPK6010	Не, бізде де жаловаться еттік,	Well, we complained too. When did I take the course?
+SPK6009	М.	Mmm.
+SPK6010	мен мен қашан алдым?	
+	Две тысячи,	I think it was the spring of 2019.
+	екі мың,	
+	он тоғыздың s-,	
+	pring-ында,	
+	алдым кажется.	
+SPK6011	Ну типа странно, иә.	Well, it is strange.
+SPK6010	Spring екі мың он тоғыз.	Spring 2019.
+SPK6011	Каждый раз жаловаться етеді.	She received complaints every time, every semester. So, she also gets rebukes but nothing happens.
+	Каждый семестрда, бірақ түк істемейді.	
+SPK6009	QQ	
+SPK6011	Типа,	They told us that the complaints were delivered, but somethos nothing changed.
+SPK6010	Мхм.	Yes.
+SPK6011	замечания айтады де-,	
+	деп айтады,	
+	бірақ,	
+	а,	
+SPK6010	Оған,	I guess these rebukes were not working.
+	не- өтпейді что-то,	
+SPK6011	что-то түк болмайды.	
+SPK6010	замечания.	
+	QQ	
+SPK6009	Q	
+SPK6011	А потом кажется оған айтты типа,	And then, I think, they told her to resign voluntarily.
+	өзің уволься деген сияқты.	
+SPK6010	А.	I see.
+SPK6009	Ой.	Oh.
+SPK6011	Ну, чтобы оған,	So, she later does not have problems.
+	потом,	
+SPK6010	А, анау,	You know there was a drama with ¬Laura.
+SPK6011	в дальнейшем болған жоқ тема.	
+SPK6010	драма болды ғой ана,	
+	кіммен,	
+	¬Лаура деген.	
+SPK6011	А,	Ah, yes, that was insane.
+SPK6010	невтемный.	
+SPK6011	да,	
+	вообще.	
+SPK6010	Что там вообще? Что?	What happened exactly?
+SPK6009	А,	You mean ¬Ismagulova?
+SPK6010	что за &&&.	
+SPK6011	Ужас.	Crazy.
+SPK6009	¬Исмагулова ма?	
+SPK6010	Иә.	Yes.
+SPK6011	Иә.	Yes.
+SPK6010	Не болды онымен,	So, what did happen to her?
+	так и?	
+SPK6009	Білмеймін,	I do not know, no updates yet.
+	тыныш болып кетті, иә?	
+SPK6011	А, а,	Well, I was told that she is pregnant, so her hormones are something something, so they said that we better forget about it.
+	маған былай деп айтқан типа,	
+	а,	
+	оның аяғы ауыр,	
+	и типа,	
+SPK6009	Ой.	Oh.
+SPK6011	гармондары неміне емес,	
+	бірдеңе бірдеңе,	
+SPK6009	Ой QQQ	Oh.
+SPK6010	QQQ	
+SPK6011	поэтому типа,	
+	давайте көз жұма салайық деп бірдеңе айтты,	
+SPK6010	A.	I see.
+	(TSK)	
+SPK6011	потому что,	
+	а, біздің президент,	But the president of the student government said...
+	вот,	
+	студенческий советтің,	
+SPK6009	А,	You mean ¬Kamila?
+SPK6011	ол айтты.	
+SPK6009	¬Камила ма?	
+SPK6011	Жоқ,	No, the active president.
+	жоқ, басқа қазіргі.	
+SPK6010	М.	Mmm.
+SPK6009	¬Анна?	¬Anna?
+SPK6011	Иә.	Yes.
+	А,	So, she said that we cannot forget about it and something needs to be done to her.
+	ол типа айтты,	
+SPK6009	(H)	
+SPK6011	вот,	
+	қалай оған көз жұма саламыз типа оған,	
+SPK6010	Мхм.	Yes.
+SPK6011	бірдеңе істеу керек деген сияқты.	
+SPK6009	(H)	
+	(H)	
+SPK6011	И,	And then DSS said they cannot do anything to her.
+	DSS бәрін пфф,	
+	сказали типа,	
+SPK6010	(H) (TSK)	
+SPK6009	М.	Mmm.
+SPK6011	(TSK)	
+	біз түкте істей алмаймыз оған,	
+	ну, на на на на на.	
+SPK6010	Невтемный нәрсе вообще, иә, реально?	It was insane, right?
+SPK6011	Түкте істемей-ақ қояйықшы деп короче.	They did not want to do anything to her.
+	Но она все равно топит за то, чтобы,	But she is trying her best.
+	что-то сделали.	For something to be done.
+SPK6009	Но это как знаешь,	Well, you know it is like girls and their periods, and they say to leave them.
+	қыздарда месячные,	
+	типа гармоны,	
+SPK6010	Мхм.	Yes,
+SPK6009	тиіспей-ақ қояйық.	
+SPK6011	Ой,	Oh, and it will happen all the time.
+	каждый раз так будет QQ.	
+SPK6010	QQQQ	
+SPK6009	Вообще.	Crazy.
+SPK6011	Это как я,	Well, it is like my case in 2019 when I went to UHC and asked something, but she did not reply me properly, so I asked again and she was so irritated and replied me roughly. I got so stressed.
+	типа мен м,	
+	екі мың он тоғызда больницаға бардым вот UHC-ға,	
+SPK6009	Мхм.	I see.
+SPK6011	астына бардым,	
+	сұрадым бірдеңені, ол маған дұрыс жауап берген жоқ,	
+SPK6009	(H)	
+	(H)	
+SPK6011	мен одан тағы сұрадым,	
+	и ол маған жестко ы,	
+	прям,	
+	нервно,	
+	жауап берді,	
+	менде неме болып қалды типа,	
+	стресс болып қалды да.	
+SPK6009	Ой.	That is bad.
+SPK6011	И этот,	I was short of breath.
+	ауа жетпей қалды.	
+SPK6009	GASP	
+SPK6011	Менде сондай болып қалады типа,	This happens to me rarely but intensly.
+SPK6010	Мхм.	I see.
+SPK6011	редко, но метко QQ	
+SPK6010	QQ	
+SPK6011	(H)	
+	И потом,	They helped me calm down and psychologist  talked to me and said that it was not ok.
+	а,	
+	этот,	
+	меня там успокоили,	
+SPK6009	(H)	Mhm.
+	Мхм.	
+SPK6011	а потом,	
+	маған,	
+	менімен психолог сөйлеседі де айтады типа вот,	
+	ы,	
+	(TSK)	
+	так не пойдет,	
+	типа андай мындай деп айтады да,	
+	потом,	
+	айтады,	
+	но мы ей ничего не можем делать, потому что она беременная дейді де.	But we can't do anything to her since she is pregnant.
+SPK6010	(???)	
+SPK6009	А.	I see.
+SPK6011	(TSK)	
+	Nice просто.	Nice.
+SPK6010	Q	
+SPK6009	(TSK)	
+SPK6011	Мен айтамын,	And they told that they do not want to fire her because she is pregnant and will leave in a week, so that was like fuck you.
+SPK6010	Bruh.	Bruh.
+SPK6011	типа,	
+	ну, мы не хотим ее увольнять,	
+	ей всего лишь там,	
+	бір апта ғана қалды деп айтады да,	
+	that was like,	
+SPK6010	Типа до ее этого?	A week before her maternity leave?
+SPK6011	fuck you.	
+SPK6010	а,	
+	бе-,	
+	беременный leave,	
+	үшін бе?	
+SPK6011	Иә.	Yes.
+SPK6009	Ресепшндағы кісі ме?	Are you talking about a receptionist?
+SPK6011	Мхм,	Yes, but all receptionists are bitches.
+	бірақ ресепшндағы,	
+SPK6010	(TSK)	
+SPK6011	кісілер всегда bitches.	
+SPK6010	QQQQ	
+SPK6009	QQQ	
+SPK6011	Абсолютно.	Absolutely.
+SPK6009	Agree.	Agree.
+SPK6010	UHC-да,	There is an amazing doctor at UHC, a russian man but I don't know his name.
+	күшті врач бар,	
+	который,	
+	атын білмеймін мен,	
+	но русский дядя.	
+SPK6009	Ағай ма?	A man?
+SPK6011	Ағай ма?	A man?
+SPK6010	Ағай.	Yes.
+SPK6009	А.	Oh.
+SPK6010	QQQ	
+SPK6011	QQQ	
+SPK6009	QQQ	
+SPK6010	Он такой кайф,	He is so chill and talks to you normally.
+	такой,	
+SPK6009	Иә, и бүйтіп,	Yes, and he also likes to play and joke around.
+SPK6011	Короче,	Well, yes.
+SPK6010	сөйлесетін,	
+SPK6009	ойнап отарады, иә,	
+SPK6011	иә.	
+SPK6009	шутит.	
+SPK6010	нормально сөйлеседі сенімен,	
+	такой кайф.	
+	Мен короче,	I once visited neuropathologist at UHC because I had a diagnosis that I have a neck osteochondrosis. And the doctor gaslights me that I do not have an osteochondrosis because it is an illness of elder people.
+	неде UHC-да,	
+	невропатологқа барғанмын,	
+	менде типа диагноз бар,	
+	немінеге,	
+	(TSK) а,	
+	не,	
+	мойыным короче остеохондроз нәрсесі,	
+SPK6011	М.	I see.
+SPK6010	и она мне сидит,	
+	мені gaslight-ить,	
+	етіп короче,	
+	вот,	
+	сенде ол жоқ деп,	
+	какой сенде,	
+	ол, ол типа,	
+	старый адамдардың ауыруы деп,	
+	бла бла бла,	
+	я такая ну,	I was like I got it diagnozed like definitely ten years ago.
+	мен,	
+	сол диагнозды маған,	
+	қашан,	
+	типа,	
+	қойған уже,	
+	точно он жыл бұрын кажется қойған оны,	
+SPK6009	(H)	
+SPK6010	так что,	
+	женщина,	
+	QQQ	
+	кім біледі.	
+SPK6011	QQ	
+SPK6010	Мен білемін бе, сіз біле ме?	Do you know better or me?
+SPK6009	QQ	
+SPK6011	QQ	
+SPK6010	QQ	
+	Ругаться еткен маған не в тему.	She was fighting with me for no reason.
+SPK6011	По идее қазір көбінде остерохо-,	Well, many people have an osteochondrosis now, so what.
+	остеохондроз,	
+SPK6010	Ну.	Yes, she was telling me that it is an illness of elder people and I am young. Like what?
+SPK6011	поэтому,	
+SPK6009	Мхм.	I see.
+SPK6011	пфф.	
+SPK6010	& вот,	
+	старый адамдардың ауыруы деп,	
+	ты же не старая деп,	
+	и что?	
+SPK6011	Мы будто все старые.	Like we are all old.
+SPK6010	QQ	
+	QQQ	
+SPK6009	Да.	Yes.
+SPK6011	(H)	
+	(???)	
+SPK6010	(???)	
+SPK6009	Эх.	Sigh.
+SPK6011	Біз жиырмадан астық.	We are over than 20 now.
+SPK6010	(???)	
+SPK6011	QQQ	
+SPK6009	А, ну.	Oh, well.
+SPK6010	QQQQ	
+SPK6011	QQQ	
+SPK6009	QQQ	
+	Жиырмаға толамын.	I will be turning 20.
+	(???)	
+SPK6011	Q	
+SPK6010	(???)	
+SPK6011	(TSK) А, молодая еще.	So young.
+SPK6009	QQQ	
+SPK6011	QQ	
+SPK6010	Эй.	Well.
+	еще.	
+	Жиырма үш,	I will be turning 23, crazy!
+SPK6011	Мен де.	Me too.
+SPK6010	болады,	
+	капец.	
+SPK6011	М.	Мmm.
+SPK6010	Капец.	That is crazy.
+SPK6009	Ал сен нешеге толасын?	What about you?
+SPK6011	М,	I had my birthday recently in march.
+	менде недавно болды по идее, мартта.	
+SPK6009	А,	I see.
+SPK6011	Жиырма екіге толдым,	I turned 22.
+SPK6009	а.	
+SPK6010	(TSK)	Oh, 22.
+SPK6011	поэтому,	
+SPK6010	О,	
+SPK6011	вот.	
+SPK6010	жиырма екі.	
+SPK6011	Сен тоқсан тоғызсың ба сонда?	Were you born in 1999?
+	Сен екі мың үш или екі мың төрт пе?	Were you born in 2003 or 2004?
+SPK6009	Екі мың екі.	
+SPK6011	А.	I see.
+SPK6009	Екі мың екі,	December of 2002.
+	желтоқсан.	
+SPK6011	А.	I see.
+SPK6010	А.	I see.
+SPK6011	Почти екі мың үш, да?	Almost 2003. right?
+SPK6009	Иә Q	Yes.
+SPK6010	Подожди, екі мың екі?	Stop, 2002?
+SPK6009	А.	I see.
+SPK6010	А.	I see.
+SPK6011	Прикольно,	Cool, you are sagittarius.
+	м,	
+	стрелец.	
+	QQQQ	
+SPK6009	QQQ	
+SPK6010	QQ	
+SPK6011	(H)	
+SPK6010	Жиырмада емессің бе сен?	So, you are not 20 yet?
+SPK6011	Жоқ,	No, she was born in December.
+SPK6009	Желтоқсан.	December.
+SPK6011	желтоқсан.	
+SPK6010	А,	Ah, I see. I was thinking like my sister is also 2002 and she is 20 already and I was like huh?
+	а а а,	
+	а то я такая думаю менің,	
+	сестренкам екі мың е-,	
+	екі мың екі,	
+	и, и она, ей уже,	
+	жиырмада и я такая,	
+	huh?	
+SPK6009	Q	
+SPK6010	(H)	
+SPK6011	QQ	
+SPK6010	Но у нее ДР (день рождения),	But her birthday is in January.
+	январь.	
+	QQQ	
+SPK6011	Q	
+SPK6010	(H)	
+SPK6009	Менің,	My classmates who were born in 2003 and 2004 already have children.
+	сыныптастарым,	
+	екі мың үш,	
+	екі мың төрт,	
+	таныстарым,	
+	бала туып жатыр.	
+SPK6011	GASP	
+SPK6010	GASP	
+SPK6009	Q Мен жүрмін.	But I do not.
+SPK6010	Екі мың төрт бала?	2004 and a child?
+SPK6011	Оу.	Wow.
+SPK6009	COUGH	
+SPK6011	"В смысле сен ""мен жүрмін'?"	What do you mean that you do not?
+SPK6009	QQQ	
+SPK6010	QQQQQ	
+SPK6011	QQQ	
+	(H)	
+SPK6010	(H)	
+SPK6009	Жәй жүрмін.	I am just living my life.
+SPK6010	Екі мың төртте бала.	2004 and has a child, wow.
+SPK6011	Өкініш болып жатыр ма? QQ	Do you regret it?
+SPK6009	QQ Жоқ.	No.
+	(H)	
+SPK6011	(H)	
+SPK6009	Жоқ, жәй әйтеуір,	No, I was just comparing.
+	салыстырасың.	
+SPK6010	Тойға барғым келеді.	I want to go to a wedding.
+SPK6009	Иә, мен де тойға барғым келеді.	Yes, I also want to go to a wedding.
+	(H)	They did not invite me to the wedding.
+SPK6011	Иә.	Yes.
+SPK6010	Тойға барғым келеді.	I want to go to a wedding.
+SPK6009	Тойға мені шақырмай қойды.	
+SPK6011	Неге?	Why? Because of quarantine?
+SPK6010	Капец.	That is insane.
+SPK6011	Карантин болды ма?	
+SPK6009	Жоқ, жәй, сөйлеспеймін мен олармен.	No, we do not talk to each other, so I was not invited.
+SPK6010	А.	I see,
+SPK6009	Но шақырмай қойды.	
+SPK6011	Біз по идее класспен сөйлесеміз,	Well, I talk to my classmates and I was invited to a wedding but it was cancelled due to the quarantine.
+	бірақ бізді шақырған,	
+	тойға,	
+	но просто ол кезде каратин басталып кетті,	
+SPK6009	О.	Oh.
+SPK6011	поэтому болмай қалды.	
+SPK6010	А.	I see.
+SPK6009	А.	Mmm.
+SPK6011	А так,	We had big plans.
+	там такие грандиозные планы были.	
+SPK6010	QQQ	
+SPK6011	Q	
+	(H)	
+SPK6009	(H)	
+SPK6010	Тойға хочу,	I want to go to a wedding and we are all girls in my class,
+	бізде еще барлығы қыздар ғой.	
+SPK6009	А.	Yes.
+SPK6011	М.	Мmm.
+SPK6010	Мы еще до сих пор общаемся короче,	We still talk to each other and ask for a wedding like we have graduated 5 years ago.
+	"и мы такие ""той беріңдерші""."	
+	Типа мы уже сколько лет назад закончили школу,	
+	да е-,	
+	бес бес,	
+	жыл,	
+	да,	
+	прошло уже?	
+	Никто еще не вышел замуж.	But no one got married.
+SPK6009	QQ	
+SPK6011	(Hx)	
+SPK6010	Тойсыз,	I mean, there are some who got married but there was no wedding.
+	точнее,	
+	вышли замуж уже,	
+	той болған жоқ,	
+	(H)	
+SPK6009	А.	I see.
+SPK6010	"Мы такие ""той беріңдерші бізге""."	We asked for a wedding.
+	Барлық выпусктарда,	All other graduates had a wedding already.
+	после нас уже той был у кого-нибудь.	
+SPK6009	Мхм.	I see.
+SPK6010	А мы,	We are losers with no wedding.
+	лошки,	
+SPK6011	QQ	
+SPK6010	без тоя.	
+	Вообще не в тему.	That is so lame.
+SPK6009	(H)	
+SPK6011	(TSK)	
+	Блин бізде параллельный класста бір қыз,	A girl from a parallel class had a wedding last summer.
+	тұрмысқа шыққан алдыңғы жазда,	
+	(H)	
+	эх.	
+SPK6010	QQ	
+SPK6011	Надо было заобщаться.	I should have talked to her closer.
+SPK6009	&&&&	
+SPK6011	QQQ	
+SPK6009	QQ	
+SPK6010	QQQ	
+SPK6011	(H)	
+SPK6010	Тойға хочу.	I want to go to a wedding.
+SPK6009	(TSK)	
+	Өзің тұрмысқа шығып кет,	You should get married, so you will go to a wedding.
+	той болады.	
+SPK6010	QQQ	
+SPK6011	Ох,	Оh, no no no no no.
+SPK6009	Кайф.	
+SPK6011	не не не не не не.	
+SPK6010	Жоқ.	No.
+SPK6009	QQ	
+SPK6010	Гость бару үшін,	I want to go as a guest.
+	хочу,	
+	тойға.	
+SPK6011	Жиза,	Yes, or some very distant relative, not close one may work too.
+	еще этот,	
+	прям жақын туыс емес чтобы был,	
+SPK6010	М, да.	Hmm, yes.
+SPK6009	М,	Yes, right right.
+	иә иә иә.	
+SPK6011	дальний сияқты бар ғой біреу.	
+SPK6010	Одноклассник,	Classmates in my case.
+	поэтому.	
+SPK6011	Иә иә.	Yes yes.
+SPK6009	Ешкім сені танымайды,	No one knows you and you do not know anyone.
+SPK6011	Иә.	Yes.
+SPK6009	сен ешкімді танымайсын.	
+SPK6010	Мхм.	Right.
+SPK6011	И қуып жүре бересін,	And you can do crazy things.
+SPK6009	(H)	
+	Аха.	Yes.
+SPK6011	точно.	
+SPK6010	Қуып жүресін с одноклассницами, типа вот,	Going crazy with classmates.
+	қуған вообще.	
+SPK6009	(H)	
+SPK6011	Мхм.	Yes.
+SPK6010	(H)	
+	Девичник еще.	And also a hen party.
+SPK6011	Сол ғой.	I know, right?
+SPK6009	(H)	
+SPK6010	Кайф.	Great.
+SPK6011	Бірақ бізде вряд ли қазір біреу тұрмысқа шығады.	But I do not think anyone is going to get married soon.
+SPK6010	(TSK)	
+SPK6009	Неге?	Why?
+SPK6010	Хочу той.	I want a wedding.
+SPK6011	(H)	
+	Ешкім түрмысқа шыққысы келмейді.	No one wants to get married.
+SPK6010	QQ	
+SPK6011	Q	
+SPK6009	А.	I see.
+SPK6011	Сендерде біреу тұрмысқа шыққысы келе ме не?	is there someone who wants to get married from your surrounding?
+SPK6010	Бізде,	Someone got proposed recently but I do not know when is the wedding.
+	недавно,	
+	предложение істеген бір қызға,	
+SPK6011	Вау.	Wow.
+SPK6010	но я ХЗ (хрен знает) когда,	
+	свадьба.	
+	Ну ну,	So, she is going around as a bride.
+	жүріп жүр типа,	
+	немен,	
+SPK6009	А.	I see.
+SPK6010	невеста болып.	
+	Өзі еще Америкаға кетіп,	And she is also going to the U.S. Are we going to have a wedding or not?
+	Америкаға кетіп жатыр, вообще свадьба бола ма бола ма?	
+SPK6009	(H)	
+SPK6011	Ох.	Oh.
+SPK6010	Свадьба қайда?	Where is the wedding?
+	Той.	I want a wedding. I am fed up.
+	Хочу той.	
+	QQQ	
+SPK6011	QQ	
+SPK6010	(H)	
+SPK6009	(H)	
+SPK6010	Надоели.	
+SPK6009	А,	My classmates used to tell when we were in the 11th grade that they are going to get proposed in March, but they did not get married.
+	ну, мен,	
+	сыныптастарым,	
+	он бірінші класста жүргенде айтатын,	
+	(TSK)	
+	менің жігітім бар, ол маған предложение жасайды,	
+	мартта,	
+	олар шықпай қалды в итоге.	
+	(H)	
+SPK6010	М.	Mmm.
+SPK6009	М.	So.
+	Ну, планирует по-любому.	They are planning for sure.
+SPK6011	Ол қайдан біліп қойды мартта екенін?	How did she know about that? Did her boyfriend tell?
+	Жігіті айтып қойды ма не?	
+SPK6009	Жоқ, ол өзі солай ойлап жүрген ғой.	No, she was just thinking about that.
+SPK6011	А.	I see.
+SPK6010	QQ	
+SPK6009	Типа,	Well, maybe he will propose.
+	наверное,	
+	деп.	
+SPK6011	(H)	
+	Ой.	Oh.
+SPK6010	Все равно чувствовать етеді ғой типа,	I guess they can sense that somehow.
+	как то.	
+SPK6009	Q	
+SPK6011	Дети,	These kids.
+	де такая QQ	
+SPK6010	QQQQ	
+SPK6009	Q	
+SPK6010	(H)	
+SPK6011	Q	
+SPK6010	COUGH	
+	Не знаю.	I do not know.
+SPK6009	(H)	
+SPK6010	Что она не отвечает мне?	Why is she not replying me?
+SPK6009	КІм?	Who?
+SPK6010	(TSK)	
+	Reference,	Person who wrote a reference letter for me.
+	письмо жазған адам.	
+	(H)	
+SPK6009	Сендер сонда екеулерің де осы research-тасыңдар, иә?	You both are in this research, right?
+SPK6010	Жоқ.	No.
+SPK6011	Жоқ.	No.
+SPK6009	А.	I see,
+SPK6011	Мына research,	We cannot be in this research.
+	research-қа типа,	
+	біз қатыса алмаймыз.	
+SPK6009	А.	I see. Why?
+	Неге?	
+SPK6011	А,	Well, people who analyze this cannot participate in general.
+	типа,	
+	ana-,	
+	analyzing жасай-,	
+	тын адамдар,	
+	олар в целом қатыса алмайды,	
+	потому что олар типа өздері.	
+SPK6009	М.	I see.
+SPK6010	М,	Maybe next year I will be there.
+	мен может в следующем,	
+SPK6011	Ну, типа &&&&&&	Like, you know.
+SPK6010	в следующем году боламын.	
+SPK6011	М.	Mmm.
+SPK6010	Мхм.	Мhm.
+SPK6009	И онда ВЛЛ-щиктар ғана қатыса алады, иә?	And only WLLC students can participate, right? No other majors?
+	Басқа major-лар емес.	
+SPK6011	Ну,	Well, those who are familiar with linguistics should participate, right?
+	лингвистиканы білетін адамдар қатысу керек қой,	
+SPK6010	Иә.	Yes.
+SPK6009	(H)	
+SPK6011	в целом.	
+SPK6009	Эх.	Sigh.
+SPK6011	QQ	
+	Сендерде өздеріңдікі бар шығар,	Well, you have your own research, no?
+	типа.	
+SPK6009	Фу,	Ew, I am scared to talk to engineering professors, they can scold you.
+	инженерный профтармен мә,	
+	сөйлескен қорқынышты,	
+	олар ұрсады.	
+SPK6011	Сендердің профтарың странный.	Your professors are strange.
+SPK6009	Иә.	Yes.
+SPK6010	Q	
+SPK6011	Q	
+SPK6009	Вообще странный.	Totally strange.
+SPK6010	Странный профтар.	Strange professors.
+SPK6009	(H)	
+	Еще аз,	And only few of them. There are 250 engineering students and only two professors.
+	екі жүз елу инженер,	
+	инженерияданбыз,	
+	екі-ақ проф береді,	
+SPK6011	М.	I see.
+SPK6009	и все.	
+	Программированиені вообще бір екі проф қана болды.	Programming also had only one or two professors.
+	(H)	
+SPK6011	Еще бәрі странный.	And all are strange.
+SPK6009	Иә QQ	Yes.
+	QQ	
+SPK6011	(H)	
+	(H) Солай.	Right.
+SPK6009	Иә,	Yeah, right.
+	солай.	
+	Жазға не жоспарларың бар?	What plans do you have for summer? What are you going to do?
+SPK6011	Жазда,	I will go to volunteering in summer.
+SPK6009	Не істейсіңдер?	
+SPK6010	Ұйықтау.	Sleeping.
+SPK6011	мен volunteering-қа барамын.	
+SPK6010	QQ	
+SPK6011	QQQ	
+SPK6009	О,	Oh, which?
+SPK6011	Мен де ұйықтаймын.	I will also be sleeping.
+SPK6009	қай?	
+SPK6011	А этот,	Well, the graduation ceremony.
+	graduation ceremony.	
+SPK6009	Блин,	Cool. I was rejected.
+	күшті,	
+	меня reject-нули.	
+	(TSK)	
+SPK6011	А.	I see.
+SPK6010	SINGING	
+SPK6011	(TSK) Не успела.	You were late, I guess.
+SPK6009	Иә.	Yes.
+SPK6010	Грустно,	Well, that is sad.
+	печально.	
+SPK6011	Сен G1-сын ба еще?	Are you G1?
+SPK6009	Мхм.	Yes.
+SPK6011	М,	Hmm, that is strange.
+	странно.	
+SPK6010	Маған не нужно graduation ceremony-ға &&&	Well, I do not need to volunteer for the graduation ceremony.
+SPK6011	Сен өзің барасын просто QQ	That is because you will go yourself.
+SPK6009	QQ	
+SPK6010	&&&&	
+SPK6011	(H)	
+SPK6009	Кайф.	Cool.
+SPK6010	Но маған нужно, иә,	But I need to have a deal with someone who has only one guest.
+	(TSK)	
+	с кем-нибудь,	
+	за- заэтоваться,	
+	договориться,	
+	у кого,	
+SPK6009	Жить?	To stay at house?
+SPK6010	бір ғана,	
+	жоқ,	
+	бір ғана гость.	
+SPK6011	(H)	
+SPK6010	Екінші гость,	To put the second guest because I will sign up my parents but I also have a little sister.
+	записать к кому-нибудь,	
+	а то,	
+	менің мамам папам,	
+	я себе запишу,	
+SPK6009	Аха.	Yes.
+SPK6010	менің еще сестренкам бар.	
+SPK6011	М.	I see.
+SPK6009	М.	Mmm.
+SPK6010	Сестренканы надо к кому-нибудь пихнуть.	I need to put my little sister somewhere.
+SPK6011	(H)	
+	А,	I think it will be difficult.
+	қиын болатын сияқты по идее.	
+SPK6010	Надо договориться с кем-нибудь.	I need to arrange that with someone.
+SPK6011	Бәрінде екі адам болады,	I think everyone has two guests.
+SPK6009	Иә,	Yes, most of them will do so.
+	Көбі сүйтеді.	
+SPK6011	в целом.	
+SPK6010	Может у кого-то жоқ.	Maybe someone does not have?
+SPK6009	QQ	
+SPK6011	QQQQ	
+SPK6010	QQ	
+SPK6009	Жойдырам, да?	Are you going to destroy them?
+SPK6010	QQ	
+SPK6011	That would be sad.	That would be sad.
+SPK6009	&&&&	
+	GASP	
+SPK6011	А вот,	Well, yes.
+SPK6009	Типа,	Well, she would not be sad if there will be a second guest.
+	егер ол,	
+	басқа біреудікін алып алса,	
+	ей не будет sad.	
+SPK6011	иә.	
+SPK6010	QQQ	
+SPK6009	Человек будет,	
+	(H)	
+SPK6011	Прикольно.	Cool.
+	Жалко, что екі адам ғана.	Sad that there are only two guests but thanks for that at least.
+SPK6010	Ну.	Well.
+SPK6011	Но и то,	
+	спасибо и на этом дейік,	
+SPK6009	А, ана онлайн graduation емес әйтеу,	Yes, it is not an online ceremony as last year with subtitles.
+	алдыңғы жылғы сияқты,	
+	титры.	
+	QQ	
+SPK6011	Интересно,	I am interested whether Tokayev will come or not?
+	Тоқаев келеді ме жоқ па?	
+SPK6010	Ну.	Well.
+SPK6009	Может келеді.	Maybe he will come.
+SPK6010	М.	Mmm.
+SPK6011	Или оның орнына Назарбаев келеді ме?	Or Nazarbayev will come instead of him?
+SPK6009	Хм.	Hmm.
+SPK6010	Он же сейчас этот.	He is at the moment...
+SPK6011	Он не тут, да?	He is not here, right?
+SPK6010	А?	А?
+SPK6011	Он не тут, да?	He is not here, right?
+SPK6010	Білмеймін,	I do not know but his priviliges...
+	но он этот,	
+	(H)	
+	он,	
+	привелегиясын.	
+SPK6011	Алып тастайын деп жатыр.	Are going to be taken?
+SPK6010	Иә.	Yes. Bye. Goodbye.
+	Пока.	
+	Пакетик.	
+SPK6009	(H)	
+	(H)	
+	Хей.	Hey.
+SPK6010	Так что,	So, it is unlikely that he will come.
+	вряд ли келетін шығар.	
+SPK6011	Мхм.	Mhm.
+SPK6010	Келмесе ғой,	I hope no one comes.
+	ешкім.	
+	QQQQ	
+SPK6011	QQ	
+SPK6009	Неге?	Why?
+SPK6010	Білмеймін.	I do not know. Why? For what?
+SPK6011	(H)	
+SPK6010	Не үшін?	
+	Зачем?	
+SPK6009	Тоқаевпен түскен,	To take pictures with Tokayev?
+	дейді.	
+SPK6010	QQQ Ешкім түспейді онымен QQ	No one is going to take pictures with him.
+SPK6009	Q	
+	(H)	Why?
+SPK6010	Q	
+SPK6009	Неге?	
+SPK6010	Ну,	Well, he will only go up the stage and give a speech for 10 minutes.
+	он только неге,	
+	сценаға барып,	
+	он минут,	
+SPK6009	Эх.	Eh.
+SPK6010	речь айтады,	
+	кетеді сосын,	
+	бітті.	
+SPK6011	Еще этот,	He will also give diplomas to those with GPA 4.0, right?
+	ГПА төрттерге ғана береді, иә, дипломдарын?	
+SPK6010	Иә.	Yes.
+SPK6009	О,	Oh, we have such people?
+	ондайлар бар ма?	
+SPK6011	Все.	That is it.
+SPK6010	Бар.	We do.
+SPK6011	Бар.	We do.
+	Аз, но бар.	Only a few but we do have.
+SPK6009	ГПА төрт.	GPA 4.0.
+	Қандай major-лар?	What majors?
+SPK6010	Разный.	Different.
+SPK6011	Мхм.	Yes.
+SPK6010	QQ	
+SPK6011	А,	Oh, once I heard...
+SPK6010	Бірінші выпускта даже сондай адамдар болған,	There were such people even in the first cohort.
+SPK6011	бір кездері мен естігенмін.	
+	Да.	Yes, I once heard that one girl was the president, she had GPA 4.0 and she was an engineering student, and she was also in student clubs.
+	Бір кездері мен естігенмін бір қыз,	
+	президент болды,	
+	ГПА-сы төрт болды,	
+	и еще ол инженерияда оқыған деп ес-,	
+SPK6009	Ужас.	That is crazy.
+SPK6011	еще ол клубтарда болды деп естідім.	
+	Это прям вау QQ	That is insane.
+SPK6010	QQQ	
+SPK6011	Еще оның жігіті болды, еще ол тұрмысқа шығып кетті, типа короче,	She also had a boyfriend, got a married, so it is like an ideal thing.
+SPK6009	Мә.	Wow.
+SPK6011	(TSK)	
+	идеально.	
+SPK6010	Иә.	Yes.
+SPK6009	Инженерде,	Engineering and GPA 4.0.
+SPK6011	Может нет.	Or maybe not.
+SPK6009	ГПА төрт.	
+SPK6010	Но олардың,	But these GPA 4.0 people have an ugly scarf.
+	несі,	
+	шарфы такой страшный.	
+SPK6011	QQ	
+SPK6010	Төрт,	
+	төрттердің.	
+SPK6011	Поэтому мен төрт алған жоқпын деші.	Say that you did not get 4.0 because of that.
+SPK6009	QQQQ	
+SPK6010	Поэтому төрт алған жоқпын.	Yes, because of that I did not get 4.0.
+SPK6011	Ой.	Oh.
+SPK6010	Самый күшті,	The best scarf is for those with GPA less that 3.67 or so.
+	га- этот шарф,	
+	у тех, у кого,	
+	меньше три шестьдесят семь,	
+	или сколько там.	
+SPK6011	М.	I see.
+SPK6010	Солардың,	They have like a copper or bronze color.
+	который он такой,	
+	(TSK)	
+	медный,	
+	ма?	
+	Бронз.	
+SPK6011	Золотистый емес пе?	Is not it golden? Bronze?
+SPK6010	Ну, он такой,	Well, it is like...
+SPK6011	Бронз,	
+	золотой?	
+SPK6010	Ту, әдемі цвет в общем,	Uh, a beautiful color and that is it.
+SPK6011	QQQQ	
+SPK6010	У остальных не очень.	Others have a so-so scarf.
+SPK6009	А сен қандай шарф аласың?	What scarf are you going to get?
+SPK6010	Вот сондай который,	That normal one.
+	обыкновенный.	
+SPK6011	(TSK)	
+	Я к этому шла деп жатыр ғой.	She did her best to get it.
+SPK6009	QQQ	
+SPK6010	Я к этому шла, да.	Yes, I did my best.
+SPK6011	Мен соған бара жатырмын.	I am also going to get that.
+SPK6010	Остальные некрасивые вообще.	Others are totally ugly.
+SPK6011	Молодец.	I am a good girl.
+	QQQQ	
+SPK6009	(H)	
+SPK6010	Төрттікі вообще,	Those 4.0 people have a yellow scarf, it is not even golden but yellow.
+	а- а, сары.	
+SPK6011	Oh.	Ew.
+SPK6010	Он прям сары бар ғой, даже не то, чтобы золотой, а сары,	
+SPK6011	(H) Бізде мектепте ленточка сондай түсті болған,	We had such ribbon at school and I was like why?
+	типа маған ұнаған жоқ, я такая нет,	
+SPK6009	А.	I see.
+SPK6010	QQQ	
+SPK6011	почему деп короче.	
+	(H)	
+SPK6010	А.	Aaa.
+SPK6011	Ну, такая,	And then I was like ok.
+	ладно.	
+SPK6009	Қызыл болады десем төрттерде.	I thought 4.0s have a red one.
+SPK6010	Жоқ, сары олар,	No, they have a yellow one and there is a blue one.
+	сосын,	
+	синий вроде,	
+SPK6011	Все не по стереотипу.	Everything is against stereotypes.
+SPK6009	Q	
+SPK6010	Синий есть,	There is a blue one, which is fine because it is dark blue, and I think there is also a silver one for those who have 3.67 and higher.
+	синий, синий әдемі,	
+	пойдет такой,	
+	темный синий ол,	
+	сосын серебряный есть,	
+	серебряный ол,	
+	үш,	
+	алпыс,	
+	жеті который кажется.	
+SPK6011	М.	Mmm.
+SPK6010	Вот и содан кейін барлығы такой,	And it goes like that.
+SPK6011	Это чтобы не обидеть других типа есть же.	It is to not hurt others, you know.
+SPK6009	(H)	
+	(Hx)	
+SPK6011	(H)	
+	(H)	
+SPK6009	А	Aaa.
+SPK6010	Мен по сути мантия ана нәрселерді кигенмін уже,	Actually, I already wore those robes in 2019.
+	екі мың он тоғызда QQ	
+SPK6011	Q	
+SPK6010	Было бы очень смешно, если бы,	It would have been funny if this graduation was online and that graduation was my last graduation.
+	онлайн был бы,	
+	graduation,	
+	и это был бы,	
+	момент, когда,	
+	самый последний graduation перед этим,	
+	а,	
+	короной,	
+	был,	
+	мой по- мой graduation тоже.	
+	QQQ	
+SPK6011	Q	
+SPK6010	(H)	
+	Сол сол күні еще,	It was raining that day.
+	не болған ғой,	
+	жаңбыр.	
+SPK6011	М.	Mmm.
+SPK6009	А,	Yes, it was raining, I remember.
+	жаңбыр жауған иә иә,	
+	есімде.	
+SPK6010	Жаңбыр жауған,	It was raining at graduation.
+	graduation.	
+SPK6011	QQ	
+SPK6010	(H)	
+SPK6011	Амфитеатрдан,	It takes so much time to get to amphitheater from the university.
+	университетке бару деген,	
+SPK6010	Аха.	Yes.
+SPK6011	бірталай уақыт.	
+SPK6010	QQQ	
+SPK6011	(H)	
+SPK6010	Иә.	Right.
+SPK6011	Капец.	That is crazy.
+SPK6010	(H)	
+	Сосын ана немен,	And then we had a stupid thing where we had to do N and U with alumni and they shot it with drone from high.
+	б- фу тупой нәрсе короче болған бізде,	
+	&,	
+	alumni-лардан,	
+	se- ой,	
+	alumni-лардан не істеу керекпіз,	
+	N,	
+	U дегендерді короче,	
+	жазып,	
+	со- соны істеген еще,	
+	бізбен тоже,	
+	үстінен,	
+	немен, дронмен,	
+	снимать еткен.	
+SPK6011	М.	I see.
+SPK6010	И типа NU деп жаз-,	And we had to write NU like that.
+	жазу керек,	
+	бізде.	
+SPK6011	Сен волонтер болдың ба?	Were you volunteering?
+SPK6010	Иә.	Yes.
+SPK6011	Что меня ожидает.	That is what will happen to me.
+SPK6010	Do- dorm үшін.	I volunteered to get a dormitory stay.
+SPK6009	QQ	
+SPK6011	QQ	
+SPK6010	Dorm үшін,	
+	волонтер болғанмын.	
+SPK6011	Иә, мен де.	Yes, me too.
+SPK6009	Dorm.	Dorm.
+	(???)	
+SPK6011	(TSK)	
+SPK6010	Мне было лень вещи перевозить.	I was too lazy to move my things, so I just stayed and then had summer classes.
+SPK6011	Q	
+SPK6010	Қала салдым сосын,	
+	сосын dorm,	
+	сосын летникқа қалдым,	
+SPK6011	(Hx)	
+SPK6010	бітті.	
+SPK6011	Эх,	Eh.
+	Лет-.	
+SPK6009	А сен,	When are you going to go for volunteering?
+	қашан барасың волонтерствоға сонда?	
+SPK6011	А,	Well, I need to go on thursday.
+	а,	
+	четверг,	
+	кету керек.	
+SPK6010	Мына четверг па?	This thursday? Crazy.
+SPK6011	Мхм.	Yes.
+SPK6010	Нифига.	
+	Не істейсіңдер?	What are you planning to do?
+SPK6011	Жатамыз.	We will be just lay for a time being.
+SPK6010	Что так рано?	Why so early?
+SPK6011	Пока жатамыз.	
+	QQQ	
+SPK6010	Так рано.	So early.
+SPK6011	Да.	Well, they first said to be there on 20th but they changed it for a later date.
+	Бізге по идее айтқан,	
+	типа,	
+	жиырмасы күні келіңдер деп,	
+	уже болып қойыңдар деп,	
+	потом бізге айтты,	
+	попозже болады деп.	
+	Но біз уже алып қойдық,	But we already got tickets and there are no tickets in summer.
+	тем более қазір жазда,	
+SPK6010	А.	I see.
+SPK6011	типа билеттер жаз,	
+SPK6009	Мхм.	Мhm,
+SPK6011	поэтому.	
+	(???)	
+	Нормально.	That is ok.
+SPK6010	(H)	
+	Подожди четверг.	Wait a minute. Thursday?
+SPK6011	Он тоғызы.	The 19th.
+SPK6010	Он тоғызы?	The 19th?
+SPK6011	Мхм.	Yes.
+SPK6010	Он тоғызынан,	From 19th to 20th or?
+	жиырмасына или,	
+	(???)	
+SPK6011	Он тоғызынан жиырмасына.	Yes, from 19th to 20th.
+SPK6010	Ту,	We could have been together.
+	мы могли бы вместе.	
+	Подожди.	Wait a minute?
+SPK6011	А?	What?
+	Q	
+	Біз Астанаға бара жатырмыз ғой.	We are going to Astana?
+	Сен поездбен барасың ба?	Are you going by train?
+SPK6010	Иә.	Yes.
+SPK6011	А.	I see.
+SPK6010	Сен немен барасың?	How are you going?
+SPK6011	Біз тоже поездбен,	We also are going by train.
+	барамыз.	
+SPK6010	Бір поезд емеспіз бе біз?	Are we not going by the same train?
+SPK6011	Может быть.	Maybe.
+SPK6010	Который,	The one that leaves at 3.
+	сағат,	
+	үш-,	
+	-те кететін,	
+	бе?	
+SPK6011	Төртте.	At 4.
+SPK6010	Төртте,	At 4 in the afternoon.
+	обедте.	
+SPK6011	Ну, тальго же,	Well, the talgo train is the only one.
+	бір поезд ғана жүреді.	
+	Он тоғызы ма?	Is it the 19th?
+SPK6010	QQ	
+SPK6011	А подожди подожди,	Wait wait. What is your seat?
+SPK6010	(H)	
+SPK6011	қай орын?	
+SPK6010	&&& туф,	Oh, I do not remember.
+	какой-то,	
+	не помню,	
+	&&&&&	
+SPK6011	Біз неге бір вагонға ала салмадық?	Why did not we get in one train car? We are three people there, ¬Merey, me, and one other guy.
+	Там бізде потому что төрт,	
+SPK6010	Білмеймін, я даже не знала, что	Well, I do not know. I did not even know.
+SPK6011	біз үш адамбыз типа,	
+	¬Мерей, мен,	
+SPK6010	Я могу поменяться.	I can change places.
+SPK6011	и бір бала.	
+	Давай.	
+SPK6010	Могу поменяться.	i can change.
+SPK6011	Давай давай давай.	Go go go.
+SPK6010	Я могу к вам притащиться и сказать типа,	I can come to you and ask the person to change places.
+	можете бар-,	
+SPK6011	Great great great.	Great great great.
+SPK6010	ана жаққа баруға?	
+SPK6009	QQ	
+SPK6010	Потому что мен не,	Because I will leave in Pavlodar.
+	Павлодарда түсемін.	
+SPK6011	По идее сен можешь қазір, если анда,	Well, you can return your ticket and buy in our train compartment.
+	орын болса,	
+	сол,	
+	ананы сдать,	
+	и мынаны ала салуға типа.	
+SPK6010	О.	Oh, I am going to Pavlodar.
+	&&& мен Павлодарға дейін,	
+SPK6011	Полный возврат,	They give back all your money.
+	давай.	
+SPK6010	я еду.	
+SPK6011	Да,	Yes, do that.
+	давай.	
+SPK6010	Кайф.	Great.
+	(H)	
+SPK6011	Давай,	Go, look.
+	қара қара.	
+	QQ	
+SPK6010	Сен не,	Which one is yours?
+	с какой?	
+SPK6011	А?	А?
+SPK6010	Какой?	Which one?
+SPK6011	Сейчас посмотрю,	Let me see, I guess the 16th.
+	м,	
+SPK6010	Сейчас.	One moment.
+SPK6011	кажется он алты.	
+SPK6010	Он алты ма?	16th?
+	COUGH	
+	Я свой,	i do not remember my order because ¬Nursulu did it.
+	заказ,	
+	не помню,	
+	мен ¬Нұрсұлу алған маған,	
+	¬Нұрсұлуда ол.	
+SPK6011	Он алтыншы купе,	The 16th compartment or how do they call it compartment or train car?
+	а ой нет нет,	
+	купе или вагон деп атала ма?	
+SPK6010	Вагон,	Train car, compartment, I do not know.
+	купе,	
+	білмеймін.	
+SPK6011	Короче,	Well, yes.
+SPK6010	Сосын,	Well, after this we will ask ¬Nursulu like which train car is it.
+	сосын мынадан кейін,	
+	сұраймыз ¬Нұрсұлудан,	
+SPK6011	иә.	
+SPK6010	¬Нұрсұлу,	
+	қандай,	
+	не деп.	
+SPK6011	Соны ала сал.	And buy that one.
+SPK6010	Кайф қой.	So great.
+SPK6011	Мхм.	Yes.
+SPK6010	Вместе поедем.	We will go together.
+SPK6009	А сен Павлодардан ары қарай таксимен барасың ба,	Will you go by taxi from Pavlodar?
+	сонда?	
+SPK6010	А?	А?
+SPK6009	Сен Екібастұздан емессің бе?	Are you not from Ekibastuz?
+SPK6010	Мен Павлодарға барамын.	I am going to Pavlodar.
+	QQ	
+	Я Павло- Екібастұзға дейін барады ол тоже сол поезд.	This train also goes to Ekibastuz.
+SPK6009	А.	I see.
+SPK6010	Просто этот,	But I need to go to Pavlodar.
+	мне в Павлодар надо.	
+	Так,	It is just my cousin is going to take an exam in Pavlodar.
+	Экибас,	
+	м,	
+	Павлодарда просто кім,	
+	племянницам,	
+	ЕНТ,	
+	сдавать будет.	
+SPK6011	М.	I see.
+SPK6010	И,	And my sister told me to teach my cousin so she will study.
+	сестра сказала типа,	
+	вот кел,	
+	сол қызды қара деп,	
+	оған,	
+	каждый день типа айт,	
+	сабақты,	
+	оқы деп.	
+SPK6011	Ойбай.	Wow.
+	QQQ	
+SPK6010	Онымен сабақ оқы деп,	She said to study with her and I said ok.
+	ок дедім.	
+SPK6011	Ок.	Ок.
+SPK6010	Ол еще ЕНТ-сі тоғызы күні.	She also has her exam on 9th.
+	QQQQ	
+SPK6011	GASP	
+SPK6010	Q	
+	QQ	
+SPK6009	Бірталай деші.	Tell me how far is it.
+SPK6010	(H)	
+	(Hx)	
+SPK6011	Сендерде электричка бар ғой,	You also have an electric train to Astana, right?
+	Астанаға дейін?	
+SPK6010	Иә.	Yes.
+SPK6011	Төрт сағат жүре ме, қанша?	Does it take 4 hours or that?
+SPK6010	Иә иә.	Yes yes.
+SPK6011	Кайф.	Great.
+SPK6010	Төрт сағат жүреді,	It takes 4 hours by train.
+	электричка.	
+	Весело.	Cool.
+SPK6011	Мхм.	Мhm.
+SPK6010	Мне надо все равно,	Anyway, I need to go to Astana.
+	в Астану поехать.	
+SPK6011	Ну да.	Of course.
+SPK6010	Мне надо вещи забрать,	I need to get my belongings, return books and do the check-out.
+	книги сдать,	
+	подпись поставить,	
+	check out,	
+	істеуге.	
+	Check out істеген жоқпын әлі.	I did not do the check-out yet.
+SPK6011	Анда по идее прям,	You have a list of things to do and need to go around, right?
+	лист қой,	
+	жасау керек,	
+	туда сюда барып.	
+SPK6010	Білмеймін,	I do not know. Somewhere in the beginning of July, I guess.
+	уже,	
+	июньнің алдында,	
+	вроде,	
+	басында.	

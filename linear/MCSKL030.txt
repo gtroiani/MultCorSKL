@@ -1,0 +1,919 @@
+speaker	span	translation
+SPK4008	сол сендерде актовый зал-да өтті?	So did it take place in the assembly hall for you guys?
+SPK4012	актовый зал	assembly hall?
+SPK4009	иә	yes
+	актовый зал-да болды себебі	The boys stayed behind in the classroom, actually.
+	ұлдар	
+	@@	
+	қалады сыныпта	
+SPK4008	әәә	aah
+SPK4009	бірақ <lag> әәә <lag>	And, uh, as far as I remember, someone either ¬Abay or ¬Aidos said something like, “Why are they going, but we’re not?”
+	менің есімде	
+	¬Абай ба әлде ¬Айдос па біреу айқан маған	
+	неге олар барады	
+	неге біз бармаймыз	
+	олай-былай	
+SPK4012	¬Айдос	¬Aidos
+SPK4009	<lag> әә <lag>	
+SPK4012	<lag> ә <lag>	
+	@	
+SPK4009	иә	yes
+	cосын біз келген шақта	Then when we went there, they gave us a small gift.
+	бізге бір сыйлық	
+	<lag> әә <lag>	
+	берген	
+SPK4008	иә-иә	yes yes
+	түсіндім түсіндім	I get it, I get it
+SPK4009	иә	yes
+SPK4008	иә-иә	
+SPK4009	сонын ішінде	"Among them, someone I don't know who exactly ¬Aybek or ¬Aidos said ""(They) gave a candy to ¬¬Adiya but not us. Why they didn't give us (a candy)?"", and there was an uproar at that moment."
+	<lag> әә <lag>	
+	¬Айбек па, ¬Айдос па білмеймін	
+	біреу айтқан	
+	Міне	
+	¬Әдияға кәмпит берді	
+	бізге берген жоқ	
+SPK4008	әә @@	aah
+SPK4009	неге бізге берген жоқ деп у шу болды сол кезде	
+	сондай @	like this
+	мхм	mhm
+SPK4008	ммм	mmm
+	біз актовый зал ондай болмайтын ешқашан	Our assembly hall is never like that.
+	біз актовый тек концерттер болады	There used to be only concerts.
+SPK4009	осындай	that's how it was
+	нәрселер болды	
+SPK4008	біз демааа-	Even though our school was big, there were a lot of what inside, lots of classrooms.
+	бізден де	
+	біздің мектеп	
+	үлкен болғанымен	
+	ішінде көп	
+	не бар	
+	көп кабинет бар ғой	
+	(TSK)	
+	сондықтан	That's why it used to be at one place, what place.
+	әәәм	
+	бізде бір	
+	қай жерде болатын	
+	(H)	
+	бізде ол	So-called meeting hall you-
+	<rush> мәжіліс зал <rush> деуге болады	
+	ол сендер-	
+	мүмкін сендердің актовый залдың жартысы болатын шығар	maybe a half of your assembly hall
+	<lag> м <lag> мүмкін	maybe ha-
+	жар-	
+	ондай қатты жартысы да емес шығар	maybe not even a half of it but it was big.
+	үлкен болатын	
+	<lag> ә <lag>	
+	сол жерде	
+	бірақ біз	but we used to do based on grades
+	сынып-cынып	???
+	мысалы	
+	тек қана он бірінші сыныптар	for example only 11th graders
+	тек қана оныншы сыныптар	only 10th graders
+SPK4012	күшті	cool
+SPK4008	солай иа	Yeah, that's how it was.
+SPK4012	мм	mm
+SPK4008	иә сол	yes, so
+	(TSK)	
+SPK4009	та-	a-
+	тағы да сұрақтар бар ма?	are there any more questions?
+	мысалы	maybe
+SPK4008	<lag> әәәә <lag>	
+	cұрақ	question
+	ә	
+	###	
+	оқу қалай болады	How were your studies?
+	<L2 = Russian> этот	
+	фолл семестрде деген (TSK)	in the fall semester
+SPK4009	осы сегізінде ма	in this eigths?
+SPK4008	жоқ-жоқ-жоқ	no-no-no
+	универде	in the university
+SPK4009	универде	in the university
+SPK4008	бір- бірінші курс бітірдің?	did you finish fir- first year?
+SPK4009	мен	I
+	үшінші курс бітірдім	finished 3rd year
+SPK4008	ә	ah
+	үшінші курс бітірдің	you finished 3rd year
+SPK4009	иә	yes
+	халықаралық	international
+	білмеймін	don't know all the rest, they say
+	барлықтар айтады	
+SPK4008	ага	yes
+	ага	yes
+SPK4009	<lag> ә <lag>	
+	білмеймін	I don't know all the rest, they say
+	барлықтар айтады	
+	о	
+	ЕНУға көшсең	It would be bad if you transferred to ENU. Why did you transfer blah-blah
+	жаман болады	
+	не үшін көштің	
+	былай-былай	
+	бірақ менің ойымша	but in my opinion to study in KazGUU is not that good as well
+	КазГЮУ де оқыған онша жақсы емес	
+	себебі менің	because I have a sister
+	<lag> ә <lag>	
+	үлкен	
+	апам бар	
+SPK4008	не КазГУ	not KazGU
+SPK4009	ау	ah
+SPK4008	не КазГУ	not KazGU?
+SPK4009	КазГЮУ	KazGUU
+SPK4008	а	ah
+	КазГЮУ	KazGUU
+SPK4009	КазГЮУ	KazGUU
+	иә	
+	менің үлкен апам	My oldest sister has finished her bachelor and master's at KazGUU.
+	сол КазГЮУді бітірген	
+	бүкіл	
+	бакалавр да	
+	магистратурасында да	
+	а жоқ	ah no
+	магистратурады Турцияда бітірген	she finished master's in Turkey but she did bachelor's in KazGUU
+	ал бакалаврды ол КазГЮУда бітірген	
+	және	
+	оның айтауын бойынша	and according to her in that place to me
+	<lag> ә <lag>	
+	ол жерде маған	
+	######	
+SPK4008	әә	aa
+SPK4012	мм	mm
+SPK4009	себебі	because many teachers to you special ###
+	<lag> ә <lag>	
+	көп	
+	мұғалімдер	
+	сені	
+	арнайы	
+	###	
+	себебі ол	because it is a money to university because of that you good ###
+	универге ақша ### болады	
+	сол үшін сен	
+	жақсы ###	
+	сосын ойлағам	Then I thought that those who got accepted to ENU are not the smartest ones.
+	мен	
+	ЕНУға онша	
+	ақылды бала түспейді ғой	
+	себебі	
+	###	
+	бірақ мен <lag> әәә <lag>	but since I was admitted to international studies, it was hard
+	халықаралық оқуға түскен соң	
+	қиын болды	
+	себебі	because very hard ###, a lot of teachers specially come from other places, from other countries to teach their programs.
+	өте қиын ###	
+	көптеген мұғалімдер саған	
+	арнайы келеді	
+	басқа жақтан	
+	басқа мемлекеттерден және олар	
+	өздерінің программасын береді	
+	және бұл	And it was wow for me
+	мен үшін болды типа вау	
+SPK4008	шетелден ба	from abroad?
+SPK4009	иә, шетелден болған	yes, they were from abroad.
+	мысалы ###	For example it/he/she (###) was for international information about distances or###
+	ол	
+	<lag> әә <lag>	
+	халықыралық үшіндегі	
+	аралар информациясы	
+	немесе ###	
+	иә	yes
+SPK4008	политология сабақ бар ма солай #	Are there classes of Political Science?
+SPK4009	политология жоқ	There is no Political Science.
+	бізде болды	But we had its what, history.
+	оның несі	
+	<lag> мм <lag>	
+	тарих	
+SPK4008	(TSK) ааа	aahm
+SPK4009	маған қатты ұнаған жоқ	I didn't really like it
+SPK4008	да	yes
+SPK4009	мхм	mhm
+SPK4008	да	yes
+	саясаттану өзі	Political Science is not interesting course by itself.
+	қызықсыз	
+	@@	
+	Мен дe оқыдым ғой ба-	I too studied on-
+	мен- а	
+	мен басында былай болады.	It was like this in the beginning.
+	мен басында	In the beginning, I was accepted to economics based on my parents' advice.
+	<lag> әә <lag>	
+	ата-анамның	
+	кеңесі бойынша	
+	неге түскем	
+	экономикаға түскем	
+	Ең басында енді бұндай оқушы болатынмын бар ғой	In the beginning, I was a kind of the student that listens the parents, like what they say.
+	ата не-	
+	мама не айтап соны істейтін	
+SPK4009	иә	yes
+SPK4008	мамалар дәрігерге бар дей ма?	My parents told me to become a doctor?.
+	бардым	I went there
+	экономикаға бар дей ма?	They told me to become an economist?
+	бардым	I went
+	анда бар дей ма?	Did they say to go there?
+	бәріне баратынмын	I was going everywhere
+	Сосын	Then I got accepted to university.
+	университетке түстім	
+SPK4009	мхм	mhm
+SPK4008	басында фаудейшнда біз	In the beginning we were writing a project during foundation.
+	жоба жазатынбыз	
+	екі семестр	two semesters
+	әр семестрде бір жоба жазатынбыз	we wrote one project in every semester
+	бір-	fi- in the first semester  I chose one very interesting project
+	бірінші семестрінде	
+	қызық бір жоба тандағанмын	
+	<lag> әәә <lag>	
+	нелер	they are about what... what
+	не туралы бір	
+	нелер	
+	<lag> әәә <lag>	
+	Сирияда	in Syria
+	Сириядан қашқан	those who left Syria Ge-
+	Ге-	
+SPK4012	миграц-	migrat-
+SPK4008	Германияға қашқан	those who left to Germany
+	<lag> әә <lag>	
+	адамдар туралы	about these people
+	олардың иә	their, yes about their adaptation
+	<lag> әә <lag>	
+	адаптациясы туралы	
+	күшті	cool
+	күшті маған ұнады	I really liked it
+	сосын	after that
+	<lag> әә <lag>	
+	бірінші курсқа түстім	I got admitted to first year
+	экономика пәнін тандадым	I chose major of economics
+SPK4009	мхм	mhm
+SPK4008	енді экономиканы	now  to declare economics you should pass this course.
+	жабу үшін	
+	а	
+	экономика	
+	<lag> әәәә <lag>	
+	маманы болу үшін	
+	сол сабақты жабу керек	
+	маған жоқ	for me
+	әрең	I barely passed
+	тапсырып шықтым	
+	содан кейін	After that I transferred to Political Science with this one.
+	политология кеттім мынамен бірге	
+	(H)	
+	бұған политология ұнады	He liked Political Science.
+	ал мен екінші курста әрең шықты шық-	And I barely survived until the end of the course since I didn't like the projects there at all.
+	<lag> әә <lag>	
+	шыдап себебі	
+	ол жердегі жобалар	
+	маған мүлдем ұнамады	
+	себебі олар бәрін	Because all of them needs to be considered from political aspect.
+	<lag> әә <lag>	
+	саясат	
+	саясат	
+	жағынан қарау керек	
+	мысалы	For example why this case, for example why this situation influenced the country this way?
+	неге	
+	мына жағдай мысалы	
+	неге мына ситуация	
+	мемлекетке осындай әсер берді дегендей	
+SPK4012	иә	yes
+SPK4008	мен қайдан білейін, маған адамдар туралы	How do I know? I am interested in how these situations influenced people, humans.
+	қызық, маған адамның	
+	неге адамға осындай әсер тигені қызықты болды, себебі	
+	бір	one
+	екінші курстың бірінші семестрінде	on the first semester of second year, what I was talking about, at that time I chose this subject
+	<lag> әә <lag>	
+	семестірінде бір	
+	жаңа айт осыған деген айтып кезде бір	
+	пән тандағам	
+	<lag> әә <lag>	
+	social science research methods деген	"called ""social science research methods"""
+	сол кезде	at that time
+	<lag> әә <lag>	
+	бір профессорде күшті болатын, қазір қайтып қалды ол	There was one cool professor, now he/she left
+	қызық пән <lag> әә <lag>	interesting subject, his classes were interesitng
+	қызық өткізді сабақ осы кезде	
+	сол жерде өткен жобалы	The project, the project's topics for example
+	жобаның тақырыптары	
+	мысалы	
+	қалай	how students adapt to the university
+	студенттер	
+	студенттердің университетке адаптациясы өтті дегендер	
+	сол	
+	<lag> әә <lag>	
+	жатақханада тұрған	Like the difference between those who live in the dormitory and those students who live at home
+	және	
+	өз үйлерінде тұрған студенттерінің	
+	айырмашылығы	
+	сол олардың	LIke what problems they had.
+	қандай <lag> әәә <lag>	
+SPK4009	қиыншықтар бар	What problems
+SPK4008	қиыншықтар болды иә	
+	(H)	
+	сол бәрін өткеннен кейін	after having passed all of these courses, in the second semester I starting thinking whether I really need Political Science
+	екінші семестрде ойланып бастадым осы маған политология керек па негізінде	
+	сосын	after
+	екінші семестрде тағы бір пән алғам	in the second semester I took another class
+	<lag> әә <lag>	
+	осы біздің кафедра	Our school, l I think you call it department
+	кафедра дейді по-моему сіздерде	
+SPK4009	иә иә кафедра	"yes yes, ""school"""
+SPK4008	кафедраның	the school's vice dean they say
+	<lag> әә <lag>	
+	(TSK)	
+	завкафедры дейді ма, дейді, бас кафедрасы бізде	
+	head of department деп айтамыз біз оларды	"but we say ""head of department"""
+	(H)	
+	<lag> әә <lag>	
+	сол сабағын алғам	so I took his/her subject
+	күшті сабақ болды ғой	that was a cool class
+	ол енді	so it was about what
+	не туралы болды	
+	коррупция туралы болған	it was about corruption
+	осы коррупция халыққа қалай әсер етеді	How corruption influences the people
+	(H) одан прямо	The class was very interesting
+	сабақ өте қызық өтті	
+	<lag> әә <lag>	
+	мұғалім да күшті	Teacher was cool
+	тақырыптары да күшті	the themes were cool too
+	ол жерде көретін кинолар-	We wrote reports like work on the movies that we watched during the class.
+	киноға біз	
+	<lag> әә <lag> не жазамыз ғой	
+	отчет жазамыз ғой	
+	репорт деп	
+	сол бәрінен кайф ұстадым да все кеттім мен социологияға дедім	So, I enjoyed everything there and I transferred to sociology.
+	<lag> ии <lag> түсіндім	and I understood
+SPK4009	сенікі ма?	it's yours?
+SPK4008	###	
+	ә?	ah?
+SPK4009	сенікі ма?	it's yours?
+SPK4008	менікі, иә	yes, it's mine
+	күшті	cool
+SPK4012	күшті	cool
+SPK4008	ну	
+	менде	My parents are all politoligists.
+	ата-анам бәрі политологтар	
+SPK4009	ага	yes
+SPK4008	### кстати ЕНУда политологиядан береді сабақ	By the way, they teach Political Science at ENU
+SPK4009	мхм	mhm
+SPK4008	<lag> и <lag> олар	and they
+	мама тоже міне этот	so my mum is also connected with Political Science
+	политологиямен связана	
+	(H)	
+	и этот	and like this
+	(TSK)	
+	олардың сөйлегендері	I don't like the way how they talk like really.
+	маған мүлдем ұнамайды	
+	маған вообще ұнамайды мысалы	
+	қайтейін енді министр- и жәй мен білім керек менің анда бір	What can I do if for ministries, I need education from this aspect.
+	<lag> әә <lag> сауатым болу керек сол жағынан	
+	жәй	Studying it (Political Science) deeply is not really for me.
+	бар	
+	бірақ	
+	ондай терең	
+	оқу ондай терең зерттеу менікі емес екен	
+	маған қызық болды	
+	осы мысалы (H)	For example, it was interesting for me to look how parents affect from which aspect the situation in Kazakhstan during coronavirus.
+	Қазақстанда болған ситуация ата-аналар қалай әсер етеді мысалы коронавирустың нәрсе иә	
+SPK4012	мхм	mhm
+SPK4008	адамға қа-	
+SPK4012	ал	
+SPK4008	қандай жақтарда	
+SPK4012	иә	yes
+SPK4008	экономика жағынан емес мысалы	fNot rom aspect of economics
+	социалды түрде мысалы	But for example, from the social aspect.
+	<lag> әә <lag>	
+	қаншама	how many families too, yes
+	отбасы да, иә	
+	отбасылары ажырасып жүрді осы	how many families got divorced because of this.
+	тура сондай	exactly like this
+	осылай өз жолыма келдім	that's how I found my way.
+	###	
+SPK4009	экономиканы не үшін таңдадың?	Why did you choose economics?
+	иә, білемін, ата-анаң айтты	yes, I know, parents told you that.
+SPK4008	иә	yes
+SPK4009	не үшін айтқан олар	But why they told you it?
+SPK4008	<lag> әә <lag> не деп айтты ол кезде маған	What they told me at that time?
+	бізде негізі отбасымызда экономисттер көп	Well generally there are many economists in our family
+	бізде бәрі мұғалімдер	everyone is a teacher.
+	(TSK) (H)	
+	<lag> әә <lag>	
+	экон-	econ- they said somthing like you'll live better with economics
+	это айтқан ғой типа	
+	экономикамен сен жақсы өмір сүріп кетесің	
+	(H)	
+	ақшаны жақсы табасың	You will earn good money and this is like a step to your rich and successful life
+	(H)	
+	<lag> әә <lag> өмірін	
+	бай-	
+	күшті болып кетеді дегені ғой	
+SPK4009	мхм	
+SPK4008	жарқырап	
+	кәдімгі жарқын болашаққа ө-	
+	өтетіндей бір баспалдақ сияқты	
+	бірақ ондай емес екен	but it is not like this
+	себебі	because from the beginning when I said that I will transfer to sociology they said how I will find a job
+	мен басынан	
+	соци-	
+	социологиясы пән-	
+	<lag> әә <lag>	
+	маманына	
+	көшем дегенде	
+	ата-анам былай	
+	жұмысты қалай табасың дейді ғой @@	
+	@@@ (H)	
+	сондай	like this
+	сол менде солай болды	it was like this with me
+SPK4012	сен қандай	What kind of economics you took: microeconomics or macroeconomics?
+	<lag> әә <lag>	
+	экономиканы алдың: микро, макро?	
+SPK4008	микро	micro
+SPK4012	әә	aah
+SPK4008	қызық болған жоқ	it wasn't interesting
+SPK4012	иә	yes
+	макро да қызық емес	macro is not interesting too
+SPK4008	(H) әә иә-иә-иә-иә білемін	yes yes yes yes, I know
+SPK4012	мен Диа-	I took it together with  Dia- with ¬Dilnaz and Sanzhar.
+	¬Ділназ мен ¬Сұлтанмен бірге алдым	
+	ну	
+	¬Сұлтанға күшті болды	so Sanzhar liked it.
+	біз	We were crying with ¬Dilnaz
+	¬Ділназ екеуміз жыладық (Hx)	
+SPK4008	біз бір төрт досымыз	we are four friends, we are basically four ¬Abay, I and two more friends
+	біз негізінде төртеуміз	
+SPK4009	мхм	mhm
+SPK4008	төртеуміз жүреміз	
+	¬Абай, мен	
+	<lag> әә <lag> и там екі досымыз	
+	досымыз бар	
+	сол біреуі	one of them how to say, he is a real economist, right
+	кәдімгідей (Hx) экономист қой ол бізде иә	
+SPK4012	иә	yes
+SPK4008	¬Абай не үшін алдың сен экономика сонда	¬Abay, why did you even take economics?
+SPK4012	<lag> әә <lag> соц предметті жабу керек	I have to pass social classes
+SPK4008	әәә	aaah
+	###	
+	оңай пәнді алмай, бір @ экономиканы алған тоже @	You took economics instead of taking something easy
+SPK4012	@@	
+SPK4009	### соған не болды	What happened to ###?
+SPK4008	ал кім болды	and who was?
+SPK4009	###, соған не болды?	
+SPK4012	маған политология ### ұнайды	I like POlitical Science
+	ол	It is you know
+	бар ғой <lag> әә <lag>	
+	әрбір адам	Every person chooses its sphere/field
+	<lag> әә <lag>	
+	бір <lag> әә <lag>	
+	сфераны таңдай алады	
+	және	and can develop from the field of the Political Science one choose before
+	өз таңдаған сферада	
+	<lag> әә <lag>	
+	<lag> әә <lag>	
+	саясаттану жағынан	
+	дами алады	
+	қалай айтсам	how I can say this
+SPK4008	мхм, иә иә иә	mhm, yes yes yes
+SPK4012	иә, сол, <lag> әә <lag>	yes, this
+	<lag> әм <lag>	
+	қалай <lag> әу <lag>	Like there are more choices
+	выбора больше	
+	то есть <lag> ә <lag>	I mean every person can choose interested field.
+	әр адам өз қызықты	
+	<lag> ну әм <lag>	
+	сфераны таңдай алады	
+SPK4008	жобаң туралы айтып берсеңші	Tell us about your project.
+SPK4012	(TSK) қандай жоба?	what project?
+SPK4008	¬Эрикамен жазуда	the one which is being written with ¬Erika
+SPK4012	әә	aah
+	иә, біз қазір	yes, we are now with two people and ¬Maxim, do you know ¬Maxim.
+	<lag> әә <lag>	
+	екі адаммен және ¬Максим, ¬Максимды білесің-	
+	білесің ғой, иә?	you know him, right?
+SPK4008	иә-иә-иә	yes yes yes
+SPK4012	жи- жиырма жеті жастағы	he is 27 years old
+SPK4008	иә иә иә	yes yes yes
+SPK4012	иә иә	yes yes
+	ағылшыны	English
+	иә, күшті	yes, very good.
+SPK4008	Америкада тұрған ол	he lived in America
+SPK4012	әә, иә	aah, yes
+	<lag> әм <lag>	
+	сол <lag> әә <lag>	this
+	біз қазір <lag> әә <lag>	we study KazMunayGaz and similar companies.
+	<lag> әә <lag>	
+	ҚазМұнайГазы және оған сы- <lag> ә <lag> сияқты	
+	компанияларды зерттейміз	
+SPK4008	мхм	mhm
+SPK4012	###	
+	олар <lag> әә <lag>	How they influence the nature.
+	табиғат	
+	олар табиғатқа қандай әсерді	
+	тигізеді	
+	және олардың документтердің бәрінін оқимыз	And we read all of their documents, we do the analysis
+	<lag> ә <lag> анализ жасаймыз	
+	сосын <lag> әә <lag>	after that, after that, we also send it to Professor?
+	<lag> әм <lag>	
+	сосын тағыда	
+	<lag> әә <lag>	
+	профессорға оны	
+	<lag> әм <lag>	
+	отправляем?	
+	иә @	yes
+SPK4009	жібересің?	you send it?
+SPK4012	жібе- жібереміз, сосын ол бізге	We send it, after that she provides a feedback then we again study study and study
+	бір фидбэк- фидбэкты айтады, сосын біз тағыда зерттейміз зерттейміз зерттейміз	
+	(H)	
+	<lag> әә <lag>	
+	осы компаниялар	What these companies put to their websites, documents.
+	олар определенный документты <lag> әм <lag>	
+	өз вебсайтқа <lag> әә <lag>	
+	<lag> әә <lag> апарады	
+	<lag> әә <lag> және де	And yes upload it.
+SPK4008	жүктейді	upload it
+SPK4012	жүктейді	
+	иә, кешеріңіз	yes, pardon me
+	және де	And we read each document every year, and make an analysis.
+	біз әр документті әр жыл сайын	
+	<lag> о <lag> оларды	
+	оқимыз және де	
+	анализ жасай-	
+	біз қазір тек қана	We are now only on the data collection process yes.
+	data collection <lag> әм <lag>	
+	процессінде	
+	иә	
+SPK4008	қандай collection?	what collection?
+SPK4012	da- data collection	data collection
+SPK4008	ә	ah
+	data collection	data collection
+SPK4012	иә	yes
+	сол тек қана информацияны	So we only gather the information.
+	<lag> әм <lag>	
+	<lag> әу <lag>	
+	информацияны жинаймыз	
+	сол	this
+SPK4008	аха	yes
+SPK4012	иә, жинаймыз	yes, we gather
+	сол	this
+	тек қана бұлды	only this
+	<lag> әм <lag>	
+SPK4008	зерт-	research-
+SPK4012	бірақ бізде тағыда бір <lag> әә <lag>	But now we have one more theory, hypothesis
+	теория гипотеза бар	
+	то есть <lag> әә <lag>	I mean the first, the first academic paper
+	и бірінші	
+	бірінші academic paper	
+	(TSK) ол жай <lag> әм <lag>	it's just like a description
+	description сияқты	
+SPK4008	мазмұн, иә?	Content, right?
+SPK4012	иә, ол мазмұн сияқты	Yes, it's like a content
+	<lag> әә <lag> осы компаниялар	How these companies influence the nature,
+	<lag> әм <lag>	
+	<lag> әә <lag>	
+	қалай табиғатқа әсер етеді	
+	қалай олар соны жасады	how they do it
+	қандай олардың документтері	how their documents
+	документтерде не бар	what's in the documents
+	қай тілінде	on what language
+	қай жылдарда	in what years
+	қанша	how many
+	бір жылына қанша рет олар	in one year, how many times they upload the documents,
+	ола- <lag> о <lag>	
+	документтерді жүктейді	
+	<lag> ә <lag> және тағыда басқа бірінші пейпер ол жай	and such content goes to the first paper.
+	<lag> әә <lag>	
+	мазмұны сияқты	
+	бірақ екінші ол әрі <lag> әә <lag>	But second one is in the theory and pro- project?
+	теориясында және жоб- <lag> әм <lag>	
+	жобада?	
+SPK4008	мхм	yes
+SPK4012	ол <lag> әм <lag>	It with other university-
+	басқа бір университетпен	
+	НарХоз ба	Was it NarKhoz?
+	анда <lag> аа <lag>	
+	Алматыда бір университет бар	There is an university in Almaty,
+	анау	
+	тағыда сосын <lag> әә <lag>	also some
+	бірнеше професорлар бар <lag> ээ <lag>	there are several professors
+	біз- біздің <lag> э <lag>	our- our who do the work with our project.
+	проектпен бірге жұ- жұмыс жасайтын	
+	иә	Yes
+	сонда бір теориясы бар <lag> ээ <lag>	there is one theory,
+	материализм және постматериализм	materialism and postmaterialism
+	сол <lag> әм <lag>	so
+SPK4008	мхм	mhm
+SPK4012	именно <lag> әм <lag>	How the content of the documents that being uploaded by the our Kazakh companies, oil companies changed in ten year?
+	бұл <lag> әм <lag>	
+	осы	
+	он жыл	
+	кезінде	
+	қалай	
+	компаниялар	
+	именно біздің қазақ компаниялар <lag> әм <lag>	
+	нефтяные компании а	
+	қалай олар	
+	осы документтерді	
+	как сказать <lag> әм <lag>	
+SPK4008	мхм	mhm
+SPK4012	маз- олардың мазмұны өзгерді ма	
+SPK4008	аа	ah
+	сен-	you-
+	мхм	mhm
+SPK4009	жоқ мен шаршамадым	
+SPK4008	а, болды	ah, got it
+SPK4012	мен шаршаған жоқпын	I am not tired
+SPK4009	сонымен, кімнің қандай сүйікті зерттеуі бар?	so well, what is everyone's favorite #?
+SPK4008	қазір мен бір сұрақ кояйыншы	let me pose one question
+	<lag> әә <lag>	
+	сендер үш жыл жазасыңдар бұл жобаны?	You write this project for three years?
+SPK4012	<lag> әә <lag>, білмеймін	I don't know
+	бірақ, <lag> әә <lag>	but
+SPK4008	жұмыстан қанша пайыз орындалды?	how many percent of work did you complete?
+SPK4012	<lag> әм <lag>	
+	бірінші пейперға <lag> әм <lag>	For he first paper 70 percent.
+	жетпіз пайыз #	
+SPK4008	әә	aah
+	ә-	
+	бірінші пейпер әлі біткен жоқ, иә	the first paper is not finished yet
+SPK4012	иә, біткен жоқ	yes, it has not finished yet.
+	өйткені	Because we need one more research assistant.
+	бізге	
+	тағыда бір research assistant керек, бұл	
+	қазір <lag> әә <lag>	now I don't know, ¬Erika said she found one so it looks like she found.
+	білмеймін, ¬Эрика айтты что тапты	
+SPK4008	мхм	mhm
+SPK4012	<lag> әм <lag>	
+	та- тапқан шығар	
+	мысалы	For example, there is lots of work to do.
+	өйткені анда өте	
+	көп жұмыс істеу керек	
+SPK4008	әәә	aaah
+SPK4012	и осы семестрі келгеннен соң	After coming from this semester, one more person will join us.
+	келген соң	
+	бізге тағы бір адам келеді	
+SPK4008	ал сендер	And you, you also did this kind of interviews for this data collection?
+	сен-	
+	сендер осы	
+	data collection жасағанда	
+	сендер де осылай интервью жасадыңдар ма?	
+SPK4012	<lag> әм <lag>, біз жасаймыз	We do.
+SPK4008	жүргізіле ма?	Is it conducted?
+	енді жасайсың ба?	Or will you do it now?
+SPK4012	иә	yes
+	өйткені біз-	because first we need to gather all the information,
+	бізге бірінші	
+	барлық информацияны алу керек	
+	# қандай сұрақтары <lag> әә <lag>	what questions
+SPK4008	ал сендер-	and you
+SPK4012	қандай сұрақтар қою керек	what questions to pose
+	және тағы басқа	and so on
+SPK4008	әә	aah
+	компанияларға барасыңдар?	you go to the companies?
+SPK4012	иә	yeah
+	<lag> әә <lag>	not we, but ¬Erika and also, there are other professors.
+	біз емес, бірақ <lag> әә <lag>	
+	¬Эрика және тағыда басқа, анда басқа профессорлар бар	
+SPK4008	әәә	aah
+SPK4012	иә	yes
+	біз Қазақстанда	we are in Kazakhstan
+SPK4008	бірақ сендер қатыспайсыңдар?	but you don't participate?
+SPK4012	###	
+	біз, <lag> әәә <lag>	We, she did not tell us yet but we write some questions.
+	ол әлі айтқан жоқ	
+	бірақ ол айтты	
+	что біз <lag> әм <lag>	
+	сұрақтарды жазамыз	
+SPK4008	әә	
+SPK4012	кей бірі	
+SPK4008	барғың келе ма?	do you want to go?
+SPK4012	ау?	ah?
+SPK4008	барғың келе ма?	do you want to go?
+	қатысқың келе ма сол интервью?	do you want to participate in the interview?
+SPK4012	<lag> әм <lag>	
+	білмеймін	I don't know
+	<lag> әм <lag>	
+	иә?	yes?
+	әрине @	of course
+SPK4008	жақсы тәжіребе болушы еді	It would have been a good experience?
+SPK4012	иәә	Yes.
+SPK4008	сенде қандай қызығушылық?	and what are your interests?
+SPK4009	м?	m?
+SPK4008	қандай- неге қызығасың?	to what -  what are you interested in?
+SPK4009	маған зерттерлер туралы <lag> ә <lag>	for me, about the research
+	маған да	I like writing research
+	зерттеулер жазғанды ұнатамын	
+	мысалы менің соңғы зерттеуім, ол аборт туралы болған	for example, my last research, it was about the abortion
+	және мен ол үшін бірінші орын алғам	and I got first place for that.
+SPK4008	күшті	cool
+SPK4009	иә	yes
+SPK4008	қашан жазылды?	when was it written?
+SPK4009	сәуір айында	In April.
+SPK4008	қашан?	when?
+SPK4009	сәуір айында	In April.
+SPK4008	осы жылы?	this year?
+SPK4009	###	
+	осы жылы, иә	this year, yes
+	және сол күні мен вакцина салғам	and I got vaccinated that day
+SPK4008	мм	mm
+SPK4009	бірінші дозасын	first dose
+	<lag> әм <lag>	
+	өзімді жаман сезіндім және мен ойлағам қазір мен жобамды айтсам	I felt really unwell and I though if I will be talking about my project now,
+	анда көптеген	there are many teachers who don't like me.
+	мені жақтырмайтын мұғалімдер бар	
+	және қазір ол туралы айтсам олар мені қуып шығатын шығар	And if I talk about now, they will kick me out, I don't know.
+	әлде білмеймін <lag> әә <lag>	
+SPK4008	неге сен олай ойлайсың?	why do you think so?
+SPK4009	себебі	Because there was a teacher he/she was for us-
+SPK4008	неге субьективты екен олар?	why are they subjective?
+SPK4009	сол	
+	сол мұғалім	
+	ол- ол бізде болған	
+	мен бірінші курста оқыған кезінде	I wrote about feminism during my first year at University.
+	феминизм туралы жазғанмын	
+	ол сол менің жазған зертеуімді	And she did not accept my research and didn'y allow me to participate.
+	<lag> әм <lag> алған жоқ, мені қатыстырмады	
+	сосын мен оған жарайды	And then I was okay
+	келесі рет басқа # жатаймын	next time, for another ###
+	<lag> әм <lag> келесі жоба мен қарулық тоқтауы және геноцид туралы	Next project I ### about stopping the use of weapon and genocide
+	<lag> әә <lag>	
+SPK4008	геноцид сен жалпы жазған немесе бір <lag> әә <lag>	you wrote generally about genocide or about one (specific)?
+SPK4009	Мьянмар туралы	about Myanmar
+SPK4008	әә	aah
+SPK4009	және маған тағы-	and ### is generally my favorite subject, to be specific, it's international # and inside of it the genocide.
+	<lag> ә <lag> негізі менің ең сүйікті ##пәнім, ол халықаралық қылмыстық # және соның ішінде геноцид	
+	бұл менің ең сүйікті	it's my favorite topic, yes
+	<lag> ә <lag>	
+SPK4008	тақырыбы ма?	topic?
+SPK4009	тақырыбым, иә	
+SPK4008	мм	mm
+SPK4009	сол туралы жазғанды ұнатамын	I like to write about it
+	бірақ <lag> әә <lag>	but even when I was talking or reading something about it, her face would change.
+	сол да мен бір нәрсе айтқан кезде немесе оқыған кезде	
+	сол кісінің	
+	беті-әлпеті бұзылады @@	
+SPK4012	@@	
+SPK4009	иә	yes, and I was like 'ok', even though I won't get a place it is still my work.
+	және мен оған, жарайды	
+	<lag> әә <lag>	
+	орын алмасам да бола берсін себебі бұл менің еңбегім ғой	
+	бірақ маған <lag> әә <lag>	but at that moment another teacher was sitting there.
+	ол кезде басқа да мұғалім отырған	
+	Америкадан келген және ол айтты	Who came from America and he/she said I like yours, and thirs place is for you.
+	маған сіздікі ұнады	
+	үшінші орын сенікі деп	
+SPK4008	бұл геноцид үшін ма?	this is for genocide?
+SPK4009	жоқ, геноцид үшін емес	no, not fo genocide but for abortion
+	аборт үшін	
+SPK4008	а, аборт үшін	ah, for abortion
+SPK4009	иә	yes
+SPK4008	сонда не туралы зерттедің?	and what did you study there
+SPK4009	бірақ мен Қазақстанды қатыстырмадым	but I did not include Kazakhstan
+	ол- иә, Қазақстанда болды, бірақ жалпылай	yes, Kazakhstan wa s there but considered generally
+	бүкіл <lag> әә <lag>	the whole
+	бүкіл әлемде	about the whole world
+SPK4008	сол тақырыбы қандай қандай	this topicwas what, about the influence of abortion?
+	не туралы	
+SPK4009	орысша	in Russian
+SPK4008	аборттың әсері ма?	
+SPK4009	орысша айтсам <lag> әм <lag>	if I say in Russian
+	тақырыбымның аты аборт право	"the name of topic ""abortion - a right a murder or a right of an individual"
+	убийство или право индивидуума	
+	әә	aah
+	##	
+	право на репродуктивный выбор или убийство ### индивидуума	"a right for a reproductional choice or a murder?"""
+SPK4008	какой выбор?	what choice?
+SPK4009	право на репродуктивный выбор	right for a reproductional choice
+SPK4008	әә репродуктивный	aah, reproductional
+SPK4009	cол туралы қарыстардым және мен бүкіл халықаралық құжаттарды қарастырып, ол туралы жазғанмын	I worked hard on that and considered all international cases, and wrote about that.
+SPK4008	Қанша бетке шықты сонда?	How many pages were in total?
+SPK4009	ммм	mmm
+	үш-бес шықты	it was 3-5 pages
+	жалпы айтқанда	in general
+SPK4008	үш бет?	3 pages?
+SPK4009	иә	yes
+SPK4008	ммм	mmm
+	үш бет	3 pages
+	осындай бізде тақырыптары аз деп айтып ###	it would be small for us for such topics
+SPK4012	@@	
+SPK4008	минимум төрт сұрайды осындай тақырыптарға	they ask at least for four for such topics
+SPK4012	иә иә	yes yes
+SPK4009	иә	yes
+SPK4008	бірақ уақыт аз болған шығар сенде?	but you probably had less time?
+SPK4009	бізге айтты жазасың ба	They asked us do you want to write?
+	мен айттым, жоқ, жазбаймын, бірақ <lag> әә <lag>	I answered no, but later they told me that I can choose the topic I want.
+	кейін маған айтқан	
+	қандай теманы алғың келсе, соны жаза бер	
+SPK4008	ммм	mmm
+SPK4009	және маған айтқан	And they told me to consider the Caspian sea's international status which is not interesting to me.
+	Каспийдің халықаралық <lag> ә <lag> құқығы	
+	Каспийдің халықаралық режимі ол мен үшін қызықты емес	
+	және мен	and I
+	иә	yes
+SPK4012	иә	yes
+SPK4009	Каспий және тағы да басқа	Caspian sea and others.
+	Арал өзенінің қазіргі жағдайы	The current status of Aral sea,
+	қалай оны зерттеуге болады, не- <lag> әм <lag>	how can we study them
+	не айтасың, ¬Әдия, не жасасың?	what do you say, ¬Adiya, what will you write?
+	мен айттым: жоқ, мен қатыспаймын	I said: no, I will not participate
+	бірақ бір күн қалған кезде ол айтты:	but when one day was left, he/she told me whether I want to participate but ### fully on me, and I said yes.
+	мүмкін қатысатын шығасың егер мен саған толықтай	
+	<lag> м <lag>	
+	толықтай ###, мен айттым иә	
+	солай жаздым	that's how I wrote it
+	бірақ сол	but this
+SPK4012	бір күн ішінде ма?	in one day?
+SPK4009	иә	yes
+	бірақ сол күн ішінде	but my teacher was sick on that day,
+	менің мұғалімім	
+	ауырған болатын	
+	және мен <lag> әә <lag>	and I used this and said that I will do everything on my own, I will write the review on my own.
+	соны қолданып айтқанмын	
+	өзім бәрін істеймін, өзім рецензияны жазамын	
+	соңында ол кісі дым деген жоқ	In the end, this person did not say anything, so I chose that topic.
+	мен сол <lag> әә <lag> нені	
+	тақырып <lag> әә <lag> таңдағанда	
+SPK4008	мм	mm
+	сонда	So what aspects did you consider when studying this topic?
+	сен	
+	зертте-	
+	сол	
+	зерттегенде	
+	<lag> әә <lag>	
+	сен	
+	қа- қай жақтан қарыстардың?	
+	қай көз қарасты қарыстардың?	WHat perspectives did you examine? did you condiser philosophical aspect? international
+	сен философия жағынан қарастырдың?	
+	сен халықаралық	
+	жоқ	no
+	халықаралық ### қой иә?	international, right?
+SPK4009	ең бастысы айтанынмын	the first thing I say is that I am not a religious person
+	мен <lag> әә <lag>	
+	мен религия дін жағындағы адам емеспін	
+	сондықтан	I am not an atheist from religious aspect.
+	атеист та емеспін бірақ <lag> әә <lag>	
+	дін жағынан ### емеспін	
+SPK4008	агностик	agnostic
+SPK4009	сондықтан	yes, like this, and I fully support abortion.
+	иә	
+	солай	
+	және мен аборт толықтай қолдаймын	
+	сол үшін өз көзқарасымды дәлелдеу үшін мен бүкіл халықаралық құжаттарды қарыстардым	And fot that, to support my point of view, I looked through all international documents
+	бүкілін	all
+	### құқығын әйел қарыстардым	I considered ## women right,
+	және <lag> әә <lag>	and none of them mentioned that abortion is the deatch of a child
+	ешқайсында жазылмаған	
+	аборт бұл <lag> әә <lag>	
+	баланың өлімі деген	
+	аборт бұл индивидты өлтіру деген ешбір сөз жазылған жоқ	there was no mention that abortion is a killings an individual
+	соның дәріптеу үшін оны бәрін жазғанмын	I wrote all of this to support it.
+SPK4008	ал бір контраргументтер болды ма?	were there any counterarguments?
+SPK4009	иә, болды	yes, there were
+	сұрақ	
+	көптегені бұл не	The majoriry of questions were from religious scholars
+	@	
+	дінтанушылардықы	
+	иә	yes
+SPK4012	@	
+SPK4009	сен адамды өлті- өлтіресің	like you kill the human
+SPK4008	араб елдері шығар иә?	Probably from Arab countires, right?
+SPK4009	иә және Польшада болған	yes, and they were against the case in Poland
+	жағдай қарсы	
+SPK4008	қай жақтадай жақтан	They were against from what aspect?
+SPK4009	Польша	Poland
+SPK4012	Польша	Poland
+SPK4009	себебі <lag> әә <lag>	because if I am not mistaken, in 2021 in December ah no no, in February
+	шатаспасам екі мың жиырма бірінші жылдың	
+	желтоқсанда ма әлде	
+	а жоқ	
+	желтоқсан емес	
+	ақпан айында	
+	бұл	there were protests
+	толқулар болды ғой	
+	себебі олардың дінтанушылар бойынша	because all religious scholars don't like abortions.
+	олар бүкіл аборттарды	
+	<lag> әм <lag>	
+	жақтырмайды	
+SPK4008	ммм	mmm
+SPK4009	және	yes
+SPK4008	Польшада ма?	in Poland?
+SPK4009	Иә Польшада	in Poland
+	себебі Польша ол Еуропалық елдердің ең біріншісі	because Poland is the first European country to be a religious country.
+	<lag> әә <lag>	
+	діни мемлекет болып табылады	
+SPK4008	Польша рас па?	really, Poland?
+SPK4012	иә?	yes?
+SPK4009	иә	yes
+	Польша	Poland
+SPK4012	Польша?	Poland?
+	Европа?	Europe?
+SPK4009	Польша, иә	Poland, yeah
+SPK4008	әәә	aaah
+	қандай қызық мәліметтер таптың осы аборт туралы?	what interesting facts have you found about abortions?
+	мысалы	for examples
+SPK4009	мысалы діни жағынан-	for example, from religious point of view
+SPK4008	мысалы Польша туралы білдік енді тағы да	for example, about Poland
+SPK4009	Польша <lag> әә <lag>	Poland
+	сол туралы айтып кететін болсақ	to talk about the examples,
+	көптеген <lag> әә <lag>	many women joined the protest and according to them, this parliament's law it does not approve 98,15% percentage of abortions
+	әйелдер	
+	митингке шықты және олардың айтуы бойынша осы парламенттің	
+	<lag> ә <lag>	
+	шығарған заңы	
+	ол тоқсан сегіз бүтін он он бес пайыз бүкіл болған аборттарды жақтырмайды	
+	оның себебі не	it's reason - what
+	оның ішінде егер сенің балаң ауру болып туылса	if your child is born sick, no one will show you or tell you anything, but if you killed the child, you might even end up in prison.
+	саған ешкім көрсетпейді	
+	егер сен сол баланы өлтірсең	
+	сен мүмкін де түрмеге де баратын шығарсың сол үшін	

@@ -1,0 +1,1144 @@
+speaker	span	translation
+SPK1104	Жазда	Do you go to summer pasture in the summer?
+	жайлау	
+	бірдеңеге шығасыздар ма	
+SPK1111	Иә шығамыз	Yes, we do,
+	өзіміз бір машина болып кетіп қаламыз	we go there in one car,
+	бір екі күн жүреˈміз әуелі	we even go for a day or two.
+	біз қыдырып.	
+SPK1104	Жоқ,	No generally
+	не	
+SPK1111	жайлау--	summer pasture--
+SPK1104	жалпы	
+	жайлауда	do you spend the whole summer in the summer pasture with your family?
+	жаз бойы жүреміздер ма деймін да	
+SPK1111	иә жаз--	yes summer--
+SPK1104	андай үй отбасыңызбен көшіп	
+SPK1111	иә, (..)	yes,
+	мен	I grow up in summer pasture.
+	жайлауда	
+	үлкейгенмін.	
+SPK1104	Қыста	In the winter, you go to so called 'qystau' (winter house).
+	ана	
+	қыстау деген жерге барасыздар	
+SPK1111	Иә, қыста:	Yes, in the winter
+	қыстауға түсіп аламыз,	we moved to our winter house,
+	мен	in the summer,
+	жазда жайлауда қал	
+	әлгі қыс--	that winter
+	қыс--	
+	қыстың басына дейін жайлауда қалып қоямын	I stay in the summer pasture because of animals until the beginning of winter,
+	малмен,	
+	рахат.	(it is) enjoyable.
+SPK1104	(МММ)	
+SPK1111	(.) (Н)	
+	Бір қой сойып аласың.	You slaughter a sheep.
+	(.) (ЫЫ)	
+	Біздің үй оның үстіне жайлау жақын	On top of that, the summer pasture is close to us,
+	машинамен	you can get (there) in one and half hours with car.
+SPK1104	Қай жайлау	Which summer pasture do you go?
+SPK1111	бір жарым сағатта жетесің	
+SPK1104	сіздерде?	
+SPK1111	Шәші.	Shashy (the name of the pasture).
+SPK1104	А, Шәші.	A, Shashy. (name of the pasture)
+SPK1111	Сен барған.	which you went.
+SPK1104	WHISPER Шәші,	Shashy,
+	әйбат қой ол деген,	it is beautiful,
+SPK1111	Иә,	Yes,
+SPK1104	биік иә?	It is high, yes?
+SPK1111	иә,	yes,
+SPK1104	ол дегенің?	
+SPK1111	(МХМ)	
+	жолы :	the road is asphalt,
+	май жол	
+SPK1104	Иә,	Yes,
+SPK1111	біздің үйдің жанына дейін май жол,	it is asphalt until our house,
+	(.)	
+	машина бірақ барады.	cars can get there.
+	Келіп аласың дағы	You just come,
+	бір толтырып алып кетіп қаласың машинаңды.	and fill up your car.
+	(.) Н	
+SPK1104	@@@	
+SPK1111	Оның үстіне	On top of that,
+	біздің жақта саяхат орын ғой,	there are resorts near us,
+	бізден ары қарай ешқандай машина шығармайды дa	no car is allowed beyond us.
+SPK1104	Сіздер саяхат	Do you have a resort?
+	ашасыздар ма сонда?	
+SPK1111	Жоқ,	No,
+	WHISPER біз андай	we don't treat the guests.
+	WHISPER кісі күтпейміз.	
+SPK1104	Саяхаттар бірақ жақсы табады иә?	But the resorts earn good money.
+SPK1111	WHISPER Жақсы табады	They earn a lot.
+SPK1104	Киіз үйлері бір күнде :	The yurt is three or four hundred yuan a day.
+	үш төрт жүз юань	
+SPK1111	Иә,	Yes,
+SPK1104	болып :.	
+SPK1111	оған біз	but we do not want to serve others,
+	ана біреуді бүйтіп	
+	WHISPER Әәә деп	
+	күткіміз келмейді,	
+SPK1104	Иә,	Yes,
+SPK1111	өзіміз бүйтіп	we all are this kind of (disobidient) person.
+	бүйтіп қалған адамдармыз бәріміз.	
+	(..) (Н)	
+	Содан	So we do not to want to be watchful.
+	біреудің қас қабағына қарағымыз келмейді,	
+	асаумыз.	we are ill tempered.
+	(ЫЫ)	Beyond us,
+	Бізден ары қарай	
+	ap ЫЫ	
+	ана	that
+	op--	
+	бізге аз қалған жерде саяхат бар	there are resorts near us,
+SPK1104	(МХМ)	
+SPK1111	(.) (Н)	
+	ол жерден	they blocked the road from there,
+	жолды тосып тастаған,	
+	ары десең ары одан ары қарай машина	beyond there, nothing including cars is not allowed to pass.
+	ештеңе щығармайды	
+SPK1104	Ол жақта не бар сонда?	So what do you have there?
+SPK1111	Одан ары қарай малшылардыкі.	Beyond that, it is herdsmen's (area).
+SPK1104	Еее,	It is their own territory.
+SPK1111	Рахат,	(It is) enjoyable,
+SPK1104	өздерінің жері деңіз.	
+SPK1111	машина бармайды,	cars do not go,
+	ұры бармайды,	thieves do not go,
+	бірақ	but
+SPK1104	Жете алмайды	You mean they cannot get there.
+	дейсіз ғой @@	
+SPK1111	бізді өткізіп жібереді ары қарай,	they let us pass from here,
+	енді біз--	since we are -  -
+	бізге tong xing zheng бітіріп береді дe	they make a pass for us,
+	өткізіп жібереді,	let us pass,
+	рахат.	(it is) enjoyable.
+	(.) (Н)	
+	(ЫЫЫ)	
+	Бірақ саяхатшылар	But travellers also come to us,
+	бізге де барып алады,	
+	саяхат орында	in the resort,
+	ting dan diao	they said it is monotonous,
+	деп айтады	
+SPK1104	Жиі:	They distribute densely.
+	орналасқан.	
+SPK1111	жиі:.	dense,
+	мәнсіз,	boring
+	кеп	"the people from mainland (of China) say, ""can we ride your horse, can we milk you cow?"""
+	аттарыңа мінейікші :,	
+	сиырларыңды сауып көрейікші:	
+	дейді әлгі қытайларшы	
+SPK1104	(МХМ)	
+SPK1111	ішкерден келеді ғой.	
+	Ақша-	Money--
+SPK1104	Солар өмірдің нақ мәнін біледі иә	They know the real meaning of life, yes?
+SPK1111	ақша алмаймыз десек	if we say we do not want money,
+	тықпалап жүріп ақша тастап кетеді.	they leave money for us in a hidden way.
+	(.) (H)	
+	Содан	Then
+	қазақ үй тігіп қоямыз,	we make a yurt,
+	бір-	
+	екеу.	two.
+	Кейде	Sometimes
+	кей жылы біреу тігеміз,	some years, we make one
+	кейде екеу тігіп қоямыз,	sometimes we make two,
+	бізге қонақ көп келеді.	we have a lot of guests.
+	Содан	Then
+	жайлауда болған соң	because we are in summer pasture,
+	қымыз ішетін адам көп,	there are a lot of people drinking Kumis,
+	бие байлаймыз.	we keep mares.
+SPK1104	Онда мен Қытайға қайтқанда	Then when I come back to China, let me visit you in Shashy,
+	Шә-	
+	Шәшіге	
+SPK1111	WHISPER бар бар бар	
+SPK1104	сіздерге	
+	іздеп барайын деп па @@@	
+SPK1111	Бар,	Go,
+SPK1104	бір жылы бір айтта әкем ертіп	My father took us all there one year at Eid.
+	бәріміз бірге барған едік.	
+SPK1111	бар біздің үйде	go to our house,
+	әлгі	that,
+	ting yuan shi de	it is a bit primitive,
+SPK1104	(МММ)	
+	Сондай жақсы ғой	That is good, it is relaxing, you can rest.
+SPK1111	(ЫЫЫ)	
+SPK1104	рахат қой	
+SPK1111	төк-	electricity--
+SPK1104	демалып	
+SPK1111	төк-	electricity--
+	төк-	electricity--
+	төк бар.	there is electricity.
+SPK1104	не төк па?	is it that kind of electricity?
+	tai yang neng -мен	with solar energy.
+SPK1111	Иә,	Yes,
+	күн нұры	solar.
+	(ЫЫЫ)	
+SPK1104	(МММ)	
+SPK1111	Қымыз ішетіндер барады арнайы,	People who drink Kumis go specially.
+	біздің үйдегілер қонақ--	There are guests in our family.
+	(.) қонақ--	
+	қонағы бар.	
+	Дастархан таңертең жайылады	The table is set in the morning,
+	болды кеште	and it will be cleaned up in the evening.
+SPK1104	Бірақ жиналады деңіз	Then it will be cleaned up.
+SPK1111	жиналады,	
+	түсте jia mian ғып	at noon, you put some additional bread sometimes.
+	нан әкеліп қоясың арасында	
+SPK1104	Қымыз @--	Kumis--
+	күні бойы қымыз құйып	serving Kumis all day.
+	деңіз.	
+SPK1111	Әңгімеден әңгіме,	Start with some stories,
+	мен сол	my job is to milk the cow in the morning since I get up early.
+	жұмысым	
+	таңертең (.)	
+	өзім ерте тұратын болған соң,	
+	(..)	
+	сиыр сауып тастаймын.	
+SPK1104	Ой сиыр сауып тастайсыз ба	Will you milk the cow?
+SPK1111	Шешем аяғы ауырады	My mother's legs hurt.
+SPK1104	Е,	That's good.
+	онда жақсы екен ғой.	
+SPK1111	Бір жуас сиыр бар--	There is a docile cow--
+SPK1104	Бір ғана сиыр сауасыздар?	Do you only milk one cow?
+SPK1111	бізге шай--	It is only milk for tea,
+	шайлық сүтке ғана,	
+	қалғанын	
+	саумаймыз.	we do not milk others.
+SPK1104	Бұрын:	A long time ago, we went to a place called Tanbaly,
+	бір-	
+	біз Таңбалы деген жерге баратынбыз,	
+	сол жерде	there (somebody) bought the milk,
+	сүт	
+	алатын,	
+SPK1111	Бізде де бұрын алатын,	In the past, they also bought from us,
+	кейін	later
+SPK1104	сүт жинап алатын	with a car that collects the milk,
+SPK1111	алмайтын болып кетті ғой	they no longer buy.
+SPK1104	машинамен	
+	сүйтіп,	it was interesting.
+	қызық болатын.	
+SPK1111	бізде бір жуас сиырлар бар--	We have a docile cow--
+SPK1104	Соны күтетін едік	We somehow waited it,
+	біртүрлі	
+	ой:	
+	келді деп	"running and saying ""oh it arrives."""
+	жүгіріп.	
+	Менің әке-шешем	My parents took my brother and me to the summer pasture every year.
+	жыл сайын	
+	інім екеумізді жайлауға апарып тастайтын.	
+	(.) Бір жүргеннен кейін жылап--	I always cried and came back after some days.
+	жылап	
+	қайтатынмын @@.	
+SPK1111	Біздің үйге ел барғыш өйткені	People like to come to our house because there is electricity
+	төк бар.	
+SPK1104	(МММ)	
+SPK1111	(.) (Н)	
+SPK1104	WHISPER ол жақта әке-шешем апарып тастайды	my parent took us there.
+SPK1111	Содан	Then guests like to come to our house,
+	біздің үйге кісі келгіш,	
+	(Н) рахат.	(it is) enjoyable.
+SPK1104	Жей беріңіз.	Please eat. (Speaker A is giving Speaker B some chocolate)
+SPK1111	жоқ сен же,	No, you can eat,
+	мына жерде бар	here I have,
+	жаңа екеу алғанмын ғой	I bought two just now.
+SPK1104	Біреуін ғана аша беріңізші,	Just open one of them,
+	мен осыны жеп болайын	let me first finish this.
+SPK1111	Біздің үйде бір--	If you buy one thing in our house,
+	бір нәрсені біреу алсаң	
+	боқтайды.	they will scold.
+SPK1104	@@@	
+SPK1111	Жаңа біреу алсаң--	Just now if you buy one--
+SPK1104	Аға-әпкеңіз сізден неше жас үлкен	How much older are your brother and sister than you?
+SPK1111	Тоқсан төртінші жылғы.	(He was born in 19)94.
+	E тоқсаныншы жылғы	(he was born in 19) 90,
+	мен тоқсан төртпін.	(I was born in 19) 94.
+	(Н) бізде	if you buy one thing at our family,
+	бір нәрсе алсаң	
+	ұрсады,	they scold
+	(ЫЫЫ)	
+SPK1104	Жалғыз деп па?	Saying only?
+SPK1111	түк көрмеген деп.	saying that you are selfish.
+	@@@	
+SPK1104	@@@	
+SPK1111	(.) Соған екеу алу керек.	Therefore, (we) need to buy two.
+SPK1104	Үйдің кенжесімін деңіз.	You are the youngest child in your family.
+	(МММ)	
+	Үйдің кенжесі болған жақсы шығар иә?	It seems it is good to be the youngest child in a family, yes?
+SPK1111	Бірақ	But it is more difficult to find that (bride),
+	немене табу қиындау,	
+	үйлену қиындау,	difficult to get married,
+	өйткені (Ы)	because
+	қазіргі қыздар	girls nowadays
+SPK1104	Е:	
+	ата-енеммен тұрмаймын	Do they say they don't want to live with parents-in-law?
+	дей ма @@	
+SPK1111	aта-енеммен тұрмаймын дейді оның үстіне	say I don't live with parents-in-law,
+	тұрамын десе де,	even though they say they will live,
+	(.) той жасап алғанша	those leftover women (Speaker A is giving Speaker B some chocolate) lie and say that they will live until they get married,
+	әлгі өтпей қалған қыздар	
+	тұрамын деп	
+	алдап,	
+	алдап алғаннан кейін leng zhan ғып	after lying they start a cold war,
+	cold war ғып	cold war,
+	(.) (H) gan ga de	they will lead to an awkward situation.
+	di yuan ға	
+	апарып тастайды.	
+SPK1104	Бірақ біртүрлі ғой	No, it is strange,
+SPK1111	Әке-шеше-	Parents--
+SPK1104	негізі өздері әке-шешесін ойласа болады ғой	actually they can think about their own parents.
+SPK1111	Әке-шеше сол	I cannot agree with my parents,
+	жарығына шығайын десең	
+	ол болмаған,	
+	анаған шығайын десең	and I also cannot agree with her,
+	тағы болмаған,	
+	оған дейін	until then, they stay like this,
+	бүйтіп тұрады дағы	
+SPK1104	Иә,	Yes,
+SPK1111	бір күнде	then they leave in one day.
+	(.) лақтырып--	
+SPK1104	жоқ ойлаңызшы,	No, think about it,
+	мысалы,	for example,
+	(.) әрине енді	it may be strange to live with parents-in-law,
+	ата-енемен тұрған біртүрлі шығар,	
+	бірақ та мен өзім інім бар	but I have my own brother,
+	и ойлаймын егер де кейін	and I just think if in the future--
+SPK1111	Сондай әпке болған қыздар	Those girls who are sisters would be good,
+	жақсы	
+	болады екен,	
+	ана	who get used to giving way for her brother.
+	інісіне	
+	rang le ғып үйреніп қалған--	
+SPK1104	Бір жағынан	On the one hand,
+	сол	
+	мен інімді ойлаймын, да	I think about my brother,
+	енді әке-шешем кейін	in the future, my parents,
+	келін	for example, the daughter-in-law says I don't live
+	мысалы тұрмаймын	
+	деп әке-шешем жалғыз қалса өздері,	and if my parents live alone,
+	(H) мысалы	for example, they will get older,
+	жастары үлкейіп:	
+	өмір бойы ба--	they raised us all the time,
+	өмір бойы бағып	
+	иә,	
+	(H) жалғыз қалып қалса	if they are left alone,
+	обал ғой	it is kind of pitiful.
+	біртүрлі.	
+SPK1111	Иә,	Yes,
+	содан	then we have docile caws,
+	бізде жуас сиырлар бар,	
+	(H)	
+	сауып отырасың да, бүйтіп	you milk it,
+	зерігіп кетіп	and get bored
+	бүйтіп	there is a phone call,
+	телефон келіп қалып,	
+	телефон сөйлесіп алып,	you answer the phone,
+	(H)	
+	не болмаса	or
+	сауып отырып	when you are milking,
+	(.) темекі шеккің келіп кетіп	you go around to smoke and come back,
+	тұра беретін сиырлар бар.	the cows are still there.
+SPK1104	недеген жақсы-ей.	it is so good.
+	@@	
+SPK1111	Сосын	Then
+	ана жаңа түскен келіндер келіп	there are some caws for new daughter-in-law to practice.
+	shi xi ғып кететін сиырлар бар	
+SPK1104	Үйрене ма сіздерден	Do they learn from you?
+SPK1111	@@@	
+SPK1104	@@	
+SPK1111	Жуас сиыр.	Docile cow.
+	(H) (ЫЫ) (.)	
+	Енесі жоқ	There are some calves without mother,
+	бұзаулар бар ғой,	
+SPK1104	(МХМ)	
+SPK1111	соны бере салсаң,	there are some caws  that if you give it, they will have it as additional meal.
+	jia mian ғып	
+	алып алатын,	
+SPK1104	@@	
+SPK1111	сондай бір сиырлар бар.	
+	(Н) Сосын	Then there are docile mare,
+	жуас	
+	биелер бар,	
+	бие сауып көрмеген :	new daughter-in-law or somebody's daughters who have not  milk the mare come and practice for one to two days.
+	жас түскен келіндер	
+	не болмаса елдің қыздары келіп	
+SPK1104	Үйреніп кете ма сіздерден? @@	Do they come and learn from you?
+SPK1111	бір-екі күн shi xi ғып кетеді	
+	@@	
+SPK1104	Е онда қызық екен иә?	Then it is so interesting, right?
+SPK1111	Қытайлар да келіп	Chinese also come and say let us see, let us try.
+	көрейікші	
+	сынап көрейікші деп--	
+SPK1104	Қатты болады ғой иә? біртүрлі	It is kind of tough, yes?
+SPK1111	Жұмсақ,	(It is) soft,
+	оп-оңай.	very easy.
+SPK1104	А.	
+SPK1111	Жан-жаққа қарап тұрасың да екшім жоқ	You look around, if there is no one coming,
+	болса	
+	келген	
+	үйде адам жоқ кезде өзің де сауа саласың	if there is no one at home, you just milk it yourself.
+SPK1104	(ММ)	
+SPK1111	Өйткені	because
+	(ЫЫ)	
+	бір рет	once
+	қызық болды,	
+	сиыр сауып отырсам,	when I was milking the cow,
+	біреу tou pai ғып	somebody snapped and sent it to our village's group chat.
+	өзіміздің ауылдың qun -нына жіберіп етіпті	
+	Ол:	It was one case,
+	кетті ма,	
+	содан	then my mother has a high blood pressure, if she stoops to tandoor (a oven made of clay, it is used to bake bread), she will have a headache.
+	шешем	
+	қанбасымы бар,	
+	тонарға еңкейсе	
+	басы ауырып қалады	
+SPK1104	(МХМ)	
+SPK1111	содан	then
+	(.) шешем	my mother make and prepare the bread, and I look around, when there is no one I bake it in a hidden way,
+	нан жасап	
+	дайыпдап тұрады да, мен:	
+	жан-жаққа қарап тұрып	
+	tou tou mo mo	
+	ешкім жоқ кезде ғана	
+	барып жауа салатынмын да	
+SPK1104	Ұялам	You mean you are shy.
+	дейсіз ғой. @@@	
+SPK1111	Иә,	Yes,
+	бір күні-	one day--
+SPK1104	Ой несі ұят	Oh, it is not a shame,
+	шешеңізге көмектесіп жатсаңыз	if you are helping your mother.
+SPK1111	Бір күні сөйтіп	One day
+	нан жапсырып жатсам	when I am preparing the bread,
+	(.) (Н)	
+	бір кісі өтіп кеткен	one man passed by,
+	ат-	horse--
+	атпен,	with horse,
+SPK1104	(МХМ)	
+SPK1111	тура	he snapped, shot a video and sent it when I was mixing the flour.
+	tou pai ғып	
+	shi pin ғып тұрып жібіріп жіберіпті	
+	мен нан илеген үйдің.	
+SPK1104	@ нан дегенді	You are mixing the flour.
+SPK1111	@@@	
+SPK1104	неғып жатқанмын деңіз	
+SPK1111	Ең алғышқы-	The first--
+SPK1104	Әпкеңіз	How old is your sister?
+	қаншада?	
+SPK1111	Той жасап кетті ғой	She has got married.
+SPK1104	Ең үлкені ма	Is she the oldest?
+SPK1111	Жоқ,	No,
+	ағам ең үлкені,	my brother is the oldest,
+	сексен төрт	84. (born in 1984 year)
+SPK1104	(МММ)	
+SPK1111	(.) (Н)	
+	Әпкем келгенде	When my sister comes, we become like that,
+	бір	
+	немене боп қаламыз,	
+SPK1104	рахаттанып қаламыз.	we will feel comfort.
+SPK1111	рахат желігіп	we will enjoy.
+SPK1104	(.)	
+	Қайдан,	no, instead you should let your sister rest and treat her as a guest.
+SPK1111	Әпкем--	My sister--
+SPK1104	қайта әпкеңіз	
+	қонaқ қылып,	
+	үйде	
+	жатқызып қоюларыңыз керек қой	
+SPK1111	Жоқ,	No,
+	ол	she doesn't do that.
+	өйтпейді.	
+	өте (.)	(She is) very hard-working.
+	жапакеш.	
+	(.) Н келеді дағы:	She came, and she somehow likes to move out all the house,
+SPK1104	(МММ)	
+SPK1111	(.) әйтеу	
+	үйдің бәрін шығарып тастағыш,	
+SPK1104	Недеген жақсы-ей.	It is so good.
+SPK1111	содан қайтадан кіргізіп тастағыш	and she likes to move all in.
+SPK1104	Мен кішкентай кезімде армандайтынмын,	I dreamed of having a sister when I was young.
+	Пу	
+	әпкем болса шіркін	
+	деп.	
+	Енді	Actually there are no a lot of chores to do at home - washing dishes, cleaning up.
+	үйде де көп жұмыс жоқ,	
+	ыдыс-аяқ жуасың,	
+	жинайсың.	
+SPK1111	Содан	Then she likes to clean up all the dishes,
+	ыдыс-аяқты біртұтас жиғыш,	
+	жиып алады дағы	She cleans up, and she likes to wash.
+	бір жуыпшықыш.	
+	Өзі	
+	qiang po zheng бар да,	She is obsessive,
+	олай болмаса (.) Н)-	if it is not in that way,
+	әне-	that--
+	ой,	
+	алдыңғы жолы	if we say we did not use it after you came and washed them,
+	сен келіп	
+	жиып	
+	жуып кеткеннен кейін	
+	істеткен жоқпыз, мынау сол беті тұр десең	
+	(Ы)	
+SPK1104	Шаң басып кетті	Does she say there is a lot of dust?
+	дей ма?	
+SPK1111	COUGH	
+	qiang po zheng бар.	she is obssessive.
+SPK1104	(МММ)	
+SPK1111	Cодан	
+	Әлгі	If she does not clean all the house,
+	үй	
+	бүтін	
+	полный ғып	
+	бір	
+	сүртіп шықпаса :	
+	көңілі көншімей тұрады.	she will not be satisfied.
+SPK1104	(МММ)	
+SPK1111	Cодан	Then when my sister comes,
+	әпкем келген кезде	
+	үндемей қоясың	we keep silent,
+	әлгі ол	that she
+	WHISPER немене бүйтіп	
+	жақ--	
+SPK1104	Көп те келмейтін шығар?	She may not come so frequently.
+	Өзі әрең бір	When she finally come to her parents' house.
+	төркін :	
+	шылап	
+	келгенде.	
+SPK1111	Үнемі үнемі келіп тұрады, енді	She comes very frequently, because
+	Әзіргі заман машина,	Nowadays (we have) cars,
+	бұрынғы заман сияқты	it is not like the past time and (the brides) come back after four years.
+	төрт жылдан кейін келіп тұратын емес	
+SPK1104	Атқа	You mean riding a house.
+	мініп демейсіз ба.	
+SPK1111	Иә.	Yes.
+SPK1104	@	
+SPK1111	Жездемде машина бар,	My brother-in-law has car,
+	оның үстіне	on top of that,
+	(.) (Н) (ЫЫ)	
+SPK1104	Тоғызтарауда	Does she live in Togyztarau (a town in Xinjiang, in which Speaker A lives)?
+SPK1111	Иә.	Yes.
+SPK1104	тұра ма сол	
+SPK1111	Кө-	
+	(ЫЫ)	
+	Жақын,	(It is) close,
+	қыста	in the winter
+	арамыз бір жеті километр	the distance between us is seven kilometers, eight kilometers.
+	сегіз километр тұрамыз.	
+	Жазда	In the summer
+	ұзап кетсе,	at most,
+	кеңір есептегенде бір	more broadly
+	тоқсан	
+	сексен километр жерде	we live ninety, eighty kilometers (from them).
+	тұрамыз.	
+SPK1104	(МММ)	
+SPK1111	(.) Ата-енесін салып алады да	She takes her parents-in-law,
+	кешке жақын келетінін қайтесің, (Н)	and comes in the evening,
+	бір-екі сағат әңгіме айтып келейік деп келдік деп	saying that they come to talk one or two hours,
+SPK1104	@@@	
+SPK1111	тыпыр етіп келеді,	they came very quickly,
+	(.) ой,	oh,
+	(.) бәрі тап тап-таза тұр ғой десең,	if you say everything is clean,
+	(ЫЫ)	
+	ренжиді,	she will get angry,
+	содан үндемей қойсаң болды	so you just need to keep silent.
+SPK1104	Әке-шешеңіз сізге айтатын шығар	Your parents may tell you that they need a daughter-in-law.
+SPK1111	Жездем--	My brother-in-law--
+SPK1104	келін керек	
+SPK1111	Жез--	
+SPK1104	деп.	
+SPK1111	Жездем екеуміз	My brother-in-law and I do this,
+	бүйтеміз дағы	
+	(.) (Н)	
+	біраз темекі шегеміз	we smoke for a while in a hidden way.
+	tou tou mo mo de.	
+SPK1104	@@	
+	Немене,	That,
+	не айтайын деп едім,	what I wanted to say,
+	Тоғызтарау деген қандай мағына	what does Togyztarau mean?
+	Тоғыз	"So are there nine branches? (Toqyztarau is the name of a town, where ""toqyz"" means ""nine"" and ""tarau"" means ""branch"")"
+	тарау бар ма сонда?	
+SPK1111	Ой былай әңгіме ғой бұл,	Oh, is is this kind of story,
+	ана	that
+	Іле өзеннің басы	the head of Ili River
+	(ЫЫ)	
+	Күнестен басталып,	starts from Kunes (place),
+	(ЫЫ)	
+	Нараттан Таңбалыға,	from Narat to Tanbaly,
+	Ақөзеннен басталып айналып келіп,	start from Aqozen and came around,
+	айланып келіп	came around
+	Тоғызтараудың артынан өтіп бара жатқан кезде,	when it passes behind Togyztarau,
+	Тоғызтараудың суы келіп құяды.	Togyztarau river flows into it.
+SPK1104	(МХМ)	
+SPK1111	Текестің суы,	Tekes river,
+	Тоғызтараудың суы келіп құяды.	Togyztarau river comes to flow to it.
+	Одан кейін айналып келіп	After that it comes around,
+	тоғыз--	when it comes exactly behind Togyztaray,
+	Тоғызтараудың	
+	дәл	
+	артына келген кезде	
+	(.) Қаратаудың түбі бар ғой,	you know the bottom of Karatau,
+	соған келген кезде,	when it comes there,
+	(.) (Ы)	
+	бір арнамен келе жатады да	it comes along with one canal,
+	жайылып	then it will divide into nine branches,
+	тоғыз арна болады	
+SPK1104	(МММ)	
+SPK1111	тоғыз өзен болады,	there are nine rivers,
+	біраз жерге апарады да	it flows to somewhere,
+	қайтадан бірігіп кетеді,	and then it combines again,
+	## тоғыз тарау деп--	it is nine branches--
+SPK1104	Дәл сол Тоғызтараудың бір жерінде	You mean it is located exactly in one пlace of Togyztarau.
+	деңізші ол.	
+SPK1111	Иә сол Тоғызтарауда,	Yes, in Togyztarau,
+	ауданның астында,	under the town,
+	со- со-	
+	жайылып	it sпreads out,
+	барып	
+SPK1104	(МММ)	
+SPK1111	содан өтіп	also пasses it,
+	бізден өтеді өтеді,	it пasses us,
+	(ЫЫ) (..)	
+	Құлжа ауданның бір	when it gets to somewhere in Kuldja town,
+	жерлеріне барғанда	
+	Қастың суы келіп құяды,	Kas river flows to it.
+	Майгуңше деген бір жерлер бар ғой, білесің бе?	Do you know there is some пlaces called Mai gong she?
+SPK1104	WHISPER Майгуңше,	Mai gong she (пlace),
+	білемін ғой деймін,	I think I know,
+	иә.	
+SPK1111	Ана	That Mazar in Nileke,
+	Нылқының әлгі	
+	Мазар:	
+SPK1104	Мазар?	Mazar (пlace)?
+SPK1111	иә,	yes,
+SPK1104	білмейді екенмін иә,	I don't know it.
+	оның атын.	
+SPK1111	Бо-	there are пlaces called Borbosyn,
+	Борболсын:	
+	деген жерлер бар,	
+SPK1104	білмейді екенмін	I don't know.
+SPK1111	сол жерге барғанда	when it gets there,
+	Нылқының суы келіп құяды.	the water of Nileke flow to it.
+SPK1104	(МММ)	
+SPK1111	(.) (Н)	
+	Содан	Then
+	(..) (ЫЫ)	
+	сол үлкейіп-	it widens,
+	Құлжаға келіп үлкейеді ғой,	it widens in Kuldja,
+	одан кейін Қазақстанда болып кетеді.	after that, it flows to Kazakhstan.
+	Сол	That nine branches are divided into nine canals.
+	Тоғыз тарау,	
+	Тоғыз арнаға	
+	бөлінген.	
+SPK1104	(МММ)	
+	Жақсы ат екен иә?	It is a good name, yes?
+	Мен әзір:	Now I am thinking,
+	ойлап отырмын,	
+	тоғыз	the name is about nine branches.
+	тарау деген	
+	сондай ат қой деп.	
+	Қазақша қойыпты ғой.	(the name) is given in Kazakh.
+	Біздің Нылқы деген	Our Nileke is in Mongolian,
+	Моңғолша,	
+	сәби	Nileke is a word for 'baby'.
+	деген сөз екен ғой	
+	Нылқы деген.	
+SPK1111	Нылқы ұнайды маған,	I like Nileke,
+SPK1104	Нылқы-	Nileke--
+SPK1111	Нылқының адамдары біртүрлі	пeoпle in Nileke are kind of
+	(ЫЫ)	a kind of
+	(.) біртүрлі	
+	қазақшасы жоқ енді,	there is no Kazakh word,
+	пu su дейміз ғой	we say 'пusu' (simпle),
+SPK1104	Қарапайым.	Simпle.
+SPK1111	Қарапайым десең тағы болмай қалады.	it does not fit if you say 'qaraпaiym' (simпle).
+	Біртүрлі әлгі ю-	It feels like пrimitive like in the пast.
+	бұрынғы:	
+	yuan shi сияқты	
+SPK1104	@@@	
+SPK1111	сезіледі.	
+SPK1104	Жабайы	You mean they are wild.
+	дедіңіз ғой @	
+SPK1111	Жоқ,	No,
+	жабайы емес,	not wild,
+	бұрынғы:	
+	е-	former old Kazakh.
+	ескі қазақи.	
+	Мен ана	I said that we go to Nileke a lot,
+	Нылқыға көп барамыз дедік қой,	
+SPK1104	(МХМ)	
+SPK1111	біз Тоғызтарау біртүрлі	It seems that we become modern in Togyztarau.
+	xian dai hua болып кеткен сияқты,	
+	біртүрлі-	a kind of--
+	(Ы)	
+	Тоғызтарауда енді	There are a lot of markets in Togyztarau,
+	базар көп,	
+	оның үстіне әлгі-	On toп of that--
+	деп мақтансаң иә?	if you boast like this.
+SPK1104	@@@	
+	Нылқыдан-	From Nileke,
+	ай Нылқы дейінші,	oh, I mean not Nileke,
+	Құлжадан қанша уақыттық жол?	How long is the drive from Kuldja?
+SPK1111	(Н)	
+	Жүз километр ғой.	It is one hundred kilometers.
+SPK1104	Нылқыға өте алыс емес қой,	It is not so far from Nileke,
+	екі үш сағат,	two to three hours,
+	иә?	
+SPK1111	Бізде	Later, after the exпressway was built,
+	кейін	
+	(Ы) gao su	
+	түскеннен кейін	
+	елу минутта	you can arrive in fifty minutes.
+	жетесің.	
+SPK1104	WHISPER мына тиген	It is a close пlace just next to it.
+	жақын жер екен ғой.	
+SPK1111	Ана біреу	If you go with that old former normal road.
+	ескі,	
+	бұрынғы	
+	әдеттегі жолмен жүрсең	
+	бір сағат,	(it takes) one hour,
+	бір сағат жиырма минут.	one hour and twenty minutes.
+	Ол жерде әлгі	There is camera that annoys you in that пlace.
+	мазаңды алып жіберетін	
+	ана камера бар ғой.	
+SPK1104	Е,	
+	не қылмау--	Do not do--
+	тез:	you mean it is not allowed to drive fast.
+SPK1111	Иә.	Yes.
+SPK1104	жүруге болмайды деңізші	
+SPK1111	(Н)	
+	Біздің үйдің жанында	There is a bridge to Nileke just next to our house.
+	тура Нылқыға өтіп кететін көпір бар,	
+	Нылқының көпірі деп қояды.	We call it 'the Bridge of Nileke'.
+SPK1104	(МММ)	
+SPK1111	Ана	That is built above Ili River from Togyztarau, you can directly go to Kileng.
+	Іле өзеннің үстінен салған,	
+	Тоғызтараудан	
+	Кілеңге түсесің	
+SPK1104	(МММ)	
+SPK1111	(Н)	
+	Содан	Then
+	(..)	
+	ана	do you know the пlace around Zhamanty?
+	Жаманты деген жақты білесің ба?	
+SPK1104	Жаманты?	Zhamanty? (пlace)
+SPK1111	(МХМ)	Bridge.
+	Көпір.	
+SPK1104	Нылқыда ма?	In Nileke?
+SPK1111	Жоқ.	No.
+SPK1104	Тоғызтарауда?	In Togyztarau?
+SPK1111	Құлжадан келе жатқанда.	It is on the way when coming from Kuldja.
+SPK1104	Білмейді екенмін.	I do not know.
+SPK1111	Ол жолмен жүрмейміз,	We do not go by that road,
+	(Н)	
+	біз	we
+	(ЫЫ) (Н)	
+	сол көпірден өтеміз да,	we cross the bridge,
+	үйдің жанында,	it is next to the house,
+	(ЫЫ)	
+	ана Құлжа (Ы)	that Kuldja--
+	Күнеске кететін таудың түбіндегі жол бар ғой,	there is a road at the bottom of the mountain that leads to Kunes,
+SPK1104	(МХМ)	
+SPK1111	соған түсіп аламыздағы	we go there
+	аз жүріп,	go for a short time,
+	gao su -ға түсіп,	and go to exпressway,
+	сомен кетеміз.	we go with that.
+	Сол	That is fast.
+	тез.	
+SPK1104	Бірақ шынымен де:	But really
+	Күнес	Kunes is also a bit newer comпared with Nileke,
+	те Нылқыға қарағанда	
+	жаңа:	
+	кішкене	
+SPK1111	(.) к-	
+SPK1104	жаңарақ қой	
+SPK1111	Күнес алыс	Kunes is far away,
+	қой,	
+	біз:-	we--
+	бізде әйтеу	all the пeoпle are in Kuldja,
+	елдің бәрі Құлжада жүреді ғой	
+	біртүрлі,	
+	(.) (ЫЫ)	
+	жанында болған соң ба,	maybe because it is next to it,
+	Құлжаға барып	It is like I go to Kuldja to sell my car,
+	машинамды сатып келдім:	
+	деген сияқты	
+SPK1104	@@@	
+SPK1111	сиыр сатып келдім,	to sell my cow,
+	жанында болған соң.	maybe it is because it is next to it.
+	Әлгі бір	For some пeoпle from Zhaosu, going to Kuldja takes one day.
+	Мұңғылкүрелік:	
+	бір кісілерге	
+	Құлжаға бару	
+	бір күндік әңгіме ғой.	
+SPK1104	Иә,	Yes,
+	жақын жер ғой,	it is a close пlace,
+	Чапчал	Chaпchal (пlace)
+	барлығы вообще жақын	all are very close.
+SPK1111	Жоқ,	No,
+	Мұңғылкүре	Zhaosu is far.
+	алыс қой.	
+SPK1104	Zhaosu-ға ма?	Is it to Zhaosu?
+	(МММ)	
+SPK1111	(МХМ)	
+	Сосын	Then it is also far away from Kunes,
+	Күнестен де алыс,	
+	бізде әйтеу	for us, you can go and return in three hours.
+	үш сағаттың ішінде барып келіп аласың,	
+	##	
+SPK1104	Бізде	It may take two hours for us,
+	екі сағаттай жүретін шығар	
+SPK1111	(СOUGH)	
+SPK1104	екі, екі жарым	two, two and half hours
+	сағат	
+	Нылқыдан Құлжаға.	from Nileke to Kuldja.
+SPK1111	Бізде	For us, you go for forty or fifty minutes.
+	(.) қырық	
+	елу минуттай жүресің,	
+SPK1104	(МММ)	
+SPK1111	әлгі бір қалаға кіргеннен кейін	after arriving in the city, you will stuck in traffic jam,
+	кептеліске шаншылып қаласың да,	
+	сол	you finish you affairs, and come back in two and half or three hours.
+	шаруаңды бітіріп	
+	(.) екі жарым,	
+	үш сағатта келіп аласың.	
+SPK1104	Тез деңізші,	You mean it is fast to go and return.
+	барып келесіз.	
+	Менше осы Қазақстанның ішінде	I think it is also somehow close within Kazakhstan,
+	де біртүрлі	
+	(.) жақын,	
+	жақын дегенде алыс болғанмен	What I mean by close is that even though it is far,
+	тез жетесің	you can somehow arrive quickly.
+	біртүрлі.	
+SPK1111	Иә.	Yes.
+SPK1104	Мысалы ана Талғардан	For examпle from Talgar to Uzynagash (two towns in Almaty, Kazakhstan),
+	Ұзынағашқа дейін	
+	қарасаңыз алыс жол ғой.	if you look at it, it is far away.
+	Бірақ соның өзінде де әйтеу	But even though it is like that,
+	бірдемде жетіп барасыз.	you can arrive very soon.
+SPK1111	Кеште тойға кетіп қалып-	You can go to the wedding in the evening.
+SPK1104	Таңертең барып	You can go in the morning,
+	кеште келіп аласыз	and come back in the evening
+SPK1111	Әуелі кеште тойға кетіп қалатынын қайтесің иә	Even they go to the weddings in the evening.
+SPK1104	қыдырып.	just for walking around.
+	Сол ғой,	Yes, if you look at it, it is a far пlace.
+	негізі қарап тұрсаңыз	
+	алыс жер ғой.	
+SPK1111	(МММ)	
+	Бұл жақта енді	There
+	бір машина-	one car--
+	бір үйде бір машина	it is formed early that there is one car in one family,
+	ерте жалпыласқан:,	
+	сосын жолдардың сапасы	and the quality of the road is good,
+SPK1104	жақсы емес	it is not good.
+SPK1111	жақсы,	
+	машиналарының да сапасы жақсы,	and the quality of car is also good,
+	қорықпай басады.	you can sпeed uп without fear.
+	(..) (Н)	
+	Бізде	In our пlace,
+SPK1104	Бірақ дегенмен	But whatever, you will be afraid that it is far away.
+	енді	
+	алыс жерде	
+	қорқады екенсің	
+SPK1111	БІзде	Car is used widely late in our пlace.
+	машина	
+	кейінірек жалпыласты.	
+	Біз кішірек кезімізде	When we are younger,
+	(ЫЫ)	
+	машина болған жоқ,	there was no car,
+	(ЫЫ)	
+	мото деген бәле болған бізде	there is something so called motorcycle.
+SPK1104	(МММ)	We also have that,
+	Е, бізде де бар ғой	
+	мото @@@	motorcycle.
+SPK1111	Содан	Then there are one or two motorcycles in each family.
+	мото	
+	бір үйде	
+	бірден екіден болды.	
+SPK1104	Ауылда	I think it is convinient for countryside.
+	ол қолайлы	
+	менше.	
+SPK1111	Мото боп тұрған ғой	Motorcycle is so good,
+	негізі тау-тасқа,	mainly for mountain-rocky region,
+	мал баққанға,	for grazing cattles,
+SPK1104	Бірақ	But
+SPK1111	су тасығанға.	for carrying water.
+SPK1104	денсаулыққа	It is very ... for the health, right?
+	өте не иә?	
+SPK1111	Енді	But
+SPK1104	тізе	for knee and other.
+	бірдеңе дегендерге.	
+SPK1111	күндіз	you don't ride it for days and nights,
+	түні мініп алмайсың ғой енді,	
+	бір шаруамен ғана мінесің.	you just ride it with some пurпoses.
+SPK1104	Бірақ	But
+	бір жағынан	on the one hand,
+	содан көп адам шырғалаңға ұшырады	a lot of пeoпle had accident because of that,
+SPK1111	Иә.	Yes.
+SPK1104	иә?	
+SPK1111	(Н)	
+	Сосын	Then my brothers enjoy the big benefits of the motorcycles.
+	ағамдар	
+	тура	
+	сол мотоның қызығын	
+	бір кісідей көрді.	
+	Біз	We did not ride a lot,
+	аздап міндік,	
+	біз келгенде машина болып кетті.	when we come, it becomes car.
+SPK1104	(МММ)	
+SPK1111	(Н)	
+	Бір үйде бір машина	It seems it is imпossible not to have a car in each family.
+	болмаса болмайтындай.	
+SPK1104	Әзір	Now
+SPK1111	кейін-	later--
+SPK1104	dian dong che ғой.	there is electrical vehicle.
+SPK1111	Кейде	later, it becomes that two cars are not enough for a family.
+	бір үйде екі машина жетіспейтін дәрежелерге	
+	барды ғой,	
+	(Ы)	
+	сосын	then
+	ағамдар машина алып алыпты,	my brothers bought cars,
+	біз біраз мото айдадық,	we rode motorcycles for some time.
+	сосын	then
+	тағы бізге де	we needed another car.
+	машина керек болды.	
+SPK1104	(МММ)	
+SPK1111	(ЫЫ)	
+	Бізде	We could also drive two cars.
+	де екі машина айдауға жеттік.	
+	dian dong che енді әлгі	Electrical vehicle is  for groceries and for something like that.
+SPK1104	Ішінде	Go here and there inside (of a town).
+	ары-бері.	
+SPK1111	cai-ға барып келген:	
+	деген сияқты әңгіме ғой.	
+SPK1104	Мен шешем	My mother go to that (work) with electrical vehicle,
+	dian dong che -мен	
+	неге барады,	
+	жұмысқа барып келеді	she goes to work to school.
+	мектепке.	
+SPK1111	Иә сол,	Yes, it is for that.
+	сондайға ғой.	
+SPK1104	Бірақ қарап тұрсаң	But it is convinient.
+	қолайлы	
+SPK1111	Бізде	We do not stay at home.
+	үйде тұрмаймыз ғой біз.	
+SPK1104	(ММ)	
+SPK1111	Жазда	In the summer,
+	(.) қонаққа баруға тура келеді,	it is time for visiting (being a guest),
+	оның үстіне	on toп of that,
+	бізде енді	since there is  elder пerson, it is not aппroпriate to go somewhere and leave quickly,
+	(Ы) үлкен кісілер болғаннан кейін	
+	бір жерге барып тұштаң етіп кетіп қалатын емес,	
+	барып	you go and stay at night.
+	қонады-	
+	қонасың.	
+SPK1104	(ММ) @@	
+SPK1111	Құр қол бармайсың	You do not go emпty-handed,
+	он кило қымыз,	you bring ten kilograms of Kumis and milk,
+	сүт	
+	алып барасың	
+SPK1104	Иә.	Yes.
+SPK1111	(Н)	
+	(Ы)	after that
+	автобуспен баратын емес қиналып:	it is not convinient to go with bus and suffer,
+	екі-үш автобус алмастырып,	change two or three buses,
+SPK1104	Иә.	Yes.
+SPK1111	машинамен барамыз,	we go with car,
+	қонамыз.	stay there.
+SPK1104	Қытайдағы өмір де	Actually the life in China is also interesting.
+	қызық қой негізі	
+SPK1111	Иә.	Yes.
+SPK1104	Мына жақта	Here
+	Алматыда жүрген соң ба	maybe because we are in Almaty,
+	біртүрлі	it is somehow modernized,
+	xian dai hua	
+	иә?	yes?
+	Ол жақта	There you can walk around.
+SPK1111	Маған Алматы біртүрлі	For me, Almaty feels like a small пlace.
+SPK1104	әйтеуір	
+	қыдырып.	
+SPK1111	биттей:	
+	жер сияқты сезіледі.	
+SPK1104	(МММ)	
+SPK1111	Ана-	That--
+	мен ана	when I did delivering,
+	доставка тасып жүрген кезде,	
+	(.) (Н)	
+	қаланың ана басынан	there is a delivery from one side of the city,
+	бір доставка,	
+	мына басынан бір доставка,	one delivery from another side,
+	бірдемде пыр-пыр етіп барамын.	I go there immediately.
+SPK1104	(МММ)	
+SPK1111	Ішкерде	In mainland (of China),
+	Гуанчжоу,	
+	Шынджында	in Guangzhou, Shenzhen
+SPK1104	Ол жақ енді	There it is really--
+	шынымен енді	
+SPK1111	бір qu	it will get dark when you go from one region to another.
+	-дeн бір qu-ға барып келгенше кеш батып кетеді.	
+SPK1104	Иә.	Yes.
+	WHISPER Алматыда-	In Almaty--
+	Әйтеу Алматы андай	It seems that it is imпossible to feel the kind of life as in our summer пasture (in China).
+	біздің өзіміздің жайлаудағы өмірді:	
+	андай	
+	сондай өмірді сезіну	
+	мүмкін емес сияқты.	
+SPK1111	(МХМ)	
+SPK1104	Адамдарына да байланысты бір.	It also deпends on the пeoпle.
+SPK1111	Алматыда әртүрлі адам	There are different пeoпle in Almaty.
+	орналасқан ғой.	
+SPK1104	Бізді әйтеу жайлауға апарып тастап,	(My пarents) take us to the summer пasture,
+	мен	
+	бес-алтыншы күннен бастап	I cried starting from the fifth or sixth day.
+	жылаймын.	
+SPK1111	Туыстардың үйіне?	To your relatives' house?
+SPK1104	Иә.	Yes.
+SPK1111	Бізге-	To us--
+SPK1104	Әке-шешем өзі бармайды ғой,	My пarents do not go,
+	бізді апарып тастайды.	they take us.
+SPK1111	Біздің үйге де	Relatives' children also come to our house.
+	туыстың баласы келетін.	
+	Шешем де үйдің үлкені,	My mother is the oldest in her family,
+	(.) (Ы)	
+	алты сіңілсі,	she has six younger sisters, and three younger brothers.
+	үш бауыры бар.	
+SPK1104	(АА)	
+	Бәрі келеді деңізші @@	You mean all of them will come.
+SPK1111	(Н)	
+	Әкем үйдің үлкені	My father is the eldest in her family,
+	алты бауыры,	he has six younger brothers, and three younger sisters.
+	үш қарындасы бар.	
+SPK1104	(АА)	
+	@@@	
+SPK1111	(Н)	
+	Содан	Then
+	біздің үйге	to our house
+	(.) (Н)	
+	(ЫЫ)	
+	жазда:	in the summer
+	әкемнің	my father has an elder brother,
+	бір ағасы бар,	
+	(..) (ЫЫ)	
+	әке бір,	his half brother through his father (same father, different mother).
+	шеше бөлек ағасы.	
+SPK1104	(МХМ)	
+SPK1111	(Н)	
+	Ол кісілер	They must stay for twenty days or one month in the summer.
+	жазда	
+	міндетті түрде	
+	жиырма күн,	
+	бір ай жату керек.	
+	(Н)	
+	Бағана	Just now
+	екі киіз үй тігеміз	I said we make two yurts,
+	деп қойдым ғой,	
+	біреуін қонаққа арнап қоямыз.	we made one for the guests.
+SPK1104	@@@	
+SPK1111	(Н)	
+	Бізде	We have brick house with four rooms in the summer пasture.
+	жайлауда	
+	кесек үй	
+	төрт ауызды	
+SPK1104	Қойыңызшы?	Really?
+	WOW	
+	Онда	Then
+SPK1111	Әкем мал доктор болғанда	When my father was a vet,
+SPK1104	жақсы екен ғой	it is good.
+SPK1111	үкімет салып берген ғой.	the government built for him.
+	(.) Н	
+SPK1104	(АА)	
+SPK1111	(ЫЫ)	
+	Сол-	That--
+SPK1104	Қыста тұра берсеңіздер де болады екен иә?	You can also stay in the winter.
+SPK1111	Мен енді ойлап жүрмін,	Now I am thinking
+	үйленіп алғаннан кейін бар ғой	after getting married,
+	ақыры төк бар.	anyway, there is electricity, (I want to live in the summer пasture)
+SPK1104	әйеліңіз	Does your wife live?
+	тұра ма демейсіз ба? @@@	
+	Тұратын әйел табуыңыз керек	You need to find a wife who will live.
+SPK1111	Тұра-	
+	Тұратын шығар.	Maybe she will live.
+	(.) Тыныш өмір.	(It is) quiet life.
+	(ЫЫ)	
+	Сосын	Then my grandпarents from my mother's side come.
+	нағашы атам,	
+	нағашы апам келеді.	
+	Ол кісілер де	They also stay for ten to fifteen days,
+	он-он бес күн жатады,	
+	қымыз ішіп,	drinks Kumis, saumal (non-fermented mare milk).
+	саумал ішеді.	
+	(Н)	
+	(ЫЫ)	
+	Бөлелерім	My neпhews who study start to aппear,
+	пайда бола бастайды,	
+	оқитын,	
+SPK1104	МММ	
+SPK1111	ағамның	(they are) my brother's children.
+	балалары.	
+SPK1104	Солар қызық шығар	Are they fun
+	сіздерге?	for you?
+SPK1111	(Нх)	
+	Қызық болғанда енді	Even though it is interesting,
+	шешеме,	
+	бір үйде бір адамға кішкене ауырлау келеді.	for the single пerson in the house, it is a little bit hard (to take care of all the children).
+	Бірақ шешем	But there are my mother's sisters,
+SPK1104	(ММ)	
+SPK1111	сіңілдері бар,	
+	он бес күннен	they stay for fifteen, twenty days,
+	жиырма күн жатып кетеді,	
+	бір жағы бізге қарайласып,	on the other hand, they helп us.
+	(.) (Н)	
+	сиыр сауысып,	helп us milk the cow,
+	сүт-	milk--
+	бие сауысып.	milk the mare.
+	(.) (ЫЫ)	
+	Әкем бауырлары-	My father's brothers--
+	(.) әкем	my father's other brothers also go to summer пasture.
+	басқа бауыр-	
+	бауырлары да	
+	жайлауға шығады.	
+	Әкем жақтан	Few пeoпle come from my father's side.
+	аз келеді.	
+	(Н)	
+SPK1104	(МММ)	
+SPK1111	Екі-үш бала ғана келеді.	Only two or three children come.
+	(.) Жалпы	Generally
+	рекорд болғанда он бестей:	the record is there were around fifteen to twenty children.
+	жиырмадай бала болатын.	
+	(Н) (.)	
+SPK1104	Көп иә?	It is a lot, yes?
+SPK1111	Иә.	Yes.
+SPK1104	Оларға	Maybe for them, it is fun for each other,
+	бір-біріне қызық шығар.	
+SPK1111	Тізіп жатқызасың,	You let them sleeп in sequence,
+SPK1104	@@@	
+SPK1111	түнде	at night,
+	қарап	you look after and пush them.
+	итеріп жатасың.	
+	(..) (Н)	
+	Сием:	"They said, ""we are going to пee,"""
+	дейді,	
+	пыр етіп далаға алып шығасың	you take them out quickly.
+SPK1104	@@@	
+SPK1111	@@	
+	(Н) Cодан	Then
+	WHISPER сол	
+	бие сауып отырасың,	you milk the mare,
+	(Н)	
+	бөтелкелерін кө-	they come with their bottles,
+	сүйрелеп пайда болады,	
+	сөскелерін көтеріп,	bringing their feeding-bottle.
+SPK1104	@@@	
+SPK1111	Бойлары бір-бір қарсы,	They are all small,
+	(Н)	
+	саумал құйып бересің.	you пour them saumal (non-fermented mare milk).
+SPK1104	Біз	We drink Kumis while пlaying cards at daytime.
+	карта ойнап	
+	қымыз ішетінбіз	
+	күндіз деген.	
+	Мас боп қалатынбыз	we got drunk, (since it is fermented, it has low level of alcohol)
+	кәдімгідей,	
+	құсып:.	vomitting.
+	@@	
+SPK1111	Содан	Then we hire herder,
+	малшы	
+	малшы алып аламыз,	
+	тыныш,	(it is) comfortable,
+	сол жақсы.	that is good.
+	Таңертең сол-	In the morning,
+	ендi таңертең кішкене ауырлау,	it is a little bit hard in the morning, I helп (him).
+	көмектесіп жіберем.	

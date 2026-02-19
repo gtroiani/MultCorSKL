@@ -1,0 +1,1167 @@
+speaker	span	translation
+SPK2001	Что ¬Гүлайша бүгін РДЦға бардың ба?	So, ¬Gulaisha, have you gone to RDC today yet?
+SPK2002	Да.	Yes.
+SPK2001	Нешеге-	So what time did you wake up then? To go to the RDC.
+	нешеде тұрдың сонда?	
+	РДЦға бару үшін.	So what time did you wake up then? To go to the RDC.
+SPK2002	Ой.	Oh, (I) woke up at 8:45, and left around at 9-10.
+	Сегізде,	
+	қырық бесте,	
+	тұрдым.	
+	Тоғызда онда сосын шықтым.	
+	Сосын тоғыз жарымда,	Then at 9:30, I was at the RDC.
+	РДЦда болдым.	
+	##.	##.
+SPK2001	А что мусор төккен жоқсын?	Why didn't you take out the garbage then?
+SPK2002	(TSK)	(TSK)
+	@@@@@@	@@@@@@
+SPK2001	@@	@@
+SPK2002	Ну менің кезегім емес деген дейсің ғой.	Say because it isn't my turn?
+SPK2001	@@	@@
+SPK2002	@@@@	
+SPK2001	Разве?	Really? I threw away the trash yesterday by the way.
+SPK2002	Ну да.	
+SPK2001	Мен кеше мусор төктім вообще-то.	
+SPK2002	Вообще-то мен екі рет төктім.	I have thrown away two times already.
+SPK2001	Қашан?	When?
+SPK2002	Үйде болғанда.	When I was at home.
+SPK2001	Өтірік соқпашы.	Don't lie.
+SPK2002	Соқ-	I don't lie.
+	соқпайм мен.	
+SPK2001	@@@@	@@@@
+	И что,	So, did you go the RDC by bus?
+	автобуспен бардың ба?	
+SPK2002	Айт-	Yes, I have already told (you) that I went by bus.
+	@@	
+	Айттым ғой автобуспен бардым деп.	
+SPK2001	А,	Oh, really?
+SPK2002	@@	@@
+SPK2001	да?	
+	Не знаю менің просто ойымда мусор төгу болды @@@	I don't know, I was only thinking about that taking out the garbage thing.
+	И что анда барсаң,	So, when you went there, was there a long queue?
+	очередь па?	
+SPK2002	Жоқ.	No, there was no queue for an ultrasound.
+	УЗИге вообще,	
+	очередь жоқ.	
+	Поэтому мен сағат,	That is why I entered at 9-10 already.
+	тоғызда онда сразу кірдім.	
+SPK2001	Хотя запись сенде онда болды иә?	Even though you were registered for 10?
+SPK2002	Да.	Yes.
+SPK2001	Везет.	Lucky you.
+SPK2002	Тс.	You say.
+SPK2001	Осы мен РДЦға барсам бәленбай очередьта тұрамын.	Every time when I go to RDC, I spend a lot of time queueing there.
+SPK2002	@@	@@
+SPK2001	Күтемін еще пока мен анда.	I wait there until they call me.
+	Күт-	
+	не,	
+	пока п-	
+	не позовут.	
+SPK2002	Хм.	I see.
+	М.	
+SPK2001	Лох.	Loser.
+SPK2002	Лох.	Loser.
+SPK2001	@@@@@@@	@@@@@@@
+SPK2002	@@	@@
+SPK2001	И что сен УЗИге бардың,	So you went for an ultrasound, what did tell you on the ultrasound?
+	УЗИда не деді.	
+SPK2002	А,	That I have pancrease deformation, something like that.
+	что у меня там,	
+	COUGHS	
+	деформация,	
+	поджелудочной,	
+	железы что-ли?	
+	Короче еще застой желчи.	Also I have bile stasis.
+	Менде бар.	
+SPK2001	COUGHS	(COUGHS)
+	Әйтеуір менің айтқаным келді ме?	So, everything I said came true, right? ####
+	####	
+SPK2002	Ну.	Yeah. That is why I often feel sick.
+	Содан ғой мен,	
+	часто тошнить,	
+	етіп тұрған.	
+SPK2001	М.	М.
+SPK2002	Каждый день.	Every day.
+SPK2001	Сен сосын қа-	Then you returned home right after that?
+	сразу үйге қайттың?	
+SPK2002	Жоқ.	No.
+	Натощак барғаннан кейін #,	I went to RDC on an empty stomach, so I was hungry.
+	қарным ашты cосын одан кейін.	
+	Столовыйға барып,	(I) went to a canteen and had some food.
+	тамақ іштім.	
+	Анда оказывается завтрактар алты жүз тенгеден.	Apparently, breakfasts start from 600 tenge there.
+SPK2001	Да ладно,	Really? That cheap?
+SPK2002	Да цены такие.	Yes, the prices are like that.
+SPK2001	арзан ғой?	
+SPK2002	Ну.	
+SPK2001	Вообще.	Wow.
+SPK2002	Екі жарым жұмыртқа,	2 and half eggs, 1 sausage, a salad, 2 toasts that were fried, then a butter and a cup of coffee.
+	бір сосиска,	
+	салат,	
+	сосын екі,	
+	нан.	
+	Тост.	
+	Жариттелген.	
+	Сосын май мен,	
+	кофе.	
+	Соның бәрі ғана алты жүз-ақ теңге ғана төлейсің,	For all of them you pay only 600 tenge.
+	вообще күшті.	Really good.
+SPK2001	Блин,	That's amazing.
+	күшті.	
+SPK2002	Ну.	Yes.
+	Вкусно.	Tasty.
+SPK2001	Поэтому мен,	That is why whenever I go to the RDC I always eat there. So delicious.
+	всегда РДЦға барған кезде,	
+	всегда солай анда тамақ ішемін.	
+	Там вкусно.	
+SPK2002	Ну мен бүгін анда бірінші рет тамақ іштім.	It was my first time having a meal there today.
+SPK2001	Да ну?	Really?
+SPK2002	Да.	Yes.
+SPK2001	Ну мен саған,	Haven't I brought you the food from there before?
+	бұрын оның алдында,	
+	ну этот,	
+	на вынос әкеліп жүрдім ғой?	
+SPK2002	Жоқ,	I mean inside the RDC's canteen.
+SPK2001	Не помнишь?	Don't you remember it?
+SPK2002	оның ішінде.	
+	Столоваядың ішінде.	
+SPK2001	М.	I see now.
+	Солайда кісі көп болды ма?	Were there many people there?
+SPK2002	Да.	Yes.
+	Да,	Yes, a lot. There was a woman with her little child sitting at my table.
+	вообще кісі көп.	
+	Менің столигіма,	
+	сосын,	
+	бір әйел,	
+	отырды ғой,	
+	өзінің бітти баласымен.	
+SPK2001	Да?	Yeah?
+SPK2002	Потому что,	Because all other tables were filled.
+	везде было занято.	
+SPK2001	Да.	I see.
+SPK2002	Анда еще врачтар мен медсестрылар,	Doctors and nurses also were also eating there.
+	тамақ ішеді.	
+SPK2001	Что еще врачи этот,	Were they wearing Crocs?
+	в кроксах ходят да?	
+SPK2002	Ну,	Yes, like in the TV series.
+	сериалдағыдай.	
+SPK2001	Ана мудрая жизнь больницадағыдай?	"Like in the ""Wise Life's"" hospital?"
+SPK2002	Ақ,	Yes, (they) wear white crocs on the legs.
+	қ-	
+	кроксы киеді,	
+	аяқтарына.	
+SPK2001	Сосын не айтады,	"The whole RDC reminds me of that ""WIse LIfe's"" hospital."
+	больни-	
+	ну этот,	
+	поликлиника,	
+	больница,	
+	напоминает # мудрый жизнь больницадағы,	
+	ол жерде,	
+	клиника.	
+SPK2002	Да.	Yes.
+SPK2001	Да.	
+	Еще үлкен.	It is also big.
+SPK2002	М.	Hm, I don't know.
+	Не знаю.	
+	Мен анда тек қана бірінші екі-	I was only on the first and ground floor. That's all.
+	бірінші мен,	
+	нулевой,	
+	этажда болдым.	
+	Бітті.	
+	Ой,	Oh, (I) was also on the second floor in block D.
+	екінші этажда тоже,	
+	Д блогында ғана.	
+SPK2001	(TSK)	There it is good that, for example, they have a separate pediatrics block, and what was it called? Rad...? What's the name?
+	Ну там күшті то что,	
+	мысалы,	
+	педиатрияның өзі б-	
+	ну,	
+	блогы бар.	
+	Там.	
+	ра-	
+	не # ##,	
+	э,	
+	типа рад-	
+	рад-	
+	как это называется?	
+SPK2002	Радиология?	Radiology?
+SPK2001	Да,	Yes, radiology. Also there is a gynecology block, an ophthalmology one. Very good.
+	радиологияның өзінің блогы,	
+	там.	
+	Гинекология,	
+	офтальмоло-	
+	вот там маған офтальмологияның блогы ұнады.	I liked an ophthalmology block.
+	Өте күшті.	Very good.
+SPK2002	А,	Yes, the ophthalmology block is on the second floor too.
+	офтальмологияның блогы,	
+	екінші этажда.	
+SPK2001	COUGHS_TWO_TIMES	(COUGHS_TWO_TIMES)
+SPK2002	Тоже.	
+	Солға бұрыласың.	(You) turn left.
+	Лестницадан кейін.	After the staircase.
+SPK2001	Да.	Yes, yes.
+	Да.	
+	Н- нет,	Wait, no?
+SPK2002	Сосын.	Yes! And if you continue walking forward through the corridor over the ophthalmology, there will be this ultrasound room, right?
+SPK2001	подожди.	
+SPK2002	Да!	
+	Офтальмологиядан сосын әрі қарай барсаң,	
+	коридормен,	
+	онда анда,	
+	не,	
+	(TSK)	
+	ой,	
+	немене,	
+	УЗИ,	
+	түсіретін жер ме?	
+SPK2001	А там,	Oh, yes. Ultrasound and allergologists in one place, right?
+	УЗИ түсіретін,	
+	жер,	
+	сосын,	
+	аллерголог бар,	
+	ну,	
+	олар бір жерде да как?	
+SPK2002	Иә.	Yes.
+SPK2001	Да.	Yes, that's it.
+	Ну вот.	
+	Ну маған короче сол ұнайды то что,	In short, I like that it is sorted in blocks.
+	анда,	
+	блок блоктармен,	
+	и мысалы,	And for example, one doesn't have to run from first floor to the second, from one block to another to find their room like in our Kokshetau.
+	ана,	
+	бірінші этаждан,	
+	екінші этажға эти,	
+	бір,	
+	блоктан,	
+	екінші блокқа,	
+	біздің,	
+	Көкшетаудағыдай,	
+	ну,	
+	жүгіріп жүрмейсің.	
+	Классно.	
+SPK2002	Ну.	Yes. Also, today is June 1st.
+	Еще этот,	
+	бүгін бірінші июнь ғой.	
+	День детей.	Children's Day.
+SPK2001	Мхм.	Mhm.
+SPK2002	И мен бүгін,	And I randomly decided to go to the pediatry block.
+	отдел педиатрияға бардым,	
+	жай.	
+	По приколу @@	
+	И анда оказывается аниматорлар,	And it turned out there were animators playing with children.
+	ну,	
+	балалармен,	
+	ойнап жатты.	
+SPK2001	Балалар көп болды ма?	Were there many children?
+SPK2002	Иә балалар,	Yes, a swarm. Some were making noise, some were crying.
+	масқара көп.	
+	Шулап,	
+	біреулері жылап.	
+SPK2001	@	@
+SPK2002	Еще андай немене,	Also they were selling what there inside this block.. Oh, yes, candies.
+	м,	
+	(TSK) а,	
+	немене,	
+	э,	
+	нелер сатты,	
+	сол отделдың ішінде.	
+	(TSK)	
+	Конфеты.	
+	Конфеты--	
+SPK2001	Сатты?	Selling?
+SPK2002	там ##.	
+	Да.	
+SPK2001	Ақша?	Selling?
+	@@	
+SPK2002	Ну да.	Yes.
+SPK2001	А что бесплатно бермейді @@	Why wouldn't they give them away for free, eh.
+SPK2002	Вроде сатты,	I am not sure, but they were probably selling them.
+	білмеймін.	
+SPK2001	Да?	Really?
+SPK2002	Ну там короче вроде сондай болды.	Yes, I think it was like that.
+	@	
+	@	
+SPK2001	Күшті.	Cool.
+SPK2002	И все этот,	Also, right at RDC's entrance straight like on the first floor there were many helium balloons everywhere.
+	прямо РДЦның ішіне кіргенде,	
+	прямо,	
+	##-	
+	ну,	
+	бірінші этажда,	
+	бүкіл,	
+	жерде,	
+	гелевый шариктар.	
+	Потолокта тұр.	On the ceiling.
+SPK2001	М.	М.
+SPK2002	День детейге арнап істеген.	For Children's Day.
+SPK2001	Күшті күшті.	Good, good.
+SPK2002	Ну.	Yes.
+	(TSK)	(TSK)
+SPK2001	@@	@@
+	А сен сосын,	By the way, do you need to go get tests done tomorrow or the day after?
+	ертең,	
+	немесе,	
+	арғы күні бір тағы,	
+	анализ беруге барасың ба?	
+SPK2002	Маған ертең,	Yes, I need to get blood test tomorrow but here in our UHC. And then, on the 6th, I will go and see an allergist.
+	қан тапсыру керек,	
+	бірақ осында,	
+	UHC-да.	
+	Сосын алтысы,	Yes, I need to get blood test tomorrow but here in our UHC. And then, on the 6th, I will go and see an allergist.
+	күні,	
+	аллергологқа барамын.	
+SPK2001	О,	Oh, me too aller-...
+	мен аллер--	
+SPK2002	Одан кейін,	After that, on the 21st I'm having EGD, then need to visit a gastroenterologist on the 22nd.
+	жиырма бірі күні,	
+	ФГДС.	
+	Жиырма екісі күні,	
+	гастроэнтерологқа баруым керек.	
+SPK2001	ФГДС это РДЦда ма?	Will EGD be at RDC?
+SPK2002	Иә.	Yes... no.
+	Жоқ.	
+SPK2001	Енді.	So?
+SPK2002	Материнства,	The Maternal...
+SPK2001	А,	Oh, Maternity Center?
+	центр материнства?	
+SPK2002	Иә,	Yes, maternity center.
+	центр материнства.	
+SPK2001	И бірдеңе.	...and something.
+SPK2002	И ребенка что-ли?	And Child I believe?
+SPK2001	С-	Yes.
+	иә.	
+	Ну олар,	RDC and this center are at the same place actually. You can walk there.
+	барлығы,	
+	бір жерде по идее.	
+	Там пешком пройтись.	
+SPK2002	Ну,	Really?
+	а,	
+	да?	
+SPK2001	Не,	They are one bus stop away from each other I think.
+	там,	
+	олардың арасы бір остановка кажется.	
+SPK2002	А да?	Oh yes?
+SPK2001	Сондай остановка бар екен.	Yes, there is one bus stop.
+SPK2002	М.	М.
+SPK2001	Мен де бір,	I've never been there even once.
+	ну,	
+	ни разу болып көрген жоқпын.	
+SPK2002	Ну.	Also, I have an appointment at 4, oh, 12 PM or 2 PM.
+SPK2001	Прикольно.	Interesting.
+SPK2002	Еще ондай менде нешеде,	
+	төрт,	
+	ой,	
+	он екіде ма?	
+	Или ол екіде ма запись.	
+	Оған дейін,	And I mustn't eat until then.
+	тамақ ішпей баруым керек.	
+	Короче.	
+SPK2001	Саған еще су ішпе деді ғой.	Also you mustn't drink.
+SPK2002	А иә?	Really?
+SPK2001	Иә,	Remember they asked you if you can show up not eating and drinking? You said yes.
+	они ска-	
+SPK2002	(TSK)	(TSK)
+SPK2001	этот,	
+	оны айтты ғой.	
+	Этот,	
+	тамақ ішпей су ішпей,	
+	келе аласыз ба,	
+	деп сұрады ғой,	
+	сен иә дедің ғой.	
+SPK2002	Ах.	Damn, that sucks.
+	Капец.	
+SPK2001	Иә,	Yes, if it is until the lunch, we won't have to worry about it.
+SPK2002	Ема.	
+SPK2001	егер обедке дейін болса,	
+	не нужно будет @@	
+SPK2002	Ну.	Then I need to sleep until midday on that day.
+SPK2001	Волноваться.	
+SPK2002	Онда ол күні обедке дейін ұйықтау керек,	
+	ах,	Oh,  I can't sleep until lunch.
+	жоқ мен обедке дейін ұйықтай алмаймын ғой.	
+SPK2001	Неге?	Why?
+SPK2002	Менде сабақ қой,	I will have a physics class.
+	физика.	
+SPK2001	Ол қай күні болады?	Which day?
+SPK2002	Сол физика болатын күні,	I have it every day, so I will have it that day too.
+	менде каждый день физика.	
+SPK2001	А.	А.
+SPK2002	@ Иә окей.	OK, I see.
+SPK2001	Физика оффлайн?	Will that physics class be offline?
+SPK2002	Ну да,	Yes, offline.
+	оффлайн.	
+SPK2001	А там attendance тексереді ма?	Is attendance graded? Have you checked it on syllabus?
+	Силлабуста қараған жоқсың ба?	
+SPK2002	Жоқ,	No, I haven't. I will see.
+	қараған жоқпын.	
+	Ну білмеймін оффлайн,	I don't know how it is gonna be offline.
+	қалай болады екен.	
+SPK2001	Қиын ғой	Physics is difficult.
+	физика.	
+SPK2002	Ну,	Yes, extremely difficult.
+	вообще қиын.	
+SPK2001	Қайтып сосын ## @@@	*INAUDIBLE*
+SPK2002	Эх.	Eh.
+	Бір нәрсе қылып тапсыру керек.	I should pass it somehow.
+SPK2001	Да.	Yes, you should study.
+	Сабақ оқу керек.	
+SPK2002	А,	But I don't want to study.
+	мен сабақ оқығым келмейді.	
+SPK2001	А ну вот короче,	Ah, yes, shortly. Shall I tell you?
+	айтып берейін ба?	
+	Мен аллергологта болдым ғой.	I went to the allergist.
+	Где-то вот қашан?	Like when? In November?
+	Ноябрьде ма?	
+	Ок-	Oc-. No, I think in October.
+	не,	
+	мне кажется октябрьде болдым вообще.	
+	Ноя-	Nov- It should be the first of October.
+	бірінші октябрьда болу керек.	
+	Анда барасың короче,	Shortly, you go there.
+	И этот,	Allergist doesn't say anything to you. You sit silent.
+	аллерголог саған даже,	
+	түк те айтпайды короче,	
+	молча там сидишь,	
+	сначала өкпемді тыңдайды,	First, he listened to my lungs, then heart. So, after that...
+	жүрегімді тыңдайды.	
+	сосын этот,	
+	все-	
+	все эти қағаздар толтырады,	Fills-out all the papers and also gives you a few of themю
+	толтырады,	
+	толтырады,	
+	сосын саған,	
+	сосын сен,	
+	саған бір-	
+	бір-екі қағаз береді,	
+	И алдын ала,	And then, the analysis. A skin test.
+	анализ.	
+	Кожный анализ.	
+	Сосын айтады, мына кабинетке бар, соседний,	So, they tell me afterwards that I had to go to the room next to it, and there I will have a skin test.
+	мына кабинетке бар,	
+	соседний,	
+	и сол кабинеттің ішінде,	
+	анализ тапсырасың ғой.	
+	А мен сол анализ тапсыруға барғанда,	I come there to get a test and it was closed for lunch.
+	ол кабинет,	
+	обедке жабып қалды.	
+	И мне пришлось вот,	I had to spend the whole lunch time waiting there.
+	сол,	
+	бүкіл обед-	
+	обедтің уақытын,	
+	бүкіл,	
+	тосып отыруға,	
+	A	And I had a lunch at RDC's canteen.
+	обед,	
+	ну мен еще ол кезде обед РДЦның асханада іштім.	
+	(TSK) енді қайтадан келсем,	When I came back to the room, it was full of people and queue.
+	там куча просто,	
+	очередь,	
+	бабушки,	Old people like grandmothers, aunties, women, you name it, were standing there.
+	тетеньки там,	
+	ст-	
+	ну,	
+	стояли.	
+	Там даже негде сидеть было.	There was nowhere to sit.
+	И мен сол очередьтің ең,	And I was the last on that queue.
+	сонында,	
+	тұрдым.	
+	Бәлен,	I waited this skin test there for many hours.
+	сағат.	
+	Күттім.	
+	Сол.	
+	Кожный,	
+	э,	
+	анализді.	
+	А неге,	
+	ну неге ол этот,	Why was I waiting that long at the hospital you may ask?
+	больницада күтті,	
+	так потому что,	It is because each person would spend some good 20 minutes there.
+	бір адам,	
+	сол кожный,	
+	ну,	
+	анализді,	
+	бір,	
+	он жиырма минут,	
+	тапсырады.	
+	Сен анда,	There they will take a pen and write numbers on your arm.
+	этот,	
+	саған короче этот,	
+	қолыңа,	
+	кәдімгі қалам алып қолыңа,	
+	сандарды жазады.	
+	Бір екі үш төрт бес деп короче,	Like one, two, three, four, five.
+	егер сен он екі аллергенге анализ тапсырсаң,	For example, if you are being tested for twelve allergens, they will write twelve numbers.
+	мысалы он екі,	
+	он екіге,	
+	санға,	
+	он екі сан,	
+	жазып,	
+	жазып береді.	
+	Бірден он екіге дейін,	Starting from 1 to 12. And then they make some cut near each number.
+SPK2002	Мхм.	Mhm.
+SPK2001	он екіге дейін.	
+	И каждый санның қасына,	
+	надрез жасайды.	
+SPK2002	Тс.	Wow.
+SPK2001	Вообще,	And you sit there, and they fill these cuts with some drops of allergens.
+	и сен онда отырасың,	
+	и все,	
+	а еще саған сол,	
+	каждый надрезге,	
+	саған капли там тамызады.	
+	Әр түрлі,	Different allergens, for example, honey, cat's.
+	аллергендің,	
+	мысалы,	
+	там медтің,	
+	да там,	
+	мысықтың,	
+	ше-	
+	ну шерсть там мысықтың	I mean not a cat, but its fur. Among others were dog's fur, horse, sheep, chicken meat, corn, white and yolk, so something like that.
+	там иттің,	
+	жылқының,	
+	қойдың там,	
+	этот	
+	тауықтың еті,	
+	жүгері,	
+	там,	
+	э,	
+	желток,	
+	или белок,	
+	яйца,	
+	там сондай мындай коро-	
+	короче.	
+	Солардың бү-	The list will be prescribed by your allergist.
+	ну осы списокты,	
+	саған аллерголог анықтайды.	
+	и и ка-	And after that you will have to sit there for around 20 minutes after dropping.
+SPK2002	##	##
+SPK2001	и сен,	
+	этот тапсырып ой этот,	
+	тамызып болғаннан кейін,	
+	сен анда бір жиырма минут күтесің,	
+	И	And the nurse there will tell you no matter how bad it itches - do not touch your skin.
+	осы,	
+	не,	
+	сондағы медсестра айтады,	
+	хоть сколько,	
+	қышыса,	
+	қышыма.	
+	@@	@@
+SPK2002	Аха.	Aha.
+SPK2001	Вообще не двигайся деді @@@	Don't even dare to move.
+	И ты там не,	You shouldn't move because those different drops shouldn't get mixed together.
+SPK2002	(TSK)	(TSK)
+SPK2001	вообще,	
+	не должен двигаться потому что	
+	мына,	
+	капелькар олар бір-бірімен араласпау керек короче.	
+SPK2002	А.	А.
+SPK2001	Вообще араласпау керек.	LIke never should get mixed together.
+	И,	And you there *INAUDIBLE* your nose is itching.
+	сен онда,	
+	# ## #,	
+	###,	
+	### дегенде,	
+	мұрынын қышиды @@@	
+SPK2002	@@	@@
+SPK2001	Ол.	Everything is itching, your back, your nose, all of it.
+	То спина чешется,	
+	то нос чешется.	
+	То еще что-то там,	
+	чешется.	
+	А ты еще так,	What is more, you have to sit like this for 20 minutes, not moving at all.
+	сен еще ол,	
+	бо-	
+	жиырма минут бойы сол,	
+	этот,	
+	қозғалмай отыруың керек солай.	
+	Еще менің қасымда бір әйел болды.	Also there was a woman sitting near me.
+	Этот,	She came in first before me.
+	м,	
+	ол вообще бірінші кірді,	
+	менен.	
+	Ол,	
+	мен одан кейін,	I am supposed to enter after her.
+	кіруім керек,	
+	еді.	
+	Бірақ,	But when I entered, she was simply sitting there, they did nothing to her.
+	мен анда,	
+	кірсем,	
+	ол әйелге әлі түк істемепті.	
+	Ана ол жай отырды.	She was simply sitting.
+SPK2002	Неге?	Why?
+SPK2001	И мен кіргеннен кейін,	And after I came in a nurse started making small cuts on me.
+	этот,	
+	сол медсестра,	
+	маған бірінші,	
+	этот,	
+	істеп жатты надрездарды.	
+	И сол она,	That woman started complaining about it.
+	этот кісі начала типа жаловаться типа,	
+	а что эта девочка,	"Like, ""Why is she first? She came in after me."" LIke ""Why are you treating her first?"""
+	после меня пришла,	
+	а вы ее первой,	
+	ну типа,	
+	об-	
+	ну,	
+	обслуживаете дегендей.	
+SPK2002	Мхм.	Mhm.
+SPK2001	М,	"The nurse replied with something like, ""Just wait a bit, please. Everyone will be treated."""
+	этот CLAPS	
+	ну а,	
+	на что,	
+	со-	
+	соған ана медсестра айтады,	
+	ну енді,	
+	күте түріңіз енді кішкене,	
+	қазір болады типа,	
+	типа осылай.	
+	А,	
+	знаешь почему ол медсестра солай істеді?	You know I was treated first?
+SPK2002	Неге?	Why?
+SPK2001	Потому что,	Because she came after the lunch break while I came before it to the laboratory. Turns out I came earlier.
+	ол кісі,	
+	она после обеда же подошла.	
+	А мен то,	
+	сол,	
+	этот,	
+	лабораторияға,	
+	до обеда же пришла.	
+	Я же получается раньше всех же пришла.	
+SPK2002	Ну.	Well.
+SPK2001	Ну.	Well.
+	Просто,	It just happened that my time coincided with lunchtime, break.
+	этот,	
+	мен,	
+	этот,	
+	солай,	
+	уақытты	
+	келіп қалды то что, обед,	
+	үзіліс болды.	
+SPK2002	Ну.	Yeah.
+SPK2001	А там,	And with these allergens I had to wait for twenty minutes. I can not wait an hour while everyone is on the lunch break.
+	двадцать минут если ждать,	
+	то,	
+	ну,	
+	м,	
+	бүкіл обедте болады,	
+	и,	
+	я же не могу же там час ждать?	
+	Солай,	
+	не аллергендермен да допустим.	
+SPK2002	Ну.	I see.
+SPK2001	И поэтому ана,	And it seems that the nurse remembered me and that I came before the lunch break.
+	этот медсестра,	
+	мені сразу таныды,	
+	э, типа то что мен оған, до обеда еще пришла.	
+	типа то что мен оған,	
+	до обеда еще пришла.	
+	И этот,	That is why I was treated first.
+	поэтому мне кажется ол маған бірінші істеді.	
+	Ну ана кісі,	The woman was angry though.
+	она была немножко возмущена.	
+SPK2002	Айтпады оған	Didn't the nurse tell that woman that you had come earlier?
+	медсестра мына кісі бірінші келді деп	
+SPK2001	Жоқ,	No, she didn't.
+	ол айтқан жоқ.	
+	Ол просто айтты,	She just told that woman that she would be checked soon, please wait.
+	ну вы подождите немножко,	
+	сейчас я вам все сделаю типа @@	
+	Ну ты же знаешь,	You know those people, they always want to find a reason to fight.
+	люди там всякие начинают,	
+	бірдеңе біреу алса сразу ворчать.	
+SPK2002	Ну.	Yes.
+SPK2001	(TSK)	In general like that.
+	Ну вот.	
+	Вот этот было,	I liked that experience, never had it before.
+	по идее прикольно мне еще ни разу такой анализ не делали.	
+	Еще этот,	And you go there knowing nothing.
+	түк білмей барасың ғой.	
+SPK2002	Мхм.	Mhm.
+SPK2001	В шоке боласың ғой сидишь @@	You are sitting shocked there.
+SPK2002	@@	@@
+SPK2001	Де,	
+	Ну тебе конечно там все объясняют.	Of course, they then tell you all about this and that.
+	Анау мынау.	
+	Ну,	But still, I hadn't known that those types of tests existed.
+	ну все равно @@	
+	я вообще не знала то что осындай анализ существует.	
+	Потом,	Then I realised that when I and ¬Zhandos were in hospital together, he had asthma...
+	только до меня доперло то что,	
+	ана,	
+	этот,	
+	¬Жандос когда,	
+	этот а-	
+	астмамен,	
+	больницада,	
+	жатты ғой менімен бірге,	
+SPK2002	Мхм.	Mhm.
+SPK2001	(TSK ) Он же оказывается,	It turned out, he told us, you remember, that he had gone to Astana to take those tests, remember that?
+	он же,	
+	помнишь,	
+	он говорил то что этот,	
+	Астанаға барды типа.	
+	Анализ беру үшін.	
+SPK2002	Мхм.	Yes.
+	Иә.	
+SPK2001	И ол айтты то что ол,	And he said that those allergen tests were very expensive, he had to take them because of the allergic asthma.
+	вообще қымбат анализ,	
+	этот э,	
+	аллергический-	
+	ну аллергическая астма болғандықтан,	
+	аллергендерді,	
+	тексертті.	
+	И ода там манная каша,	And he had an allergy to bananas, porridge etc.
+	бананға,	
+	анау мынаған аллергия болды ғой.	
+SPK2002	Мхм.	Mhm.
+SPK2001	Вот он оказывается ос-	And apparently they did this test on him for a crazy amount of money.
+	осы,	
+	анализ істеді.	
+SPK2002	А.	А.
+SPK2001	Бәленбай ақшаға.	
+SPK2002	Серьезно что-ли?	Really?
+SPK2001	Ну.	Yes. But me, I did it for free because I had the referral.
+	А мен,	
+	осы анализдер,	
+	ну,	
+	бесплатно РДЦда по направлению істеді.	
+SPK2002	Маған да,	Remember back then, when I had a similar situation when I was sick, returned home from school, and my face turned red.
+	этот,	
+	ана жолы мен,	
+	помнишь?	
+	Ауырып,	
+	мектепте,	
+	үйге кетіп қалдым ғой еще бүкіл бетім,	
+SPK2001	Мхм.	Mhm.
+SPK2002	қызарып,	
+	Не болды ғой,	There was a sort of rush on my face.
+	сыпь.	
+	Бетімде.	
+SPK2001	Иә.	Yes.
+SPK2002	Еще бүкіл бетім,	My face was swelling too.
+	ісіп кетті ғой.	
+SPK2001	Қ-	What grade were you in?
+	нешінші сыныпта болды ғой?	
+SPK2002	Он бір ма,	Grade 11 or 12, I believe. It wasn't long ago.
+	он екі ма?	
+	Вот недавно.	
+SPK2001	Вряд ли он екі.	Not 12 I suppose.
+SPK2002	Да?	Think so? Grade 11 then.
+	Он бір наверное.	
+SPK2001	Наверное.	Maybe.
+SPK2002	Или он ба вообще,	It might have been even Grade 10 even, don't remember.
+	не помню.	
+	Сонда мен Олимпқа,	So, I was sent to Olimp to take those paid tests at allergist's.
+	платныйға еще бардым ана аллергологқа,	
+	и сол маған айтты ғой вот Астанада осылай,	They told me I would have to go Astana to do what...
+	не істейді деп,	
+	э,	... yeah, the allergy tests.
+	тест.	
+	Алле-	
+	аллергендерге.	
+SPK2001	М,	Mhm.
+	мхм.	
+SPK2002	Бірақ ол қымбат тұрады,	But I learnt that it was expensive, so I didn't go.
+	сосын--	
+SPK2001	Ну.	Yeah.
+SPK2002	барған жоқпыз ғой,	
+	қымбат деді.	
+SPK2001	Да,	Yes, yes, I aso thought that it was free for everyone at RDC.
+	а,	
+	вот еще,	
+	оказывается,	
+	вот,	
+	я думала то что ана,	
+	бүкіл,	
+	бесплатно істейді екен,	
+	істейді деп.	
+	Бірақ менің қасымда отырған әйелдер,	But those women who were there with me turned out to have paid for that.
+	они оказывается платно это делали.	
+SPK2002	Да?	Really?
+SPK2001	Да,	Yes, when they left the doctor's office, they wanted to know where they could pay for the tests.
+	они еще этот,	
+	сол,	
+	кабинеттен шыққаннан кейін,	
+	они спрашивали,	
+	а где касса,	
+	куда платить.	
+SPK2002	И сколько платили?	How much was it?
+SPK2001	Ой не знаю.	I don't really know.
+	Это кажется зависит от,	I think it depends on the number of allergens you are tested for.
+	количества аллергенов.	
+	Мысалы егер сен-	For example, if there are 15-20 of them, then of course you would have to pay a lot.
+	сен коли-	
+	аллергеннің мысалы сен,	
+	он бес жиырма аллергенге істесең,	
+	онда қымбат болады конечно.	
+	А егер сен мысалы бес алтыға істесең,	If you are being tested for 5-6, then it would cost much cheaper I believe.
+	онда кішкене арзанырақ,	
+	мне кажется.	
+	Мен толығын ан-,	I don't know the whole thing, but it kind of makes sense.
+	анықтұғын білмеймін.	
+	Ну мне,	
+	так кажется.	
+SPK2002	А,	Oh, by the way, after knowing the results, does an allergist prescribe you anything like a treatment?
+	сол аллерголог,	
+	мысалы,	
+	не,	
+	тест істеп болғаннан кейін,	
+	вот,	
+	результатын алып болғаннан кейін ол саған,	
+	результатын алып болғаннан кейін ол саған,	
+	лечение жазып бере ма?	
+SPK2001	Нет,	No, not at all. She just told me not to eat corn and what, a chicken, and to clean my house to avoid dust.
+	маған этот аллерголог просто сказал,	
+	этот,	
+	кукурузаны жеме,	
+	этот там,	
+	тауықты жеме.	
+	Этот,	
+	немене деді сосын?	
+	а,	
+	этот,	
+	всегда убирайся дома?	
+	чтобы пыльно не было деп,	
+	и,	Also, don't use latex gloves and that's it.
+	латексные перчатки қолданба деді.	
+	И все.	
+SPK2002	Ну ты же не убираешься @@	But you don't do cleaning anyways.
+SPK2001	@@	C'mon, I do.
+	Убираюсь я @@	
+	Короче,	In short, I didn't really like our doctor, to be honest.
+	ну не знаю,	
+	біздің врач,	
+	мне не особо понравился если честно.	
+SPK2002	Да?	Why?
+SPK2001	Ну вот,	I liked their lab though.
+	только как они этот,	
+	ну лабо- ла-	
+	лабка у них мне,	
+	ну,	
+	күшті маған ұнады.	
+	Медсестрасы тоже жақсы болды,	The nurse was good, but the allergist... not really.
+	бірақ,	
+	ана аллерголог кісі что-то,	
+	ну такое.	
+SPK2002	А что?	But why?
+SPK2001	Ол маған просто айтты,	"She didn't really prescribe anything. She just said ""Don't eat this and that and follow a diet."""
+	мына мынаны жеме,	
+	диетаны ұста.	
+	И все.	
+SPK2002	Ну.	I see.
+SPK2001	А еще маған	And he just copy-pasted some medicine with CTRL+C CTRL+V a pulmonologist, that I saw before that, prescribed to me, done.
+	оның алдында,	
+	пульмонолог жазып берген дәрілерді,	
+	просто,	
+	CTRL+C CTRL+Vмен копировать етіп,	
+	қойды,	
+	бітті.	
+SPK2002	Не очень.	Doesn't sound nice to me. Is he young or something?
+	(TSK)	
+	А что он,	Doesn't sound nice to me. Is he young or something?
+	молодой что-ли?	
+SPK2001	Жоқ.	Not at all. A slightly round guy in his fiftees I would say.
+	Бір какой-то,	
+	елуден асқан,	
+	бір какой-то,	
+	кісі,	
+	полненький такой.	
+SPK2002	Да?	Really? What's his name?
+	Аты?	
+SPK2001	Да.	Yes.
+	(TSK)	I don't know, don't remember his name.
+	Ой аты не знаю,	
+	не помню.	
+SPK2002	##.	##.
+SPK2001	А еще мен,	Also, when I was at the allergist's office staying inside.
+	сол аллергологтың ішінде болған кезде,	
+	мен тұрмын ғой,	One woman came without even knocking at the door.
+	кабинеттің ішінде.	
+	Сосын бір какой-то,	
+	кі-	
+	ну,	
+	бір какой-то,	
+	әйел,	
+	адам,	
+	ішіне кірді,	
+	даже не постучался что-ли.	
+	Не знаю короче,	"I don't know, one woman entered and said to the allergist man like""Good morning."""
+	бір әйел адам кірді,	
+	и этот,	
+	ана,	
+	сол,	
+	аллерголог кісі-	
+	ну,	
+	ер адамға,	
+	говорит типа,	
+	вот,	
+	здравствуйте этот,	
+	(TSK) мы бы хотели пригласить вас,	"""We would like you to hold a lecture for this reason, at that place, and there about something and something."""
+	чтобы вы провели лекцию,	
+	там,	
+	здесь-то здесь-то,	
+	там	
+	в честь чего-то там там,	
+	анау мынау деді короче.	
+SPK2002	@@	@@
+SPK2001	Вот вы,	"""Take this phone number and call it when you will be available."" Then she handed some cards to the doctor, and the latter said, ""OK."""
+	на этот-	
+	на позвони-	
+	ой,	
+	позвоните на этот номер,	
+	ну,	
+	короче,	
+	номерін берді,	
+	какой-то карточкалар берді,	
+	короче анау мынау мынау,	
+	и этот,	
+	и ана,	
+	сол,	
+	врач,	
+	хорошо деді @@	
+	П-	
+	хорошо,	(He) took everything from her and the woman left the room.
+	типа,	
+	ладно деп,	
+	сосын этот,	
+	бүкіл принял,	
+	и она әйел адам,	
+	ушла.	
+SPK2002	@@@	@@@
+SPK2001	Видимо ол этот,	Seems like that doctor gives some lectures, I don't know, maybe he is a professor.
+	бір жерде не знаю,	
+	лекции читает что-ли,	
+	можешь профессор даже не знаю.	
+SPK2002	Мда.	Wow.
+SPK2001	М этот как,	"Exactly like in ""Hospital Wise Life"""
+	Мудрая Жизнь Больница секілді.	
+	Ну,	Oh, his nurse too.
+	еще оның медсестрасы тоже,	
+	я там в коридоре столько ждала,	I was waiting and waiting at the hall, and when I entered inside, the nurse asked me why I hadn't entered earlier.
+	ждала,	
+	а потом ішіне кірген кезде медсестра менен сұрайды ғой,	
+	сен неге бұрын кірмедің деп? (TSK)	
+	И я такой	"And I was like ""Well, maybe because I'd been waiting for you."""
+	ну потому что я ждала вас деп.	
+	(TSK)	LIke really.
+	Вообще.	
+	Ну короче,	So, shortly the relationships are 50-50.
+	это этот,	
+	ну fifty-fifty.	
+	М отношения.	
+SPK2002	Тс.	You say that.
+	Fifty-fifty.	
+SPK2001	Ну типа,	I mean, some doctors are good and want to take care of you.
+	кейбіреулері саған да күшті,	
+	андай нормально,	
+	этот,	
+	м жақсы қарайды да.	
+	A кейбіреулері типа,	"The others, though, say ""this is a child"" and check nothing."
+	ей мына бала ғой деп	
+	вообще,	
+	түк қарамайды.	
+SPK2002	Да?	You think so?
+	(TSK)	
+SPK2001	Ну это типа от людей зависит а не,	Well, it kind of depends on the people, not on the hospital.
+	от больницы типа.	
+	Сама больница классная.	The hospital itself is cool.
+	Мне нравится.	I like it.
+SPK2002	Ну оказывается мен-	By the way, I haven't noticed before that RDC offers free baby strollers at the entrance on the right, no, left side, like a real baby stroller, a few of them.
+	мен,	
+	бұрын,	
+	не замечала,	
+	этот,	
+	дәл входтың алдында,	
+	оң,	
+	жоқ,	
+	кіргенде,	
+	сол жақта,	
+	оказывается,	
+	бесплатно сол,	
+	РДЦның ішінде,	
+	коляскалар,	
+	балаларға,	
+	кәдімгі детские коляска бар ғой.	
+SPK2001	Мхм.	Mhm.
+SPK2002	Солар тұр екен,	
+	бірнешеу.	
+	И инвалидные коляскалар тұр екен бірнеше ол,	"You can also see some wheelchairs with ""RDC"" written on it."
+	и олардың барлығы ондай,	
+	РДЦ деп жазылып тұр.	
+SPK2001	Ну да,	Yes, I saw wheelcharis but haven't seen the baby strollers.
+	мен андай инвалидные коляскаларды көрдім бірақ,	
+	детская коляскаларды көрген жоқпын.	
+SPK2002	Мен бүгін детский коляскаларды көрдім.	Today I saw baby strollers.
+SPK2001	Мегада да ондайлар бар.	Mega also has the same thing.
+SPK2002	А да?	Oh really?
+SPK2001	Да.	Yes, you can see them when we enter it from our side.
+	Мен когда,	
+	этот,	
+	біз,	
+	біз жақтан келіп кіргенде,	
+	Э ##--	... there are two escalators, and baby strollers are right behind one of them.
+SPK2002	Бесплатно?	They are free?
+SPK2001	екі эскалатор бар ғой,	
+	соның о-	
+	біреуінің астында,	
+	Я не знаю бесплатно или нет,	I don't know if it is free or not but the strollers were standing there.
+	но там коляски стояли.	
+SPK2002	Ну в РДЦ бесплатно видишь.	You see it's free in the RDC.
+SPK2001	И,	I don't know if they are there or not, but I'm sure they are.
+	коляска ма,	
+	тұрды ма тұрған жоқ па не помню.	
+	Ну там коляски точно стояли.	
+SPK2002	Ну я удивилась.	I was amazed by it when I last was there.
+SPK2001	М.	M.
+SPK2002	Соңғы рет.	
+SPK2001	А сен получается,	By the way, did you go straight to the second floor without stopping by the reception?
+	этот,	
+	регистратурад-	
+	ну,	
+	ана,	
+	справочная сұрамай сразу,	
+	екінші этажға көтерілдің да?	
+SPK2002	Ну да.	Yes.
+SPK2001	(Hx)	M.
+	М.	
+	Мен просто онда,	I mean when I was first at the RDC, I didn't even know where to go.
+	РДЦға бірінші рет барғанда вообще,	
+	білмедім,	
+	қайда бару керек еді.	
+	Мен вообще,	Why did I go there on the first place?
+	бірінші рет неменеге бардым онда?	
+	Точно,	Yes, I remember... Well, no... To get vaccinated? No.
+	а,	
+	не,	
+	а или нет,	
+	вакцина алуға?	
+	Нет.	
+SPK2002	Мен РДЦға бірінші рет сенімен,	I first went there with you like to accompany you.
+	бірге,	
+	бардым ғой жай.	
+SPK2001	Қашан?	When and why?
+SPK2002	Сопровождение @@	
+SPK2001	Неменеге?	
+SPK2002	Сен,	When you got vaccinated.
+	вакцина алғанда.	
+SPK2001	А,	Now I remember that.
+	точно.	
+SPK2002	Сосын одан кейін,	After that I was there to get my X-Ray done, and that's all.
+	мен,	
+	рентгенға ғана түстім бітті.	
+SPK2001	М.	M.
+SPK2002	И бүгін мен екінші рет бардым,	Today was my second time there, I believe.
+	по-моему.	
+	Прикинь @@	Can you imagine that.
+SPK2001	@@	
+	Ай.	Ah.
+	Маған сол,	I think I should've gone to the dermatologist and gastroenterologist first. I did not visit them.
+	дерматологқа,	
+	там гастроэнтерологқа,	
+	бару керек еді.	
+	Чета барған жоқпын.	
+SPK2002	А что сен де жазылған жоқсың?	Haven't you made an appointment to the gastroenterologist yet?
+	Гастроэнтерологқа.	
+SPK2001	@@	Well... I mean... I have a referral to gastroenterologist, but first... what is it called, EG...?
+	Кхм,	
+	ну,	
+	потому что менде,	
+	менде ана гастроэнтерологқа направление бар,	
+	бірақ,	
+	эм,	
+	сен айтқанда ана,	
+	ФГ-	
+	немене еді әлгі?	
+SPK2002	ФГДС.	EGD.
+SPK2001	ФГДС,	EGD, right.
+	ол этот,	I first have to do it, but I don't have a referral to ultrasound, not sure why ¬Ivan Ivanovich hasn't give me one.
+	э,	
+	УЗИға менде направление жоқ.	
+	Я не знаю почему мне ¬Иван Иванович направление не дал.	
+SPK2002	А зачем ол саған вообще,	Why would he even give you a referral to the gastroenterologist?
+	гастроэнтерологқа направление береді.	
+SPK2001	Вот я не помню,	I don't remember why I asked a referral to gastroenterologist.
+	почему я у него просила # направление к гастроэнтерологу.	
+	Менде кажется этот,	I think I felt some pain in my stomach.
+	ішім ауырды ол кезде @@	
+SPK2002	У тебя запоры были,	Didn't you have some sort of constipation?
+	да?	
+SPK2001	@@@@@	No, no! I don't remember, all right? I think I had a stomach ache then.
+	Вот не п-	
+	нет,	
+	не знаю короче,	
+SPK2002	@@	
+SPK2001	у меня живот болел тогда в то время.	
+	И наверное поэтому я у него взяла направление,	This is why I probably asked for the referral but ended up not going anywhere.
+	так и не ходила ни к кому.	
+	А-	And also I went to the dermatologist because of this.
+	а мен,	
+	дерматовенеро-	
+	дерматологқа,	
+	(TSK) а,	
+	дерматологқа мынау үшін,	
+	ап-	
+	ну бардым.	
+SPK2002	И что?	So, what they told you?
+	немене деді?	
+	А,	Ah did you go to dermotologist?
+	сен бардың ба,	
+	дерматологқа?	
+SPK2001	Ой,	I received a referral but never went there.
+	этот,	
+	алдым,	
+	направлениены,	
+	бірақ,	
+	дерматологқа так и барған жоқпын.	
+	Вот не знаю почему.	I don't know why.
+SPK2002	YAWNS	
+SPK2001	Не знаю,	I mean, it is just like I spent so much time in the RDC during the Fall Semester.
+	просто мен,	
+	этот,	
+	Fallда,	
+	Fallдағы семестрда,	
+	я,	
+	столько раз-	
+	я,	
+	столько,	
+	времени прово-	
+	провела,	
+	в РДЦ.	
+	Что такое чувство будто я в РДЦ была больше чем в самом универе.	So that it seems like I spent more time in the RDC than at the university, you know?
+	Понимаешь?	
+SPK2002	Ну.	Yes.
+	CLAPS	
+SPK2001	Я прямо буквально,	I literally lived in the RDC.
+	в больнице жила.	
+	И мне кажется,	I think I was so sick of going to RDC that I didn't want to have anything in common with medicine and doctors.
+	I was,	
+	so sick of it.	
+	То что я больше,	
+	ну,	
+	ну,	
+	не хотела вообще,	
+	ни-	
+	ни с чем медицинским име-	
+	иметь дело.	
+SPK2002	Тс.	I see.
+SPK2001	Мен даже UHCға да,	I go to the UHC rarely after that.
+	ну,	
+	одан кейін редко барамын.	
+SPK2002	(TSK)	I didn't go to any hospitals in Spring semester at all.
+	Ну мен Spring семестрде вообще,	
+	больницаларға жоқпын,	
+	Даже в UHC не ходила.	I did not even go to the UHC.
+SPK2001	Ну.	Yeah. I was only once at ¬Ivan Ivanovich (office/room/appointment) in the beginning of Spring term and that's it.
+	Мен кажется этот,	
+	Spring семестрде,	
+	этот,	
+	эм,	
+	¬Иван Ивановичта бір-ақ рет болдым,	
+	басында только,	
+	и все.	
+SPK2002	@@ Мен онда вообще болған жоқпын @@	I didn't see him even once.
+SPK2001	Не	You were there, no?
+	болдың ғой?	
+	Мына направление алдың ғой?	Didn't you have this referral?
+SPK2002	Это же летний семестр.	This was during the Summer term.
+	@@@	

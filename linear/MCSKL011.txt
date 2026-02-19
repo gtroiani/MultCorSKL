@@ -1,0 +1,687 @@
+speaker	span	translation
+SPK3001	А.	Tell me? Who is going to give me money? Tell me.
+	Кім маған ақша береді,	
+	айтшы.	
+	Мен,	I spend all of my money on food and that's it.
+	бүкіл ақшамды тамаққа жұмсаймын да,	
+	отырамын.	
+	Үш күн сайын барып,	Every three days I go bring food and that's it.
+	тиеп әкелем,	
+	болды.	
+	Біз ауылдан тұрғаннан кейін,	Because we live in a village, we buy everything.
+	все покупаем,	
+	бәрін.	
+	Кроме мяса.	Except for meat.
+	Қалғанның бәрін покупаем.	All other stuff - we buy.
+	Қалғат кет-,	I do not want to leave for city.
+	кет-,	
+	кім келмейді менің,	
+	вообще қалада мен даже,	Even when I am in the city for teacher courses, I barely feel comfortable and at east.
+	курсқа барсам,	
+	әзер жүремін ғой.	
+	Те:з,	I always want to leave for the village as soon as possible.
+SPK0014	Ой.	Oh. You will get used to it.
+SPK3001	кеткім келіп.	
+SPK0014	Үйреніп аласыз сіз.	
+	¬Моншақ апай секілді.	Like aunt Monshak.
+	¬Моншақ апай,	Aunt Monshak herself says now that city is way better than village.
+	өзі айтады ғой қазір.	
+	Ауылдан қарағанда,	
+SPK3001	Ее.	Oh..
+SPK0014	қала рақат екен деп.	
+	Өзі.	She says that living in an apartment is easy [i.e., isn’t very demanding when it comes to chores.]
+SPK3001	Мхм.	Mhm.
+SPK0014	Квартирада,	
+	рақат емес пе деп.	
+SPK3001	Ее.	Oh I see.
+SPK0014	Сіз білесіз бе,	You know what..
+	үйлер (TSK),	Let's say you buy a two- or three-bedroom apartment, right...
+	екі комната,	
+	үш комнаталық квартира алып алсаңыз,	
+	допустим иә?	
+SPK3001	Мхм.	Mhm.
+SPK0014	Сол жерді бар ғой,	Maintaining such an area is just nothing.
+	жуған,	
+	түк емес қой.	
+SPK3001	Жоқ мен,	No, maintaining the place is not my concern.
+SPK0014	И жоқ,	Once you mop the floors that is it... You will have more of what ... you know... more time... for self-care...for yourself.
+SPK3001	мен жуғанға,	
+SPK0014	жуып аласыз иә?	
+SPK3001	қ##-,	
+	қиналмаймын мен.	
+SPK0014	Жоқ жоқ.	
+	Жуып аласыз да,	
+	Отырасыз,	
+	бітті сіздің,	
+	сізде,	
+	появляется знаете—	
+	знаете что.	
+SPK3001	Больше времени.	More time.
+SPK0014	Больше времени.	
+SPK3001	На уход,	For self-care... for yourself.
+SPK0014	Мм.	
+	На уход,	
+SPK3001	на себя.	
+SPK0014	на себя?	
+SPK3001	Мхм.	Yes.
+SPK0014	На детей.	For children.
+SPK3001	Ой,	Oh.. I am already spending enough of my time and attention on kids...  I think no one else spends as much time as I do on kids...
+	на детей мен и так қарап отырмын.	
+	Вот,	
+SPK0014	Жоқ анандай,	Like I mean...
+SPK3001	мендей қараған ешкім жоқ,	
+SPK0014	бүйтіп,	like this..
+SPK3001	балаларына.	
+SPK0014	қасыңызда отырып,	sitting by you..
+	бүйтіп.	
+	Ал мына жақта сізде,	But here you always have work...
+	жұмыс қой.	
+	Ары бері,	Constant back and forth... this or that...
+	ары бері.	
+SPK3001	Ойба:й.	Oh my!
+SPK0014	То мынау,	
+	то анау @.	
+	Ужас (TSK).	You know why.. you know why you have a lot of work here...
+	Жоқ,	
+	потому что знаете,	
+	сізде мына жақта неге көп жұмыс.	
+	Потому что сізде адам көп те үйде.	because you have a lot of people at home...
+SPK3001	Мхм.	
+SPK0014	Бала көп,	You have a lot of kids at home...
+	оған тамақ беру керек.	You have to feed them...
+	Тамағын пісіру керек.	Cook their food...
+	Естественно бала,	Well of course when you have a lot of people, you have cook a lot of food.  Plus they have to each different kinds of food.
+	адам көп болғандықтан,	
+	тамақ көп пісіру керек қой.	
+SPK3001	Мм,	Of course.
+	конечно.	
+SPK0014	Тамақ кетеді.	
+	Оны,	
+	еще сізде,	
+	еще,	
+	әртүрлі тамақ жеу керек.	
+	Үйде неше түрлін пісіресіз сіз.	You cook different kinds of food.
+SPK3001	Жалығып кеттім,	I am so fed up to be honest.
+	мен уже.	
+SPK0014	Конечно.	Of course, I understand aunt Bayan.
+	Жалықпағанда,	
+	¬Баян апай.	
+SPK3001	Еще аяғым ауырады.	Plus my legs hurt.
+	Мен,	I am just such a restless person.
+	вообще,	
+	непоседа емеспін бе.	
+	Мен,	
+	слишком көп нагрузка менде.	I have too much pressure on me.
+	Мен өзім непоседамын.	I am just a restless person.
+	Менде бәрі жер таза тұру керек.	For me, everything must be spick-and-span.
+	Бір жер нетсең,	If there is one thing that is not the way I want, I go crazy.
+	менің нервым ауырады ғой.	
+	Ертең таңертеңнен бастап жұмыс.	Tomorrow I have work.. from seven to eleven (in the morning).
+	Жетіден бастап,	
+	он бірге дейін.	
+SPK0027	Өй,	Hey, did your grandma not call?
+	апаларың,	
+	звандамаған жоқ па.	
+SPK3001	Ана сен,	That... you...
+	несі қайда ей?	where is that thing of that person?
+	Қайда тастап кетіппін мен.	Where did I leave that?
+	Әкел,	Give it to me... do not lift it.
+	көтерме оны?	
+	Қоя берейін.	Let me just let it go.
+SPK0027	Сен,	You did not let it go.
+	жіберген жоқсың ғой сен.	
+SPK3001	Әкел.	Give it to me, Nazgul.
+	Әкел?	
+	кім ¬Назгүл.	
+SPK0027	Жүре берсін.	Just let it be.
+SPK3001	Немене немене.	What?
+	Немене.	What do you mean?
+	###,	
+	###.	
+SPK0027	Жай.	Just.
+SPK0032	Мына екеуі дос болып алыпты ей.	These two became friends.
+SPK3001	Иә.	Yes.
+SPK0032	@@@@	
+SPK0027	Подружка болып ###.	They became besties.
+SPK3001	CLEARS_THROAT	
+SPK0032	EXPRESSES_VERBAL_AFFECTION_TO_THE_CHILD	
+SPK3001	Ұрсып ұрсып,	Did you become besties after you scolded her?
+	подружка болып алдыңдар ма?	
+SPK0027	Королева.	A queen.
+SPK3001	Бірақ қаб###,	Look at ther eyelids.
+SPK0032	Бәтіңкесі қайда мынаның?	Where are her boots?
+SPK3001	қабағын қарашы?	
+	Ананың,	Of that...
+	очкиім қайда?	Where are my glasses?
+SPK0027	Қабағы,	Her eyelids are like mine.
+	менің қабағым сияқты екен.	
+SPK3001	Очкиімді әкел.	Give my glasses to me.
+SPK0027	Бір нәрсесі ұқсайды.	I noticed that something in her resembles me.
+	Сөйтсем,	Then I figured that it is the eyelids.
+SPK3001	Еее.	Oh I see.
+SPK0027	қабағы ұқсайды екен маған.	
+SPK3001	@@@@	
+SPK0014	@@@	
+	@	
+SPK0032	Әй ¬Назгүл.	Hey Nazgul...
+SPK0014	##.	
+SPK0032	Ананың,	
+	аяқ киімі бар.	She's got shoes..
+SPK0014	Маған берші,	Give it to me, mom.
+	мама.	
+SPK0027	Ұқсаймыз ба екеуіміз.	Do we resemble each other?
+SPK0014	Маған берші.	Give it to me.
+SPK0032	Ана жақта.	On that side...
+SPK3001	Иә @	Yes.
+	@	
+SPK0014	Маған берші мама.	Give the baby to me.
+SPK0027	AFFECTIONATELY_TO_THE_CHILD маған берші,	
+SPK0032	Өзі киініп.	..she dressed herself.
+SPK0027	маған берші	"""Give me, give me."""
+	маған берші	
+SPK0014	Маған бірақ ¬Ерасыл ұнайды.	But I like Erasyl.
+SPK3001	@@@ (H)	
+SPK0027	Жібердің бе.	Did you send?
+SPK3001	Қойшы әкәм.	Oh dear, what are you saying...
+SPK0027	Жібердің бе.	Did you send?
+SPK0014	Неге?	Why?
+SPK0027	Жібердің бә.	Did you send?
+SPK0014	###	
+SPK0027	¬Асыл,	Asyl, I am asking you in Kazakh...
+SPK0014	MAKES_UNITELLIGIBLE_NOISES	
+SPK0027	Қазақша сұрап тұрмын ғой.	
+SPK0014	(TSK) Жібердім ғой.	I did send.
+SPK0032	Әлі көтересің құдай бұйыртса,	If God permits, you will also one day hold your own grandchildren like this.
+SPK0014	AFFECTIONATE_VERBAL_PLAY_WITH_THE_CHILD	
+SPK0032	сөйтіп немерелерді.	
+	##.	
+SPK0027	Әкел,	Give me... I will go fetch her slippers... They are right over there...
+	мен слансысын алып келейін.	
+	Әне жатыр.	
+	Қа:зір беремін.	I will give them now to her.
+SPK0014	AFFECTIONATE_VERBAL_PLAY_WITH_THE_CHILD	
+SPK3001	Ана,	They are in the pushinka.
+	пушинка да.	
+SPK0014	Дымы шықпайды ғой.	She does not say a word.
+SPK3001	Жеңі:л.	That one that is very light...
+	Аха.	Yes that one...
+SPK0014	Неге дымы шықпайды.	Why is she so silent?
+	Дауыс шығармайды ғой.	She does not utter a sound.
+SPK0027	Потому что,	Because her battery died.
+	батарейкасы отырып қалды.	
+SPK3001	@@@@@	
+SPK0027	Потому что мамасы жоқ,	Because her mother is gone and her battery died.
+	и батарейка села.	
+SPK0014	Сен,	You look like your mother.
+	мамаңа ұқсайды екенсің.	
+SPK0027	Зарядкасы,	Her charger is her mother.
+	мамасы болған.	
+	Иә?	Yes?
+SPK0014	Мама,	Mom, look at her nose, it is dirty.
+	мұрның қарашы,	
+	мұрны сатпақ-сатпақ.	
+	#.	
+SPK3001	Әкелші,	Give it to me.. Let me wash her face.
+	бетін жуып жібірейін.	
+SPK0027	Мә.	Take her.
+SPK3001	А,	Bring her slippers.. I will wash her face for her.. Go.
+	тәпішкесін алып келе салшы.	
+	Бетін жуып жіберейін.	
+	Бар.	
+SPK0014	Мама,	Mom, she looks like a big girl to me (in terms of age).
+	үлкен қыз секілді маған.	
+SPK3001	Кім.	Who?
+SPK0014	@Мынау.	This girl.
+SPK3001	Неге?	Why?
+SPK0014	Бәрін түсінетін,	She understands everything despite her age.
+SPK3001	@@@@@@@@	
+SPK0014	мынандай жаста болса да.	
+	AFFECTIONATE_PLAY_WITH_THE_CHILD	
+SPK0027	Почему,	Why am I not getting any messages?
+	ко мне?	
+	Не приходит.	
+SPK0014	Потому что әлі жіберіліп жатыр.	Because they are still being sent..
+SPK0027	А.	Oh.
+SPK0014	Тут слабый интернет.	The internet is weak here..
+	Тут слабый интернет.	Internet here is weak.
+	Тут слабый слабый интернет.	Internet is here is weak.
+	##.	
+	Слабый интернет па?	Is the internet weak here?
+	А?	Hey?
+	@@@@	
+	(H)	
+	PLAYFUL_SOUNDS_DIRECTED_TO_THE_CHILD	
+SPK0027	Содан кейін.	So?
+SPK0014	Жүр көтеремін.	Come, I will lift you up.
+	AFFECTIONATE_PLAY_WITH_THE_CHILD	
+SPK0027	Ойбай,	Oh no...Do not spin.. she is afraid of it...
+	айланба.	
+	Қорқады екен.	
+SPK3001	Мхм.	Yes.
+SPK0027	PLAYING_WITH_THE_CHILD	
+SPK0014	PLAYING_WITH_THE_CHILD	
+SPK0027	PLAYING_WITH_THE_CHILD Ай ұстаймын ұстаймын ұстаймын.	I will catch you now...
+SPK0014	Оппа.	Oppa.
+SPK0027	Ұстаймын.	
+	Ұстап алдым.	I caught you..
+	Ұстап алдым.	I did.
+	Өй?	Hey?
+	#.	
+	Ұстап алдым.	I caught you.
+SPK0014	Болды жарайды.	Ok, enough.
+	А то жылатып жіберсе.	It may make her cry, who knows.
+	Пәледен аулақ.	Let's free ourselves of this risk.
+	Ой.	
+SPK0027	Топ-тобын әкел.	Give me her top-top.
+	Бір жыласа тоқтамайды?	If she starts crying, she will never stop...
+SPK3001	@@@@@	
+SPK0014	Солай ма?	Oh really?  Ah, then...
+SPK0027	Нельзя ##.	We cannot risk it.
+SPK0014	А,	
+	ойбай онда.	
+SPK0027	Иә:?	Yes.
+SPK0014	¬Ажар менің артымнан қалмайды әйту.	Azhar follow me everywhere, telling me all her secrets.
+	Өзінің секреттарын айтып.	
+	Мама.	Mom, I am telling you.
+SPK0027	Мама.	Mom.
+SPK3001	А.	What?
+SPK0027	Сюда иди.	Come here.
+SPK3001	Неге?	Why?
+SPK0027	Әжеңді шақырып алшы.	Call your grandma.
+	Әже:?	Grandma.
+SPK0014	Отыршы.	Sit.
+	Сен барсаңшы лучше.	
+SPK0027	Әже:,	Grandma.
+	әже:.	Grandma.
+	Әже.	Grandma.
+	Әже?	Grandma..
+	Ә.	Grand-ma.
+	Же.	
+SPK0032	¬Аслан да шашын алғызғай кетті.	Aslan also went out to get his hair cut.
+SPK0027	Мама.	Mom.
+SPK0032	Құдай-ау сол.	Oh god, just like a little boy!
+	Жігіт болып.	
+SPK0027	Әже:,	Grandma..
+	апа:,	grandma...
+	бері келіңде:р.	Come here...
+	Мына жақта жел соғып,	It is windy here...
+SPK0014	Мама сен барып ана жаққа отырсаң.	Mom if you seat on that side, that would be very good.
+SPK0027	####.	
+SPK0014	###.	
+	Мама,	
+	#####.	
+	Жақсы болушы еді,	
+	бар ғой.	
+SPK0027	Да.	Yes?
+SPK0014	Иә.	Yes, that would be amazing.
+	Керемет болушы еді.	
+	@@	
+	¬Баян апай шаршап кеттім дейді мама.	Mom, aunt Bayan says she is tried. I said of course, after working all your life...
+	Мен айттым конечно?	
+	Өмір бақи жұмыс істеп,	
+SPK3001	Қалада өмір сүргім келем,	"""I want to live in a city"".... I say in the city...two days and my brain...No he is saying this since yesterday... he says ""aunt Bayan I want you to live in the city.. aunt Monshak says it is very easy to live in the city..."""
+	мен айтамын.	
+SPK0014	Жоқ.	No...
+SPK3001	Қалада—	
+SPK0014	¬Баян апай.	Aunt Bayan... Once you come to the city, you will get used to the city..
+SPK3001	А.	
+SPK0014	Қалаға кіресіз ғой.	
+	Қалада,	
+	үйреніп кетесіз.	
+SPK3001	Екі күн,	
+	уже менің миымды.	
+SPK0014	Жоқ,	No, you will get used to it... You just think so for now.
+	үйреніп кетесіз.	
+SPK0027	Қай еттер?	What meat?
+SPK0014	Вам так кажется.	
+SPK3001	Жоқ,	
+	вообще кеде-,	
+	кешеден бері айтып жатыр ғой.	
+	Содан айтады,	
+	апай,	
+	мен,	
+	я вам,	
+	хочу дейді сондай,	
+	қаладан алсаңыз дейді,	
+	¬Моншақ апай да айтады дейді,	
+	рақат екен деп,	
+	қазір дейді.	
+SPK0014	¬Моншақ апайға рақат,	Aunt Monshak has it easy, you know...
+	жоқ.	No, you know what...
+	Бар ғой.	
+SPK3001	Оны ¬Асыл,	Asyl, I get all oft. But I have no money for that..
+	мен бәрін,	
+	түсінемін.	
+	Ну менде,	
+	ешқандай,	
+SPK0014	Средства.	Money, resources...
+	Средства.	
+SPK3001	средства,	
+SPK0014	Жоқ.	No I mean...
+SPK0027	Апа.	Grandma...
+SPK3001	финанс жоқ менде,	
+	ешқандай да.	No money.
+SPK0027	Апа.	Grandma..
+SPK0014	###.	
+SPK0027	Апа.	grandma..
+SPK0014	Ж- ж- жай.	
+SPK0027	Апа,	"Tell your grandma: ""instead of buying dresses, save money"""
+SPK0014	Жиналатын шығар енді.	I hope money gets eventually gathered.
+SPK0027	көйлек ала бермей,	
+	үйге ақша жина де.	
+	Апаңа айт.	
+SPK0014	#####.	
+SPK0027	PLAYING_WITH_THE_CHILD ########.	
+	#######.	
+	Менің,	"Say: ""I want to go to the city""."
+	қалаға барғым келеді де.	
+SPK3001	Ойбай,	Oh my god! Until they grow up, nothing... I am literally feeding them off my mouth... What are you talking about?
+	мыналар өспей,	
+	қайдағы,	
+	мен бұларға.	
+	Аузымды,	
+	жырып беріп отырамын ғой бұларға.	
+	Ты что.	
+SPK0014	Конечно.	Of course.
+SPK0032	Бұл екі семья асырап отыр ғой.	She is raising two families.
+SPK3001	Қалай мен не етем.	How can I possibly save money...
+	Мен бүкіл семьяны асырап отырмын.	I am feeding the entire family.
+SPK0027	SINGS_AFFECTIONATELY_TO_THE_CHILD	
+SPK0014	Мен ана,	
+	###.	
+SPK3001	##.	
+	Бір жер,	I cannot help but bring something to my relatives every time I visit them..
+	туыс,	
+	туғандардың бәріне бір,	
+	бірдемемді бермесем,	
+	отыра алмаймын.	
+	Енді,	How can I then save money after this?
+	қалай не етем?	
+	Қалай мен ақша жинаймын содан кейін.	
+	Миллиондап алмаймын мен.	I do not earn millions.
+SPK0027	Эй,	Hey, let's not talk money like aunt Zhanat.
+	¬Жанат апай ұқсап,	
+	ақша айтпайықшы осы.	
+	Пожалуйста.	
+SPK3001	Жоқ.	No, that Asyl also says that... after we began talking about the city.
+	Ана ¬Асыл да айтады.	
+	Қала дегеннен кейін.	
+SPK0027	Ауруларыңды:,	Let's not talk about illnesses and money.
+	ақшаларыңды:,	
+SPK3001	Ақшаны.	Yes, money talk.
+SPK0027	PLAYS_WITH_THE_CHILD	
+SPK3001	Неге ана жолы бүйтіп қояды,	She [aunt Zhanat], just the other day, said...
+	әкем сөз естіп.	
+SPK0027	Мынаны кигізейін бе?	Should I put on this?
+SPK3001	Ол енді менің ана жерім ауырады,	"""My that place hurts...Apprently I have a developing cirrhosis..."""
+	Начинающий цирроз екен у меня.	
+SPK0032	##########.	
+SPK3001	Енді мен ауырсам,	"She says, ""If I am ill, I need money."""
+	ақша керек қой дейді.	
+SPK0032	¬Кенен.	Kenen.
+SPK0027	Аха.	Yes.
+SPK3001	Ауырдық,	We were also ill, but did we ever ask anyone for money?
+SPK0032	Сонда ана үйді,	She will sell that house where Kenen lives.
+	сатады ғой енді.	
+SPK3001	кімнен ақша алдық?	
+SPK0032	¬Кенен отырған үй.	
+SPK3001	Кім ақша берді ауырсаң?	Who gave us money when we were ill?
+SPK0027	Мама,	No, mom, they rent it out.
+	сдавать етеді олар.	
+SPK0032	А.	Come again?
+SPK0027	Сдавать етеді.	
+SPK0032	Мынау өзі сатып алған үйі ғой деймін.	I guess this one is the house she bought herself right? The one where Kenen lives... Her own property.
+SPK0014	¬Баян апай.	Aunt Bayan, are you able to sell this house of yours?
+	Мына үйіңізді сата алмайсыз ғой иә.	
+SPK0032	¬Кенен отырған.	
+	Меншік үйі.	
+SPK3001	М.	Yes, what do you say?
+SPK0014	Мына үйіңізді сата алмайсыз ғой.	You cannot sell this house right?
+SPK0027	Ана үйді,	They will rent that house out and make money...
+	сдавать етіп,	
+SPK0014	#######.	
+SPK0027	ақша қылады олар.	
+SPK0014	Мен сатпаушы едім,	I would not sell if I were you.
+SPK0032	Соны айтамын.	That's what I mean.
+SPK0014	сіздің орныңызда болсам.	
+SPK0027	Иә.	Yes.
+SPK3001	Хм.	Come again?
+SPK0032	Соны айтып отырмын.	That's what I mean.
+SPK0014	Сіздің орныңызда болсам,	If I were you, I would not sell it.
+SPK0032	Саған жеткізе алмай отырмын ғой.	I was struggling to get that accross.
+SPK0014	сатпаушы едім мына үйді.	
+SPK3001	Сатпаймын.	No I won't sell it.
+SPK0032	¬Кенен отырған үй.	The house where Kenen lives.
+SPK0014	Да,	Yes..
+	а то мына жерде,	Because there is a lot of memories here... you have been living here for a lifetime... You invested in this house.
+SPK0027	Иә.	Yes.
+SPK0014	қанша воспоминания.	
+	Өмір-бақи осы жерде тұр—	
+	Мы вкладывали в этот дом.	
+	Иә,	Yes, a lot if investment.
+SPK3001	Мхм.	Yes.
+SPK0014	қаншама.	
+SPK3001	Конечно.	Of course.
+SPK0027	COMMUNICATES_AFFECTIONATELY_WITH_THE_CHILD	
+SPK3001	Мынаның бәрін міне,	You see all this was built by your uncle Dake.. built by his own hands.
+	¬Дәке атаң,	
+	өзі жасайды қолдан.	
+SPK0014	Конечно.	Of course.
+SPK3001	Түгел өзі жасайды.	He makes it all by his hands.
+	Мен просто покупаю.	I just buy [material for him].
+SPK0032	Кеше сөйлескен,	Yesterday [he/she?] called...
+	мама дейді.	Oh she is saying 'mom.'
+SPK0027	CALMING_THE_CHILD_DOWN Иә.	
+	Иә.	Yes yes yes yes.
+	Иә иә.	
+SPK3001	Все он сам делает.	He does all himself.
+SPK0027	Иә иә,	
+	иә иә.	
+SPK0032	Мамасы келеді қазір.	Her mom will be back soon.
+SPK3001	Есік,	Doors, sauna... you name it.
+SPK0027	Анасы қайда екен.	"""Where is this baby's mom?"""
+SPK3001	моншаның бәрін өзі жасайды #.	
+SPK0014	Золотые руки.	Golden hands.
+	У него.	He has.
+SPK0027	Анасы бір түрлі адам екен.	"""Her mother is so strange..Who would leave their kids like this... Who would leave a kid like this?"
+SPK0014	Ауырса да,	He does everything even though he is sick, right?
+SPK0027	Тастап кете ме екен.	
+SPK0014	жасайды иә,	
+	ол кісі.	
+SPK0027	Осындай баланы.	
+SPK3001	А.	Come again?
+SPK0014	Ауырса да,	He does everything even though he is sick.
+	жасайды ғой.	
+SPK3001	Жасайды.	Yes he does.
+SPK0027	Иә?	Yes?
+SPK3001	Бәрін жасайды.	He does everything.
+SPK0027	Анашың біртүрлі екен иә?	Your mother is apparently weird.
+	Жүр тасбақа көріп келейік екеуіміз.	Let's go see the turtle...
+SPK3001	Не берші,	You know what... she finds it interesting if you give the turtle that thing... if you feed the turtle...
+	қызық көреді екен.	
+	Ауызға тықсаң.	
+SPK0027	######.	
+SPK0014	Сіз ¬Сәкө,	Do you think Sako needs a house for herself?
+	¬Сәкөге,	
+	бір үй керек деп,	
+	ойлайсыз ба?	
+	Сөйтіп,	You want to buy property like that, right?
+	сөйтіп алғыңыз келеді,	
+	иә? (TSK)	
+	Ақша болса,	If there is money...
+	#####.	
+	Дұрыс айтады.	He is right.
+	Өмір өтіп кетеді ертең,	Life just pass. You will just pay. There is nothing after that.
+	сіз өлесіз де қаласыз.	
+	Түк болмайды.	
+	Потому что каждый,	So we need to live appreciating every moment.
+	надо,	
+	әр бір моментті ценить етіп,	
+	өмір сүру керек.	
+	Апа,	Grandma, why did you not go?
+	неге бармадыңыз.	
+	А атаммен.	With grandpa...
+	Қыдырып.	Strolling around?
+SPK0032	Енді қызметті Алматыдан істейсің бе.	Will you now work in Almaty?
+SPK3001	@@@@	
+SPK0014	Астанадан.	In Astana.
+SPK0032	А а-,	In Astana?
+	Астанадан?	
+	EXPRESSES_AFFECTION_TO_ASYL_VERBALLY	
+SPK0014	Көреміз.	We will see.
+	Иә.	Yes.
+SPK0032	Жоқ алыс жерге,	No will they send you to a faraway place again?
+	тағы қоя бере ме.	
+	Қойшы өзі.	I would not want.
+SPK0014	Жо:қ.	No...
+SPK0032	EXPRESSES_AFFECTION_TO_THE_CHILD	
+	Аяғын кие алмай жатыр.	She is struggling to put her shoes on.
+SPK0014	Жап.	Close.
+	Дұрыстап жапшы есікті,	Please close the door normally.
+	пожалуйста.	
+	Жаба ғой есікті.	Please close the door.
+	Дұрыстап,	Did you close it good?
+	жаптың ба?	
+	Мухалар кіріп кетпесін.	So that flies do not fly in.
+SPK3001	Біздің,	Our very first enemy is that...
+	ең,	
+	бірінші,	
+	врагымыз сол.	
+SPK0014	Шыбын ба.	Flies?
+	Шыбын көп екен.	There are a lot flies here apparently.
+SPK3001	Шын.	For real.
+SPK0014	Жоқ.	No. I won't go to the puppy. Thanks.
+	Бармайын мен күшікке.	
+	Рақмет.	
+	Жоқ.	No, Zhanna, it is dirty, just stop it...
+	Ол кір ¬Жанна,	
+	қойшы.	
+	Кір күшік.	It is a dirty puppy.
+	Тиіспейді екен ғой,	It apparently does not tease a person.
+	адамға.	
+	@@@	
+SPK3001	Тиіспейді.	No it does not touch a person.
+SPK0014	Кеше қорқып жүрсем.	I was afraid yesterday.
+SPK3001	Тиіспейді.	
+	Тиіспейді.	
+SPK0014	Сіздер,	The house you lived before apparently is in bad condition, right?
+	бұрыннан тұрған үйлеріңізді.	
+	Жаман екен дейді иә.	
+SPK3001	Қайсы үй.	Which house?
+	Иә.	Yes.
+SPK0014	Ана бастағы.	Up the street.
+SPK3001	Ее ¬Асыл,	Oh Asyl, it is not being taken care of.
+	қарала алмай жатыр ғой ол.	
+	Ол то:з кетті.	It just turn derelict.
+	Ешкім қарамаса,	Of course because nobody takes care of it.
+	конечно.	
+	Мына үйді де қарамасаң,	If you do not take care of this house, this house will also go derelict.
+	тозып кетеді.	
+	Не нәрсе,	It all depends on how well you take care oft things.
+	нә нәрсе,	
+	қарағанға байланысты ғой.	
+SPK0014	Жоқ онда сіздердікі секілді,	No that house does not have a furnishing like your house does.
+	ремонты жоқ қой ода.	
+SPK3001	А.	Come again?
+SPK0014	Ода сіздердікі секілді ремонты жоқ қой.	No that house does not have a furnishing like your house does.
+SPK3001	Енді ол,	Well it is a house we grew up in as children.. it is very old.
+	ескі кездегі ғой біздің,	
+	бала кезіміздегі үй ғой ол.	
+	Біздің,	It is out childhood house.
+	бала кезіміздегі үй.	
+SPK0014	Мынандай,	It is all muddy like this.. muddy [on the walls]..
+	бат—	
+SPK3001	А.	Come again?
+SPK0014	батпақ,	
+	@батпақ секілді ###.	
+	Қандай үй.	What kind of house is that?
+	Әйту қызық.	So interesting...
+SPK3001	Ағаш үй ол.	It is a wooden house.
+SPK0014	Қалай айтады ондай үйлерді.	How does one call such houses?
+SPK3001	Ағаш үй.	A wooden house.
+SPK0014	Ағаш үй ме.	Is it a wooden house?
+SPK3001	Жоқ ол,	No there are also houses like that.
+	анандай да үй болады.	
+SPK0014	Мамама осында құда түскен,	Did my mom's quda tusu take place there?
+	иә?	
+	Сол үйге.	In that house?
+SPK3001	Мхм.	Yes.
+SPK0014	Сол үйге,	In that house?
+	құда түскен бе?	
+SPK3001	Мхм.	Yes.
+	####.	
+	Адам отырған кезде,	If there were people, the would take care.
+	уход жасайды ғой?	
+SPK0014	Онда ешкім,	Nobody lives there, right?
+	тұрмайды иә.	
+SPK3001	Өй,	Oh, no, it is a wreck!
+	развалина ол.	
+	Разваливается.	It is wearing down.
+SPK0014	Қалай жаман.	How bad!
+	Тұр—	
+	Кішкентай кезде тұрған үйіңіз,	It is sad to see a house where you lived as a child turn into this..
+	солай болып кетсе.	
+SPK3001	Иә.	Yes.
+	Жүрегің аурады.	My hearts breaks.
+	Өткен кеткен сайын өзі.	Every time I pass by.
+	Не бұзып тастамады,	It was not even destroyed completely.
+	тұр.	It is still there.
+SPK0014	Иә.	Yes.
+SPK3001	Бұзып тастаса әйту,	If it is destroyed, I would be calm.
+	тыныш жүресің ғой.	
+SPK0014	Мен жемеймін рақмет.	I don't want to have it, thanks.
+	Сендерге алып келдік қой.	We brought it to you..
+	Сен жеші?	You eat..
+	Ажар маған,	Azhar is giving me those things..wanting me to eat those.
+	немене беріп жүр,	
+	жеші деп.	
+SPK3001	Немене.	What exactly?
+SPK0014	Кәмпит.	Candies.
+	Мен әкелген.	That I brought.
+SPK3001	Ааа.	Aa.
+	Ол өзі жегісі келгенде,	She does that when she wants to eat those.
+	сөйтеді.	
+SPK0014	Cөйтеді екен иә.	Yes, I also noticed that.
+SPK3001	Өзі жегісі келсе аха,	If she wants it herself, she gives..
+	береді.	
+	Маған да сөйтеді.	She does the same to me.
+	Енді,	
+	кейде оған бала емес пе,	Well, she is child after all, she wants candies.
+	охота конфет.	
+SPK0014	Ой спасибо,	Oh thanks, no.
+	нет.	
+	##.	
+	##.	
+	##.	
+SPK0032	YAWNS	Allah.
+	Алла.	
+SPK0014	Осында.	Here.
+	Мама сенің,	Mom, where is your phone?
+	соткаң қайда?	
+SPK0027	Бір жерде жатқан.	It was lying somewhere.
+	Мына жерде.	Here.
+SPK0032	Ау.	Come again?
+SPK0014	Өй,	Hey you guys eat it yourselves. Do not give it to Zhanna. Eat it yourself.
+	жесеңдерші өзің.	
+	¬Жаннаға емес,	
+	өзің же.	
+SPK0027	Жоқ па не.	Isn't it there?
+	Апаңның қасында жатыр ма.	Maybe it is somewhere near your grandma?
+SPK0014	Мама там смотри,	Mom, look... right there.. one ripe... very very ripe one.
+	спелая,	
+	приспелая.	
+	Мама,	Mom, apparently, there are a lot of salad leaves..
+	салатный листья,	
+	көп екен ана жақта.	
+	##.	
+	Салатный,	Your salad leaves are awesome!
+	листьяларыңыз,	
+	күшті ғой.	
+	¬Баян апай,	Aunt Bayan...
+SPK3001	А.	Yes?
+SPK0014	Салатный листьяларыңыз,	I am saying that your salad leaves are awesome..
+	күшті ғой деймін.	
+SPK3001	Қай.	Which?
+SPK0014	Салатный листялар ####.	Salad leaves...
+SPK3001	Аа,	Oh, yes.
+	аха.	

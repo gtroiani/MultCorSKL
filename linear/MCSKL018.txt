@@ -1,0 +1,1276 @@
+speaker	span	translation
+SPK1117	Сен майонезбен жемейсің	You don't eat mayonnaise.
+SPK1118	Майонезбен	With mayonnaise? I eat.
+	жей беремін	
+SPK1117	Кетпуп бар	adding ketchup and mayonnaise.
+	майонез қосып	
+	###	###
+	Малика андай жіберіпті	¬Malika just sent something like that,
+	жаңа	
+	типа	
+	ыыы	uh
+	когда подругаларыңның үйіне жиналғанда	it said that when you gather at your friend's home,
+	деген да	
+SPK1118	Мхм	Uhm.
+SPK1117	әрқайсысы андай	each of them brings something with a thing like tray,
+	по-	
+	поднос сияқтымен	
+	бірдеңе алып келеді екен да	
+SPK1118	Иә иә	Yes yes.
+SPK1117	әртүрлі түспенші	with different colors,
+	қызыл	
+	ақ қара	(they) bring different things with red, white, black, and yellow.
+	сарымен	
+	әртүрлі нәрсе алып келеді екен да	
+	Сөйтіп	Then
+	битып жазып жібергенмін ғой @@@	I wrote like this.
+	Жаңа	
+	TikTok-тарды	I logged into it in order to watch TikTok.
+	кіре салайыншы деп	
+	кіре салғанмын ғой	
+SPK1118	Ертең сен нешеде келесің	When will you come tomorrow?
+SPK1117	Мен ба	Me?
+	ертең	
+	білмеймін	I don't know.
+	Алтылар	Around six.
+	Алты емес	Not six,
+	бес жарым	five thirty.
+	либо	Or,
+	ыыы	
+	бүгінгідей	like today,
+	бүгін мен ерте кетіп қалдым	today I left early,
+SPK1118	Бүгін ерте келдің ғой	Today you came early.
+SPK1117	сабағым болмайтын шығар дедім да	I thought I would not have classes,
+	төртте бір сабақ жоқ болды	one class at four was cancelled,
+	Бесте онша сабақ болмайды да	there are not many classes at five,
+SPK1118	Ммм	Um.
+SPK1117	онша сабақ болмайды деп қоямын бір	I said there are not many classes,
+	понедельник болған жоқ	there was no class on Monday,
+	сосын бүгін де болмайтын шығар дедім	and I thought there would not be one today too.
+	Сөйтіп	Then
+	админнен сұрадым	I asked from the administrator,
+	Админ деген ол	the administrator is the one who is working temporarily,
+	временно болып жүрген қызшы	
+SPK1118	Ыыы	Uh.
+SPK1117	¬Мектептің несі екен ол	she is that of ¬Mektep (an educational center).,
+	Админі екен	She is the administrator.
+	Ал ол жердің админінің	And the child of the administrator of that place is ill,
+	баласы ауырып жатыр екен	
+	сонымен	so
+	пока	
+	келе алмай жүр екенші	she could not come for now,
+	мен әлі көрмегенмін оны	I haven't seen her yet.
+SPK1118	Мхм	Uhm.
+SPK1117	Сөйтіп	That way,
+	болмайтын шығар:	then I thought there would not be one (class),
+	онда дедім	
+	мен онда қайта берейін дедім да	and then I though  I could leave instead of doing nothing,
+	құры отырмай депші	
+SPK1118	Мхм	Uhm.
+SPK1117	сөйтіп	then
+	төртте	
+	кетіп қалдым	I left at four.
+SPK1118	Ммм	Um.
+SPK1117	Сол сияқты	Like that, tomorrow I will also ask,
+	ертең де	
+	сұрaп көремін	
+	типа	like,
+	төрттен кейін	if no students come after four o'clock,
+	оқушы келмесе	
+	бестерде	(they) may not come around five,
+	келмейтін шығар	
+	кете беремін деп	I will tell (her) and leave.
+	кетіп қала саламын	
+	Либо	Or
+	күтемін	I will wait.
+	Уже бестен бес кетсе оқушы келмейді деген сөз ғой	If it's five o'clock, it means students will not come,
+	өзі жұмыс алтыға дейін	the work itself is until six o'clock.
+SPK1118	Договорға отырдың ба	Did you sign a contract?
+SPK1117	CLICK	
+	Ана админ келгеннен кейін отыратын шығар деп жатырмын	I am thinking that we will sign after that adminitrator comes.
+	Мен	There are also one or two of those are inviring me,
+	тағы бір	
+	екі	
+	не шақырып жатыршы	
+SPK1118	Центр	Center?
+SPK1117	ыыы	uh
+	HeadHunter-дан	from HeadHunter
+	иә	
+SPK1118	Аа	Ah,
+	сен HeadHunter-дан жазып қойып пе едің	did you apply from HeadHunter?
+SPK1117	Жазып қойғанмын ғой	Yes, I wrote (the applications).
+	иә	
+	Что-то жақсы шығып oтыр	it is going well for some reasons.
+SPK1118	##	
+SPK1117	Білмеймін енді	I don't know.
+SPK1118	қай жерде	Where?
+SPK1117	Біреуі з- ы	I think one of them is ¬Zere.
+	¬Зере	
+	ғой деймін	
+	Біреуі	
+	Абай бір бәле ма сондай	Another one is something like Abai.
+SPK1118	Аа	Ah,
+	¬Зере	¬Zere,
+	мен білемін	I know it.
+	Сол жерден	A boy who works there texted me,
+	бір бала маған жазған	
+	сол бала	
+	¬Зереде істейтін	that boy worked at ¬Zere in Astana.
+	Астанада	
+	@@@@@@	@@@@@@
+SPK1117	@@@	@@@
+	Білмеймін	I don't know,
+	енді андай	it is like,
+	мына жерде істеп жүрмін ғой	I think that I am already working here, and it is ok.
+	нормально сияқты ғой деп жатырмын	
+	Пока	For now.
+SPK1118	Көр	You will see it.
+	Бірақ мына жерге тезірек кір	But do that here sooner,
+	нетіп алсай	
+	договорға	
+	тезірек отырып алсай	sign a contract sooner.
+SPK1117	Мына жерге ма	To this place?
+SPK1118	Иә	Yes.
+SPK1117	Нені өтіп алсам	To pass what?
+SPK1118	Тезірек	I said get that job sooner.
+	кіріп алсаңшы деймін	
+	Жұмысына	
+	Официально	Officially.
+SPK1117	Сол	Yeah,
+	анау админін күту керек-ау	I think I should wait that administrator,
+	осы жердің	the administrator of this place.
+	өзінің админін	
+SPK1118	Иә	Yes.
+SPK1117	Ол келесі апта келетін шығар	She may come next week.
+	Шли енді	(They) probably won't fire me after a week.
+	бір аптадан кейін	
+	лақтырып кетпейтін шығар	
+	Бірақ менің алдымда	But the girl who worked before me worked for one week and left.
+	бір қыз	
+	бір ақ апта істеп	
+	шығып кеткен ғой	
+	Білмеймін	I don't know if she left or did something else.
+	шығып кеткен ба:	
+	или	
+	не қылмаған ба:	
+	өйткені	because
+	бұлар	
+	август	they in August
+	ой	oh
+	шілдеде	in July,
+	отпуск болған екен да	there was a vacation,
+	сөйтіп августте ашылған екен	and it opened in August.
+SPK1118	Ммм	Um.
+SPK1117	Енді августтың бірінен	It opened from August 1st,
+	бастап ашылған ғой	
+SPK1118	YAWN Аха	Aha.
+SPK1117	сонымен	so
+	енді ғана	it has only been two weeks.
+SPK1118	SNIFFLE	
+SPK1117	екі апта болған да	
+	Бір апта болған да	It has opened for one week, ten days.
+	Он күн болған да	
+	ашылғанына	
+SPK1118	Ааа	Ah.
+SPK1117	Ана қыз бір апта болған ғой	That girl has been one week,
+	сөйтіп	and then
+	мен келдім да бұл аптада	I came this week.
+	Білмеймін	I don't know.
+SPK1118	Ол қай жаққа кетіп қалған	Where did she go?
+	қызық	interesting.
+SPK1117	Ммм	um,
+	пятница күні	on Friday,
+SPK1118	SNIFFLE	
+SPK1117	Zoom-да сабақ өтемін ана немене центрға	I will teach on Zoom in that center,
+	қандай тақырыпта өтсем болады	which topic can I teach?
+SPK1118	Аа	Ah,
+	басқа центрға ма	to another center?
+	Қай класс	Which class.
+SPK1117	Мm	Um
+	Любой деді	They said any (topics).
+	Любой бір тақырыпты алып түсіндіресіз деді	They said you will explain any topics,
+	сөйтіп біз кері байланыс	then we (will give) feedback,
+	мұғалімдер отырамыз деді	the teachers will listen,
+	кері байланыс ретінде бір-екі сұрақ қоямыз	as a feedback, we will ask couple of questions,
+	сосын	then,
+	соған қарай	depending on that,
+	содан өтсеңіз	if you pass that,
+	тест та-	you will come to the test.
+	тестқа келесіз деді	
+	Жыры көп екен	They have many issues,
+	кіргім келмей қалды бір жағы	on the other hand, I do not want to work here.
+SPK1118	Соған байланысты	They said they will ask you questions related to that?
+SPK1117	Көре берейін иә	I will see.
+SPK1118	сұрақ қоямыз дей ма саған	
+SPK1117	Ммм	Um.
+	Сол тақырыпқа байланысты сұраймыз	We will ask something related to that topic.
+	Пропорция өтсем ## SNIFFLE	If I teach proportion,
+SPK1118	Алты	Explain one topic from Grade six or seven.
+	жетінші класстың	
+	бір тақырыбын	
+	түсіре сал	
+	Түсіндіре сал	Explain it.
+SPK1117	Сол қандай екенін	Yes, I don't know how it is.
+	білмей отырмын	
+SPK1118	Қандай тақырып	Which topic.
+SPK1117	Көремін	I will see.
+	Mат сауаттылықтың бір тақырыбын өте салмаймын ба@@	I will teach a topic from math test@@
+	математикамен байланысты	that is relevant to mathematics.
+SPK1118	Мм	Um.
+SPK1117	Мына жақтағы оқушыларды	The students here are not very organized
+	ретсіз болып жатыр	
+	покашы	temporarily.
+SPK1118	Ммм	Um.
+SPK1117	Андай	Like that
+	пока аз оқушы да	temporarily there are only a few students,
+SPK1118	Мхм	Uhm.
+SPK1117	он бір бәле ғана	only more than ten.
+	Төртеу	Only four, sometimes five (students) are present,
+	кейде	
+	бесеу	
+	отырады	
+	кейде	
+	екеу	sometimes two, sometimes even one student is present.
+	кейде даже біреу	
+	отырады да оқушылар	
+SPK1118	Мхм	Uhm.
+SPK1117	и	and
+	алдыңғы сыныбын	I am still just reviewing the previous class,
+	қайталап жүрмін	
+	әліші	
+SPK1118	Мм	Um.
+SPK1117	просто	
+	Ана апайлар	Those teachers taught with those books, I am also thinking teaching with those books for now,
+	сол кітаппен өткен екен	
+	сол кітаппен өте берейін	
+	пока деп жатрмын да	
+SPK1118	Мхм	Uhm.
+SPK1117	бір жағынан	on the other hand, you will feel bad,
+	біртүрлі болады екенсің	
+	кәдімгі мектептің кітабімен өте берсең	if you teach with the books from the school.
+	қалай депші	thinking how it is.
+	Білмеймін	But I don't know
+	бірақ кішкентай класс болғаннан кейін	since they study at lower classes,
+	оны	
+	анда басқаша кітаппен өтетін	it seems there is no need to teach with other books.
+	өтудің	
+	қажеті де жоқ шығар	
+	бірақ иә	
+SPK1118	Мектепке дайындайсың ғой иә бәрібір	Anyway, you will prepare them for school, no?
+SPK1117	Ыы	Uh
+	Бесінші класс алтыншы класс иә	Yes, grade five and grade six.
+SPK1118	Иә	Yes,
+	иә	yes.
+SPK1117	Андай ғой	It is like that
+	біреуі айт-	one of them-
+	бір бала айтады	one student said that,
+	ыыы	
+	биыл	uh
+	алтыншы класс қой деймін	I think he is in grade six.
+	Сөйтіп	And
+	апай	teacher,
+	біз бесінші класстың	I am assigining the exercises from class five in order to review.
+	есептерін беріп жатырмын ғой енді қайталау мақсатында	
+SPK1118	Мхм	
+SPK1117	Сөйтсем	And
+	апай алтыншы класстың	he asked when we would start the book of class six,
+	несін	
+	кітабынан қашан өтеміз деп сөйтті да	
+	сөйтіп типа мені мама	He was saying that his mother sent him here to do that.
+	соған	
+	не қылсын дегендей қылып жіберді ғой дегендей қылып жатыр да	
+SPK1118	Мм	Uhm.
+SPK1117	Сөйтіп типа алдын-ала біліп алса	So if he masters in advance,
+	беске шығады деп	he mother thinks he will get good grades.
+	не қылып жатқан шығар	
+	Иә соны мынаны қайталап алайық	And I said that let us first review this,
+	дедім да	
+	сосын осыны жақсылап түсінсең	then if you understand this well,
+	сосын барып көшеміз дедім	then we will move on.
+SPK1118	Мхм	Uhm.
+SPK1117	Бұны түсінбесең	If you do not understand this,
+	қайтып көшесің	how can we move on?
+	Бірақ	But
+	балалар	
+	жақсы шығарып жатыршы	the students are learning very well.
+	кәдімгідей	
+	Тақырыптары оңай екен андай	The topics are easy,
+	оңай дегенде	saying easy,
+	оңай емес	(it is) not easy,
+	Әшейін	just
+	жай бөлшек	the (topics of ) lower classes are something like division.
+	сондай екен ғой	
+	кішкентай класстарың	
+	қазір	
+SPK1118	Мм	Um.
+SPK1117	Бірақ күнде бес күн келетін оқушылар да бар екен	But there are students who come every day - five days (a week).
+	Соның арасында	Among them.
+	Общим	In short, for now, I don't have that,
+	менде ешқандай не жоқ та	
+	пока	
+	(H) не	that
+	расписание жоқ болғаннан кейінші	since I don't have a schedule,
+SPK1118	Мхм	Uhm.
+SPK1117	мысалы мен мына оқушыға мына бір-	for example, I cannot schedule this topic or that to each student.
+	бүгін мына тақырып өтемін	
+	мына тақырыпты өтемін деп	
+	қойып қояйын десем	
+	Арасында	I am thinking it is also good to assign them some logical problems from time to time.
+	логикалық нелер де	
+	берген де	
+	дұрыс шығар деп жатырмын да	
+SPK1118	Мхм	Uhm.
+SPK1117	Хотя бы аптасына бір мәрте	At least once a week,
+	бір мәрте	some exercise about geometry once (a week).
+	геометрия сияқты	
+	есеп болса да	
+	Физикадан бересіз ба дейді да	They asked if you teach physics,
+	кейде	
+	физикадан берген екен	sometimes, they taught physics.
+	сондай	like that, (times) a week-
+	аптасына-	
+SPK1118	Жалғыз	Alone?
+SPK1117	кейбіреулер	some people
+	үлкен классты алып келеді екен да	take (the children of) higher classes..
+SPK1118	Ааа	Ah.
+SPK1117	Кішкентай класстар	Lower classes.
+	Мысалы	For example
+	биыл жетіге бара же-	The (ones) who go to seventh class-
+	жетіде ма физика	Is physics taught in grade seven?
+SPK1118	Иә	Yes
+	жетіде	seventh.
+SPK1117	Биыл	This yeas
+	мысалы	
+	алтыны бітіргендер	for example, those who finished their grade six,
+	физиканы бастай береді деген сияқты ғой	it is like they will start physics,
+SPK1118	Ааа	Ah.
+SPK1117	қосымша ретіндеші	as an extra-curricular tutotials,
+	мысалы бес күн келсе	for example if the student comes five days (a week).
+SPK1118	Иә	Yes.
+SPK1117	бала	
+	Үш күн	three days
+	физика	physics,
+	екі күн	todays,
+	ой	
+	екі күн-	oh,
+	үш күн математика	it is like you teach mathematics for three days and physics for two days .
+	екі күн физика өтесің деген сияқты ғой	
+SPK1118	Бір сағаттан өтесің иә	Do you teach for one hour?
+SPK1117	Бір сағат	One hour,
+	кейбіреулері	some of them,
+	бір жарым сағат	one and half hour.
+SPK1118	Ммм	Um.
+SPK1117	Сондай екен да	It is like that.
+	Сөйтіп	And
+	ыыы	
+	деп қалдым	I was surprised.
+	білмеймін а так	and actually I don't know.
+	Маған физика өте аласыз ба деді	They asked if I can teach physics,
+	жоқ дедім.@@	I said no.@@
+	Общим	
+	өткім келіп тұрған жоқ	I don't want to teach.
+SPK1118	Жоқ басында нормально ғой өте бермейсің ба	No, at the beginning, it is ok, why don't you teach?
+	жеті болса	If it is seventh class,
+	үйге келесің да қайталап қайталап аласың	you come home, and you can review.
+SPK1117	@@	@@
+	Ол-	He/she-
+	жетіге:	for grade seven
+	білмеймін	
+	жетіге өткен балалар бар негізі	actually there are students who move to grade seven
+	бір ақ бала бар	there is only one student.
+SPK1118	Мм	Um.
+SPK1117	Өтуге болады	I can teach,
+	бірақ	but,
+	математиканың өзін жақсылап не қылып алған дұрыс шығар	it is right to do (teach) mathematics well first.
+SPK1118	Көр енді	You will see.
+SPK1117	(TSK) Иә бірінші расписаниені құрып алайын деп жатырмын	(TSK) Yes, I am thinking to make a schedule first.
+	Құрып алсын деп жатырмын	They make a schedule.
+SPK1118	Мхм	Uhm.
+SPK1117	Сол келесі апта ана	Yes, next week, (they) say that teacher will come and make it herself,
+	апайдың өзі құратын шығар деп жатыр	
+	келіпші	
+	оқушылар аз ғой ещё	also there are a few students.
+SPK1118	Мхм	Uhm.
+SPK1117	Мен айттым да	I said that,
+	сынып сынып бойынша бөлген дұрыс	isn't it correct to divide them based on the class.
+	емес па депші	
+	Себебі реально оқушылардың ойы бөлінедіші	Because the students really get distracted.
+	Mысалы бүгін	for example today
+	бір қыз отырды	one girl was here,
+	мм и екі бала отырды да	um, and two boys were here,
+	екеуі бір класс	those two are in the same class
+	ана бір қыз	
+	басқа класс	that girl is in another class.
+	Қызға түсіндіріп жатсам ана екеуі	When I was explaining to the girl, those two (boys) are looking at me and doing that,
+	маған қарап	
+	не қылып тұр да	
+	и шығар	and I tell them to solve (their own problems),
+	деп қоямын	
+	ойларын бөліп кете береді да	they always get distracted.
+	Либо тақтаға жазып түсіндіре алмайсың да	Or you cannot write on the board and explain,
+	ойы бәрі бөлініп кетеді ғой баланың	the students will get distracted in any case,
+SPK1118	Ммм	Um.
+SPK1117	өзі ## не қылып отырмайды ғой	they will not ## by themselves,
+	либо екеу-	or two-
+	үлгере алмай кетесің либошы мысалы	or you will not have enough time, for example,
+	үш түрлі	if there are three or four types of that,
+	төрт түрлі не болса	
+	әрқайсысының есебін тексеріп	(you will not have enough time) to check the exercise done by each of them,
+	әрқайсысы	each of them asks me to explain this and that,
+	апай мынаны түсіндіріп жіберіңізші	
+	апай мынаны түсіндіріп жіберіңізші дейді	
+	сондағысы бір ақ сағат	and there is only an hour.
+	Мысалышы	For example.
+	Біртүрлі ғой	It is stange,
+	бәріне бір тақырып болса мысалы	For example, if all of them have the same topic,
+	тақтаға шығарып	I will write on the board, and check them one by one at the same time, and do things like this.
+	бүйтіп шетінен бүйтіп орнынан тексеріп	
+	сөйтіп сөйтіп істей беретін едім да	
+	Сол жағы кішкене қиын болып жатыр	It is a bit difficult for that reason.
+	Тақта түк те пайдаланып жатқан жоқпын содан кейін	Because of that I am not using the board at all.
+	(H) Жандарында отырамын	(H) i just sit next to them.
+SPK1118	Вообще	it is very strange.
+	біртүрлі	
+SPK1117	Сол ғой жандарында отырамын	Exactly, I just sit next to them.
+SPK1118	Қай центр	which center?
+SPK1117	Только-	Only-
+SPK1118	Аты қандай	What is the name?
+SPK1117	Ыы school-	Uh, school-
+	School of ¬Attain	It is called School of ¬Attain.
+	деген	
+	Жандарында отырамын	I sit next to them,
+	есеп беремін дәптеріне	I assign them some exercises,
+	есеп шығарады	they solve exercises,
+	қараймын	I check how they solve,
+	қайтып шығарғанын	
+	қатесін түсіндіріп жіберемін	I explain the mistakes,
+	былай былай деп	
+	тақтаға бүйтіп	I am doing nothing on the board.
+	ештеңе істеп жатқан жоқпын	
+SPK1118	Мм	Um.
+SPK1117	Бірақ бір балаға:	But I explained proportion to one student.
+	мм	
+	пропорцияны	
+	түсіндірдім	
+	Пропорция	I wanted to teach proportion,
+	өтейін десем	
+	ыы	uh,
+	кері пропорция	do they study it as direct proportion and inverse proportion?
+	тура пропорция деп өте ма бұлар	
+SPK1118	Аха	Aha,
+	а білмеймін	ah I don't know.
+SPK1117	Алтыншы класс па сондай	They are in grade six or something like that.
+SPK1118	Білмейді екенмін	I don't know that.
+SPK1117	Сол екен	It is that.
+	Бір қыз:	One girl finished grade eight,
+	сегізінші класс	
+	бітірген екен	
+	что-то	somehow
+	нені	she did not understand the quadratic equation very well.
+	квадрат теңдеуді онша түсінбей қалған екенші	
+	Cоны шығарып жатырмыз	We are solving that.
+SPK1118	Ммм	Um.
+SPK1117	Бірақ бір несі	But one (advantages) of it is that,
+	сол кітаптан қарап	you can look at the book and the topic, then teach.
+	қай тақырып қарап	
+	өте береді екенсің да@	
+SPK1118	Мхм	Uhm.
+SPK1117	Сол жағы жақсы болып тұр да	That is good.
+	Кітаппен:	You can just assign exercises from the book.
+	есеп беріп отыра бересің да	
+SPK1118	Мхм	Uhm.
+SPK1117	Прям	There is no need to prepare too much.
+	битып дайындалып баратындай	
+	ештеңе жоқ та	
+	Cол жағынан кішкене нормально болып жатыр маған	that is good to me,
+	а то мен	
+	қорыққан едім бірінші күні	or I was afraid on the first day.
+	Оқушыларыма айтамын ғой	I asked my students which exercises (the teacher) assigned,
+	қане қандай есеп берді депші	
+	бірінші күні барған кезде	when I went on the first day.
+	Екі қыз келді	Two little girls came.
+	кішкентай	
+	Төртті бітірген ғой деймін	I think they finished grade four.
+	Апай	They said teacher uh-
+	ыы деді-	
+	ыы сөйтіп-	uh and then-
+	мен ана жақта кітаптары	there are books on that side.
+	тұр екен	
+	тақырыптарды іздеп жатырмын ғой	I am looking for the topics,
+SPK1118	Аха YELL	Aha.
+SPK1117	сөйтсем	and then,
+	(H) ыыы	(H) uh,
+	ана бір қыз ###	that girl ###
+	апай мен өстіп	I know in which book they were assigned, shoud I show you?
+	қай кітаптан бергенін	
+	біліп тұрмын да	
+	көрсетіп жіберейін ба	
+	дейді ғой.@@@	
+SPK1118	Ммм	Um.
+SPK1117	Жаным:	She is so cute.
+	дедім	
+	Aна жерде мен	I was awkward there,
+	ыңғайсыз болып қалдым да	
+	кәдімгідей уже уақыт өтіп жатыр ғой	the time is passing,
+SPK1118	Аа	Ah,
+SPK1117	кәдімгідей өтіп жатыр	it is passing quickly.
+SPK1118	иә	yes.
+SPK1117	Ыыы	Uh,
+	не өтемін	what I should teach,
+	не болды	what happened,
+	анау мынау	
+	қайдан беремін	where I should assign,
+	түсінбей жатырмын	I cannot understand,
+	әшейін кітап та табылмай кетті ма	and the book could not be found.
+	Сөйтіп	Then,
+	әйтеуір	eventually
+	көрсетті сонымен есепті тексеріп	she showed me, and then I checked the exercise сөйтіп.
+	сөйтіп	
+	Ещё үй тапсырмасын тексеріп қойғам:	Also (the teacher) has  checked the homework: ғой.
+	ғой	
+SPK1118	Ммм	Um.
+SPK1117	Сөйтіп	Then
+	кітапты көрсетті ғой	as I said, she showed me the book,
+	бесінші класстың кітабы екен	the book of grade five
+	сөйтсем аха деп сөйтеді@	then she confirmed@,
+	(H) содан ары қарай	after that, I assigned the exercise and so on.
+	есеп беріп	
+	сөйтіп кеттім ғой	
+	Сөйтіп	Then I am laughing,
+	күліп жатырмын ғой	
+	Жарайды деп	saying ok.
+	Бір жағы сол жағынан нормально болып жатыр	On the one hand, it is good because of that.
+	Оқушылары жақсы екен	The students are good
+	бірақ	but.
+	Aндай	Like,
+	тупой емесші	(they are) not so stupid (they know many things).
+SPK1118	@@@	@@@
+SPK1117	Тупой болса точно нерв етіп кетемін мен ана жерде	If they are stupid, I will become so nervourse there,
+SPK1118	Иә	Yes.
+SPK1117	ананың бәрінің деңгейі средний болып-	the level of all of them is middle-
+	средний емес даже	even not middle,
+	нормально	it is good,
+	даже бір бала прям	one student even can,
+	мм	um
+	бүкіл есепті шығарып тұр да	(he/she) can solve all the problems,
+	шашып тастаған:	it is like (he/she) is really good at it.
+SPK1118	Мхм	Uhm.
+SPK1117	деген сияқты ғой	
+	(H) Кәдімгідей жақсы шығарып жатыр да	They really solve well.
+	Cолар жақсы шығарып жатқан арасына	If one student who does not know well come to join these students who knwo well
+	ана жерде	
+	ыыы	
+	ж-	
+	білмейтін бала келіп қалса	
+	мысалы	for example,
+	қиналып қаламын да	I will have some difficulties
+	мен өзімші	
+SPK1118	Иә	Yes.
+SPK1117	мысалы иә	for example, yes?
+	анаған барып	go(explain) to him/her,
+	либо анаған барып	or expalin to him/her.
+	Aнаған ## мұжып түсіндіріп жатқан кезде	When I am explain to him/her,
+	ананың құлағы жетіп	and another one hears,
+	ой мынандай ғой деп қалса	if he/she (another one) said 'oh, it's like this,'
+	бітті ғой	
+	ана бала біртүрлі болып қалады ғой	that student will feel bad.
+SPK1118	Иә	Yes.
+SPK1117	Соларды ойлап ойлап	I stopped thinking about them.
+	қойдым мен	
+	Оқушы енді көбейетін шығар может деп қалдым	I thought there would be more and more students.
+SPK1118	Иә	Yes.
+SPK1117	Әлі	There are still few.
+	азғантай ақ	
+	Жаңа	Just now,
+	есептесем	I counted,
+	сол он төрт ақ оқушы екен	there are only fourteen students
+	общий	in total,
+	Oлардың кейбіреуі	It is like some of them come everyday, some of them come three times.
+	күнде келеді	
+	кейбіреуі	
+	үш мәрте келеді	
+	деген сияқты ғой	
+SPK1118	Ммм	Um.
+	Қиын	It is difficult.
+SPK1117	Mm	Um
+	бірақ мына ¬Мектепте оқушы нормально ғой	but (the number of) students in ¬Mektep is good.
+SPK1118	Спутникте бар дейсің ба	So you mean there are some in Sputnik?
+	сонда	
+SPK1117	Мен осы жаққа бардым ғой	(You remember) I went there,
+	сөйтіп маған айтты	then they told me
+	сізді	
+	сентябрьден бастап алайық	we will hire you from September,
+	бұл жаққа деді	
+	августте жұмыс пока болмай тұр деді да	they said there isn't much work in August,
+	оқ-	
+	мұғалімдер бар деп	they said there are teacher,
+	ар жақта да бар еді ғой	there are also in that place.
+SPK1118	Мм	Um.
+SPK1117	Стажировкаға бір қыз барды	A girl went for the internship,
+	если сол	if that
+	сосын мен айттым	then I said if that girl does not work, please call me.
+	ол қыз болмай жатса	
+	онда мені шақырыңызшы дедім да	
+	жарайды деп	saying ok,
+SPK1118	Мхм	Uhm.
+SPK1117	сосын ғой маған звондады	that's why they called me.
+SPK1118	Ммм	Um.
+SPK1117	Сол жақтың админі звондады	The administrator of that place called me.
+	Ыы	
+	там	Uh
+	сондай	well,
+	сіздің нөмеріңізді беріп еді	(they) gave me your number,
+	ыы	um
+	келе аласыз ба бізге	"they said: ""can you come to us from Monday and so on."""
+	анау мынау депші	
+	понедельниктен бастап	
+	деп	
+	Сөйтіп жарайды дедім	Then I said ok.
+	Сөйтіп	Then
+	###	###
+	Бірақ	
+	бұның да	But
+	жап-жақын екен	very close.
+SPK1118	¬Мектепке	It is great if you can go to ¬Mektep.
+	барып алсаң	
+	күшті ғой	
+SPK1117	Иә	Yes,
+	сентябрьде	in September,
+	может істей берсем	if I still work,
+	құдай қаласа	God willing.
+	Oсы жерге ауысып алатын шығармын	Maybe I will change to this place.
+	Андай	Like
+	оқуға барып келетін болсам да	Even though I go to university
+	үлгермей жатсам	if you do not have enough time, you just run there. @
+	жүгіріп бара саласың @	
+SPK1118	Иә	Yes,
+	он бес минутта жаяу бара саласың	It takes you fifteen minutes to walk there.
+SPK1117	Иә	Yes,
+	даже он минутта ма	even in ten minutes?
+	Мына	
+	¬үш жүз екі мектептің арғы жағында	it is on the other side of school ¬No. 302,
+	бір екі дом-	couple buildings-
+	садик	kindergarten,
+	екі жүз-	
+SPK1118	А	Ah
+	сен домдардың арасымен барасың иә	do you walk between the buildings?
+SPK1117	мектеп екен	then it is school.
+	Иә	Yes
+	¬Үш жүз екінші мектеп екен	then it is school ¬No. 302,
+	садик екен	kindergarten,
+	садиктан кейін бір	after kindergarten (there is) one
+	бір екі-	
+	бір	one two-
+	дом бар	building,
+	тура сол домның жаны	it is exactly next to the building.
+SPK1118	Ммм	Um.
+	Бірақ мен домдардың арасымен жүруге қорқамын	But I am afraid to go between the buildings.
+SPK1117	Жоқ андай:	No, it is not like walking like that.
+	жүретін емес	
+SPK1118	Кәдімгі жолдар ғой	It is the usual road,
+SPK1117	Әшейін-	Only-
+SPK1118	білемін	
+	иә	yes.
+SPK1117	Мм	Um.
+SPK1118	Бірақ бәрі-бір андай	But anyway,
+	мен өз басым былай жүруге қорқамын да	I feel afraid to walk in that way,
+SPK1117	Aaa	Ah.
+SPK1118	күндіз болса да	even if it is during the daytime,
+	білмеймін неғып қорқамын	I don't know why I am afraid.
+SPK1117	Бірақ мына жердің өзі біртүрлі сияқты иә	But it also seems strange here, yes?
+	мусордан өткеннен кейін иә	after passing the garbage, yes?
+SPK1118	Білмеймін	I don't know,
+	таңертең	in the morning
+SPK1117	жан-жақта	around it,
+SPK1118	зытып өтемін ғой	I walk quickly
+SPK1117	жан-жақ	
+	жан-жақ-	around
+SPK1118	тык тык тык ##	
+SPK1117	жан-жағының бәрі жабық қой	everything is closed around it.
+SPK1118	Иә	Yes,
+	##	
+	біреу қарап	it seems to me that someone is looking at me.
+	тұрған сияқты болып көрінеді	
+	маған	
+SPK1117	Әйтеуір-	Somehow-
+	әйтеуір	
+	осы жақта	Somehow, they said there are many students.
+	оқушы көп-ау дегендей қылды	
+	Алдында орыс-	Some time ago Russia-
+	орыс бала келді ғой	a Russian boy came
+	орысша	I told you that they asked me if I can teach in Russian,
+	өте аласыз ба деп айтты дедім ғой	
+SPK1118	@ Аха	@ Aha.
+SPK1117	сол	they let that student go to ¬Mektep,
+	оқушыны	
+	¬Мектепке жіберіп жіберіпті ғой	
+	Сол жаққа барыңызшы деп	asking him to go there.
+SPK1118	Ммм	Um.
+SPK1117	Бұларға	Probably, they need that kind of teacher,
+	походу	
+	андай	
+	мұғалім керек	
+	типа	just like,
+	орысша қазақша білетін	who knows Kazakh and Russian,
+SPK1118	Мхм	Mhm.
+SPK1117	и екі тілде де бере алатын	and who can teach in two languages,
+	физиканы да	who can also teach physics,
+	былай бере алатын	
+	общим	
+	сондай адам керек-ау дедім	I thought they need that kind of teacher.
+SPK1118	Ммм	Um.
+SPK1117	Өстіп сол бір адамды алып қояды	They hire that one person,
+	и сол бір адам	and that one person can teach the students.
+	бере береді да	
+SPK1118	Ааа	Ah,
+SPK1117	оқушыларға	
+SPK1118	иә иә	yes yes.
+SPK1117	Сондай сияқты	It seems to be that
+	Өзіңнің жеке кабинетің бар	I have my own office,
+	рахат	
+	отырасың @@@	you just sit. @@@
+	Мұғалім	Teacher
+	яғни оқушылар жоқ болса есікті жауып аламын дағы жаңағы	so if there are no students, I will close the door and do whatever I want. білгенімді істеп:,
+	отырамын:	
+	білгенімді істеп:	
+	оқушылар келеді	Students come,
+	өздері	
+	сол кезде	at that time,
+	сабақ өтемін	I start my class.
+	Көбінесе	most of the time
+	бос отырып қалып	I am sitting without doing anything.
+	жатырмын ғой	
+SPK1118	Ммм	Um.
+SPK1117	Көбінесе емес	Not most of the time,
+	бір екі үш	one two three
+	екі үш	
+	сағат	two three
+	Ішім пысып кетеді	I feel boring.
+	Ұйықтап алайын десең	If you want to sleep,
+	ыңғайсыз	
+	ұйықтай алмайсыңшы	you cannot sleep
+	бәрі-бір	anyway.
+SPK1118	Мхм	Uhm.
+SPK1117	Сол жағы ыңғайсыз	That is inconvinient.
+	Обедті:	I need to do something with lunch.
+	бір бәле қылу керек еді маған	
+	Үйден тамақ алып кетемін ғой деймін енді	Now I think I should take some food from home.
+SPK1118	Салып алып кетсей	You can take it with you.
+SPK1117	Иә	Yes,
+SPK1118	контейнерге	with container.
+SPK1117	сол	that is it,
+	сөйту керек сияқты	(I) should do like that,
+	а то	or,
+	магазинге	to the supermarket
+	ар жаққа өтесің	you need to cross road,
+	ещё	
+SPK1118	Ақша	Money
+SPK1117	қымбат та екен	it is expensive,
+SPK1118	ещё	also.
+SPK1117	ыыы	uh
+	уже	
+	екі күн бардым ба	did I go there for two days?
+	екі мың теңгем кетіп қалдышы уже	I have spent 2000 tg.
+SPK1118	Мә:	Ma
+SPK1117	Қымбат	It is expensive,
+	екі мың теңгем кетіп қалды	I have spent 2000tg.
+	Мә деп жыным келді	I feel nervous
+	Сөйтсем	
+	микроволновка	there are microwave and electric kettle,
+	к- несі	
+	тефаль	
+	бәрі бар екен да	
+	үйден тамақ алып барып	I can take food from home and drink tea.
+	чай ішіп:	
+	отырсам болады екен ғой дедім	
+SPK1118	Иә	Yes.
+SPK1117	Tем более бірден екіге дейін обед деп қойған ғой	Especially, they have lunch time from one to two,
+	күшті екен	
+	сонысы ұнап қалды маған	I like that.
+SPK1118	Мм	Um
+	күшті	great.
+	еее:	eee
+	бопты	ok.
+SPK1117	Пока нормально	For now it is ok.
+	Соған осы ғой	So it is because of this,
+	мұндай нормально болып жатқанға	because it is being ok,
+	ана мектеп	I don't want to consider that school.
+	ана	
+	вообще	
+	қолмен көрмей ақ қояйын ба деп жатқанымшы	
+SPK1118	Бұның зарплатасын айтты ма	Did they tell you the salary?
+	саған	
+SPK1117	Айтпа-	Айтпа-
+	айтпадым ғой	I didn't tell you,
+SPK1118	айтпады ма	didn't they tell you?
+SPK1117	айтпады деп	they didn't say.
+	Қайсысы	Which one?
+SPK1118	ой біліп алсайшы	Oh, you should know it, this one
+	мынаны	
+SPK1117	Zoom-ға өтейін деп жатқан ба	The one I am going to teach on Zoom?
+SPK1118	Жоқ	No,
+	мынау	this one.
+SPK1117	Айтты ғой	They said it.
+SPK1118	Қанша деді	How much did they say?
+	А	
+	иә	Ah,
+	жүз елу	one hundred and fifty
+	оклад береді дедің иә	you said they will give you salary, yes?
+SPK1117	Ол	It
+	ыыы	uh
+	өзінің	
+	админімен	when I talked with its own administrator,
+	сөйлескен кезімде	
+	то есть	
+	сол жақтың	(the administrator) of that place.
+	алдында телефон айттым ғой мен	I told her on phone,
+	сұрадым	asked
+SPK1118	Мм	Um.
+SPK1117	сөйткен едім	when I did that,
+	(H) ыы	uh
+	бұл айға жүз елу беретін шығармыз	she said we would probably give you one hundred and fifty thousand tg.
+	сізге деді	
+SPK1118	Ммм	Um.
+	Иә иә	Yes yes.
+SPK1117	Сөйтіп	Then
+	ана админмен сөйлескен едім	I talked with another administrator,
+	маған дұрыс айтқан жоқ	I said they didn't tell me everything, can you tell me, and so on,
+	айта аласыз ба	
+	анау мынау дедім да	
+	(H) сөйткен едім	(H) after I did that
+SPK1118	Мхм	Uhm.
+SPK1117	ол айтты	she said,
+	негізі сондай сондай деп айтты	actually it is like this and this,
+	бірінші ай	for the first month
+	жүз	
+	жүз	hunred
+	жүз елу береді	then she said something like they will give one hundred and fifty (thousand), after that that amount of money would be added
+	(H) одан кейін	
+	сондай сондай қосылады	
+	деген сияқты қылып сөйтіп айтты сосын	
+SPK1118	Ммм	Um
+SPK1117	Бірақ жүз елу болатын	But it was one hundred and fifty
+	білмеймін	I don't know,
+	мысалы	for example
+	тоғыз сағат бойы ма	I sit there for nine or eight hours.
+	сегіз сағат бойы отырасың ғой мысалы	
+	Қазір енді	Now, because there are no students, we leave sometimes.
+	оқушы болмай	
+	кетіп қалып жатырмыз ғой	
+	арасында	
+	Бір-екі сағат бұрын	one or two hours ealier.
+SPK1118	Сентябрьда	They may fill your schedule in September.
+	толтырып беретін шығар	
+	расписаниеңды	
+SPK1117	Иә	Yes,
+	бірақ мен ол кезде полный день істей алмай қаламын	but I cannot work full-time at that time,
+	зарплатам сол кезде аз болып қала ма деп жатырмын	I am thinking if my salary will lower at that time.
+SPK1118	Жоқ андай қылып істеуге болады ғой	No, you can do like that,
+	мысалы	
+	мына мына күндері	like I can work full days these days.
+	полный день	
+	шығып бере аламын дейтінші	
+SPK1117	Бізде оқу	But don't we have classes every day?
+	күнде болмай ма	
+	Просто	Just
+	Умидың	
+	лекциясы	since Umi's lecture is online,
+	онлайн болып	
+	кішкене	
+	онша-	we are staying at home,
+	үйде болып жүрді ғой	
+	мысалы	for example.
+SPK1118	Мм	Um.
+SPK1117	Бізде	I mean what if our lecture will be offline.
+	лекция	
+	оффлайн болатын болып қалсашы дегенім ғой	
+SPK1118	Негізі	Actually
+	түстен кейін болатын шығар	it should be in the afternoon.
+SPK1117	Білмеймін	I don't know,
+	сол расписаниeны күтіп жүр ғой	(they) are waiting the schedule,
+	пока	for now.
+SPK1118	Мм	Um.
+SPK1117	Мына жақта сол	In this place
+	жарты ставкада істейтін мұғалім бар екен да	there is teacher who works part time.
+	¬Мектепте	In Mektep,
+SPK1118	Мхм	Uhm.
+SPK1117	соған туралап	accordingly,
+	біреуіңіз	they said one of you can work in the morning, and one of you work can in the afternoon.
+	до обеда	
+	біреуіңіз после обеда қылып	
+	сөйтесіздер да	
+	деп сөйтіп айтқан	
+	Білмеймін	I don't know.
+	Соған да	also because of that,
+	пока	for now,
+	мм мынадан	um that's why I am thinking I can try to teach here.
+	онда	
+	өтіп көре берейін ба деп жатқаным сол ғой	
+SPK1118	Мм	Um.
+SPK1117	(TSK)	(TSK)
+	Zoom арқылышы	Via zoom.
+	Может бұлардың ақшасы нормально депші	Maybe their salary will be ok.
+	Если	If
+SPK1118	Мхм	Uhm.
+SPK1117	бірақ	but
+	білмеймін бұлар	I don't know they,
+	бұларға қазір бара алмайтын сияқтымын	it seems I cannot go there now,
+	осы жерді	it seems right to finish the work here.
+	істеп бітіре салған дұрыс сияқты	
+SPK1118	YAWN Ол да дұрыс шығар	Maybe it is also right.
+SPK1117	А то	Or,
+	ары бері шауып жүре беремін ба	will I continue to go this way and that way?
+SPK1118	Мхм SNIFF	Uhm.
+SPK1117	Мысалы мына жақта бір апта істеп	For example, it is like working for one week here, how the salary will be?
+	оның ақшасы қалай болады	
+	мысалы деген сияқты ғой	
+	Одан кейін ана жаққа көшіп	then move to that place.
+	Главное	More importantly,
+	шынымен	
+	мына жаққа договорға отыра салу керек	I should sign the contract here.
+	Вообще мектептерді көру керек еді	I should try (to work in) the school,
+	ма:	ma
+	андай опыт работы жазылатыншы	the one that can be written in work experience.
+SPK1118	Иә	Yes.
+SPK1117	Сендерде опыт работы жазылмайды иә	You work will not be written in work experience, yes?
+SPK1118	(TSK)	
+SPK1117	Сонысы жаман екен иә	that is bad, yes?
+	Болмаса үлкен:	Or it is a big and famous one (center).
+	кәдімгідей атақты	
+	не ғой	
+SPK1118	Пенсионка да бермейді	They don't even give a pension,
+	ештеңе жібермейді	they give nothing.
+	Только зарплата	Only the salary.
+SPK1117	Осы суббота	This Saturday
+	резюмені	it seems we should bring our resume and visit.
+	ұстап алып	
+	аралау керек	
+	сияқты	
+	Мектептерді	Schools.
+SPK1118	WHISPER Мектептер	Schools.
+SPK1117	Типа	Like
+	¬Жадыра да айтады	¬Zhadyra also said,
+	¬Жадыра-	
+	әдейі	they do not hire from Enbek-kz on purpose,
+	ол Enbek.kz-тен алмайтын сияқты	
+	лучший	
+	Enbek.kz-тен көріп	to see from Enbek.kz,
+	қай мектептерге вакансия керек	which schools look for vacancies, and go to those schools,
+	сол мектептерге барып	
+	сізге отклик тастадым	it seems it is right to say I applied (to your job vacancies), I come here to leave my resume, can I take part in the competition, and leave (the resume).
+	резюмемді қалдырып кетейін деген едім	
+	конкурсқа қатыссам бола ма деп	
+	бір ауыз айтып	
+	тастап кете берген дұрыс сияқты	
+SPK1118	¬Жадыра не болыпты	What happened to ¬Zhadyra?
+SPK1117	Ответ қайтармапты сол күйі	They did not respond.
+	Ештеңе демепті	(They) said nothing.
+SPK1118	Мммм	Um.
+SPK1117	Сөйтіп	Like that
+	ол да солай болып жатыр	she is also like that,
+	таппай жатыр	she cannot find (a job).
+	Ешкім	It seems to me that no one will employ us.
+	алмайтын да сияқты	
+	мне кажется бар ғой	
+	бізді	
+	Бірақ	But
+	кейбір мектептер	some schools
+	типа толтырады депті ғой	it is said that they will fill out the report to employ young professionals, the professional just did (finished the university),
+	жас маман	
+	енді не қылған маман	
+	деп отчет толтырады екен ғой депші	
+SPK1118	Ммм	Um.
+SPK1117	cол үшін алатындар да бар ғой деп	so there are people who will employ.
+SPK1118	Иә	Yes,
+	бірақ ол да дұрыс қой	but it is also correct.
+SPK1117	Мен ағам айтқан ғой	My brother told me about a school,
+	бір мектепті	
+	өзі бұрын сол мектепте істеген екен да	he used to work in that school,
+SPK1118	Мхм	Uhm.
+SPK1117	сол жақты көрсей деп	he told me to try (to apply) to that school.
+	Сөйтіп	Then
+	көрсем	I looked at it from Kundelik.kz, oi, Enbek.kz,
+	Kundelik.kz	
+	ой	
+	Enbek.kz қарасам	
+	сол сол мектеп тұр екен	that school is here,
+	мен отклик тастап қойған екенмін	it turns out that I responded to them.
+SPK1118	Нөмері қандай	What is the number?
+SPK1117	¬Жүз алпыс қой деймін	I think it is ¬160.
+SPK1118	Ммм	Um.
+	Жүз ¬алпыс төрт емес па	Isn't it ¬164?
+SPK1117	Жүз қырық-ау деймін	I think it is ¬160.
+	отклик тастап қойған екенмін	It turns out that I responded to them.
+	оказывается	
+SPK1118	Ай	Oh,
+	жүз ¬алпыс	(it's) school no. 144.
+	төртінші мектеп	
+	Бостандықский район	District Bostandyq.
+SPK1117	Жүз ¬алпыс төрт	I think there are ¬160, also ¬164.
+	ещё жүз ¬алпыс та бар ғой	
+SPK1118	Ааа	Ah, (ok).
+SPK1117	Мне кажется	
+	Сөйтіп	Then
+	барып көрсей деді маған	he told me to go there.
+SPK1118	Ммм	Um.
+SPK1117	Что-то	Somehow, all people are telling me to go.
+	бәрі барып көрсей деп жатыршы	
+	Әшейін тастап отырмай	Don't just reply.
+	Олар қарамайтын да сияқты ол жақты	It seems that they don't even look at that.
+	Бірақ хотя бы от-	But at least
+	не жіберу керек қой иә	they should send that, yes?
+	Отмена жіберу керек қой иә	they should send the rejection, yes?
+SPK1118	Қарамайтын да шығар	They probably don't even look at that.
+	Мынау кім дейді да	They say who this is,
+	WHISPER болды	and that's all.
+SPK1117	Н	(Н)
+	Әй кетсінші деп па @@	Just say let her go @@.
+SPK1118	Кет бар	Go away.
+SPK1117	Нет опыт екен ғой	saying no experience, go away, (she/he) just graduated.
+	құры бар деп	
+	енді бітіріпті ғой деп	
+SPK1118	Иә	Yes.
+	Сөйтіп өйтіп	Then
+SPK1117	@@@@	@@@@
+SPK1118	не бір жетіскен біледі дейсің мынау деп	saying what this person knows.
+SPK1117	Точно	Exactly.
+	@@@	@@@
+	Даже ішін бізге:	Even (he/she) inside to us
+	ішіне кіріп те қарамайтын шығар	they probably will not see what is inside,
+	нені бітірдің	where you graduated from,
+	опыт работыңды да қарамайтын сияқты ғой	it seems that they even don't look at your work experience.
+	То есть	I mean
+	(TSK)	
+	мысалы	(TSK)
+	біздікі	for example
+	опыт работы нет деп тұрады ғой	ours would be written as there is no work experience,
+	бірақ ішінде тұрады ғой мысалы	but things like tests and others are inside.
+SPK1118	Иә	Yes.
+SPK1117	тест анау мынау деген сияқты нәрселерімізші	
+	Соған	Then,
+	төбесін нет опытная екен ғой деп	since at the top it is written no work experience,
+	ашпайтын да шығар ішін	so they may not even open it.
+	Құдай-ау	God knows.
+	Прикол	(It's) fun.
+	Резюмемді жасап қойдым	I have made my resume,
+	қай жақтан шығартып аламын деп	I am thinking where I can print (it),
+	жұмыстан шығарып алайын ба десем ана:	I want to print out from my work place, but that administrator sits  (there), it is awkward to print the resume.
+	админ отырады да	
+	ыңғайсыз ғой резюмеңді шығарып тұрсаң	
+SPK1118	Аха	Aha.
+SPK1117	Өзің сол жаққа жұмысқа кіріп алып @@	After you got the work here. @@.
+	Мен соны	I am just thinking not to do it
+	қой деп отырмын	
+	пока	for now.
+	Жақын жерлерден іздеп көріп	looking for nearby places, I should print it out.
+	шығартып ала салу керек	
+	Бірақ суббота мектептер түске дейін ғана істейді иә	But the schools only work until noon on Saturday, right?
+SPK1118	Білмеймін	I don;t know.
+	Бүгін қаншасы	What is the date today?
+	Енді енді шығатын шығар жұмысқа	Maybe they will go to work recently
+	иә	yes,
+SPK1117	Мәә ертең грант қандай уақытта шығады екен	Maa, what time will the (information about) grant come out?
+SPK1118	Ааа	Aaa.
+SPK1117	Сестренкам-	My sister-
+SPK1118	Ааа	Aaa
+SPK1117	сестренкам түсіп кетсе екен:	I wish my sister would  get (the grant).
+SPK1118	сестренкаң	your sister,
+	түсіп кетсін әумин	hope she can get one, amen.
+	Бұйырса	God willing.
+SPK1117	Әумин	Amen.
+SPK1118	Бағана	Just now,
+	интаграмнан көргенмін	I saw from Instagram
+	айтпақшы	by the way.
+SPK1117	Иә	Yes.
+	Біздікі-	
+	Біз он бірінен бастап жазады екенбіз ғой иә	We will start from eleventh, right?
+SPK1118	Аа он бірінен	Oh, from eleventh?
+SPK1117	Кажется	May be.
+	Иә	Yes.
+	Жазайық	Let's write,
+	Ертерек	earlier.
+SPK1118	Мхм	Uhm.
+	Пятница күні барайық та	Let's go on Friday,
+	құдай бұйыртса	God willing.
+SPK1117	Пятница	Friday
+	неше	what date?
+SPK1118	Он үші	Thirteenth.
+	Ой	Oh,
+	бүгін қаншасы	what is the date today?
+SPK1117	Тоғызы	Ninth.
+SPK1118	Тоғыз	Nine,
+	он	
+	он бір	ten,
+	он екісі	twelfth.
+SPK1117	Он екісі	Twelfth?
+SPK1118	Иә	Yes.
+SPK1117	Ммм	Um,
+	пятница менде	I work on Friday.
+	жұмысшы	
+SPK1118	Мм	Um.
+SPK1117	Бәрін субботаға тақап жатырмын ғой сол	I am scheduling everything on Saturday.
+SPK1118	Мен суббота бара алмаймын	I cannot go on Saturday.
+SPK1117	Сенде жұмыс па	Do you work?
+SPK1118	Иә	Yes.
+SPK1117	Пятница менде жұмыс сол	I work on Friday.
+	(TSK)	(TSK)
+	Білмеймін	I don't know.
+	Сұранған да біртүрлі ғой	It is also strange to ask for leave.
+	Сосын	Then.
+	Онлайн беруге	I feel ... for teaching online,
+	не қылып тұрмыншы	
+	біртүрлі шығар	it seems strange.
+	Онлайн беру	Teaching online is scary, yes?
+	қорқынышты иә	
+SPK1118	Онлайн бергенде	When teaching online,
+	менің ішім пысып кетеді	you feel bored.
+	Мен	
+	ішім пысып кетеді прям	I feel very bored.
+	(H) Анау	that
+	ар жағында отырған	(the student) on the other side of screen,
+	тупой болып кете ма	become stupid
+	бірдеңе	
+	Ответ қайтармайды	he/she does not respond.
+SPK1117	Мммм	Um.
+SPK1118	Солай ма	If you ask, is this correct,
+	десең	
+	үндемейді ешкім	no one replies.
+	(TSK)	
+	Нервым ауырып кетеді сосын	Then I become nervous.
+SPK1117	Онда бару керек	Then I need to go.
+	Бірақ субббота	But on Saturday,
+	түске дейін ғана	probably they will only work until noon, істейтін шығар.
+	істейтін шығар	
+	Құдай біледі	God knows.
+SPK1118	Білмеймін	I don't know.
+SPK1117	Мен жұмысым бәрін	I am scheduling everything on Saturday.
+	сол субботаға тақап жатырмыншы	
+	Әпкеме де барып қайтамын деп қойған едім	I also told my sister to go to her house.
+	@@	@@
+	Воскресенье бара салатын шығармын	Maybe I will go on Sunday.
+	Прописка тұрып қоя салайыншы дегем ғой	I wanted to get a place of residence,
+SPK1118	Мм	Um.
+SPK1117	Бізде анау	We have that
+	неге мысалы	that for example
+	жас маман	saying young professional,
+	депші	
+	үйге	Can we stand in line to buy a house?
+	очередьке	
+	тұра аламыз ба	
+	Мен	I kind of read that
+	типа оқыдым	
+	бір жыл	
+	мемлекеттік жұмыс істеген болуың керек	you need to do a year of state work,
+	бір жыл	one year
+	ммм	
+	пропискаң болу керек деп оқыдым да	I read that you should have your place of residence.
+SPK1118	Қай жақтан	May be.
+SPK1117	Бірақ	But
+	мысалы	
+	счётың болмай	can you live without an account?
+	тұра беруге бола ма	
+	Мысалы менде	for example I have
+	отбасы	family
+	мысалы	
+	не деген сияқты	I do not have something like that.
+	жоқ қой	
+SPK1118	Счёт жоқ па	Don't you have an account?
+SPK1117	Счёт жоқ	I don't have an account.
+	Ашпағанмын вообще	I didn't create it at all.
+	Бұйырса	God willing
+	күзде ашу керек	I should create one in the fall.
+	#####	#####
+SPK1118	Мхм	Uhm.
+SPK1117	Қолымызға стипендияны алғаннан кейін	After we get the stipend,
+	Құдай қаласа	God willing.
+SPK1118	Құдай бұйыртса	Gol willing.
+	Әумин	Amen.
+SPK1117	Содан кейін	After that
+	сол стипендиям бір бөлігін салып тұрсам ба деп отырмыншы	I am just thinking to put one part of the stipend.
+	Сөйтіп	That way
+	очередьке тұрып қоя салу керек еді	I need to stand in line.
+	(H) Папам айтады да просто	(H) My father said that
+	ыыы	
+	сол бір	uh
+	достары сөйтіп	some of his friends also live like that in the past,
+	тұрған екен да бұрын	
+	сөйтіп алған екен	they bought (the house) like that.
+	Алған екенші	They bought it.
+SPK1118	Ммм	Um.
+SPK1117	Сол сондай әйтеуір бір уақытта аласың ғой дейді да	He said that somehow at some time you will buy it, even if when you are 30, no matter how old you are.
+	отызға келсең де	
+	бір бәлеге келсең де	
+	дейді да	
+SPK1118	Түбі аласың дей ма	He said something like eventually you will buy it.
+	типа	
+SPK1117	Иә	Yes.
+	Сол	
+	тұрып қоя салсай деп жатыр да	they told me to stand (a line).
+	Сол прописка маңызды-ау деп	Since I think the place of residence is important, I m thinking to get a place of residence first.
+	соны	
+	бірінші пропискаға тұрып алайыншы деп жатырмын	
+	Тем более мемлекеттік жұмыс сұрайтын болса	Especially if they ask for a state job.
+	Андай жас маман деп	Like saying young professional,
+	сондайға көп	
+	көңіл бөледі ғой негізі қатты	actually they pay much attention to it.
+	Мен ағам да	My brother also bought it as a young professional.
+	жас маман болып	
+	алып алған	
+	Жас маман-	Young professional-
+SPK1118	Үй ма	House?
+SPK1117	Жас маман	
+	ещё жа-	also-
+	жас отбасы болып	as a young family.
+SPK1118	Ма:	Ma
+	күшті	it's great.
+SPK1117	Иә	Yes,
+	андай аз процентпенші	like with little percent.
+SPK1118	Ааа	Ah.
+SPK1117	Сөйтіп алды	He bought it like that.
+	Тегін	Free
+	битып алды	bought like this.
+	Тегін #	
+	битып алған жоқ	didn't buy like it.
+	Ешкім тегін бермейді ғой бірақ иә	But no one will give it free, yeah?
+SPK1118	Иә	Yes.
+SPK1117	Әшейін	Just ask to pay by instalments, yeah?
+	шашып береді иә	
+SPK1118	Процентін	Maybe they will decrease the percentage a little.
+	кішкене	
+	төмендетіп беретін шығар	
+SPK1117	Ммм	Um.
+SPK1118	Оны да жақсы ғой	It is also good.
+	Өз үйің болады	You will have your own house,
+	өз үйіңе құясың енді	you will pay the money for your own house.
+	ақшаны	
+	Айдалаға құйғанша	Instead of paying else where.
+SPK1117	Сөйтіп-	That way-
+SPK1118	Ой Алла	Oh Alla.
+	¬Жадырамен сөйлесу керек еді-ей	We need to talk with Zhadyra.
+SPK1117	Звондашы	Call her.
+SPK1118	Қазір мынау	How much is this now?
+	неше болды	
+	Телефон қайда	Where is the phone?
+SPK1117	Мен телефоным ар жақта	My phone is over there.
+	###	###
+	Зарядта менікі	Mine is charging.
+	Сағат неше болды	What is the time?
+SPK1118	Звондасам	If I call,
+	мммм	um
+	ой Жансая жазыпты ғой	Oh, Zhansaya wrote.
+SPK1117	Не дейді	What did she say?
+SPK1118	Қазір көрейік	Now let's see.
+	Ыыыы	Uh.
+	Сағат деген	The time is,
+	тоғыз	nine.
+SPK1117	Мына нан	This bread is great.
+	күшті екен	
+	Жұмсақ	Soft.
+	Қай жерден алдыңдар	Where did you buy?
+SPK1118	Жүз елу	One hundred and fifty.
+	Жүз елу	They said it is one hundred and fifty.
+	теңге дейді ғой	
+SPK1117	Жүз елу ма	Is it one hundred and fifty?
+SPK1118	Бірдеңе нан деді әйтеуір	They said it is one kind of bread.
+SPK1117	Қай жерде	Where?
+	Қай жерден алдыңдар	Where did you buy it?

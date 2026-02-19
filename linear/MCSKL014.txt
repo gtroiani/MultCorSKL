@@ -1,0 +1,824 @@
+speaker	span	translation
+SPK0032	Массаж жасап аламын,	This is how I get a massage done on me.
+	сөйтіп.	
+	Әгі әкең айтады ғой,	You know your father says...
+	ат—	
+SPK0027	Мама?	Mom, you do not have to undress.
+	Шешпей-ақ қой.	
+SPK0032	Атқа,	To the horse...
+	не еткен,	...they did that thing..
+	осылай отырайын ба?	Should I sit like this?
+	Осылай отырайын ба.	Should I sit like this?
+SPK0027	Мына жаққа қарап отыр.	Sit facing this way.
+SPK0032	Е.	Okay.
+	Қақалған ат ұқсап,	"[He would say:] ""what are you doing like a horse that is suffocating?"""
+	немене істеп отырсың деп.	
+	Мынаны шешейін иә?	I should take this off, right?
+SPK0027	Шешпей-ақ қой.	Please do not.
+	Или шешіп тасташы.	Or, yes, just take it off.
+	Бүйтіп.	Like this.
+SPK0032	Халатты,	Let me take off the robe.
+	халатты шешіп тастайын.	
+	Шешіп тастайын?	Let me take it off, okay?
+SPK0027	Жоқ өстіп қойдым міне.	No need. I did like this.
+	Мойныңа ғана жасаймын.	I will only do your neck area.
+SPK3001	Әй,	You guys, why do you not close the door normally when you enter?
+	есікті неге,	
+	жауып,	
+	кірмейсіңдер,	
+	дұрыстап а.	
+	Шыбын кіріп кетіпті.	Flies flew in...
+	Элементарно?	Can you not simply close the door?
+	Есік жаба алмайсыңдар ма.	
+	###,	
+	###.	
+SPK0027	Кімге?	To who?
+SPK3001	¬Меңсұлуға деймін.	To Mensulu.
+	Медосмотрды,	I was going to go to work after finishing my medical check-up, but they said that the list had not arrived yet...the accounting department said so.
+	бітіп,	
+	жұмысқа барайын десем,	
+	немене дейді,	
+	список әкелген жоқ дейді,	
+	бухгалтерия,	
+	Алла.	Allah!
+SPK0032	Әне біреу,	I beg you guys please do not take that little boy everywhere casually...you will get him jinxed...I mean Bakonay.
+	ұлды ##,	
+	көт-,	
+	селтектетіп,	
+	¬Беконәйді айтамын.	
+	А-,	
+	ауыртып алмаңдаршы өзі,	
+	көздендіріп.	
+SPK3001	Құдай сақтасын.	God save!
+SPK0032	@	
+	Олимпикасын киіп кетіпті ғой,	That little boy went out wearing his jacket... oh my little boy!
+	құдай-ау сол.	
+	Көтеріп.	They took him hugging.
+SPK3001	Сәлеметсің,	Hello Sayan.
+	¬Саян.	
+	Мен медосмотрдан өтіп қойдым,	I finished my medical check-up.
+	иә ертең,	Yes, tomorrow is my time to start work again.
+	жұмысқа шығатын уақытым.	
+	Бірақ ана,	But that...
+	¬Тук мм—	
+	бәрін өткізіп қойғанмын.	I submitted everything that was required...
+	¬Тукаева мектеп,	Tukayeva says that the school did not send a list yet.
+	список берген жоқ дейді.	
+	Мұғалімдердікін.	The list of teachers...
+	Сондықтан,	So that's why I will just casually go to work without my medical book.
+	мен енді,	
+	ертең,	
+	жай бара салам жұмысыма.	
+	Без,	
+	санитарной книжки.	
+	Бухгалтер,	I guess the accountant said she needs to submit the list or something...[for] the money.... this much...
+	өткізу керек дей ме,	
+	ақша:,	
+	содан кейін списоктарды,	
+	осыншама деп.	
+SPK0027	Оплата.	Payment.
+SPK0032	Ой Алла (Hx).	Oh God!
+SPK3001	А.	Come again?
+SPK0027	Оплата жүреді.	You meant to say that the payment will be transferred...
+SPK3001	Иә.	Yes.
+	Иә.	Yes.
+	Ойбай.	Oh
+	¬Айсара,	
+	жүре берсін үйде.	Let Aisara just be home..
+SPK0027	Мама,	Mom, relax it.
+	бос ұста.	
+SPK0032	Мен ¬Назгүл,	Nazgul.. I think I add some weight...
+SPK0027	А.	Yes?
+SPK0032	семіріп кеткенмін екен деймін,	
+	өзім.	
+	А ¬Аяжанға қарасам,	I looked at Ayazhan, and she is also big, which is good.
+	толық екен?	
+	Ол да жақсы.	
+SPK0027	###,	
+	семірген жоқсың сен.	You did not add weight.
+SPK0032	А.	Come again?
+SPK0027	Семірген жоқсың деймін.	I am saying you did not add any weight.
+SPK0032	Қайдан білемін.	How can I possibly know...
+	Соны ойлағанмын.	That's what I thought.
+	Бірақ анау күні әгі,	But the other day...
+	больницада жүргенде,	when I was in the hospital...
+	алпыс жеті-ақ килограмм болдым?	I weighed only 67 kgs.
+SPK0027	Е:.	I see.
+SPK0032	Больницада өлшеді ғой әгі,	You know they weighed me when we were about to enter.
+	кірерде.	
+SPK0027	Иә.	Yes.
+SPK0032	Өлшеп алады екен.	Apparently they weigh you there first.
+	Сонда,	So they said 67...
+	алпыс жеті дейді ана,	
+	киіміңіз деді,	They said my clothes weighed half a kg.
+	бір жарты килограмм деді.	
+SPK0027	Иә.	Yes.
+SPK0032	Бір әгі,	They apparently remove that.
+	сол ###,	
+	шығарып тастайды екен.	
+SPK0027	Иә.	Yes.
+SPK0032	Әгі,	In that place called reception.
+	қабылдау жерде,	
+	деген жерде.	
+SPK0027	Иә.	Yes.
+	¬Айсара?	Hey Aisara?
+SPK3001	EXPRESS_AFFECTION_TO_THE_CHILD	
+	####.	
+	###.	
+SPK0032	####.	
+	Ә:,	I got fat like a bag..
+	мен,	
+	қаптай болып,	
+	семіріп кеттім өзі.	
+	Құдай сақтасын.	God save...
+SPK3001	STARTS_KILLING_FLIES_IN_THE_ROOM	
+SPK0027	Кім.	Who?
+	Жаңа ғана,	Just now she said she is not fat but now she is saying she is fat.
+	семіз емеспін деген,	
+	енді семізбін дейді.	
+SPK3001	Нормальный ғой.	She is just right.
+	Арық емессің,	You are not underweight, mom.
+	мама сен.	
+	Түк те арық емессің.	You are not underweight at all.
+	Нормальныйсың.	You are just right.
+SPK0027	Семіз ##.	Fat..
+SPK3001	Семіз де емессің.	You are not overweight either.
+SPK0032	Жо:қ,	No... I mean...
+SPK3001	Андағыда,	If you lose even more weight, it will be bad for you.
+SPK0032	а:-,	
+SPK3001	андағыдан,	
+	арып кетсең,	
+	жаман болып қаласың.	
+SPK0032	арық,	I am not saying I am thin.
+	арықпын деп,	
+	отырғаным жоқ.	
+SPK3001	Е.	Oh
+SPK0032	Соны,	That's what I am saying... I wish I do not do that...
+	семіре #,	
+	сөйтіп,	
+	не етпесем екенмін деймін.	
+SPK3001	Немене етпесем екенмін.	Do what?
+SPK0027	Семірмесем,	She is saying she wishes she does not add weight.
+SPK0032	Сем—	
+	Семірмесем,	I wish I do not add weight.
+SPK0027	екенмін дейді.	
+SPK0032	екенмін деймін.	
+SPK3001	@@	
+SPK0032	Мен өзім,	My bones are heavy.. but the other day whey I was being checked at the hospital I was only 67 kg.
+	сүйегім ауыр,	
+	бірақ анау күні әгі,	
+	больницаға қабылдау,	
+	онда алпыс жеті-ақ килограмм болдым.	
+	Әгі гиряға салды ғой.	You know when they put me on the scales?
+	Сонда қабылдауға,	When I was checked prior to being hospitalized.
+	больницаға жатқанға.	
+	Мен айттым,	"I said: ""Dearie, my bones are heavy and I barely can move myself."""
+	қарағым,	
+	мен өзі сүйегім ауыр дедім.	
+	Мен қозғала алмаймын,	
+	өзім дедім.	
+SPK3001	Ана,	That Kunzhan says...
+	¬Күнжан айтады,	
+	ауырып жатыр емес пе,	you know she is sick now...
+	көтерілмейді дейді.	she says she cannot be lifted...
+	Алып салғанда,	All three girls...Sandugash, Baglan... when they take her out and put her in...  It is very heavy, she says.
+	қыздар,	
+	¬Сандуғаш,	
+	¬Бағлан,	
+	үш қыз.	
+	Жаман,	
+	сонда.	
+	Өте ауыр дейді.	
+	Әмбе,	Also, she does not move at all...
+	не жоқ қой,	
+	өзінде,	
+	движение жоқ.	
+	MAKES_A_GULPING_SOUND	
+	Через нос,	She is being dropped via her nose..
+	капает ей.	
+	Біресе больницаға келеді,	One day she is at the hospital...the other day they take her to some other palce...
+	біресе анда апарады.	
+	Инсульттің,	She got a very bad type of stroke.
+	жаман түрін алып қалған.	
+	Не немене,	What was that kind....let me recall...
+	қандай,	
+	бір түрі.	
+SPK0027	Геморрагический.	Hemorrhagic stroke.
+SPK3001	Геморрагический.	Hemorrhagic stroke.
+SPK0032	¬Райханды кеше больницаға жатқызып тастады дейді.	Akosh says that Raikhan was hospitalized yesterday.
+	¬Әкөш айтады.	
+	Дүйсенбі күні әгі,	On Monday...
+	#####.	
+SPK3001	Кімді?	Who was hospitalized?
+SPK0032	¬Райханды дейді.	Raikhan, apparently.
+	Гүл- ә:,	
+	¬Әкөш айтады.	Akosh says so.
+SPK3001	Е.	Oh, let her be. She is the kind of grandma who does so for preventative measures.
+	Жата берсін.	
+	Ол,	
+	профилактика алатын бабушка.	
+SPK0032	А.	Come again?
+SPK3001	Емделеді ол,	She gets treatment...she is a diabetic, you know.
+	ол сахар емес пе.	
+SPK0027	¬Жанаттың ұлы үйленген бе.	Is Zhanat's son married?
+SPK3001	Иә иә.	Yes yes.
+	¬Жанаттың ұлы үйленіпті.	Apparently Zhanat's son got married.
+SPK0032	Е.	Oh.
+SPK3001	Келіні қиын,	They say the kelin has no looks.
+	кейіп-кеспірі жоқ дейді.	
+	Одан ұлы сұлу дейді.	They say her son is more beautiful than her.
+SPK0027	Өзі,	Oh Zhanat herself is..
+	¬Жанаттың өзі де бір,	
+	маған қиын,	I really do not like Zhanat myself.
+	ұнамайды ¬Жанат.	
+SPK3001	Не емес пе,	You know she is..
+SPK0027	Противная.	Nasty.
+SPK3001	Противная.	Nasty.
+SPK0027	Высокомерная.	Arrogant.
+SPK3001	Иә.	Yes, arrogant...
+	Высокомерная.	
+	Кісі менсінбейді әшейін.	Always looks down on people like this...
+	Бүйтіп.	
+	Бүйтеді де тұрады.	
+	Ол не керек.	Why do that?
+SPK0027	¬Жасұланның,	When she came to Zhasulan... Eraly's toy.. she did not even greet me...  with her arrogant posture..
+	¬Ералының тойына келгенде тіпті,	
+	амандаспай,	
+	кекшірейіп өтіп бара жатқан.	
+SPK0032	Кім?	Who?
+SPK0027	Мені бір әгі бір,	As if she sees me every day.
+	күнде көріп жүрген кісі сияқты.	
+SPK3001	Соны айтамын.	That's what I mean.
+	Мен вообще амандаспаймын оған.	I never greet her.
+SPK0027	Мен де вообще ##,	Me too...
+SPK3001	Вообще амандас-,	I do not greet her at all... not to mention look at her.. at Gulbike...I mean at Zhanat.
+SPK0027	#####.	
+SPK3001	вообще,	
+	қарамаймын мен ¬Гүлбикеге,	
+	а- ¬Жанатқа.	
+	Иә.	
+	Тойы,	But apparently their wedding was terribly good.
+	күш:ті болды дейді енді,	
+	старшно.	
+	Та— (H),	
+	салаттың өзі он түрлі дей ме.	I guess there were like ten different salads or something...
+	Мен айтамын конечно.	I said of course, that was expected.
+	Әгі,	Of course... Gulzhan makes those.. plus she orders some..
+	¬Жанат жа-,	
+	¬Гүлжан жасайды ғой?	
+	Оларда.	
+SPK0027	STARTS_SLAPPING_SPEAKER_SPK0032'S_BACK	
+SPK3001	Еще төлегені бар.	
+	Төлеп істеткені бар.	
+SPK0027	Мама?	Mom?
+SPK0032	А.	Yes?
+SPK0027	Кіти жұмсарды ма?	Did it soften a little?
+SPK0032	Жұмсарды.	Yes, it did. Feels nice.
+SPK3001	¬Перизат.	Perizat.
+SPK0032	Жақсы болды.	
+	Жұмсарды.	It did soften.
+SPK3001	AFFECTIONATELY_DRAWS_THE_CHILD_TO_HERSELF	
+	<VOX Жүрші,	Come to me.
+	келе ғой.	
+	Сағынып қалдым ғой сені. >	I missed you.
+	Келіп маған,	
+	үзіліп қарап тұр.	She came and is staring at me...
+SPK0032	Өй қолыңнан айналайын,	Oh my little horse..I am greatful for your hands..
+SPK3001	KISSES_THE_CHILD	
+SPK0032	құлыным.	
+	Жарайды.	That's enough.
+SPK3001	SINGS_TO_THE_CHILD	
+	Бақа мм—	Frog..
+	тасбақаны көрдің бе?	Did you see the turtle?
+	Тасбақаны?	Did you see the turtle?
+	Тасбақа нәм-нәм деді ме,	Did the turtle eat the cabbage?
+	капустаны?	
+SPK0032	Тасбақаны бұл,	One day your grandma will kick that turtle out.
+	апаң бір күні,	
+	шырқайды.	
+SPK0027	Иә.	Yes, she will kick it out as soon as we leave.
+	Біз кетісімен апаң шырқайды оны.	
+SPK3001	Мхм.	Yes.
+SPK0032	Үйге бір,	As soon as she sees it peeing indoors...
+	сигенін көрсінші,	
+SPK3001	Үйге кіргізбеймін мен оны.	I will never let it indoors.
+SPK0032	содан кейін,	
+SPK0027	Қош бол қалқам дейді.	"She will just say: ""Bye, dearie"""
+SPK0032	а.	
+SPK3001	Иә.	Yes.
+SPK0027	Болды.	
+SPK3001	Үйге кіргізбеймін мен оны.	I won't let it indoors (into the house).
+SPK0032	Қыста деймін.	I mean you will do so during winter.
+SPK0027	Вот сен оны,	Just do not kick it out...just give it away to somebody...
+	шырқамай-ақ қой,	
+	оны сен өзі,	
+	біреуге,	
+	бере салшы,	
+	біреулерге.	
+SPK3001	Мектепке апарамын мен.	I will take it to the school. I wil open a 'live corner' at school.
+	Мектепте,	
+	живой уголок қыламын.	
+SPK0032	Е,	Yes, do that.
+SPK0027	Сондай,	Apparently you got such a thing in your school, right?
+SPK0032	сөйт.	
+SPK0027	бар дейді ғой сендерде,	
+	живой уголок деген.	
+SPK3001	Жоқ,	No.. there must be one in a biology classroom.
+	биологияда болу керек қой ол.	
+SPK0027	Иә.	Yes.
+SPK3001	Мхм.	Mhm.
+	Мен,	
+	мен,	I am not some crazy person [who would kick it out].
+	жарымес емеспін ғой оны,	
+SPK0032	Әйтпесе,	Otherwise Nazgul always keeps it at home.
+SPK3001	мен,	I also care.
+SPK0032	¬Назгүл ылғи,	
+SPK3001	ойлаймын.	
+SPK0032	үйге сақтайды.	
+SPK0027	Жоқ,	No, I am just fed up with it.
+SPK0032	##,	
+	далаға ш—	
+SPK0027	маған просто,	
+	надоел болып кетті уже.	
+SPK0032	Далаға шыдай алмайды ғой.	It will not survive outside.
+SPK3001	KISSES_THE_CHILD	
+SPK0032	Анау,	It will just die.
+	өліп қалады ғой.	
+SPK0027	Мен де жұмыста,	I also at work...
+	ол қыстыгүні,	Mom, it just goes off to sleep during winter... It does not even eat food during winter.
+	ұйықтап қалады ол,	
+	мама.	
+	Тамақ та жемейді қыстыгүні.	
+SPK0032	Ой Алла.	Oh Allah!
+SPK0027	Ұйықтап қалады ол.	It just goes off to sleep.
+	Спячкаға кетеді.	It hibernates.
+SPK0032	(TSK) (TSK) (TSK)	
+SPK3001	Қозғауға болмай ма.	Can I not move it?
+SPK0027	А?	Come again?
+SPK3001	Қозғауға болмай ма.	Can I not move it?
+SPK0027	Қозғама.	Do not move it.
+	Тұра тұршы ей қазір жөндейсің.	Just hold on for some time.. you will fix later.
+	Анау,	
+SPK3001	Жөндегелі жатқан жоқпын.	I am not gonna fix anything...
+SPK0027	камерасын ұшырып жібересің.	You will damage the camera.
+	Ал енді,	That thing is something that attaches to the neck of the camera.
+	мойнындағы нәрсесі анау,	
+	камера.	
+	Әне.	
+SPK0032	Әне,	There you go.. it tilted a little.
+SPK0027	###.	
+SPK0032	қисайды анау.	
+SPK3001	Блин,	Damn... motherfucker.
+	ёб твою мать.	
+	(H)	
+	А вот вот вот вот вот вот вот (Hx).	Oh yes finally here it is.
+SPK0027	Түсті.	It came off.
+SPK3001	Түсе берсін.	I do not care!
+	#####.	
+	PHONE_RINGS	
+SPK0027	Очкиің түсіп кетті ана жерде.	Your glasses fell down there.
+SPK3001	¬Сәкө дейді.	Sako is calling.
+	Иә.	Yes.
+	Да.	Hello.
+	Жақсы.	Good.
+	Аман-есен.	Safe and sound.
+	Иә.	Yes.
+	Отырмыз.	Yes, just sitting.
+	А.	Ah?
+	Жақсы бәрі.	All is good.
+	Отыр.	They are also sitting.
+	Өздерің қалайсыңдар?	How about you guys yourselves?
+SPK0027	KISSES_SPEAKER_A_HER_MOM	
+SPK0032	EXPRESSES_AFFECTION_TO_SPEAKER_C	
+	Кеше,	Yesterday my Bikosh came...
+SPK3001	Е.	Oh..
+SPK0032	кеше ¬Бикошым келіп,	
+SPK3001	Аха.	Aha.
+	Ұлдар қалай.	How are your boys?
+SPK0032	өй қарғам-ау сол.	oh my dearie...
+SPK3001	Е.	Ah...
+	Е алдынгүні,	Just the day before yesterday Dakosh called me.
+	¬Дәкөш,	
+	звандаған.	
+	Мхм.	Mhm.
+	Қалың қалай—	"""How are you?"".."
+	Магазинде жүр ме?	Does he get a job at a shop?
+	Магазинде,	
+	жұмысқа орналасты ма?	
+	Е.	Oh I see...
+	Е.	Ah
+	Е арғы жағын-,	Apparently there were like glasses and cups behind him...
+	иә,	
+	сонда.	
+	Арғы жағында,	
+	стака:н,	
+	нелер тұр екен,	
+	е дедім,	That's why I asked if he got a job.
+	жұмысқа орналастың ба деп.	
+	Е:.	
+	Е:.	Ah
+	Е:.	Oh I see..
+	¬Дина.	Dina..
+	Иә.	yes...
+	Әй,	Hey..
+	ана мені айтып қойсын.	"make sure she mentions me saying ""her friend is your mother...your grandmother..."""
+	Подружкасы,	
+	сенің мамаң,	
+	апаң деп.	
+	Аха.	Yes.
+	Сөйтіп қойсын.	Let her do that.
+	¬Дина біледі ғой мені.	Dina knows.
+	Аха.	Aha.
+	Жақсы,	Good.
+	жақсы,	Good.
+	отыр.	Here here.
+	Әкем ¬Сапарәлидікіне барамын деп кетті.	Dad went out to see Saparali.
+	Үйден жалықты ғой деймін.	I guess he got bored at home.
+	Ау.	Come again?
+SPK0032	###.	
+	@	
+SPK3001	Телефоны,	Sako, his phone is refusing to function properly.
+	вообще істемей қойды ғой енді ¬Сәкө.	
+	Түседі,	It dials but it says no service.
+	ана,	
+	нет услуга связи дейді.	
+	Мына жақта билайн,	Here Beeline does not work at all.. the one in that simple phone.
+	не,	
+	істемейді ғой,	
+	вообще.	
+	А-,	
+	ана,	
+	простой телефон.	
+	Содан,	Then he himself was bewildered... and apparently aunt Darige called him.
+	өзі де ойбайлап ана күні,	
+	¬Дариға апай сөйлескен,	
+	екен.	
+	Содан,	Using Akosh's number.
+	¬Әкөштің,	
+	несіне салып,	
+	сөйлесті онымен.	
+	Түседі кәдімгідей,	It does dial [it seems to be reaching the phone], but there is nothing on the other end.
+	бірақ ана,	
+	ешқандай,	
+	дым жоқ болып қалады.	
+	Одан кеше,	And then yesterday Asyl and his family came.
+	¬Асылдар келген.	
+	Оған шұқытты.	Asyl also attempted to fix it.
+	Түк те болмады.	It was of no use.
+	Иә олар ауылда.	Yes, they are also in the village.
+	¬Айбек ¬Назгүлдер келіп,	Aybek and Nazgul came... but Aybek already went back.
+	¬Айбек қайтып кетті.	
+	Ана,	Apparently Arna and Asyl have to shoot some video and stuff, so they came for that.
+	Дин-,	
+	¬Арнаның,	
+	¬Асылдың бірдеңелері бар дейді әгі,	
+	жазбалары,	
+	видео:,	
+	ролик керек,	
+	соларға келген.	
+SPK0032	EXPRESSES_AFFECTION_TO_THE_CHILD	
+SPK3001	Аха.	Aha.
+	Со:л.	That's how things are.
+	Өздерің,	
+	орынша?	All good?
+	Жоқ,	No, Aybek already went back...
+	кет-,	
+	¬Айбек қайтып кетті.	
+SPK0032	PETS_THE_CHILD_AFFECTIONATELY	
+SPK3001	Кеше келіп,	He came yesterday...
+	ыы,	
+	Ана ¬Назгүл,	Nazgul, Asyl and Arna stayed.
+	¬Асыл,	
+	¬Арна,	
+	қалды.	
+	Аха.	Aha.
+SPK0032	EXPRESSES_AFFECTION_TO_THE_CHILD	
+SPK3001	Cо:л.	That's how things are.
+	Аха.	Aha.
+	Иә?	Yes.
+	@@@@@@	
+	Оны,	I wanted it to lick some qurt so I gave him some, and he actually does lick it very well...
+	өзім,	
+	случайно,	
+	құрт жалатып,	
+	ыы,	
+	құрт жалатып көрейінші деп,	
+	құрт,	
+	құрт жалатып көрейінші деп,	
+	не ете қойып едім,	
+	но:рмально,	
+	жалайды ей.	
+SPK0032	@@@	
+SPK0027	¬Айсара?	Aysara?
+SPK3001	Иә.	Yes.
+	Оны ана,	Aybekova Gulmira took it and posted in on her WhatsApp stories..
+	¬Айбекова ¬Гүлмира статусына салып қойыпты.	
+	Сенің немереңді деп.	"...saying ""these are your grandchildren""."
+	Мен айттым,	
+	әй менің немеремнен нелерің бар?	"I said: ""Why do you care about my grandchildren?""  ""Why would you post them on stories?"""
+	Сендер статусқа салып деп.	
+SPK0027	UNPACKS_A_PACKAGE_OF_MEDICATIONS	
+SPK3001	Содан айтып қояды ана,	They said that she meant it to be a lesson for those mom who let their children eat lolipops.
+	чупа чупстың,	
+	чипсы жегізетін келіншектерге,	
+	сабақ болсын деп дейді.	
+	Со:л.	That's it.
+	Мхм.	Mhm.
+	Аха.	Aha.
+	Сөйтіп отырмыз.	That's how we are right now.
+	¬Ерош,	About Yerosh...
+	бүгін үйде жаңа,	He was called just now by his colleagues to go to work.
+	жұмысқа шақырып алып кетті.	
+	Бір,	Some car from the city arrived.
+	қаладан бір,	
+	мәшін келген,	
+	әлгі мәшінді,	They need to fix that car. I do not know but I guess it was broken, so Yerosh and others were told to fix it.
+	жөндеу керек.	
+	Сол ¬Ероштың,	
+	несіне ###,	
+	шағылып қалған ба әгі мәшіні,	
+	содан,	
+	не,	
+	ремонт жасаңдар деп ыы—	
+	Білмеймін.	I do not know.
+	Аха.	Aha.
+	Е.	He never told me anything like that.
+	Ол сияқтыларын айтқан жоқ.	
+	Білмеймін?	I do not know.
+	Самар туралы,	I did not hear anything about Samar.
+	естіген жоқпын?	
+	Әкем,	Nazgul just told me that my father is probably planning to go back.
+	әкем,	
+	қайтамын ғой деймін деп отырмын деп,	
+	жаңа ¬Назгүл айтады.	
+	Білмеймін маған айтқан жоқ.	No, he did not tell me.
+SPK0027	Менімен қайтамын деп қояды.	He said he would go back with me.
+SPK3001	Иә.	Yes.
+SPK0032	##.	
+SPK3001	Ол қашан екен.	When is it?
+	А:.	Ah..
+	Е:,	That I do not know. My Agatay never told me.
+	білмеймін оны,	
+	Ағатайым,	
+	ыы,	
+	маған айтқан жоқ.	
+	#—,	My dad is planning on going back. I do not know.
+	қайтамын деп отыр ағам.	
+	Білмеймін.	
+	@	
+	@@@	
+	Е:.	
+	Ауылда кіти,	You wanted them to spend some time in aul, right..
+	жатсын дедің бе.	
+	Е:.	
+	Аха.	Aha.
+SPK0027	Жатсын әлі.	Let them stay for a little more.
+SPK3001	Сол.	That's how it is.
+	Мхм.	Mhm.
+SPK0027	Күршімге барып жатады.	They will go to Kurshim and spend time there.
+SPK3001	Сол.	That...
+	Жездең жақсы.	Your zhezde is all good.
+	Бажасын шығарып салып жаңа енді,	He just showed his bazha the way back..
+	Күршімге кетті.	He went to Kurhsim.
+	Әгі қыздарды,	He took this girls and Akosh to get Akosh's child's hair cut... He took them all to Kurshim.
+	¬Әкөшті:,	
+	Шашы—	
+	Баласын шашын алғызуға:,	
+	соларды алып кетті.	
+	Күршімге.	
+	Қызына,	He became a taxi for his girls.
+	қыздарына такси болып кетті.	
+	Мхм.	Mhm.
+	Сол жүрміз сол,	So this is how we are...  I go back to work tomorrow already.
+	мен:,	
+	ертең,	
+	жұмысқа шығамын уже.	
+	Отпускім бітті.	My leave is over.
+	Иә.	Yes.
+	Мен,	
+	бірінен шықтым ғой.	Yes, I  took the leave on June 1st...
+	Июль,	
+	июнннің.	
+	(H) ертең жұмыс сол.	So tomorrow is work.
+	А.	
+	Аяғым,	My leg..
+	мына екінші жағына кішкене салмақ түсі:п,	My second leg is being a little weighed down...
+	дәм—,	
+	бір,	
+	жасатқан аяғым ана,	That leg of mine which had undergone surgery brings some prickling pain when it is cloudy outside.
+	не,	
+	бұлтты күндері,	
+	шағады енді.	
+	Бұлт болады ғой,	You know during cloudy days..
+	бұлтты күндері.	
+SPK0027	Кардиоприл.	Cardiopril.
+SPK3001	Ша:ғып,	It prickles...
+	дырылдап,	and trembles...
+	со:л.	That's how things are..
+	Сол.	
+	Сөйтіп отырмын.	That's how I am.
+	¬Гүлжан жұмыста ма.	Is Gulzhan at work?
+	Е:.	Oh I see.
+	Аха.	Aha.
+	Сол,	
+	біз отырмыз сөйтіп.	So that' how we are.
+SPK0032	Кардиоприл.	Cardiopril.
+SPK3001	Аха?	Aha, thanks.
+	Рақмет.	
+	Е иә.	Oh yeah.
+	Сол телефон сол.	That phone is the way it is.
+	Ағатайым,	My Agatay said that he had some phone lying at his place and thought about getting it fixed for dad...
+	үйде бір,	
+	телефон жатқан,	
+	не етсе жөндеп беремін деген.	
+	Анау вообще ұстамай қойды,	Otherwise dad's current phone is not really working..
+	Қалаға барған соң ұстайтын шығар енді?	I hope it works when he returns to the city.
+	Мына жақта,	You know that here where we live the service is bad.
+	бізде связь дұрыс емес емес пе.	
+	Нет услуга связи,	"It says ""no service"" all the time."
+	деп шығады.	
+	А дұрыс,	Ah good...
+	ұсталмай жүр ме.	Maybe it is not picking up the signal.
+	Аха.	Aha.
+	Аха.	Aha.
+	Жақсы,	Good, alright, pass our hello's to others.
+	сәлем айт бәріне.	
+	Аха.	
+	Көрші шал,	He says that the neighbor shal keeps asking [where dad is]
+	сұрай бер—	
+	сұрай береді дейді.	
+SPK0032	Әгі құрт жалағанды,	Did they post the licking of the qurt on the internet?
+	неге шығарып жіберген бе,	
+	соны көрген бе.	
+SPK3001	Жоқ,	No, I posted that.
+SPK0032	####.	
+SPK3001	салғанмын ғой мен.	
+SPK0032	А.	Come again?
+SPK3001	Мына біреулердің көрдің бе?	Did you see those?
+	Жармайды ма?	Are they not okay?
+SPK0027	Қазір,	Just wait a little.
+	тұра тұршы.	
+SPK0032	Құдайым-а:у сол.	Oh god, just look at all these drugs.
+	Андағы қандай дәрі ей.	What kind of medication is that?
+SPK0027	Мынау канефрон.	This is kanefron.
+SPK3001	Е ол ана,	Oh that one is mine.
+	өзімдікі ол.	
+	Аха.	Aha.
+SPK0032	Ол ішіп жүргені ғой.	It is the one she is taking.
+	Мынау да сол.	This one is also that.
+SPK0027	Мына біреуің,	This one of yours...
+	мусо—	
+	неменеде өтіп кетіпті,	it has already expired.
+SPK3001	Е:,	Oh, did it? Just throw it away.
+SPK0027	уже.	
+SPK3001	өтіп кетіп пе,	
+SPK0027	Мынау.	This one.
+SPK3001	тастай сал.	
+SPK0032	Мә.	Here it is, take it.
+	Кардиоприл.	Kardiopril.
+SPK3001	Андағы немене.	What is that?
+SPK0032	Кардиоприл.	Kardiopril.
+	Жүректікі.	For heart.
+SPK3001	Е ішесің бе.	Do you want to take them?
+SPK0032	Жо:,	No, I have a lot of them, oh my.
+	мен де көп,	
+	ойба:й.	
+	Төрт,	Four boxes.
+	жәшік ###.	
+SPK3001	Міне,	Here it is. Ksipokam.
+	ксипокам.	
+SPK0027	Әкелші,	Give it to me, I am checking them myself.
+	мен өзім қарап отырмын.	
+SPK0032	Мынау күні өтіп кеткендер ғой.	These ones are those that have already expired.
+SPK0027	Мама андағы,	Mom, those are those that have already expired.
+	күні өтіп кеткендер.	
+SPK0032	Жоқ әй,	No, I do know that.
+SPK0027	Жинамай-ақ қой.	Do not collect them.
+SPK0032	біліп отырмын,	
+	####.	
+SPK0027	Мә мына.	Here take this.
+SPK0032	Мынау недеген жоян,	What a big one is this!
+	дәрі әкәм.	
+SPK3001	Андағы өткен жоқ күні.	That one is not expired.
+SPK0032	######.	
+SPK3001	Иә?	Yes?
+SPK0027	Он екінші ай дейді,	It says 12th month.
+	екеу-ақ қалыпты,	There are only two left. You bought it unfull/in parts?
+	мынаны шала алғансың ғой иә?	
+SPK3001	Мхм.	Yes.
+SPK0032	Супрастин екен ғой.	Oh this is apparently suprastin.
+SPK3001	EXPRESSES_AFFECTION_TO_THE_CHILD	
+SPK0032	Панкреатин.	Pankreatin.
+SPK3001	EXPRESSES_AFFECTION_TO_THE_CHILD	
+SPK0027	Дай сюда.	Give that to me!
+SPK3001	Телефонын не етсем,	He said he called dad but he doesn't reply. He wants to know when he is planning on going back.
+	алмайды әкем жақ,	
+	қашан қайтамыз деп отыр дейді.	
+	Көрші шал айтады дейді,	"He also said that the neighor shal teases him saying ""You have a car; why don't you bring your own parents yourself?"""
+	астыңда мәшінің бар,	
+	әке-шешеңді неге әкелмейсің өзің деп.	
+SPK0027	Ол кісінің шаруасы қанша өзі.	What does that person care so much?
+SPK0032	@@	
+SPK0027	####.	
+SPK0032	Қайтіп әкеледі?	How can he possible bring us back?
+	Жұмыста жүр өзі.	He is working!
+SPK0027	Жоқ оның,	No I mean why does he care at all whether he takes you away or takes you back...
+	шаруаларың қанша,	
+	әкеледі ме,	
+SPK0032	Соны айтамын.	Exactly my point.
+SPK3001	Қайдан білем мен енді оны,	How can I possibly know that!
+SPK0027	әкетеді ме.	
+SPK3001	######.	
+SPK0032	Олар әшейін,	They are just friends who play cards, and that's it.
+	карта ойнайтындар баяғы,	
+	шатып.	
+	Мәшіні ##,	His car...
+	жұмыста жүр.	He is at work these days.
+	Алматыға с—	To Almaty...
+SPK3001	Мына сияқты ша- ыым,	I gave dad tea like this.
+	шай әкеме бергенмін.	
+	Мынау күшті: ғой.	This one is good!
+	Ненікі,	
+	Эмелдікі.	From the company called Emel.
+	Не,	There is good tea called kardelis.
+	карделис деген,	
+	күшті шай бар.	
+	Содан кейін міне мынау бар.	Then I have this one...
+	Асқазан та-,	the one that cleans the intestines...
+	ішек тазалайтын бар.	
+SPK0032	Недеген дәрі анандай,	What an abundance of medication!
+SPK3001	Мынау,	This one is the one that cleans up the intestines.
+SPK0032	шөп.	Herbs..
+SPK3001	мынау ішек тазалайтын,	
+	ішесің бе.	Would you like to try some?
+	Ішіңді жұмсартады.	It will soften your belly?
+	Өте күшті.	Very good.
+SPK0032	Ішек тазалағанда,	Talking about cleaning the intestines...
+	мен әгі,	
+	немене.	
+	Мен дә- ыы—	I cannot go to the toilet.
+SPK0027	Запор ғой бұда.	Mom has consipation
+SPK0032	Дәретке отыра алмайын ғой.	
+SPK3001	Міне,	Take this one, take take take! It will make you go to the toilet.
+	міне,	
+	міне.	
+	Соған отырғызады.	
+SPK0032	Дәретке отыра алмаймын.	I cannot go to the toilet.
+SPK3001	Соны айтамын.	That's what I mean.
+SPK0032	Кешеден бері,	I have been eating beetroot since yesterday.
+	свекланы,	
+	жеп жатырмын.	
+SPK3001	Міне,	Here.
+SPK0027	Қалай ішетінін айтсаңшы.	Tell her how you should drink this.
+SPK3001	мынау бар.	There is this.
+SPK0027	Қалай ішеді.	How to drink it?
+SPK3001	Заваривать етеді де,	You just brew it and drink. That's it.
+	ішеді.	
+	Болды.	
+	Өзі мынау,	Brews for 20 minutes only and you just drink it up during daytime.
+	жиырма минут заваривать етеді,	
+	күнімен іше салады.	
+	Мен аурудан,	I... I have a lot of drugs from different illnesses.
+	неше түрлі бар ғой.	
+SPK0027	Бір чашкасын ба?	Just a cup?
+SPK3001	Иә,	Yes, one per cup.
+	бір несіне бір.	
+	Міне аэртал,	This is aertal...the one I drink everyday..when my legs hurt... I bought it in packages.
+	міне,	
+	күнделікті ішетін менің,	
+	аяғым ауырға-,	
+	аэртал.	
+	Пачкалеп алғанмын.	
+SPK0032	Соны ішепейсің ғой енді қазір,	Well you do not take it now because now is summer.
+SPK3001	Неге мама мен,	What? No, I do. I take it and add it to the other drugs that I take.
+SPK0032	жазғы уақыт.	
+SPK3001	Мен өзім ішетін дәрілеріме апарып,	
+	қосып жүрмін ғой.	
+SPK0032	Е:.	Oh I see.
+SPK3001	Неге ішпеймін мен.	Why do you think I do not take it?
+	Дәрімен қана,	I am living on medication...
+	###.	
+	¬Ырыс ұқсап айтып қояйын,	Let me be like Yrys and say that I am alive thanks to medication only ahah.
+	дәрімен жүр емеспін бе мен.	
+SPK0032	Алматыға,	He was going to ask for permission to leave for Almaty.
+	сұранамын деп отыраған.	
+	Жібереді-,	Did they give him the permission?
+	жібереді ме?	
+SPK0027	Кімді.	Give who?
+SPK0032	¬Сәкөні.	Sako.
+	Әгі бажасының,	His bazha's...
+SPK0027	Барады,	He will go.
+	барады.	
+SPK0032	Иә.	Yes.
+	##.	
+SPK3001	Оған қашан барушы еді.	When should he go there?
+SPK0032	##.	
+	Жиырма сегізінде кетеміз деп отырған.	He said he would depart on the 28th.
+SPK0027	Мынаны неге алып шықтың.	Why did you take it out?
+SPK3001	Саламын қазір қайтадан.	I will put it back, no worries!
+SPK0032	Үйде кім,	At home...
+	¬Жамиля бар ғой,	There is Zhamilya...
+	сол,	
+	¬Жамиля,	That Zhamilya is there, and so...
+	сонда ғой,	
+	содан кейін.	

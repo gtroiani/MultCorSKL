@@ -1,0 +1,315 @@
+speaker	span	translation
+SPK0032	Қандай суық иә?	It is so cold, isn't it?
+SPK0031	Холодильникте қойып қойыпты.	They apparently put it into the fridge.
+SPK0032	Еее.	Oh, I see.
+SPK0031	DRINKS_BEVERAGE	
+SPK0032	Бір пұшықай туыпты.	She gave brith to a baby with a pug nose.
+SPK0031	Бір екі.	One two...
+	Екі ұлы бар екен,	He has got two sons, oh my god.
+	құдай-а:у.	
+	Бұттары жалаңаш.	They are playing in the sand with their bare bottom.
+	Топырақта ойнап жүр.	
+	Құдай-ау баяғ—	Oh my god! In the past...
+SPK0032	Жалаң аяқ.	With bare feet.
+SPK0031	баяғыда ##.	In the past...
+	Дұрыс әкри #—	You know, this is actually right!
+SPK0032	Иә?	Yes.
+	Аяқ-киім кимейді дейді.	They say these kids do no wear shoes.
+SPK0031	Дұрыс екен.	It is apparently right (to let kids walk barefoot and with bare bottoms).
+	Оны көрдім.	I saw him. He looks just like Zhanat, very very dark-skinned.
+	Әшейін ¬Жанат баяғы.	
+SPK0032	¬Жанат	Just like Zhanat.
+	Тіпті,	Even their noses are just like that of Zhanat's.
+SPK0031	@ @қап-қара @ қап-қара.	
+SPK0032	танаулары әшейін ¬Жанат.	
+SPK0031	####.	
+	Әгі,	At some point, his daughter came.
+	қыз баласы келді бір уақта.	
+	Бір келді апа,	"She came once and said: ""Grandma..."""
+	мынандай бір екі қолында екі:,	In her hands, she had this thing like this.
+	несі бар.	
+	Мороженое дейді.	It was ice-cream.
+	Әкеп апасына берді.	She brought one ice-cream and gave it to her grandmother.
+	Бір морожыный.	She had another for herself in her hands.
+	Бір морожын өз қолында.	
+	¬Жания жеп қойды әгіні отырып.	Zhaniya just ate it all up while sitting.
+	Морожыный.	The ice-cream.
+	Мен айтамын тамағың #### мұздай.	"I say, ""Your throat...####... cold like ice""."
+SPK0032	Же:йді.	Oh, so she eats ice-cream?
+	Жейді екен ғой иә?	
+SPK0031	Мен жеймін дейді.	She says she eats.
+	Содан кейін бір уақта,	Then at some point she brought a tissue like this.
+	бір мынандай шыт алып келді.	
+	Жаңа.	It was a new one.
+	Міне апа деді.	"""Here it is, grandma"", said she."
+	Мынау немене деп бүйтіп қарады.	I looked at it wondering what it was.
+	Шыт деді.	She said it was a tissue.
+	Алдында морожное берді,	She first gave her ice-cream, and then she brought a tissue.
+	одан бір шыт әкеп берді.	
+	Шәй ішіп отырғанда айтады,	"When we were having tea, she, the daughter-in-law, said: ""Did you take the tissue?"""
+	әгі шытты алдың ба дейді келіні,	
+	иә берді.	"""Yes, she gave it to me."""
+	Ана ескі шытты жұлып алды.	She pulled that old tissue away from her hands.
+	Боқтыққа тастай—	"She said, ""I will throw it away...that thing in Zhaniya's hands... into the trash....into that thing... """
+	Әгі неге тастаймын деді.	
+	¬Жанияның қолындағы.	
+SPK0032	##.	
+SPK0031	##.	That thing with which she (Zhaniya) was using to wipe, she (the daughter-in-law) took this thing from her.
+	Әгі мына,	
+	сүртіп отырған шытын алды.	
+	Неге тастайын деді.	To throw it into that thing, she said.
+SPK0032	Кіти төртбұрыш шыт?	Was it a small rectangle-shaped tissue?
+SPK0031	Иә у носовой плоток.	Yes, a tissue for nose.
+SPK0032	Еее.	Oh, I see.
+SPK0031	Осындай осындай.	Like this.
+	Үлкен анау менікі сияқты.	Like that big one I have.
+SPK0032	Ааа.	Oh.
+SPK0031	Екі жүз теңге деп сөйдейді.	She said the tissue costs two hundred tenges.
+	Немене оны,	"""What will you do with it? It is old and used. It is bad. I will throw it away "", said she, and took the tissue and threw it into something that stood beside her."
+	мынау ескі.	
+	Жаман,	
+	мынаны тастаймын.	
+	Деп алды да мына жағында бірдеңеге тастай салды.	
+SPK0032	¬Жанат жоқ па үйде.	Was Zhanat home?
+SPK0031	Жүр жатыр.	He is there, lying.
+	Енді ана,	"Then  at one point she was on a call with somebody and she said: ""My sister-in-law passed away apparently. I need to go to see her. How can I not?  Will I just be sitting like this when she's gone?"""
+	бір уақта телефонмен сөйлесіп,	
+	жеңгем,	
+	қайтыс болыпты ммм,	
+	енді,	
+	баруым керек қалай мен,	
+	жеңгем қайтыс болғанда отырамын деді ме?	
+	Бірдеңе деп сөйлеп.	She said something like this.
+	Енді бар,	"And then the person said, ""Now go and tell this to Zhanat"". I do not know if she told reached Zhanat about this."
+	¬Жанатқа айт деген,	
+	шықты ¬Жанатқа білмеймін?	
+	Біреу апармаса.	If somebody does not take her...
+SPK0032	Иә.	Yes.
+SPK0031	Енді сонымен әгі ақшаны көпіртіп жүр ғой ол.	Well with that he is making lots of money.
+	Миллионды.	One million.
+SPK0032	Әгі екі жүз жир—	That two hundred...twenty... two million.
+	екі миллионды.	
+SPK0031	Екі жүз теңгеге шыт макарон #	For two hundred tenges, tissues, macaroni, and qarma breads like this, you know.
+	мынандай мынандай қармалар әгі.	
+	Үйді—	"""Grandpa, this is home-made qarma. Please eat some"", said she."
+	қолдың қармасы же а—	
+	ата деп қояды.	
+	Сатып әкелген қармалар өңкей мынандай мынандай.	All of them are store-bought qarma breads like this.
+SPK0032	Е- екі.	Two...
+	Қалада екі жүз жиырма теңге сол.	In the city, it costs 220 tenges.
+	Бұрын,	It used to be 180 tenges.
+	жүз сексен болатын.	
+	Е мына жерде одан да қымбат.	Well here it is even more expensive than that.
+	###.	
+SPK0031	#,	It comes from our place.
+	өзімізде ол.	
+	Қаладан әкелмейді ғой оны?	They don't bring it from the city.
+SPK0032	Иә.	Yes.
+SPK0031	###.	
+SPK0032	Магазинге келеді ғой ей.	They are brought to the stores here.
+SPK0031	(H) Қаладан,	What I mean when I say that they bring stuff from the city to the stores...
+	мәгәзінге келгенде ол,	
+	осы жердегі халықтар да жасап,	... I mean that the people here as well make them and sell to the stores.
+	мәгәзінге өткізеді.	
+	Содан да әкеледі.	This is also how they bring them to the stores.
+SPK0032	###.	
+SPK0031	Кәдімөс—	Ordinary...
+	Енді пикарныйдың наны салған сол осы сияқты ғой енді ей.	Well, it is just like how the bakeries work.
+SPK0032	Анау,	That..
+	кім де алдында бір жеп отыр ғой әне?	You know that person also ate those people's qarma bread as well.
+SPK0031	Заводской ##	From the manufacturer ##...
+SPK0032	Біздікі.	Ours.
+	Сол.	That's it.
+SPK0031	Кім.	Who?
+SPK0032	¬Мәулер істегенді істейді.	Mau and people related to him make what they make.
+	Ана:,	That person who cooks meat.
+	әгі ет асып жүрген.	
+SPK0031	Иә иә.	Yes, yes.
+SPK0032	Ол да содан осы қы-,	That person also distributes.
+	таратады.	
+	Тоқашты да әкеледі.	She also brings buns and qarma bread.
+SPK0031	Енді қала емес қой әкәу.	Oh dearie, it is not the city that makes them. They are produced locally here.
+SPK0032	Қарманы.	
+SPK0031	Осы жер жасайды оны.	
+SPK0032	Күршім деймін.	I am saying Kurshim.
+SPK0031	Күршім жасайды.	Kurshim produces them.
+	Күршім жасайды.	Kurshim produces them.
+SPK0032	Е соны айтсаңшы.	Oh, that's what I meant as well.
+SPK0031	Соны айтып отырмын мен.	That's what I am talking about.
+SPK0032	Иә.	Yes.
+SPK0031	Мен міне жерде,	I am not saying that it is made here.
+	міне жердікі деп отырғаным жоқ.	
+	Күршім жасағанда күршімнің халқы жасайды.	When I say that Kurshim produces them, I really mean that it is the people of Kurshim who make them (the qarma bread).
+	Өзі сияқты келіншек жасайды әгіні.	A woman like her makes them.
+	Ал.	Let this sink in.
+SPK0032	Сен Зеленый деп от—	I am not saying that you said they are made here in Zelenyi.
+	отырғаным жоқ мен.	
+	Сен мен сөйтіп отырмын.	You...I am saying just like that.
+SPK0031	Иә?	Yes.
+SPK0032	Сен Зеленый деп жатырсың.	You are saying Zelenyi, meaning here.
+SPK0031	Жоқ.	No.
+	Жоқ жоқ,	No, no, they are not made in Zelenyi.
+	Зеленыйде емес.	
+SPK0032	Осы жер деп.	
+SPK0031	Күршімнің кісілері жасайды әгі қарманы.	The people in Kurshim make this qarma bread.
+SPK0032	Иә?	Yes.
+SPK0031	CLEARS_THROAT	
+SPK0032	Тамақ асайын деген жоқ па?	Didn't she say she would cook meat?
+SPK0031	Жоқ.	No.
+	Анау,	The thing is...
+	маған бір жұмыс шығып қалып ана күні.	"""The other day I had a matter to deal with"", said she."
+	Апа отырған,	"""There was a grandmother, where is she?"", she asked me."
+	ал ол апаң қайда.	
+	Үйде дедім ол.	"I said, ""she is at home."""
+	Апа неге келмеді дейді әгі келін.	"That kelin asked, ""Why didn't she come with you?"""
+	Ал керек болса.	It was surprising that she asked this.
+	Әгі,	That...
+	кешегі тамақ ас- е-,	Yesterday's food...
+	бәлен,	
+	жұмыс шығып қалып содан асығып жұмысқа кетіп қалғанмын.	"She said, ""I had stuff to do, so I hurriedly went to deal with them."""
+	Айтқан дедім.	I said I know.
+	Атасымен бір жерге кетті.	That she went somewhere with her grandfather.
+	(H) (Hx)	
+SPK0032	Қолдан келмегелі сол.	Because they cannot do it...
+	Қолдан келетін.	Our Dikosh and others who can do this would do everything perfectly if they had the chance.
+	Қазір мына-ай біздің ¬Дикоштар не істесе,	
+	Жып-жылмайғай қылады ананы баяғы.	
+SPK0031	Ой құдай.	Oh God!
+	####.	
+SPK0032	Жоқ енді соған қарап отыр ғой.	You see, they are only relying on that.
+	Анау басқа жағын ағартып неге түзеп жуып шая бермейді.	Why does she not at least start to whiten and repair the other side of the house?
+	Басқа төрт комната тұр.	There are four more rooms.
+	Бес комната тұр арғы жағында.	There are five more rooms on the other side.
+	Бес комната тұр.	There are five rooms.
+SPK0031	Ой құдай-ау ананы әкеңнің ауызың сігейін.	Oh, god, fuck it!
+	(TSK)	
+	Недеген жәрмес әкеңнің аузын сігейін.	He is so fucking stupid!
+SPK0032	Ақырын ақырын жуып.	They could slowly start washing... and whitening...
+	###-ны ағарта берсін.	
+	Ағартатын да емес.	There is even nothing to whiten...
+	Бәрі обой.	It's all wallpapers...
+	Қағаз жабыстырып ###	### gluing papers.
+	Жоқ қызыл мәшін тұр ана ненің ішінде.	No, a red car is inside that thing.
+SPK0031	Кетші-ей әкиң.	What are you saying?
+SPK0032	Жоқ енді соны.	No....well...that...
+SPK0031	О: @@	
+	Қораға қ#—	# in the barn...
+	қо- қоршауда мына жақта біреулер,	Inside the fences of this side, some people lined a bunch of cars up.
+	мәшін тізіп салыпты сол сияқты.	
+	Шалқайты:п,	Tilting the cars and putting them on their sides, oh my god!
+	қырынан қырынан қойып,	
+	ойбай а:й.	
+	Бес,	Five....
+	бес мәшіннің қаңқасы тұр.	There are the skeletons of five cars there.
+	Біреудің қорғанында.	Inside one's fence.
+	Ана біреу жерде кім:,	In that place...that person...
+	¬Берік,	...Berik...
+	¬Беріктің үйінің арғы жағында бір үйдің несінде @ё:.	...Oh my, at someone's place behind Berik's place.
+	Тағы бір жерде тіпті көп.	In another place, there is even more.
+	Ее.	Oh, I remembered!
+	Мына ¬Жұматайдың,	Zhumatay's...
+	¬Жұматай емес міне жерде,	Not Zhumatay's but in this place...
+	кеше арықтан өттік қой сонда.	...In the place where yesterday we crossed the irrigation ditch.
+	Онда да недәуір,	There as well, it is quite...
+	қатар қатар мәшінді қорған қылдырып тастаған бүйтіп.	They made fences out of cars that are lined up like this.
+SPK0032	Үтіл шығар ол,	It is probably disposed junk.
+	үтіл ғой.	It is junk, you know.
+SPK0031	Үтіл мәт- мәшіндер деймін мен.	I am saying these are junk cars.
+SPK0032	Иә?	Yes.
+SPK0031	Ойбай-ай сен дағы бір.	Oh, you!
+SPK0032	Бір үйдің мәшіні емес.	They are not the cars of one household.
+	Үтіл мәшіндер.	These are junk cars.
+SPK0031	Қаңқасы ғой елдің қалған.	These are just the skeletons of people's cars.
+	Енді,	Well..
+	соны енді,	That person...Esetbay...he accepts stuff from metal at that junk disposal site.
+	үтілге ана жерде кім,	
+	темір алады ғой әгі,	
+	¬Есетбай.	
+	Алмайтыны жоқ оның.	There is nothing he does not accept.
+	Түг—	Everything.
+	Не бар,	He accepts everything that is there like tin buckets and whatnot.
+	түгел алады.	
+	Қаңылтыр,	
+	шелекке дейін.	
+	Ана мәшіндерді апарып өткізсе талай қояды.	If they give away their cars, they will get more money.
+	CLEARS_THROAT	
+SPK0032	Бәрін бірдеңеге жинап,	It is good if they gather everything into one pile and take the pile there together.
+	бірігіп апарса жарайды.	
+	Иә?	Am I right?
+SPK0031	Иә,	Yes, they cannot take them there each of them seperately.
+	жеке жеке апара алмайды ғой.	
+SPK0032	Жеке-жеке апара алмайды ғой.	They cannot take them there each of them seperately.
+	Е міне ¬Сапаралидің,	Saparali's hair hasn't turned gray at all. What kind of person is he?!
+	шашы ағарған жоқ,	
+	недеген адам екен сол.	
+SPK0031	Аааа.	Oh.
+SPK0032	¬Жанияның да шашы сол.	The same with Zhaniya.
+	А—	
+SPK0031	Басы қандай доп-домалақ ¬Сапаралидің.	Saparali's head is so round.
+SPK0032	А.	Come again?
+SPK0031	Ба—	His head...
+	Басы қандай доп-домалақ,	What a round head he has?!
+	шарик сияқты әкеңнің аузын сігейін @.	Just like a fucking ball.
+	¬Сапаралидің.	I mean Saparali's head.
+SPK0032	Еее.	Oh.
+SPK0031	CLEARS_THROAT	
+	SIGHS	
+	Таксимен қайтып кетеміз дейді.	They say they will leave for the city on taxi.
+SPK0032	Аа.	Come again?
+SPK0031	Таксимен мына жазуым бітсе қайтып кетеміз деп отыр.	They (the researcher and his family) is saying they will go back to the city by taxi as soon as he is done with his recordings.
+	Қалаға (H)	To the city...
+	енді вообще кетемін дейді ғой.	He is saying he will be gone for good.
+	Сен оқуға кетесің бе?	Are you leaving for school?
+	Астанаға?	To Astana?
+SPK0032	Оқуын бітте емес пе ей.	Don't you know he has already finished his studies?
+SPK0014	Алтысында кетемін.	I am leaving on the sixth.
+SPK0031	А.	Come again?
+SPK0014	Алтысында кетемін.	I am leaving on the sixth.
+SPK0031	Алтысында?	On the sixth?
+SPK0032	Астанаға.	To Astana.
+SPK0031	Иә кет- кетеді Астанаға.	Yes, he will leave for Astana.
+SPK0032	Дипломы бар енді жұмысын,	Now that he has a diploma, he will work.
+	істейді.	
+SPK0031	### бірдеңелер ###	### sometthing ###...
+SPK0032	Иә.	Yes.
+SPK0031	жинап жүр ғой жазып.	...he is gathering, recording something you know...
+	Соны жебереді.	He will submit those.
+	CLEARS_THROAT	
+	Тамағым қырып кетті ғой әкеңнің аузы.	My throat is fucking burning.
+SPK0032	Немене қырып жатыр.	What is burning it?
+SPK0031	Суықтай ішкеннен мүмкін.	Is it because I drank it cold?
+SPK0032	Неменені іштің.	What did you drink?
+SPK0031	Осы квасты жаңа,	Kvass, just a moment ago.
+SPK0032	@ ##	
+SPK0031	#####	
+SPK0032	Недеген адам тіпті.	What a human is she?! She eats ice-cream? Isn't that weird?
+	##	
+	Морожыный жеген кісі,	
+	недеген иә.	
+SPK0031	Соны айтамын.	Yes, exactly.
+	Құдай-ай сақтай гөр.	God save us!
+SPK0032	Онікі кәрілік кішкене.	It is just her senility.
+	Одан басқа түгі де—	No other explanation..
+SPK0031	@@@	
+SPK0032	Давлением жоқ дейді.	She says her blood pressure is normal.
+SPK0031	##	
+	¬Сапарали жоқ дейді анау айтады,	Saparali says his blood pressure is ok. But she says her blood pressure is normally 150-160.
+	жүз елу,	
+	жүз алпыспен жүремін дейді.	
+SPK0032	Өтірік айтады.	He is lying. Saparali and her both have it (high blood pressure).
+SPK0031	Иә?	Yes.
+SPK0032	¬Сапарали,	
+	екеуінде де бар.	
+SPK0031	Ал ¬Сапарали айтады,	"But Saparali says, ""I do not have high blood pressure at all."""
+	менде вообще жоқ дейді.	
+	Давление.	
+SPK0032	Иә.	Yes.
+	Иә.	Yes.
+SPK0031	¬Жания айтады.	Zhaniya says her blood pressure is 150-160.
+	Жүз елу,	
+	жүз алпыс дейді.	
+SPK0032	¬Сапаралидің бауырына да,	Saparali underwent a surgery for his liver. Look at him now, he has recovered.
+	жасапты жазылып кетті әне.	
+	Жақсы әгі,	Good...that...
+	не болды,	...I mean...
+	таза болып.	...it cleared...

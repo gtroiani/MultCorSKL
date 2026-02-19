@@ -1,0 +1,563 @@
+speaker	span	translation
+SPK0015	Аа.	Oh really, are our mountains low?
+SPK0017	Тянь-Шань Тянь-Шаньнан кейін Алатау #	After Tian Shan there is Alatau [in terms of height].
+SPK0015	Біздікі аласа ма	
+SPK0016	Біздікі хребет	Do you know what хребет means in Kazakh... oh no, I meant in Russian?
+	хребет дегенді білесің бе сен	
+SPK0015	Ааа.	I see.
+SPK0016	қазақша айт- орысша айтқанды	
+	Жоталар сияқты ## жазық	It is means a ridge. They are usually steep.
+	аналар сияқты емес	Not like those.
+	Ананікі биік-биік былай	Those are big like this.
+SPK0015	Қара таулар иә	Those are Karatau mountains, right?
+SPK0017	Еее.	Yes.
+	Мынау Тарбағатайдың тауы хребет	The mountain in Tarbagatai is actually a ridge.
+SPK0016	Алатау.	Alatau...
+SPK0017	Айналып барады дағы А-	It goes all the way before joining...
+	Ал- Ал- Алматының Алатауына қосылады	the Alatau mountains in Almaty.
+SPK0015	¬Сания бар ғой,	"You know what.. Saniya saw the Karatau mountains for the first time. She saw it for the first time. ""Are there mountains like these, I did not know"" was her reaction when she went there."
+	Қаратауды бірінші рет көріп тұр ғой	
+	Көріпті ғой	
+SPK0016	Осындай да тау бола ма дейді ғой @@@@@@	"She said ""Wow,  there are also mountains like these, I did not know""."
+SPK0015	Осындай да тау бола ма деп айтыпты ғой	
+SPK0016	Ылғи тас қой ол.	There are rocks everwhere.
+SPK0015	Келгенде	
+	Тас.	Rocks.
+SPK0017	Әгі алдында ###	The other time ###...
+SPK0015	Сонда Алматыда қандай тау	So, what kind of mountains there are in Almaty (where Saniya is from)?
+SPK0017	Алатау ол жақта тас сондай тас қой бірақ ол жақта жасыл ###	There are also rocks in Alatau ###.
+	Араламаған ғой просто жәй сыртын бергі жағын бүйтіп көреді	They just did not see all of the mountain. They only were on the reachable side of the mountain.
+	Ары қарай бармайды ғой ол жаққа көбіне	Many do not go any farther than that.
+	Соған ## білмейді де	They really do not know and ###.
+	Оралда жүргенде	When I was in Oral,
+	бір жігіттер айтты ана	one guy suggested that we go to some village here in Kazakhstan.
+	бір осы жерден бір Қазақстанда бір ауылға барып келейік	
+	Холодильник бар деді сол	He said there is a frige that needs to be brought.
+	Үй мен жер-көктің бәрі ##	All the houses and the land was ##.
+SPK0015	Мен газды өшірейінші айтпақшы	By the way, let me go and switch off the gas.
+SPK0017	А:йдап келеміз айғайлайды бір жерде тау #####	We were driving and he shouts, saying ####.
+	Мен джипта отырмын	I was inside a jeep.
+	Ауыл ###.	The village ###.
+	Холодильникті ашып ## жерден барып тиеп алдық	We took the fridge and loaded onto the car.
+	Сосын келе жатырмыз	After that we were driving back and I asked:
+	### сенің тауларың қайда еді	where are your mountains? (where are the mountains that you told me would be here?)
+	Көрген жоқсыз ба дейді	"He said, ""Didn't you see?"""
+	Өй жоқ көрген жоқпын дедім	I said I did not.
+	###дан қазір түсеміз дейді	He said were would go down the ###.
+SPK0016	@@@@@	@@@@@
+SPK0017	И жарайды деп	"I was like ""nah, okay'."
+	пердік пердік пердік	We were driving and driving, and I asked where the mountain was again.
+	######## тау қайда десем	
+	өтіп кеттік емес пе байқаған жоқсыз ба дейді	He said we had already passed by it and asked me whether I did not notice the mountains.
+	Тік тау болды ғой дейді	There was a straight mountain, he said.
+	(TSK)	(TSK)
+	Қайдан тік тау көрдіңдер десем	I asked where he saw it at.
+	Өй,	Ah,
+	сөйтсем ### ана ###дан түскендегі ### бүйткен жота	it turns out that he was talking about the ridge like this which ###.
+SPK0016	@@@@@@@@@@@@@@@@@@@@@@@@@	@@@@@@@@@@@@@@@@@@@@@@@@@
+SPK0017	Сондай жер	It was a ridge.
+	Содан	Then..
+SPK0016	Солар сөйтеді	Yes, these people are like that.
+SPK0017	содан кішкентай ғана кішкене	such a small...
+	##.	##.
+SPK0015	Ыстық шәй ішесіз бе	Would you like a cup of hot tea?
+	Қара шәй құйып беремін	Have some black tea.
+SPK0017	Жоқ болдым рақмет #	Nope, I am full, thanks.
+SPK0015	Енді қарай шәй ішесіз сүт бітіп қалды	You'll have black tea because we ran out of milk.
+SPK0017	Жоқ ішпейміз	Nope, we are not having any more coffee.
+SPK0016	Ол жақтың барлығы сондай ғой жазық қой енді ол жақ	Yeap, those areas are all flat, of course.
+SPK0017	Жоқ аналар айтады та:у та:у биік тау дейді	"No, they said ""it is a biiiiiggg mountain""."
+SPK0016	Олардың сөзі солай ғой	They speak like that.
+SPK0015	Алла ла ла ла ла ла ла ла (Hx).	Oh my God God God God God God!
+SPK0017	А вот Көкшетауда	But in Kokshetau...
+	бәрінде көк тастан салынған	everyone has houses built from the blue stone.
+	үйлер	
+SPK0016	Ааа.	Oh, I see.
+SPK0017	Бір тас ж-	There is no single stone.
+	бір тау жоқ	Oh no, I mean there is no single mountain.
+SPK0016	Иә.	Yes.
+SPK0017	Жазық дала.	Just an endless steppe.
+	#### білмеймін	I do not know ###.
+SPK0015	(H)	(H)
+SPK0017	Мұқым ауыл,	The entire village and the center of the region were built there.
+SPK0016	#.	#.
+SPK0017	районның центрі бәрі сонда салынған ғой	
+	Мына бізде	Where we are from there are blue stones that ###.
+SPK0016	######.	######.
+SPK0017	### бар ғой көк көк тас	
+SPK0016	Жерден шығатын шығар жерде мынандай болады екен скала сияқты	Maybe these stones come out from the ground? Apparently that there are rocks that protrude from the ground.
+	Түзу-түзу мына #.	Like those very straight #.
+	###### солар тіп-тізу скала болады екен	###### and there straight rocks like that.
+SPK0017	Иә.	Yes exactly.
+	SNIFFS_LOUDLY	(SNIFFS_LOUDLY)
+SPK0016	Сол жерде бірдеңе бар ғой значит сол Көкшетаудың маңайында	So I think there has to be something like that around Kokshetau.
+SPK0017	Енді талай елдерде ен- ара-арасында көрдім ондай да бар екенін	Well, I've seen from many people in different place what they have.
+	но бірақ дағы	But you know what...
+SPK0016	Иә.	Yes.
+SPK0017	таза құм.	It is all just sand.
+SPK0016	COUGHS	(COUGHS)
+SPK0017	Ол құнарлы	It is fertile.
+	егін егеді	People grow food.
+	Суыр қаптаған	Marmots are everywhere on the surface of the land.
+	жер бетінде	
+SPK0016	Еее?	Oh, wow.
+SPK0017	Ана тасты қайда қоя салған	Where did they put the rock, I wonder.
+	Бірақ енді суық болады деп	But because it is cold inside such houses they plastered the inside of the houses.
+	сыртын бәрін ішін сыртын мынандый қылып сылаған	
+SPK0016	Тас.	Stone.
+	Конечно суық болады ғой	Stones, of course, are cold (when you build houses with them)
+	Ең суық нәрсе сол тас қой.	The coldest thing is stone, you know.
+SPK0017	Бірақ дейді ана қыста жылы болады дейді	But they say in winter it is warm.
+SPK0016	Ааа.	Oh I see.
+SPK0017	Қыста ана	When in winter you burn firewoord; these stones, after the house heats up, will hold the heat.
+	от жағасың ғой сонда	
+	әгі бәрі қызған кезде анау жылу ұстап тұрады дейді	
+SPK0016	Тас қызып тұрады @@@@	Oh the stone heats up.
+	Кафель ғой баяғы.	They are like tiles, you know.
+	## ең суық нәрсе тас қой.	## the coldest thing is a stone, after all.
+SPK0017	##.	##.
+SPK0015	Қазір бар ғой,	You know, nowadays
+	елдің бәрі біздің жақтағы ана ммм	everyone goes to that place in our village called Kerish. They go to that red rock over there. They go to that red mountain.
+	Керіш,	
+	тасқа баратын болыпты ғой қызыл тасқа	
+	Қызыл.	
+	Неменеге	
+SPK0016	Қиын Керішке де	It is called Kyin Kerish.
+SPK0015	тауға	To that mountain...
+SPK0017	Онда не бар	What's they got in there?
+SPK0015	Қиын Керішке	Yes, Kiyn Kerish.
+	А?	Come again?
+SPK0017	Онда не бар	What's it got here?
+SPK0016	Қиын Кер- Қиын Керішке	They go to that place called Kyin Kerish.
+SPK0015	Қиын Керішке барып	They go to Kyzyl Kerish and...
+SPK0017	Онда немене бар дейді	What's they got in there?
+SPK0015	қ- каньон.	Yes, a canyon.
+SPK0016	Каньон ғой каньон.	It is just a canyon.
+SPK0017	Жоқ онда не бар	No, I am asking what they have in there.
+SPK0016	Түк те жоқ.	There is nothing special.
+SPK0015	Түк те жоқ қып қызыл.	There is nothing special. It is just all red, that is it.
+SPK0017	Ее құдай-ай еріккен ##	Oh, God, it is just what people loitering around do - visit such places.
+SPK0016	Ананы былай шығарып алған ғой	It is just that people say if you lie on this canyon, it will give you some kind of energy.
+	анада жа:тып нетсең саған какой-то энергия береді	
+	Жерден энергия аласың сен	You get energy from the ground.
+SPK0015	Оны басқа жақта шет елден келіп қарайды екен	People from overseas come to see it, it turns out.
+SPK0016	Шет елдің бәрі сонда жүр ғой	All these foreigners are there, some say.
+SPK0015	Сонда келеді екен	They go there, they say.
+SPK0016	Анау енді как как Марс сияқты деші #	It just looks like Mars in there you know #.
+SPK0015	Ал біз оны қасымызда тұр соны барып көрмейміз білмейміз де	It is right near us, but we never go there and never see the place.
+SPK0016	Осы жолы көрейік пе деп едік маса болды ма емес пе әкең	We thought we would go there that time when we were in the village but we could not because of these freaking mosquitos.
+	Ә:рең дегенде қашып құтылдық	We barely escaped these mosquitos.
+SPK0015	Бұрын маса,	In there past there were not any mosquitos, right?
+	болмаған ғой өмірі бізде а	
+	Күндіз болмаған иә	They would not fly in the daytime right?
+	А.	
+	Малмен бірге анда-санда келетін а	They would come together with the cattle sometimes.
+	Түтін салатынбыз кетіп қалатын қорқатын масалар	We would make some smoke and they would be gone.
+SPK0016	Ммм.	Mhm.
+SPK0015	Ал қазір маса неге құтырып алды менің соған миім жетпейді неге көбейіп кетті	But now why did the mosquitos go crazy? I do not understand that.
+SPK0017	Мал жоқ.	There is simply no cattle, that is why.
+SPK0015	Неге шіркей көбейіп кетті	Why are there more midges these days?
+SPK0017	Мал жоқ.	There is no cattle.
+	Мал жоқ.	No cattle.
+SPK0016	Біздің маса ғой ¬Сәшөк айтады	Our mosquiots, Sashok says, can be found only in East Kazakhstan's Boran and Chernyaevka regions.
+	осы Шығыс Қазақстан @Боран @мен @Черняевкада @ғана @бар @ғой @деймін	
+	Басқа жерде маса жоқ	There are no mosquitos in other places.
+SPK0017	###############.	###############.
+SPK0015	Жоқ рас шы—	No, for real.
+SPK0017	Қаптап кетті дейді шығып кетті дейді	No, people say they have reacher other places as well.
+	Мынау Горный	In Gornyi,
+	###ге шығып кеткен ғой уже	and in ####, mosquitos started appearing as well these days.
+SPK0016	Жоқ қазір жоқ мысалы үшін енді ойла	No, just think.
+	Тарбағатайда жоқ	There are none in Tarbagatay.
+SPK0017	Ее.	Ее.
+SPK0016	Зайсанда жоқ	There are none in Zaisan.
+	Енді Зайсан мен екеуі мынандай-ақ	The distance between them is just like this - very small.
+	Ақаралда жоқ	There are none in Akaral.
+	Маса.	No mosquitos.
+	Ана Біржанда вообще жоқ	In that Birzhan village, there are none either,
+	@Черняевкаң @міне @бірауыз @Қалжыр	Chernyaevka is such a small village, but there are tons.
+SPK0015	Соны айтамын	That's exactly what I am saying....
+SPK0016	Череняевкаде е міне Прииртыште жоқ Шенгелдіде бар ма	Preyrtish has none but Shengeldi has a lot, right?
+	Шенгелдіде жоқ или Прииртыште бар ма сол сияқты	Or is it vice versa?
+SPK0017	#### Прииртыште екеуінде бар	They both have mosquitos there.
+SPK0016	Ее,	Oh.
+SPK0017	Боран Мөнекейде бар	There are mosquitos in Boran and Monekey.
+SPK0016	Мөнекей жақтарда	Yes, in Monekey as well.
+SPK0017	Мына жақта мына Күршім жақта бар	There are also mosquitos in Kurshim.
+SPK0016	Иә.	Yes.
+SPK0017	Өйткені су бар.	Because there is water.
+	Күршім Тарбағатайда су жоқ	There is no water in Kurshim and Tarbagatay.
+SPK0016	Сол Күршімдікі	Yes, the water in Kurshim is less in quantity. The other day ###.
+	Күршімдікі кішкене аздау екен ана жолы #######	
+SPK0017	###### бізде мына Қалжыр Ертісің барлығы #### еді де	It is just that our Kalzhyr and Ertis are all ###.
+	Таза суда жатыр	They are sitting on just water.
+SPK0016	Аааа, ## біз жақта чересчур	Oh, but it is too much in where we are.
+SPK0017	####.	####.
+	Ал біз жақтарда су жоқ қой құрғақ дала	In where we are, there is no water. It is just dry steppe.
+	Жауынның суымен өсіп тұрған нәрселер	Everything is growing thanks to rainwater.
+SPK0016	Ерт- ерт-,	Ertys...
+SPK0017	Ол жауын ғой ####.	It is all rain.
+SPK0016	Ертістің ####### өйткені Павлодарда да бар ма	Ertys... ####, and it is also in Pavlodar, right?
+SPK0017	Бар ##.	Right.
+	Ертістен шығып мына Зайсанда бар біз Зайсанның бергі жақ етегінде бар ғой	There are some in Zaysan's lower hemline closer to us as well.
+SPK0016	Павло— #.	Pavlodar ##.
+	Иә,	Yes.
+SPK0017	Арғы жағында жоқ тау жағында	Арғы жағында жоқ тау жағында.
+SPK0016	маса деген страш	There is just a scary amount of mosquito.
+SPK0015	Қалай қызық иә.	This is so interesting.
+SPK0017	Одан кейін бұлар неткен кезде мысалы бізде шөп қалың да әгі	In where we are from, the grass grows very thick and dense.
+SPK0015	Павлодарда ш- шіркей бар екен иә аха	There are black flies in Pavlodar as well, as it turns out.
+SPK0017	####да личинка бар.	And there is mosquitos' larve there ####.
+SPK0016	Ее.	Oh.
+SPK0017	Личинкалар көп	Lots of larva.
+	Ал бұрында болатын көктемде жер көктей бастағанда мал жүреді де әгі личинканы баттап баттап тастайтұғын	In the past, when the land would start becoming greener in the beginning of spring, the cattle would trample the larva in the grass and kill them.
+	Содан азайып өледі аналар	And the mosquitos would decrease in number and die.
+	Ал ### жоқ мал жоқ қазір.	But there is not a lot of cattle now.
+	Ен дала.	It is just endless steppe.
+	Мынау қазір байқайсың ба қой малын ұстамайды көп	Did you notice more and more people do not breed sheep anymore.
+SPK0016	Иә ешкім жоқ.	Yes.
+SPK0017	Жылқы жылқы жылқы жылқы деп	Everyone is crazy about horses.
+SPK0016	Бәрі далада жүр	All the cattle is outside.
+SPK0017	Мысалы үшін Тарбағатайда жүргенде де мына Зайсанда жүргенде де көп кетіп бара жатқанда көрсең сосын жігіттерден сұрасаң	"If you go to Tarbagatay and Zaysan and ask the guys there,  they will say ""I have 700 hundred horses...1500 horses...2000 horses....2500 horses, and"
+	Менің жеті жүз бас жылқым бар мың жарым жылқым бар екі мың жылқым бар екі жарым мың жылқым бар	
+	Сиыр осындай-ақ қой осындай-ақ деп	"I have very few cows""."
+	Сонда уже қой сиыр малың уже мал демей жылқыға ауысып кеткен бизнес болып кеткен ғой ақша	So people do not see sheep and cows as cattle anymore; they changed their businesses and are doing business with horses.
+SPK0015	Ауысып кеткен	Yeap, they changed it.
+SPK0016	Иә.	Yes.
+SPK0017	Чем ана сиырдан гөрі жылқы мысалы сиырың тұрады мысалы екі жүз мың теңге	If a cow costs 200 thousand tenges,
+	жалқың тұрады мың доллар мысалы	one horse coses a thousand dollars
+	төрт жүз жиырма төрт мың төрт төрт жүз елу мыңға дейін барады	and the price goes up to 420-450 thousand tenges.
+SPK0016	Жылқы баққан оңай деп жүр ме	Do they think breeding horses is easy?
+SPK0017	Ммм.	Mhm.
+SPK0016	Ана бағатындар айтады	Those who breed say...
+	Ана Манька да сөйтіп айтты ғой	"Like that Manka, who said: ""Oh fuck your father's mouth, sheep is better and horses are better."""
+	ей әкеңнің аузын сігейін	
+	Қой жақсы,	
+	жылқы жақсы дейді	
+	Сиыр неге ұстамайсың десем ой әкең	I asked why he does not breed cows, and he said it is difficult with cows.
+	ол баққаны қиын дейді	
+	Сиыр немене екен ғой былай қарасаң білінбейді ғой	We think cows are easy to handle, but it is difficult, people say... beacause it needs good care.
+	Сиырды баға алмайсың дейді ана дұрыстап артынан жүрмесең	
+	Кешке дейін боғын тазалау керек екен оның	One has to clean up their feces all day.
+	Ол кішкене күнінде суық тимеу керек екен	When they are young, one needs to make sure they do not get cold.
+	Қора дұрыс болып аузына шөп түс- ## еще	And the barn should be good and it needs to have its grass there.
+SPK0015	Заман өзгерген	The times have changed.
+SPK0016	олардың жейтін немене бар	What do they eat anyway?
+SPK0015	адамдар да өзгерге:н	People have changed.
+	Ауылда	In the village, it turns out that these days people do not vist each other.
+SPK0017	Жоқ ¬Жұлдыз.	No, Zhuldyz.
+SPK0015	бір-біріне кірмейді екен	
+SPK0017	Заман өзгермейді еш уақытта	The era, the time neves changes.
+SPK0015	Кірме:йді	They don't visit each other.
+SPK0017	Заман тұрады орнында	Time stands at its place.
+SPK0015	бір-біріне а—	
+	Көңіл,	Ther is no mood in the village.
+SPK0017	Күн шығады	The sun comes out.
+SPK0015	күй жоқ ауылда	
+SPK0017	Күн шығады заман деген заман деген сол күн шығады күн батады	The sun comes out and the sun goes down - this is what an era/epoch/time is.
+	Ай шығады ай батады	The moon comes out and the moon goes down.
+SPK0015	Климат ауысып тұрады	The climate keeps changing.
+SPK0017	Жауын жауады	It rains.
+	Қар жауады	It snows.
+	Климат деген сол	That is what climate is.
+	Ауысады	It changes.
+SPK0016	@@	@@
+SPK0017	Заман өзгермейді адамдар өзгереді	Time/era does not change; it is the people who change.
+	Адамдардың пиғылы өзгереді	People's intent changes.
+	Ми қабілеті	Their cognitive abilities.
+	Уже сана-сезімдері қазір біздікімен қазір қарасаң	If you look at them now, if you compare their consciousness to ours...
+	мына балаларды көріп	Just look at these kids...
+	одан туған мына ¬Жанардан туған балалардың милары одан бөлек	Zhanar's children's brain will be even more different.
+	Одан туған балалар одан бөлек болады	Her child's children's brain will be even more different than hers.
+SPK0015	Бөлек ###.	Yes, different.
+	Бәрі ұсақталып кетті иә	All got tiny, right?
+	Адамдар	I mean all the people.
+SPK0017	Еще олардікі дөй дала ғой	And plus, what they think and do is so crazy.
+	Дөй дала бірдеңе.	They say and so crazy stuff.
+	Бізбен баяғы оларды салыстырсаң	If you compare them with us, we look backward for them as if we are those first people that inhabitated the Earth when it was first created.
+	олар біз отста:лый ана е:- е: ## жер жаратылғандағы адамдар бар ғой сол сияқтымыз ###	
+SPK0015	Отсталый сияқтымыз оларға қарағанда	For them, we appear more backward than them.
+	Сол сияқтымыз иә иә	Yes, exactly.
+SPK0017	Олардың понятиелары бөлек	They have a different worldview.
+SPK0015	Вообще бөлек.	So different indeed.
+SPK0017	Вообщем.	In short...
+SPK0015	Бізде енді бұрын	Like in the past...
+SPK0017	#.	#.
+SPK0015	қырық жастағы елу жастағы кісі деген	it always seemed to me that a forty-fifty year old people  looked very old.
+	үлке:н бір әгі,	
+	аталар сияқты болған	
+SPK0016	## сен апа сияқтысың ғой	## You are like a grandmother.
+SPK0015	Жоқ сол сияқты.	No, I mean...
+	@ қарасаң	If you look at it...
+SPK0017	Біз сөйтіп айтамыз	We say so.
+SPK0016	@@@@@@@	@@@@@@@
+SPK0015	Жоқ қазір,	But now...
+SPK0017	Жоқ ¬Жұлдыз байқадың ба	"Zhuldyz, did you notice that it is just that we think so like those old people you were talked about used to think, saying ""I am still that way""."
+	біз сөйтіп ойлаймыз өзіміз просто ол ол бұрыңғылар сөйтіп ойлаған баяғы	
+SPK0016	@@	@@
+SPK0017	Өзім әлі сондаймын деп	
+	Бірақ сен любой жерге уже кіріп барсаң бар ғой	"But if you just go anywhere, people will say ""sit down, please sit down"". It such cases I feel so uncomfortable becaue I think I am yonger than the person offering me a seat."
+SPK0016	Иә?	Yes.
+	Иә?	Yes.
+SPK0017	отырыңыз отырыңыз	
+	отыра қалыңыз	
+	как будто өзіңе ыңғайсыз болады ғой өзің ойлап тұрсың ғой мен анадан жастаумын ба деп тұрсың да	
+SPK0016	@@@@@@	@@@@@@
+SPK0017	Бірақ ол саған жол береді	But that person still lets me go first.
+SPK0015	@@@@@@@	@@@@@@@
+SPK0017	Сосын артынан байқасаң ## сенің түріңнен уже белгілі уже	But if you think about it, your appearance already shows - that you are older than them.
+SPK0016	@иә ол ##,	Yes ##.
+	ол алдында бізге айтқан ¬¬Төрехан екеуі кетіп барады	I remember once with Torekhan...
+	Ы:- ылғи өзімізден	it is always due to ourselves...
+	######.	######.
+SPK0015	@@@	@@@
+SPK0016	Содан кейін ана қызы жетіп келді де айтады сол қызынан сұрады ғой	His daughter come up and we asked her.
+	####### балалар @сияқтысыңдар @дейді @@@ сол сияқты	She said we looked like kids. Just like that - it shows.
+SPK0015	Жоқ все равно,	But still..
+	@@@@	@@@@
+SPK0016	Қайдан осыдан үш-төрт жыл болып па еді	I guess it was 3-4 years ago.
+SPK0017	Иә?	Yes,
+SPK0016	Енді көрініп тұр ғой балалар сразу біледі сенің қандай екеніңді	Children know right away how you look like.
+SPK0015	Әмбе қасыңда жүрген адам күнде көріп жүрген адамдар өзіңе білінбейді де	For somebody who is with you all the time, it is not so noticable.
+SPK0016	##.	##.
+SPK0017	Ее.	Ее.
+SPK0016	Иә?	Yes.
+SPK0015	Ал енді сырттан келген адамдарға енді басқаша көрінесің иә	But for those people who come from outside, it is noticable easily.
+	Біреуіне жас біреуіне кәрі сияқты	For some we are old, for some we are young.
+SPK0016	Ой сразу орнымен білініп тұрады	Oh, it all shows immediately.
+SPK0015	А.	Oh.
+SPK0016	Көрініп тұрады сразу #####	It shows right away.
+SPK0015	Иә.	Yes
+SPK0016	Істеген ісің жүрген жүрісіңнен-ақ белгілі өзі қиқаң-қиқаң етіп	The way you walk already shows... your playful movement especially.
+SPK0015	Мен ана бала кезімде бар ғой күн	When I was a kid, sun never went down for me, or at least it seemed to me so.
+	батпайтындай осы	
+	елестейтін ше	That's how it appeared to me.
+SPK0017	Күн айтпақшы айтпақшы күн былай батады ма	By the way, does the sun go down in this direction?
+SPK0016	Тура осылай бітеді пока қазір	For now, yes, in that direction.
+	Одан кейін былай батады	But then in that direction.
+SPK0017	Батыс осы жақта ғой иә	The west is in this side, right?
+SPK0016	Иә.	Yes
+SPK0017	Ее былай екен ғой	Oh, exactly, it is that side.
+SPK0016	Жоқ андағы жақ шығыс қой	No, that side is east.
+SPK0017	####### батыс.	####### west.
+SPK0015	Намазға	For namaz?
+SPK0017	Дұрыс екен ғой CHOKES	It is correct, yes.
+SPK0015	Ым.	Mhmm..
+SPK0016	Мынау солтүстікке қарап тұр ғой үй	The house is facing north.
+SPK0015	Біз Алматы Астанаға барсақ	If we go to Astana and Almaty, we do not understand how from where the sun come out and where it goes down.
+	күн қай жақтан шығып қай жақтан бататынын ұқпай қаламыз	
+	Біз өзіміз жаққа үйреніп алғанмын	We are so used to our own place.
+	Ана жаққа барсақ шатасамыз	If we go there, we are confused.
+	Дауласамыз сосын кейін	Then we argue with each other.
+SPK0016	####### мысалы үшін ¬Рабиғада отырсам	####### for example, when I am at Rabiga's the sun comes out from that direction and goes down in that direction.
+	күн былай шығады да былай батады	
+SPK0017	Еее.	Еее.
+SPK0016	¬Ернарда отырсам мынадан шығады да мынаған бататын сияқты	But when I am Yernar's, it seems like the sun goes down like this, in that direction.
+	Ну енді арасында бүйткен тұратын шығар	I guess there is something like this in between.
+	өйткені қарасам теріс-қағыс	Because when I saw it, it was opposite in all directions.
+SPK0015	@@@@	@@@@
+SPK0016	¬Ернардың үйі сонда шығыс пен батысқа қарап тұр ғой деймін	So I guess, Yernar's house is facing both the east and the west.
+	Біздікі тура былай қарап тұр ма сонда қалай сонда	Ours is facing this direction, right?
+SPK0017	Бізден біз Грэсте	In Gres, ours is facing this direction.
+	Тура былай қарай	
+	Осылай батады	The sun goes down like this.
+SPK0016	Грэстен шыққанда Грэс	From Gres...
+SPK0017	Одан кейін	After that in the summer time it goes down like this.
+	қа- қазір жаз кезінде былай батады міне	
+	содан кейін былай батады	After than, it will go down like this.
+	қыста былай батады	In winter - like this.
+SPK0016	Енді сонда бұл жаққа ¬Рабиғамен ¬Ернардікі жап-жақын ғой рас	So this means that Rabiga's and Yernar's houses are close to this side, right?
+	Не сендердікі ладно былай Грес кетіп қалдың (H)	Ok, your in Gres is in that side, already away from their houses.
+	Со- қайтадан былай батады	And then it goes down like this.
+	Кімдікі иә ¬Ернарда ###	I mean Yernar's.
+SPK0017	Ей сен олай емес Грэстің ішінде бүйтіп келе жатқанда	Nope, when you are riding in Gres,
+	мына жерде немене ### иә	there is...
+	Әй біздің үйде ####	In our house, when you come out from there,  and arrive at parking where you park like this, and from there if you jump and look above at the sun or the moon, the moon stays here but when you go there, it will already be here.
+	біздің үйде шығып келесің ғой міне	
+SPK0016	Иә.	Иә.
+SPK0017	сосын ## бүйтіп келіп бүйтіп келіп қоятын парковкаға барасың ғой	
+SPK0016	Иә.	Иә.
+SPK0017	Сосын мынадан секірген кезде күнді қарасаң күнді иә немесе айды қарасаң иә	
+	Ай мына жерде тұрады иә	
+SPK0016	Иә.	Yes.
+SPK0017	Сен мына жерге барғанда ай мына жерде тұрады	
+SPK0016	####.	####.
+SPK0017	Сол Грэс ішінде #####	Yes, inside Gres ####.
+	Соның ішінде одан кейін былай қарасаң ұқпай қойдым мен ананы	There, after that, when I looked at it and I did not get it.
+	Неше рет байқадым оны	I noticed it many times.
+SPK0015	Жоқ сонда бар ғой,	But..
+	енді,	well...
+SPK0016	## координата дейміз ғой ендік бойлық сонда Грэс сондай жерде тұрған шығар	You know what coordinates, latitudes and longitudes are. Maybe the location of Gres has to do with those.
+	Иә былай жүргенде әгі ендік бойлықтың бойындаға әгі	When you are going down along that longitude...
+SPK0015	жоқ сонда,	Well when building gravestones for the dead... With what sense of direction do they build these gravestones?
+	енді адамдарды қояды ғой	
+	зират басына иә зиратқа	
+	Солар қалай ориентирмен қояды соны ана мысалы құбыла қалдырып	
+	қоямыз дейді ғой қаратып	They sort of build them by making them face certain directions.
+	сонда	So, I think Almaty people don't do it the correct way.
+	Дұрыс қоймайтын сияқты меніңше Алматылықтар	
+SPK0017	Неге.	Why?
+	Алматыда мысалы бізде Грэсте	For example, in Gres, they put it like this.
+SPK0015	Дұрыс қоймайтын сияқты	They don't make them the right way, I guess.
+SPK0017	Былай осылайнан қойылады міне	
+	Осылайнан қойылады	They put it like this.
+SPK0015	Әр #де әрқалай қойыла ма сонда	Do they put these gravestones differenty, then?
+SPK0017	Тау жақтарда басқалай қойылады	In moutainous areas, they put gravestones a bit differently.
+	Мына жақтарда басқалай қойылады	In these places, they put it differently.
+	Мына жақтарда былай қойылады міне	In these places they are put like this
+	Былай қойылады міне	Like this.
+	Былай қойылады міне	Like this.
+	Күннің батысына қарай	Depending on the sunset.
+SPK0015	Сонда қалай ол.	So how does that work?
+SPK0017	Күннің батқанға қарай қойылады ол	It is put depending on how the sun goes down.
+SPK0016	Енді ол жақтың құбыласы сол жақта күн қалай батады солай қояды	Well, the qibla of that side is there; they put them depending on how the sun goes down.
+SPK0017	@@	@@
+	Иә қыбыла қайда сол жақта	Yes, depending on the location of qibla
+SPK0016	Күн батқан жаққа басыңды қаратып қоймайсың ба	You place your head so that it faces the direction in which the sun goes down.
+SPK0017	Ее.	Oh.
+	Мысалы тауда ¬Айман жатыр	For example, Aiman is buried in the mountains.
+	былай жатыр міне былай былай жатыр	She is buried like this.
+SPK0016	Бізде де солай ғой	Well, we do the same.
+SPK0017	бізде ¬Мадияр жатыр былай жатыр міне	Madiyar is buried like this in our place.
+	### сосын зираттың арғы жағына қарасаң әпекелердікі бір-ақ жерде зират қой	And if you look at the back of the graveyards, my aunties' graveyards are located in only one spot.
+	Былай жатыр міне былай	They are lying like this,
+	какой каким-то образом ####.	By some means ####.
+SPK0016	Солай ғой.	Yes, this is how it is.
+SPK0017	Жер шарына байланысты	Depends on the sphere of Earth.
+	Күннің батысына күн бы:лай шығып барып бүйті:п барып қайта ма одан кейін	Depending on the how the sunset. Does the sun go up like this and then go back like this afterwards?
+	Міне қара.	Look.
+	Таңғы намаз	Morning namaz.
+SPK0015	Өзі күн деген біреу-ақ өзі	Well, there is only one sun!
+SPK0017	####.	####.
+SPK0015	Біресе ана жерден мына жерден батпайды ғой ол қалай өзі	It just cannot go down from here and there, how does it work at all?
+SPK0017	Ол ол былайынан Жер шары жер дөңгелек	Ол ол былайынан Жер шары жер дөңгелек.
+SPK0015	Мен #,	My brains...
+SPK0017	Градус бойынша	It depends on the degree.
+SPK0015	миім жетпейді	My brains are not enough.
+SPK0017	Міне қара,	Look, when I read morning namaz, Chenyaevka and Oskemen's sunrise time are the same, it turns out.
+	таңертең біткенде мен намазды оқып қаз- таң намаз оқыған кезде	
+SPK0015	Мына жақтан күн шығады өзі	The sun goes up from this side.
+SPK0017	мына,	
+	Черняевка мен,	
+	Өскемен екеуі бірдей екен шығуы күннің	
+SPK0015	Аа?	Аа?
+SPK0017	Ааа Тарбағатайда	In Tarbagatay, it falls behind by 14 minutes.
+	Тарбағатайда он төрт минутта артта екен	
+	Тарбағатай он төрт минуттан кейін шығады екен	[The sun in] Tarbagatay appears after 14 minutes.
+	Мына жақта үш екіде болса	If here the sun appears at 2-3 o'clock, there, the sun appears at 3:10, 3:17, 3:16, it turns out.
+	ана жақта үш он үш жет- үш он алтыда шығады екен	
+	Мына жер үш үш # бір не Черняевкамен	This place... around 3 something, one/same with Chernyaevka.
+	Ал ####,	But ####...
+	Алматыда	In Almaty.. in Otegenbay where we live, the difference is about an hour,
+	Өтегенбай біз тұратын жерде	
+SPK0015	Мхм.	Mhm.
+SPK0017	Бір сағаттай разница	
+SPK0015	Аа.	Oh.
+SPK0017	COUGHS ойлайсың	Think about it!
+	Кешке жақын тағы бір сағат разница	In the evening, there is another difference of an hour.
+	бізде ерте батады мына жерде жай батады	The sun goes down earlier in our place but it goes down a bit later here.
+	сонда Алматыда вообщем күн жоқ	So [at that time] there is no sun in Almaty.
+SPK0015	Ыстық шәй іш,	Have some hot tea.
+SPK0017	Жоқ болды рақмет болды	No, thank you, no.
+SPK0015	шәй ішсеңіздерші	Please have some tea.
+SPK0016	Енді Алматыда наоборот күн жай батпай ма	Well, it is actually that in Almaty the sun goes down a bit later.
+SPK0017	Жоқ ей?	No.
+SPK0016	Алматыда тоғызда күн жап-жарық	At nine o'clock it is bright in Almaty, while it is pretty dark here.
+SPK0015	Иә?	Yes.
+SPK0016	А мында қап-қараңғы болып қояды	
+SPK0015	Бізде қап-қараңғы болады Алматыда жәй батады	It gets dark in our place and the sun goes down late in Almaty.
+SPK0016	Алматыда кішкене бір сағат ## бір қырық бес	In Almaty there is a small difference of an hour ### forty-five minutes.
+SPK0015	Бір сағат разница.	One hour of difference.
+SPK0017	Бір сағат мына жақ міне ерте бітеді міне	One hour...this side... it finishes earlier.
+	Мына жақтан е- жай шығады	The sun goes up late from here.
+SPK0016	Иә жай шығады Алматы	Yes, Almatry goes up late .
+SPK0017	Жай батады	And goes down late.
+SPK0016	Жай батады соны айтып отырмын ғой иә	Yes, goes down late - this is what I am saying.
+SPK0015	Иә иә.	Yes, yes.
+SPK0017	Ал,	But
+	былай ###сең ары қарай кете береді	??
+SPK0016	Иә ал Астанада вообще бір жарым сағатқа таяу ## тоғызда	Yes, but in Astana the sun ## around nine o'clock.
+	Уже онда он бірде күн қараңғы болады жазды күні он бірде он екіде	It becomes dark there already at eleven in summer..at eleven, twelve.
+SPK0015	И:ә.	Yes.
+	Сондай екен.	Like that, as it turns out.
+SPK0017	Ал енді мен Оралда жүргенде мынау Алматыда осы жақта	But when I was in Oral, when it was dark in Almaty it was [bright as in?] noon on that side.
+	қараңғы болғанда	
+	ана жақта түс болып тұрады	
+SPK0016	Иә вот сол оған барғанша енді	Yes, it will take a long time for the sun to get there.
+SPK0015	Иә солай екен.	Apparently, it is like that.
+SPK0017	Сонда үш сағат бүйтіп бүйтіп бара жатыр	It goes like this during three hours.
+SPK0016	Үш сағат разница ма сонда	Does that mean there is a three-hour difference?
+SPK0015	Өйткені әгі ораза ұстаған кезде де сол	Because when you fast, it is the same.
+	Сағаттары бар ғой біз жақта ерте ұстайды да	People fast earlier in where we are from, and those in Almaty and Astana ... especially in Astana, they fast at later time.
+	Алматы мен Астана,	
+	Астана вообще жайырақ екен	
+SPK0017	Самолетпен ұшқанда былай қарай ұшады мына Оралға қарай ұшады	When flying on a plane... it flies in this direction... in the direction to Oral...
+	үш сағат,	three hours...
+	қайтқанда екі жарым сағат	It takes two and a half hours when returning.
+SPK0016	@@@	@@@
+SPK0017	Жарты сағат ерте###,	A half an hour ealier.
+	өйткені,	Because when the plane flies to that side, the Earth revolves in the opposite direction to it.
+	ана жаққа ұшқанда жер айналады соған қарай қарама-қарсы айналады	
+	Ал сонда самолет бірінші кетеді екен	So, the plane goes first...
+SPK0016	Ол солай екен өйткені әгі жер сілкінген кезде мен үйдің ішінен шыға алмай қалғаным сол ғой	What you are saying it actually true because that's why when there was an earthquake, I could not get out of the house.
+	Была:й қарай жүгіріп отырып бардым	I was running towards this side.
+	Отыз секундтай	For around thirty seconds.
+	Жоқ мына жаққа барып екі секунд үш секундтан қайта шыққанша уже қарсы соқты ғой	I went there... then after two three seconds, it started doing agagin backwards...
+	Жоқ дегенде бір жиырма секундтайда әрең шықтым ғой міне осындай-ақ жер ғой	I think got out in twenty seconds... it is just a small place like this...
+	Солар жү- былай толқыды ғой бүйтіп былай толқып жатқан	It was waving like this.
+	Қарсы жүрген кезде сол сияқты ғой енді жер де	When you go backwards, the Earth is just like that...
+	Енді бүйтіп айналып тұр ғой бүйтіп бүйтіп айналып еще ол былай жүреді ғой	It is spinning like this but it is also moving like this...
+SPK0017	##.	##.
+SPK0016	Орн-ы-нан айналып тұрады еще былай жылжып отырады ол	It is spinning and revolving at the same time.
+	Жер осы орнынан айналып тұрып бүйтіп міне бүйтіп бүйтіп айналып тұрып ол ж- еще жылжып отырады осылай етіп	It spins like this and revolves forwards like this.
+	###.	###.
+SPK0015	Жүріп жылжиды	It moves while moving.
+SPK0016	Жоқ айналады	No it spins...
+	Еще жылжиды	but it moves forwards as well.
+SPK0015	Жүріп жылжиды	It moves while moving.
+SPK0016	Иә.	Yes.
+SPK0015	Аха.	
+SPK0016	Соның өзінде көрдің бе разница	Even in that case, there is a difference.
+	Әгі біздің немене ететін сол ғой	That's why...
+	бірақ енді судың бәрі	but all the water...
+	былай солтүстікке ағады	flows towards the north...
+	Любой жақта су	In any place...
+	солтүстікке ағады	the water flows towards the north...
+SPK0015	Шіркін-ай космоспен ұшып (H)	If only one could fly into the space...
+	басқа планеталарды көріп келсе иә қиын жақсы а	and could see the planets...
+SPK0016	Немене істейсің ешкім жоқ қап-қараңғы	What are you going to do there? There is no one.
+SPK0015	Көргім келеді	I want to see.
+	Ол немене бар екен интересно ## иә?	What is there, I wonder.
+SPK0017	Жоқ ана ######.	No that...
+SPK0015	## же- жердің қасында	Near our Earth...
+SPK0017	андай алдыртады көр	There is just thing... just see through that...
+	####.	####.
+SPK0016	Теле- телескопты	The telescope...
+SPK0015	Телескоп пе.	Telescope?
+SPK0017	Ее тура #### көзіңе	Right into your eyes.
+SPK0015	Соны көрсе иә а қандай ### бар екенін	That would be great to see what's there, right?
+	Марсты көрсе	See Mars...
+	нені көрсе	and all that...
+SPK0017	Оқу керек оған	You need to study in order to be able to do so.
+SPK0016	@@@@@@@@@	@@@@@@@@@
+SPK0017	@@@@	@@@@
+SPK0015	Ұшып барғанға иә	In order to be able to go into the space, right?
+SPK0017	Ұшып барғанға @	Yes, to fly up there.
+	Иә.	Yes.
+SPK0015	Жоқ енді расында да анандай көрсетеді көре- көреді ғой жерден тұрып алып	But for real, they see the space from the Earth...
+	Ол қымбат тұратын шығар әмбе жоқ шығар бізде	It is probablt expensive, and we probably don't have that.
+SPK0017	Сен одан да ол жаққа бармасаңшы жақын жерден судың астын тексере берсеңші	Do not go too far; you can just check what's underwater nearby...
+	Суда дәл көзіңді ашып қарай бермейсің бе	Just open your eyes underwater...
+SPK0015	Ой мен судың ішінде тұншы- су десе тұншығамын мен	Oh no... I cannot breath when one says water...
+SPK0016	(Hx)@@@@	(Hx)@@@@
+SPK0015	Ауа жетпей тұншығамын	I suffocate.
+SPK0017	Вот соның астын қара сен не секілді бар	Go research underwater... there are things like that thingy...
+SPK0015	Ой ой ай SHAKES	Oh my (SHAKES),
+	біреу суға секіріп жатса	...when one jumps into water...
+	сүңгіп бара жатса мен (H)	or if someone is swimming into the water...
+	тұншығамын ауа жетпей	I suffocate...
+	Біреу погребке қамалса біреу келіп мм	If someone is locked inside the cellar...
+	мен мен погребке өмірі түспеймін ғой	I never go down the cellar...
+SPK0016	Қой қуып кеттің сен өзің өз жайыңа	You are now just digressing now and talking shit...
+SPK0015	Мен базға түспеймін ғой	I never go down the cellar.
+	Тұншығамын ғой ауа ой ой ой ой ауа жетпей тұншығамын	I suffocate.

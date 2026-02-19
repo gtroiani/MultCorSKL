@@ -1,0 +1,316 @@
+speaker	span	translation
+SPK0014	Ішті?	He had his meal already.
+	Тамақ ішті ғой.	He already did.
+SPK0032	Е:?	Oh, I see, that's good.
+SPK0027	Тары жейсің бе?	Do you want to have some millet?
+SPK0032	Ой Алла-ау,	Oh God, it is my millet? [the one I gave you before]
+	менің тарым ба мынау,	
+	таңертей жеймін.	I will have it in the morning.
+	Мына құрлы тамақпен қайтіп жеймін?	How am I supposed to have it on top of this much food, dearie?
+	Қарғам.	
+SPK0027	(Hx)	
+SPK0032	Мынаны араластыра ма?	Are you supposed to mix it like this?
+	Бүйтіп.	
+SPK0027	Жей бер ара-	You can just mix and eat.
+	Мхм.	Yes, correct.
+SPK0032	Шелпекті қарашы?	Just look at this shelpek.
+SPK0027	Бүйтіп ора да,	First twirl it like this, and then eat like this.
+SPK0032	Мхм.	Yes.
+SPK0027	бүйтіп же.	
+	@@@	
+SPK0032	@@@	
+SPK0027	Шанши сал сөйтіп.	Just spear it like that.
+	Сала сал аузыңа.	Just put it in your mouth.
+SPK0032	Маған сендердің ана жақтағы үйлерің,	Just a moment ago, he was just talking to me about that house of yours [in the village].
+	соны айтып жатыр.	
+	Адамның үйі ыстық қой.	Oh, one's home can be very dear to them.
+	Атаңды айтамын.	I mean your grandfather's place.
+SPK0027	Е:.	Oh I see.
+SPK0032	#####.	
+	#####.	
+SPK0027	Е:.	I see.
+	Сорпасынан құяйын ба саған.	Shall I pour you some more soup/broth?
+	Аз болып кетіпті.	It seems I didn’t serve you quite enough.
+SPK0032	Жо жо жо.	No no no.
+	Ана кіти ұлың,	That younger son of yours...
+	үлкенің ішпей ме әгі?	... oh, I mean, isn't your older son having his meal?
+SPK0027	Ішіп алған ол бағана.	He already had his meal just a while ago.
+SPK0032	Ана Ташок ішті ме.	Did Tashok have his meal?
+SPK0027	Ішті.	Yes, he did.
+SPK0032	Е:.	I see.
+	########?	
+SPK0027	М?	Come again?
+SPK0032	Таңертеңнен,	I mean he hasn't had anything since morning.
+	тамақ ішкен жоқ деймін.	
+SPK0027	Дәмі қалай екен?	How is the food?
+SPK0032	Әйбәт.	Nice.
+SPK0027	Жеуі қиын екен деші.	You are probably finding it hard to eat, right?
+SPK0032	Сен,	You make all kinds of food.
+	неше түрлі тамақ жасайсың.	
+SPK0027	Мама сорпасының,	Mom, eat it together with its broth for a richer taste. Use your spoon.
+SPK0032	Вер–	Just look at this vermicceli!
+SPK0027	дәмімен жесеңші,	
+SPK0032	вермешелін қарашы міне.	
+SPK0027	қасықпен.	
+	Мә ет же.	Here, have some meat.
+	Тауықтың еті.	It is chicken.
+	¬Алияның келіні,	Just a moment ago I saw Laura, Aliya's kelin, entering the building.
+	кіріп келе жатыр екен жаңа.	
+	¬Лаура.	
+SPK0032	Е:.	I see.
+SPK0027	Мамаң үйде ме десем,	I asked Laura if her mother was home. She said her mother is probably home with children.
+	үйде,	
+	балалармен отырған шығар,	
+	балаларымды алып кетуге келе жатырмын дейді.	She said she was here to pick up her children.
+SPK0032	Е:,	Oh, I see, so her children are here at this place.
+	осы үйде екен ғой балалары.	
+SPK0027	Таңертең ¬Жанат әкеліп тастапты дейді.	She said that Zhanat apparently brought them over in the morning.
+SPK0032	М:.	I see.
+SPK0027	М?	Oh, look.
+SPK0032	Көршің бе?	Is it your neighbor?
+SPK0027	Шал тауып алыпты ғой мынау.	I see she found a new shal apparently.
+SPK0032	Шалмен-	With the shal...
+	орыстар ма?	Are they Russian?
+SPK0027	Иә.	Yes.
+	Көрші:.	They are neighbors, mom.
+SPK0032	М:.	I see.
+	Екеуі бір жерден кел-	They two are coming out from the same place.
+SPK0027	Қарама мама.	Mom, do not look!
+SPK0032	А:.	Come again?
+SPK0027	Қарама.	Do not look.
+	Ұят болады.	It is inappropriate.
+	Мама бүйтіп,	Mom, you can make it easier to eat the pasta if you hang it on the fork.
+	іліп алсаң да,	
+	желінеді ғой.	
+SPK0032	Желінеді.	Yes.
+SPK0027	Тарыны ұмытып кетіппін ғой,	I totally forgot about giving you some millet.
+	саған бермей.	
+SPK0032	Баяғыдағы тарым иә?	It is the one I gave you a long time ago, right?
+SPK0027	Мхм.	Yes.
+SPK0032	Әлі бар,	You still have it.
+	сен жемейсің иә?	You do not eat it, right?
+SPK0027	Анда: санда.	Only from time to time.
+	Шал тауып алыпты,	Just look at her... she really found a shal!
+	өзі.	
+SPK0032	Ау.	Come again?
+SPK0027	Шал тауып алыпты деймін.	I am saying she apparently found a new shal.
+SPK0032	Кемпір ме?	You mean that kempir found a new shal?
+SPK0027	Сондай кемпір емес.	She is not that old to be considered a kempir tho.
+	¬Баяндар шамалас.	She is the age of Bayan and her husband.
+SPK0032	Е.	Ah I see.
+	Күйеуі анау күйеу-	So that man is her husband?
+	шалы ма?	
+SPK0027	Солай ғой деймін.	I guess so.
+	Бұрын жоқ болатын.	Because I did not see this man before around her.
+	Картошкасы түспеп пе не саған?	Oh, I didn’t put any potatoes on your plate, did I?
+SPK0032	М?	Coma again?
+SPK0027	Картошкасы жоқ па?	There are no potatoes on your plate?
+SPK0032	Бар.	There are potatoes on my plate.
+	Ет,	
+	бар.	There is also meat in there.
+SPK0027	Қасықпен жей бер мама.	Mom, just use the spoon.
+SPK0032	Ананы,	That thing that needs to be boiled... did you put it to a boil?
+	қайнатқанды,	
+	қойдың ба енді?	
+SPK0027	Қайнатамын қазір,	I will boil it later.
+	бетінде,	I think that thing on its surface is its foam.
+	көбігі ғой деймін,	
+	анау ұқсап тұрған.	
+SPK0032	Мхм,	Yes.
+	қалың болып тұр иә?	It looks so thick, right? Just like milk skin.
+	қаймақ ұқсап.	
+SPK0027	Картошка салып берейін бе?	Shall I serve you more potatoes?
+SPK0032	Болды.	This is enough.
+	Картошкасы бар.	I have enough potatoes.
+SPK0027	Бүгін тоқыма тоқымадың ғой.	You did not croche today.
+SPK0032	М.	Come again?
+SPK0027	Тоқитыныңды алып келіп пе едің?	Did you bring the stuff to crochet with?
+SPK0032	Алып келгенмін,	I did bring.
+	ананы өлшеп алып,	I thought I would get the measurements of that thing and then start to crochet.
+	мынаны не етіп аламын деп.	
+	Тоқимын деп.	
+SPK0027	Телевизордың артында,	The measuring tool is behind the TV.
+	өлшейтін.	
+	Қай жерде еді өзі.	I forgot where exactly it was.
+SPK0032	Инемді:,	I brought my needles and some yarn that was left.
+	бір,	
+	қалған жіптерді алып келгенмін.	
+	Көлденең мынамен бірдей қылып тоқимын.	I shall make its horizontal length the same as this one.
+	Ана,	I think it’ll be fine once I stretch this seat pad out a bit and measure its length.
+	ұзыныңды ары қарай,	
+	шығарыңқырап,	
+	сол ұзынын не етіп алсам болды.	
+	Өлшеп алсам.	
+SPK0027	Қасықпен же мама.	Mom, if you are still struggling, just eat it with the spoon.
+	Жей алмасаң.	
+SPK0032	Иә.	Yes.
+SPK0027	Ұйықтадың ба кішкене?	Did you sleep for a little at least?
+SPK0032	Ұйықтап қалыппын.	I somehow feel asleep.
+SPK0027	Помидор жесеңші.	Have some tomatoes.
+SPK0032	Түнде,	At night.. sometimes I cannot fall asleep.
+	кейде ұйқым келмейді,	
+	кейде сөйтемін міне,	That's just what happens to me sometimes - I simply cannot sleep.
+	ұйқым келмейді.	
+SPK0027	Өй әкеңнің басы құрғыр.	Oh for god's sake!
+SPK0032	Ау.	Come again?
+SPK0027	Әкелші орап берейін.	Give it to me. I will twirl it for you!
+SPK0032	@@@@	
+SPK0027	Күйісің кетті ғой,	I can see how frustrated you are not being able to eat this thing when you actually want to.
+	тамақ жегің келіп тұрып.	
+SPK0032	Жарайды өзім ала саламын әкәм,	Oh, darling, no need. I will just cut it up into pieces and eat.
+	кесіп кесіп қарғам кесіп.	
+SPK0027	Мә.	Here, take it.
+SPK0032	Бүйтіп бүйтіп.	Just like this.
+SPK0027	Мә.	Take it.
+	Қасықты ұста.	Hold the spoon.
+SPK0032	Жоқ болды.	That's enough.
+	Вермешелін қарашы.	Just look at theis vermicelli! They made its edges wavy!
+	Шетінен,	
+	ирек-ирек қылып істеген.	
+SPK0027	Мхм.	Yes.
+	Мә шыт.	Here, take the napkin.
+	(Hx)	
+SPK0032	Ой Алла:.	Oh God.
+	Суып қалды иә мынадағылар енді.	These must have already cooled down, right?
+SPK0027	Мхм.	Yes.
+SPK0032	Сырты сұп-суық ###.	They are cold on the outside ###.
+	Екеуінде де мәшін бар ғой,	They both have cars, right?
+	###	(Because of the part that is unintelligible, it is hard to translate the entire connected segment.)
+	¬Жания-,	
+	¬Алия-,	
+	¬Алиямен,	
+	қазірге дейін.	
+SPK0027	Ыы-ыы.	No.
+	Ұлдарында ғана бар.	Only their son [Aliya's son] has a car.
+SPK0032	Аaa:.	Oh really?
+SPK0027	¬Алия қайдағы машина жүргізеді.	How is it even possible for Aliya to be able to drive a car...
+SPK0032	Қазір енді # не ғой.	Well these days, you know...
+SPK0027	Жоқ мәшін.	No, Aliya does not have a car.
+	Ұлында ғана бар.	Only her son has a car.
+	¬Жанатта да жоқ мәшін.	Zhanat does not have a car either.
+	Правасынан жеті жылға айырылып қалған.	He lost his license for seven years.
+SPK0032	А:.	Oh, I see.
+SPK0027	Ол мәшінді алды да,	The kelinshek took the car and sold it immediately.
+	сып еткізіп,	
+	келіншек сатып жіберді.	
+	Пәлекет ол.	She is a nimble one!
+	Сатып жібергенге.	Especially when it comes to selling stuff!
+SPK0032	¬Лаура ма?	You mean Laura?
+SPK0027	Ауырса,	She says she is like her mother-in-law. She says if she falls sick, she quickly gets herself back on her feet.
+	емделіп жіберіп,	
+	енем сияқтымын дейді.	
+	Ауырған жерімді,	
+	емдеп аламын.	
+SPK0032	¬Алия сиықтымын дей ме?	Does she say she is like Aliya?
+SPK0027	Енем сияқты,	She says she knows how to treat herself and get back on her feet, just like her mother-in-law does.
+	емделе қоямын дейді.	
+SPK0032	@	
+SPK0027	Суып қалды ғой мама андағы.	Mom, the meal is already lukewarm.
+SPK0032	#.	
+	А.	Come again?
+SPK0027	Суып қалған шығар ендігі.	
+SPK0032	Әгі,	That...
+	###	
+	###	
+	####.	
+	#	
+	###	
+SPK0027	Мені ұйқы басып отыр әшейін.	I feel like I’m being dragged into sleep.
+SPK0032	Ұйықта.	Go sleep.
+SPK0027	Кө:зімді аша алмай отырмын.	I cannot keep my eyes open.
+	Бейуақта ұйықтауға болмайды.	But sleeping at a time like this isn’t right.
+SPK0032	А.	Come again?
+SPK0027	Бейуақта ұйықтауға болмайды.	One should not sleep at a time like this.
+SPK0032	Кеш болып қойды иә.	It is aleady evening, right?
+SPK0027	Тағы салып берейін бе картошкасынан.	Shall I serve you some more potatoes?
+SPK0032	А.	Come again?
+SPK0027	Картошкасынан.	
+SPK0032	Жо:қ,	
+	Бол-,	No. I am done darling. This is too much.
+	болдым әке,	
+	мынау көп.	
+	Көп,	
+	әрең,	I am barely finishing.
+	жеп отырмын ##.	
+	Дәмі жақсы екен.	It tastes good.
+SPK0027	Жақсы ма?	Good?
+SPK0032	Мхм.	Yeap.
+SPK0027	Жаңағы приправалар ғой,	It is those seasonings you know.
+	сол дәмін келтіріп тұр.	They make the dish tasty.
+SPK0032	¬Асыл ана,	Just now Asyl was showing me that house in Kalzhyr.
+	Қалжырдағы үйді көрсетіп отырған маған.	
+SPK0027	Аa:.	Ah I see.
+SPK0032	Е құдай,	Oh God.
+	атамдар қандай бай тұрады дейді.	"He says: ""Look how rich my grandfather is. Just look at his barns."""
+	Қораларын қарашы дейді.	
+	Қайда сендердің тойларың дейді әуелі.	He even mentioned your wedding [which took place in that house].
+SPK0027	М:.	Mmm.
+	Ертең қыздың документін өткізе беріңдер деп жатыр.	They are telling us that we can already begin submitting my daughter's documents.
+	Ертең соны өткізіп келемін.	I will do that tomorrow.
+SPK0032	Е: балаларға ма,	Oh you mean for children... for school?
+	мектепке?	
+SPK0027	Иә бағана,	Yes. They texted just now.
+	жазды ғой.	
+	Дайындап қойғанмын,	I have already prepared the documents. I should just submit them and be done with it.
+	өткізіп тастамасам.	
+	Жұмысқа шығып кетсем,	Once I’m back at work, I’ll keep putting it off, and it’ll never get submitted.
+	өткізілмей қалады содан кейін.	
+	Күнде әне,	
+	күнде міне.	
+SPK0032	Сен қашан шығайын деп едің?	When were you planning to get back to work?
+	Таяп қалды?	Already soon?
+SPK0027	Жиырма бірінде шығамын.	On the 21st [of August].
+SPK0032	Ондай болып қояды ғой,	Oh, by that time, it’ll be too late, and you’ll miss the deadline.
+	уақыт өтіп кетеді.	
+	А қырық шелпекке дейін,	Will you be done with it by the time of kyryk shelpek?
+	істетіп қоясың ба?	
+SPK0027	Қайдағы қырық шелпек.	Whose kyryk shelpek are you talking about?
+SPK0032	Өй әгі кіти ұлдың.	Oh, of that little boy, of course!
+SPK0027	Ол қашан болады екен.	When is it going to take place?
+SPK0032	А.	Come again?
+SPK0027	Онікі қашан.	When is his kyryk shelpek?
+SPK0032	Жоқ енді әгі:,	No, what I am saying is, it will be good if they organize the kyryk shelpek around the time when you are already done with your errands and stuff.
+	есептеп сол уақта бере қойса деймін.	
+SPK0027	Бермейтін шығар олар ##.	I do not think they will organize a kyryk shelpek. ##
+	Жай бара салу керек оларға.	We should go, but just for a short, light visit.
+	Үйде сабақ беріп жүр екен ғой ол.	Apparently she is tutoring kids at home.
+	Кіти балаларға.	
+SPK0032	Кім.	Who?
+SPK0027	¬Гүлжанат.	Gulzhanat.
+	Ақша тауып.	As a side hustle.
+SPK0032	Енді қайтеді.	Of course she will do that!
+SPK0027	Үйге мұға- бала-,	She apparently prepares kids for Grade 1.
+	бала- балаларды	
+	үйретіп,	
+	бірінші классқа дайындап.	
+SPK0032	Е:.	I see.
+	Өзі ылғи бір,	Well, she always works with first graders at her own school.
+	бірінші классты алмай ма.	
+SPK0027	Жо:қ,	No.
+	бірінші класс причем тут,	I am not talking about first graders in her school.
+	бірінші класс алған,	
+	просто балаларды мектепке дайындап,	I mean she is just tutoring pre-school kids at home, preparing them for school, as a way to earn additional income.
+	ақша,	
+	жасап жүр үйде сөйтіп,	
+	репетитор болып.	
+SPK0032	Енді қайтеді.	Of course she would do that!
+	¬Аяна дейді,	Ayana, apparently, is in a lager' now.
+	неде деді,	
+	лагерьде деді.	
+SPK0027	Келіп қойған ол.	She came back already.
+SPK0032	¬Сәкөш ¬Сәкөш ә-,	Sakosh told me that... no, not Sakosh...
+	а әгі кім айтады оны,	
+SPK0027	¬Дәкөш?	You mean Dakosh?
+SPK0032	¬Дәкөш айтады.	Yes, Dakosh told me that.
+	Бірі күні кеткен деп.	Dakosh said that Ayana left for the lager' on the first [of August.]
+	Мен содан кейін,	Then I thought maybe Gulzhanat went there too because she usually attends such school events.
+	мен ¬Гүлжанат та барып жүруші еді ғой,	
+	өзі де кетті ме дедім.	
+SPK0027	Жо:қ,	No, that is not the case. Gulzhanat usually attends summer camps organized by her school own. But this particular summer camp is not organized by any school.
+	¬Гүлжанат ол,	
+	мектептің лагеріне баратын.	
+	Қазір мектептің лагері жоқ.	Nowadays, schools do not organize summer camps anymore.
+SPK0032	Енді ана жаққа ауысатын шығар иә?	She will probably change jobs in that place, right? Maybe she'll get a job in an area closer to her new house?
+SPK0027	Білмеймін соны.	I do not know that.
+SPK0032	Жақын жерге.	
+SPK0027	Орын болса ауысады.	If there are vacant places available,  she probably will.

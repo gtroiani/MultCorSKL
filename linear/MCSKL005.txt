@@ -1,0 +1,716 @@
+speaker	span	translation
+SPK0036	Ее,	Well, this is how it is going for you.
+	солай де жағдай.	
+SPK0027	Мхм.	Yes.
+	Қуырдақ ысытып жібірейін бе ей.	Do you want me to heat up some kuyrdak?
+SPK0036	Өй жоқ ей тұра берсін.	Oh, no, no need.
+	###.	
+SPK0027	Соны айтамын,	I am saying this.
+	ысытып жіберейін бе деймін.	I am saying whether I shall heat it up.
+SPK0036	Жоқ.	No.
+SPK0027	Мен ана,	I feel embarassed of that pan...
+	табадан ұялып,	
+	көтеріп,	
+	@# @#,	
+	табаның түрі старшный ###.	The pan looks terrible.
+SPK0014	Ана жерді қайтадан айтып жіберіңіші.	Could you say that part again?
+	Аты қалай дедіңіз?	What did you say the name was?
+	Жа- Жал- Жала- Жалаңаш көл?	Was it Zhalanashkol?
+SPK0027	Жалаңашкөл,	Zhalanashkol,
+SPK0036	Ақсай.	Aksay
+SPK0027	иә.	
+	Жоқ,	No.
+	Ақсай емес.	Not Aksay.
+SPK0036	Ойбай.	Oh my!
+SPK0027	Жалаңашкөлге дейін барады,	The train goes all the way to Zhalanashkol.
+SPK0036	Ааа,	Oh.
+SPK0027	пойыз.	
+SPK0036	ой нені,	Oh that..
+SPK0027	Өскемен-Жалаңашкөл.	Oskemen-Zhalanashkol
+SPK0036	поездың:,	The train's...
+	иә.	Yes.
+SPK0027	Поезд.	The train...
+SPK0014	Жалаңашкөл деген ол қай жақта.	Where is Zhalanashkol?
+	Алакөл жақ па?	Is it in Alakol?
+SPK0036	Иә Алакөл.	Yes, Alakol.
+SPK0027	Иә,	Yes, but it is in East Kazakhstan.
+SPK0036	###.	
+SPK0027	бірақ,	
+	Шығыс Қазақстан жақ ол.	
+SPK0036	Cол жерге станция екен ғой,	The station is there.
+	сол жерде түсу керек екен.	We need to get off there.
+SPK0027	Біздің жақ район ¬Аcыл,	Asyl, it is on our side, not on Almaty's side.
+	Алматы жақ емес.	Not Almaty's side.
+	Уржарский район ба,	Was it Urzhar region or no... something like that.
+	солай.	
+SPK0036	Хотя бы екемізге билет дайындап қояйық.	Let's at least prepare two tickets for ourselves.
+	Басқасы бармаса өздері біледі.	If others do not want to go, it is their decision.
+SPK0027	Иә.	Yes.
+	Иә деп,	"I am sitting here, bending and saying ""yes""."
+	мынау қайқиып отыр дейді.	
+	@@@@@@	
+SPK0036	Дұрыс,	That's right.
+	билет тауып алсақ одан кейін,	After we find tickets...
+	ммм—	hmmm...
+SPK0027	¬Балнұр отпускіде ме еді.	Is Balnur on a leave?
+SPK0036	Отпускіде иә.	Yes, on a leave.
+SPK0027	Түріммен ашыла салады мынау.	It opens with my face.
+	POSES_ON_CAMERA деген кезде ашылады @де,	It opens when I do so.
+	@	
+SPK0036	Мүмкін соған ауыстырып алу керек еді.	Perhaps, I should have swapped [my phone] for the one like this.
+SPK0027	Ауыстырып ал мына,	Get it swapped.
+	ұлдар,	
+	мен,	Boys made it so that I can open it with my finger.
+	пальчикпен де ашылатын қылдырып істеп берді маған.	
+SPK0036	Мен,	I...
+	менікі,	mine...
+	бұрыңғы,	
+	телефоным,	My other phone I had before would open with my finger.
+	пальчикпен ашылатұғын.	
+SPK0027	Мен ұйықтап жатқанда,	When I am sleeping, someone can open it with my finger. Joking.
+	палчигіммен ашып алуға болады,	
+	деп айтады дейді.	
+	@ (H)	
+SPK0036	Сол үшін,	That is why only I should make it openable with my face only.
+	түрмен ғана-ақ қою керек қой менікін.	
+SPK0027	Иә,	Yes, openable with yourself only.
+	өзім ғана иә.	
+	Очки киіп алсам ашылмайды.	If I wear glasses, it will not open.
+SPK0014	Қай күнге мам.	Mom, for when?
+SPK0036	Он бесіне.	Fifteenth.
+	Он бесі.	Fifteenth.
+SPK0027	Осы ұл маған,	"This son of mine always says to me ""mom, lie down for a bit"", ""mom, are you tired"", ""mom, you lie down"",  ""don't do anything""."
+	мама жата тұршы,	
+	мама шаршап тұрсың ба,	
+	мама жата берші,	
+	түк істемеші бүгін мама.	
+	Мен бүгін,	Today, I got up from my bed feeling super bad.
+	бытшыт болып,	
+	тұрдым орнымнан,	
+	мен айттым мен далаға шығып келейінші,	"I said ""let me go outside""."
+	қиы:н,	I went out, feeling suffocated very bad.
+	тынысым тарылып барады деп кетіп қалғанмын.	
+SPK0036	Бағана ма.	A moment ago?
+SPK0027	Жаңа.	A moment ago.
+SPK0036	Ее.	Oh.
+SPK0027	Пылесосить етіп қойыпты әйту кішкене #,	He vacuumed a bit, tidying up the place a bit today.
+	бетін бүйтіп,	
+	жөндеп,	
+	бүгін.	
+	Әйтпесе екеуіміз уборка жасап,	But we actually cleaned the appartment, including the windows and everything just a while ago.
+	терезе ана жолы барлығын жуып алғанбыз.	
+SPK0036	Молодец ¬Асыл,	Asyl is a good boy.
+	##.	
+SPK0027	Бізде аналардікі солай.	Our young one is not domestic.
+SPK0036	Мынау,	This...
+	¬Рахат иә кішкене.	He is a little like Rakhat, right?
+SPK0027	Тамақ бар ма,	"""Do we have food?"""
+	қандай тамақ,	"'What kind of food?"""
+	майлы—	"""Oily..."""
+SPK0014	Ммм,	"Hmm, apparently the train stops at the station called Zhalanashkol in the route ""Oskemen-1-Aktogay""."
+	Өскемен,	
+	бір,	
+	Ақтоғай деген маршруттың ішінде Жалаңашкөлге тоқтайды екен.	
+SPK0027	Мхм.	Yes.
+SPK0014	Ммм,	Hmm, there are tickets available for fifteenth  but not for fourteenth and sixteenth because the trains alternate, right?
+	он бесіне,	
+	Поездар.	
+	Алпыс жеті-ақ орын қалыпты,	There are only sixty seven places left.
+	плацкарт ғана қапты,	Only seats for Platzkart are left.
+	қалғанның барлығы бос емес.	The rest are not available.
+	Купе бос емес,	No seats in Kupe.
+	мягкий бос емес,	No seats in Soft.
+	люкс бос емес.	No seats in Lux.
+	Үш мың,	It is three thousand nine hundred and seventy two (3972) tenges.
+	тоғыз жүз жетпіс екі теңге,	
+	алпыс жеті орын қалыпты.	Only sixty seven places left.
+SPK0036	Бізге сол плацкарт жақсы негізі.	For us, Plazkart is good actually.
+SPK0014	Жақсы ма?	Is it good?
+SPK0036	Жақсы.	Good.
+SPK0014	Мында,	Look, there are some in here apparently.
+SPK0036	Жақсы емес пе ей,	Hey you, Platzkart is good!
+SPK0014	міне,	
+	бар екен.	
+SPK0036	плацкарт деген.	
+SPK0014	Алпыс жеті-ақ орын қалыпты бірақ.	Only sixty seven places are left.
+SPK0036	Иә?	Yes.
+	Ертеңге үлгеруіміз керек,	We need to manage before tomorrow.
+	ертең барып бірдеңке етіп алайық.	Let's go tomorrow and somehow buy the tickets.
+SPK0014	Қазір:,	Now..
+	онлайн ала саламыз.	We can just get those online.
+SPK0027	Жо:қ,	No, it is possible to buy them online.
+	оны онлайн ала салуға болады.	
+SPK0036	Соны айтып тұрмын ғой.	That's what I am saying.
+SPK0027	######.	
+SPK0036	Негізі туда и обратно дегенде,	If we are buying round-trip tickets....
+	бізге ммм,	For us..
+SPK0027	Қайтқан күнімізді,	Our day back...
+SPK0036	он сегізіне бар ма екен.	I wonder if there are tickets available for the eighteenth.
+	Он сегізіне.	For the eighteenth.
+SPK0027	¬Асыл.	Asyl.
+SPK0036	Жүрмей ме әлде.	Or the train does not go on that day?
+SPK0014	Қайтқанға ма.	For returning?
+	Он сегізі жүрмейді.	The train does not go on the eighteenth.
+	Он жетісі.	But it does on the seventeenth.
+SPK0036	Он тоғызы жүреді иә?	
+SPK0027	Он тоғызы.	Nineteenth.
+SPK0014	Нечетный кезде.	When the day is an odd number.
+SPK0036	Онда он тоғызы алу керек.	In that case, we need to buy for nineteenth.
+SPK0027	Он тоғызы қайтқанға бар ма.	Are there tickets available for returning on nineteenth?
+SPK0014	Қайтқанға ма.	For returning.
+	#####.	
+SPK0027	Маған жиырма төрті той ғой.	It is just that I have a wedding on twenty fourth to attend.
+SPK0036	Мхм.	Yes.
+	Онда он тоғызы,	Then I will have to negotiate with kempirs once it is nineteenth.
+	бірақ кемпірлермен де,	
+	договариваться ету керек болады ғой өзі.	
+SPK0027	Сен қазір билет алып қойып ертең,	Make sure tomorrow you won't come with a sad face, saying you cannot go, after having bought the tickets now.
+	ырбиып отырма бармаймын деп.	
+	Мені қыздырып-қыздырып қойып.	After making me excited.
+SPK0036	Никак нет,	No way, dearie.
+	дорогая,	
+	@@@@	
+	Мені білесің ғой,	You know me.
+	тура жүріп,	You know that I go straight and speak straight.
+	тура сөйлеп кететінімді әйту.	
+	Жоқ дегенде,	In the worst-case scenario, I can always leave work with a medical excuse.
+	аурып жатырмын деп рұқсатпен кетесің ғой.	
+	@@@	
+SPK0027	Қазір ¬Рахатқа звандап көрейін бе мен.	Shall I try calling Rakhat?
+SPK0036	Званда.	Call him.
+SPK0027	@	
+	Жалаңашкөлге барып,	God forbid we be left naked once we get to Zhalanashkol!
+	@жалаңаш @қалмайық @екеуіміз,	
+	(H),	
+	ей.	Hey, you!
+SPK0014	Қайтқанға он сегізіне бар.	There are tickets for the eighteenth for coming back home.
+SPK0036	Айттым ғой,	I told you so, you see, there are tickets for eighteenth.
+	бәсе,	
+	он сегізіне.	
+SPK0027	Сонда біз он алтысы он жетісі,	So, we... on sixteenth, seventeenth...
+	он сегізі нешеге?	At what time on eighteenth?
+SPK0036	Сағат үш жарымға.	At three thirty.
+SPK0014	Сағат үш,	At three eighteen.
+	он сегізде.	
+SPK0027	Нормально.	It works.
+SPK0036	Нормально.	It is good.
+	Он тоғызы күні мен жұмысқа сарт ете қалам келіп.	On nineteenth I will come to work rightaway.
+SPK0014	Мама төрт-ақ орын қалыпты оған.	Mom, there are only four seats left for that one.
+SPK0036	Қайтарға ма.	For returning?
+SPK0014	Иә.	Yes.
+	Бүгін алмасаңыздар екеуін де,	If you don't buy both of them today, I don't know if you will be able to do later.
+	білмеймін енді.	
+SPK0036	Соны айтамын.	That's what I am saying.
+	Тұра тұр онда бүйтейік қазір,	Hold on, let's do like this now.
+	звандаймын мен аналарға,	I will call them real quick.
+	тез-тез.	
+SPK0027	Ей оларға,	Oh, it is useless to call them now already.
+	уже бесполезно.	
+SPK0014	Үш мың алты жүз жетпіс екі # теңге дедім бе?	Did I say three thousand six hundred and seventy two tenges?
+	Бір адам болса,	For one person, to go there and return would cost seven thousand and three hundred.
+	сонда ары бері сонда,	
+	жеті мың үш жүз #.	
+SPK0036	Түк те емес.	It is nothing.
+SPK0014	Иә түкте емес.	Yes, it is nothing.
+SPK0036	Просто баратын,	It is just that the thing we will go to should be good.
+	неменеміз де нормальный,	
+	болу керек #.	
+SPK0027	Әәәй,	Oh...
+	көреміз енді.	We'll see.
+	Біздің папамыз не дейді қазір.	What will our dad say now?
+SPK0036	Ана жаққа барып сөйлес #,	Go to that place to talk.
+	мына,	Let me talk to my apaika, and you go there.
+	апайкамен сөйлесіп алайын бар ана жаққа,	
+	екеуіміз екі жақтан айқайламай.	Let us not scream from both sides.
+SPK0027	(Hx)	
+	Ей,	Hey you!
+	немене істеп жатырсың.	What are you doing?
+	Аа?	Come again?
+	Жұмысың қайда.	Where is your work at?
+	Тамағың нормальный ма екен?	Is your food okay?
+SPK0014	Сені алып кетсін.	Let them take you.
+SPK0027	Барасың ба.	Do you want to go?
+	¬Манатты ұмытып кетіппіз ғой.	We forgot Manat apparently!
+	Бар?	Go with us.
+SPK0036	Бара бер дей ме?	Did he say you can go?
+SPK0014	Ақсай емес	I said Aktogay, not Aksay.
+	Ақтоғай дедім.	
+	Соңғы ммм—	The last...
+SPK0027	Жоқ.	No.
+	Ол Жалаңаш деген станцияға тоқтайды ғой.	The train stops at the station called Zhalanash.
+SPK0014	###,	
+SPK0027	Жолай.	On its way.
+SPK0014	Иә.	Yes.
+SPK0036	Нешеде екен ¬Аcыл?	At what time Asyl?
+SPK0027	Иә,	Yes.
+	сол кезде—	At that time...
+SPK0036	Сол ммм,	That thing... the train...
+	пойыз.	
+SPK0014	Баратын ба.	The one that goes there?
+SPK0036	Иә.	Yes.
+SPK0014	Баратын төрт жарымда.	The one that goes there is at four thirty.
+SPK0036	Бес отызда ма.	Is it at five thirty?
+SPK0014	Қазір тұра тұрыңыз.	Hold on.
+	Ұмытып қалдым #.	I forgot.
+SPK0036	Бес отызда деп айтқан сияқты болған.	I guess they said five thirty.
+SPK0014	Қарап жіберейін иә?	Let me check, ok?
+SPK0027	Апайың алмай тұр ма.	Your aunt does not answer the phone?
+SPK0036	Аа.	Come again?
+SPK0027	Алмай тұр ма.	Not answering the phone?
+SPK0036	Алмай тұр мыналар,	These people are not answering.
+	¬Балнұр мен кім,	Balnur and that person...
+	¬Жанар,	Zhanar...
+	##.	
+SPK0014	Міне Өскемен-Ақтоғай,	Look, it is Oskemen-Aktogay.
+	енді Жаланашколь деп тұр,	But it says Zhalanashkol, but I do not know whether it is the Zhalanashkol you are talking about.
+	сол Жаланашколь ме мен білмеймін.	
+SPK0027	Иә.	Yes.
+SPK0014	Ана,	Is it at that thing... is it at the border?
+	ммм,	
+	не жақта,	
+	граница жақта ма?	
+SPK0027	Иә,	Yes, at the border with China.
+	Қытайдың границасы жақта.	
+SPK0014	Аа,	Oh, then yes, it is the place you are talking about.
+	а иә,	
+	онда сол жер иә.	
+SPK0027	Еще таксиға,	If we do not negotiate with taxis in advance before arriving there, our mobile balance will get wasted because our mobile network will enter the Chinese roaming zone.
+	біз оған отырмай тұрып келісіп қоймасақ,	
+	біздің,	
+	жолда,	
+	Қытайдың роумингіне кіріп кетеміз де,	
+	мынадан желініп қалады екенбіз.	
+	Сол жақ,	That place...
+	барамыз ғой Жалаңашкөлге,	When we get to Zhalanashol, we will no longer be able to make calls.
+	сонда біз звандай алмаймыз уже.	
+	Роуминг көп болып кетеді.	Roaming fees will be a lot.
+SPK0036	Жалаңашкөлге түскеннен кейін,	They say that once you get to Zhalanashkol, the taxi drivers there will take you righaway, all you have to do is to tell them your destination.
+	алып-алып жөнеледі дейді өздері,	
+	такси баратын жеріңді айтсаң болды дейді.	
+SPK0014	Төрт елу бір.	Four fifty one.
+SPK0036	Төрт елу,	Fouty fifty.
+	бәсе сол ма- со:л,	Yes, they said around that time.
+	мөлшер деген.	
+SPK0014	Төрт елу бірде шығасыздар да,	You depart at four fifty one, and you will travel for seventeen hours.
+SPK0027	#######—	
+SPK0014	он жеті сағат жүресіз.	
+SPK0036	Алло Салтанат,	Hello Saltanat!
+	алло.	Hello.
+	Он жеті саған жүресің—	You travel for seventeen hours...
+	Алло.	Hello.
+	Туй өздері өзі.	Oh, these people!
+	Недеген адамдар өзі.	What kind of people are they!
+	Нервымды тауысқан.	Who eat my nerves!
+SPK0027	Бүгін нешесі?	What date is it today?
+SPK0036	Оны ғой.	It is tenth.
+	Он бірі.	Eleventh.
+	Туй өзі.	Oh!
+	Қанды ішіп өздері өзі.	Oh these people, making me crazy!
+	Әйтпесе қазір қай,	Otherwise, if only two of us travel, then we shall buy the tickets now.
+	екеуіміз:,	
+	ғана баратын болсақ,	
+	билет ала салу керек.	
+	Иә?	Yes?
+SPK0027	Конечно.	Of course.
+	Қайтқанға,	There are only four seats left for returning.
+SPK0014	Сол қайтқанға төртеу-ақ тұр.	Yes, there are only four places left for the way back.
+SPK0027	төрт-ақ орынға,	
+	билет қалды.	
+SPK0036	Соны айтамын.	That's what I am saying.
+SPK0014	Он сегізі.	Eighteenth.
+SPK0027	Ол мен—	It is me...
+SPK0014	Енді,	But if you want to return on some other day, let me check again.
+	басқа күндері қайтасаңыз,	
+	қарап көрейін.	
+SPK0036	Жоқ,	No.
+	бақса күндері емес,	No other days.
+	менде он тоғызында жұмыс ¬Асыл.	Asyl, I have work on nineteenth.
+SPK0014	Ааа.	Oh.
+	Сізге солай ма.	That's why.
+SPK0027	Сонда он алтысы барамыз да,	So, we get there on sixteenth.
+	Он алтысы,	Sixteenth, seventeenth...
+SPK0036	Он алтысы,	Sixteenth, seventeenth... in the morning on eighteenth we will manage to swim one more time until three.
+SPK0027	он жетісі.	
+SPK0036	он жетісі,	
+	он сегізі күні,	
+	таңертең,	
+	тағы түсіп аламыз,	
+	үшке дейін үлгеріп аламыз.	
+	Екіге дейін.	Until two.
+	Әйтпесе одан кейін қалатын болсақ біз,	Otherwise, if we stay longer after that, we...
+	көрдің бе жиырма бірі күні маған жиналыс,	You see I have a meeting on twenty first.
+	таңертең сағат сегізде.	In the morning at eight.
+SPK0027	Мен жиырма,	I, on twenty fourth...
+	төрті ###.	
+SPK0036	Бармаса,	If they don't want to go, let it be so. We don't need those who don't want to go.
+	бармай-ақ қойсын,	
+	бармағандар керек жоқ қазір.	
+	Ертең баратын едік деп,	"You know tomorrow they would be like ""oh, we would have gone with you""."
+	тағы да,	
+	бүйтіп қалатындары,	
+	бар емес пе.	
+	Ойбай,	Oh gosh, Bikosh!
+	¬Бикош,	
+	бәсе,	I thought so.
+	енең вообще арықтап кетіпті,	Your mother-in-law has lost a lot of weight.
+	көрдім жаңа статустан фотоларыңды,	I just saw your pictures in the stories.
+	иә аман есен болсын енді.	Yes, may them be healthy.
+	Неғып жүдеп кеткен ана кісі.	How did she become so unhealthy?
+	Енді мен ана,	It is just that I came to my friend's place as a guest.
+	бір подружкамдікіне қонаққа келгенмін сол,	
+	отырмыз.	We are sitting.
+	Сен өзің не істеп жатырсың.	What are you doing yourself?
+	(H)	
+	(Hx)	
+SPK0027	(TSK)	
+	Апортқа нәрсе түсіп жатыр екен.	Stuff is arriving at Aport.
+	Футболки большемерки.	Oversize T-shirts.
+SPK0036	Ақша жоқ менде.	I got no money.
+	Бұнда айтпақшы каспи ред бар иә мында.	By the way, they have Kasi Red there, don't they?
+SPK0027	Бар.	They do.
+SPK0036	########.	
+SPK0027	М?	Come again?
+SPK0036	#######.	
+SPK0027	@@@	
+	Кіріп шығайық па.	Do you want to go visit?
+SPK0036	Барып келуге болады,	We can actually go there casually.
+	ақырындап.	
+	Қазір баратын бармайтынымызды шешіп алайық.	Let us now decide whether we are going or not first.
+	Мынаны билетке не етіп отырмын да.	I am just saving this money for the ticket.
+SPK0027	Мәә,	Oh, god!
+	билетке не етсек онда,	If we want to pay for tickets, we need to transfer the money to Asyl so that he can buy the tickets online easily.
+	ақша не ету керексің,	
+	сразу ¬Асыл алатындай ғып,	
+	¬Аcылдың карточкасына жіберу керекпіз.	We need to send the money to Asyl's card.
+	Туда обратноға,	In that case, we need to buy a round-trip ticket.
+	бірақ алу керекпіз онда.	
+SPK0036	Иә.	Yes.
+	¬Әкөш:,	Аkosh, hi, how are you?
+	сәлем қалайсың.	
+	Денсаулығың қала:й.	How's your health?
+	¬Әкөш бір,	Akosh, if you have money, please send me ten thousand.
+	ақшаның ыңғайы келсе,	
+	бір маған он мың теңге қоя берші.	
+	Мен Алакөлге барып бір үш-төрт күн дем алып келейінші деп ойлайғанмын.	I was thinking of going to Alakol for three-four days.
+	Соған билетке,	For that I need money for a round-trip ticket.
+	туда и обратноға ақша керек болып тұр.	
+	Қазір ақшам түспей жаты:р.	Right now my pay is not being transferred.
+	Ақшада- ақшадан қысылсаң,	If you don't have enough money, I will give it back to you on seventeenth.
+	он жетісі күні ақшам түскенде қайтарып беремін.	
+	Үлкен ұлдан ақша сұрасаң,	If you ask money from my oldest son, he will start whining immediately.
+	жыл:ай кетеді ғой @@@@	
+SPK0027	Андағы кішкентайың ба.	Was this your youngest?
+SPK0036	Тайынша беріп отырсақ та анау кішкентай.	Even if we gave him a taiynsha... that little...
+	¬Жайдарбек де айтып көру @керек @қазір.	I should also try telling Zhaidarbek, haha.
+	¬Пакош,	Pakosh, hi, how are you?
+	сәлем қалың қалай.	
+	Денсаулығың қалай бәрі жақсы ма:,	How is your health? Is everything alright?
+	жұмыстасың ба,	Are you at work?
+	демалып жатырсың ба.	Are you having rest?
+	¬Пакош,	Pakosh, if you have money, please send me one thousand, please.
+	ақшаң болса бір он мың теңге салып жіберші.	
+	Мен Алакөңге,	I was thinking of going to Alakol for three-four days.
+	Алакөлге барайын дегенмін бір үш-төрт күнге:,	
+	оған қазір билетке ақшам жетпей тұ:р,	For that, right now, my money is not enough.
+	одан кейін,	After that, if everything is ok, I will give your money back to you, on seventeenth.
+	ыңғайы келсе,	
+	он жетісінде,	
+	ақшам түскенде қайтарып бере:мін.	
+	@@@@@@	
+SPK0027	Күшті ғой саған.	So cool for you!
+	Мынаған да маған,	Asyl added some of his money to buy this phone.
+	¬Асыл қосты осы жолы.	
+	Отыз мың #.	Thirty thousand.
+SPK0036	А.	Oh.
+SPK0027	Мынаған ¬Асыл қосты,	Asyl added money to buy this.
+	отыз мың.	
+SPK0036	Ее.	Oh.
+	Наличка ақшаға алдың ба сразу.	Did you buy with cash?
+SPK0027	Иә.	Yes.
+	(H)	
+	¬Рахат кредитка ал дейді,	Rakhat told me to buy it on a loan.
+	қойшы дедім.	I said no.
+	Айфоным бар,	I am paying loans for iPhone, vaccuum cleaner already.
+	Пылесосым бар,	
+	төлеп жатқан.	
+	Ана жолы ана қыз Астанаға кеткен кез-,	The other time, daughter went to Astana.
+	Каспи редқа,	For Kaspi Red...
+SPK0036	Ау.	Yes?
+SPK0014	Телефон күшті,	The phone is cool.
+SPK0027	Каспи редтан,	I got her a suitcase for Kaspi Red.
+SPK0014	негізі жүз қырық мың тұрады негізі өзі.	It actually costs a hundred and fourty thousand.
+SPK0027	чемодан алып бергенмін.	
+SPK0014	Скидкамен алдық.	We bought it on a discount.
+SPK0027	Ана қызға.	For that daughter.
+	Чемодан алып бердім,	I bought a suitcase with Kaspi Red for her.
+	каспи редқа мен.	
+SPK0036	Үш айға.	For three month?
+	Жолға ма?	For the trip?
+SPK0027	Иә.	Yes.
+	Киім салғанға.	To put her clothes.
+	Бұл қыздар да,	These girls want to have all these days.
+	сылқылдап жүргілері келеді ғой.	
+	Шүберек сумка ұстамайды.	They do not like carrying bags made of fabric these days.
+SPK0036	Қалайсың ¬Күлпәш.	What's up Kulpash?
+	Әй мен ммм,	You know I am at Nazgul's place.
+	мм ¬Назгүлдікіне келіп қалдым міне,	
+	¬Назгүлді сағынып жетіп алдым бүгін.	I missed her, so I got to her place today.
+	Сен жетіспей отырсың.	You are missing.
+SPK0014	Кто кто собираетесь,	Who is also going with you?
+	кем,	Who else is going there?
+	кем еще собираетесь,	
+	туда.	
+SPK0036	Ммм,	Hmmm.
+	Мен,	
+	тағы бір неменем бару керек болатын,	One of my girl classmates was planning to go, but for some reason she is not answering her phone today.
+	класстас ой мм,	
+	иә класстас қызым,	
+	че то алмай тұр телефонын бүгін—	
+SPK0027	Әй,	Hey you, let's make sure we do not end up shelterless there once we get there.
+	барып алып екеуіміз,	
+	үйсіз қалып жүрмейік ол жақта.	
+	Оны конкретно,	That..surely...
+	номеріміз дайын тұрса жақсы болар еді.	It would be better if we had our room ready already,
+SPK0036	Өйтіп,	As long as we get the tickets first, finding a room is not a problem
+	бірінші билет алып алсақ номерің,	
+	қайда қашады ол.	
+	Болады ғой бәрі бір.	There will be one for sure.
+	Қымбатқа болсын бәрі бір.	Doesn't matter if the room is expensive.
+	Екі-ақ адам болсақ тіпті жақсы.	If it is a room for two, it is even better.
+	Кішкене қымбат комфортный,	We will get something more expensive and more comfortable.
+	бірдеңке алып аламыз.	
+	@@@@@@@ (Hx)	
+	Иә?	Yes?
+SPK0027	Оған қазір билет алу керек,	For that, we should get the tickets first.
+SPK0036	Ммм,	Hmm, we need to buy tickets.
+SPK0027	бірінші.	
+SPK0036	билет алу керек,	
+	айтып тұрмын ғой бірінші билетті шешіп—	I am saying that we should first sort the tickets...
+SPK0014	Может там онлайн можно забронировать,	Maybe we can book them online... I mean these houses.
+	вот эти дома.	
+SPK0036	Соны айтамын.	That's what I am saying.
+SPK0027	Бронировать етуге бола ма?	Can we book without paying money?
+SPK0014	Но я не знаю,	But I don't know.
+SPK0027	Без ақша.	
+SPK0014	я могу посмотреть.	I can check tho.
+SPK0027	Посмотри.	Check please.
+SPK0036	Әне,	You see?
+	@@@@.	
+SPK0027	Әгі үлкенің бе.	Is that your oldest son?
+SPK0036	Иә,	Yes.
+	@бұнікі @постоянно осылай болып тұрады.	He is always like this.
+SPK0027	Продуктінікі болатын кароче @.	"""This money was for groceries""."
+SPK0036	Иә.	Yes.
+SPK0027	@@	
+SPK0036	Жарайды ¬Жайдарбек,	Ok, Zhaidarbek.
+	рақмет,	Thank you.
+	түсті.	It's been transferred to me.
+	Қазір билет алып қояйын дегенім ғой мен,	I was just thinking of buying the tickets now.
+	ммм,	Hmm...
+	барарға билет бар екен де,	There are tickets available to go that way but only four tickets for the way back.
+	қайтарға,	For the way back, only four seats left.
+	төрт-ақ орын қалыпты,	
+	Жалаңашкөлге дейін.	All the way to Zhalanashkol.
+SPK0027	Жоқ бір,	No, we need to buy a round-trip ticket.
+	сразу бірақ ала салу керек.	
+SPK0036	Салып жіберді ¬Жайдарбек.	Zhaidarbek transferred to me.
+	Он мың теңге.	Ten thousand.
+	(Hx)	
+	@@@@@	
+	Енді қазір cары ұлым салып берсе,	"And if now my ""yellow"" son can chip in some ten thousand...hahah"
+	бір он мың теңге @@.	
+	@@@@	
+	(Hx)	
+SPK0027	Ұлым да жоқ,	I do not have a son somewhere away for me to call.
+	бір жерде звандайтын.	
+SPK0036	Әйтпесе,	Otherwise, I do not have any money at all.
+	вообще,	
+	ақша жоқ,	
+	менде.	
+	Қазір мен,	I am sitting here, confidentily saying that I will go there, but I don't have money to actually be there for three days,
+	барамын деп шертіп отырмын ғой,	
+	ана жерге үш күн төлейтін ақша да жоқ менде.	
+SPK0027	Жындысың ба?	Are you crazy?
+SPK0036	А.	What?
+	@@	
+SPK0027	##########.	
+SPK0036	Ау.	Come again?
+SPK0027	Берем деп жатыр ма.	Is he saying he will give you money?
+SPK0036	Өй ол,	Well, he has already transferred ten thousand to me.
+	салып жерді маған уже он мың теңге.	
+	Үлкен ұлым.	My oldest son.
+	Кішкентай ұлым салып жіберетін шығар.	My youngest son will probably transfer some to me as well.
+SPK0027	Жаңа жарайды деді ғой.	He just said ok.
+SPK0036	Салып жерді он мың теңге.	He transferred ten thousand already,
+	Барар қайтар жолына.	For the way to and back.
+SPK0027	Екіншісі.	Your second son.
+SPK0036	Ол ммм,	I meam my oldest son did.
+	үлкен,	
+	¬Күлпәш Aлакөлге кеткей жатырмыз,	Kulpash, we are about to leave for Alakol.
+	бес күнге,	For five days.
+	¬Назгүл екеуіміз,	Two of us - Nazgul and I.
+	айда жүр кеттік.	Go with us!
+SPK0027	Бес күнге емес,	Not for five days.
+SPK0036	Пять- мм иә.	Friday, hmm, yes.
+SPK0027	үш күнге кеттік.	For three.
+SPK0036	Пятница күнгі жұмыстарыңды сырып са,	Get your work for Friday done already.
+	четверг күні кеше жақын:,	If we get on the train on Thursday evening, we will get off the next day morning.
+	поездға отырсақ,	
+	отырсақ,	
+	ертеңінде таңертең түсеміз.	
+	Кароче он алтысы:,	In short, on sisteenth and seventeenth - we will be there.
+	он жетісі,	
+	сол жерде боламыз,	
+	он сегізі,	On eighteenth afternoon, we will travel back.
+	түстен кейін,	
+	қайтадан шығып кетеміз де,	
+	понедельник жұмысқа үлгереміз таңертең.	And we will manage to get to work on Monday morning.
+	Давай.	Let's go!
+	Дерзай деп қойсам иә @@@@	"Imagine me saying: ""Dare! Go for it"", haha"
+SPK0027	Үлгермейсің ғой.	You won't manage.
+SPK0036	Үлгермесек қояйық.	If we don't manage, let us not.
+	Он жарымда түсіп қоямыз поездан.	We will have gotten off the train at ten thirty.
+SPK0027	Мхм.	Yes.
+SPK0036	Келіп мен кемпірлерімді,	And I will come and do this with my kempirs.
+	HAND_MOVEMENT	
+	деп жеремін ғой @@.	
+	@ (H)	
+	Ашықтау ғып құй.	Make my tea a little lighter.
+	Міне мына ¬Балнұр қатын неге алмайды,	Why this woman named Balnur does not answer her phone?
+	¬Жанар неге алмайды.	Why Zhanar does not answer her phone either?
+	####	
+	Қиын жек көремін осылардың өстіп отырғандарын өзі.	I really hate when they do this.
+	Мәнтіріп.	Being so inattentive.
+SPK0027	@@@	
+SPK0036	Жоқ енді.	"Well, just say ""yes"" or ""no"". I like concreteness."
+	Иә иә,	
+	жоқ жоқ,	
+	конкретность жақсы ғой.	
+SPK0027	Мына мм ¬Аcыл Ta-,	This...Asyl...
+	¬Аcылды алып кет дейді.	Rakhat told me to take Asyl with myself.
+	¬Асыл бармаймын дейді.	Asyl says he does not want to go,
+	(Hx)	
+	Ақсай ма еді.	Was it Aksay?
+	Жаңа ол кісілер жатқан жер.	The place where those people stayed?
+SPK0036	Aksay.	Aksay.
+SPK0027	Қойшы өзі.	Oh, the hell with it.
+	###	
+	@@	
+SPK0036	Алкоголь алып алуымыз керек қой иә?	We need to take some alcohol to there, right?
+SPK0027	Ал?	Take some.
+SPK0036	Алкоголь алып алуымыз керек қой.	We need to bring some alcohol.
+	Пиво ма,	Beer or something else.
+	бірдеңке.	
+	Или ақ арақ па.	Or vodka.
+	###,	### right?
+	иә?	
+	Ол жерде қымбат,	They said that alcohol is expensive there.
+	деп отырған әйтпесе.	
+	###.	
+	¬Балнұрдың да махаббаты өшкен ғой деймін.	I guess Balnur's love has also extinguished.
+	Жоқ.	No.
+	Алмайды.	She does not answer the phone.
+SPK0014	Мен бірақ түсінбедім.	I did not understand this.
+	Мама қарашы.	Mom, look!
+	Өскеменнен,	The route of your train which goes from Oskemen to Zhalanashkol is Oskemen-1-Aktogay, yes?
+	Ақ- мм,	
+	Жалаңашкөлге баратын,	
+	поезд?	
+SPK0036	Иә.	Yes.
+SPK0014	С—	
+	сендер.	
+	Он- негізі маршруты,	
+	Өскемен-1,	
+	Ақтоғай.	
+	Иә?	
+	Соңғы,	
+SPK0036	Иә.	Yes.
+SPK0014	несі,	Its last stop is Aktogay.
+	Ақ- Ақтоғай.	
+SPK0027	Иә,	Yes, we get off at the statation.
+	біз станциядан түсеміз.	
+SPK0014	А бірақ,	But the route of the train which for the way back is Dostyk-Aktogay.
+SPK0027	Станция—	Station...
+SPK0014	келгендегі,	
+	поезыңыз мама сенің,	
+	ол,	
+	Достық-Ақтоғай.	
+	Но,	But it is saying that Oskemen is one of the stops in this route.
+	ана жерде айтып тұр Өскеменге,	
+	Өскемен бір несі соның,	
+	остановкасы.	
+	Қалай ол сонда Достықтан-Ақтоғайға.	But how is that possible in the route from Dostyk to Aktogay?
+SPK0036	Енді апайка бүйтіп жазып жіберіпті.	Well, my auntie wrote and sent me this.
+	Қараш.	Take a look.
+	Андағы уақыты қанша деп тұр екен,	What is it saying about the time?
+	соны білу керек.	We need to know that.
+SPK0014	Оның уақыты.	Its time...
+SPK0027	Он төрт бірдеңе деді ғой-,	Fourteen something..
+	он алты бірдеңе деді ғой деймін.	I guess sixteen something.
+SPK0014	Баратын баратын уақыты он алты елу бір.	The time it departs is sixteen fifty.
+SPK0036	Жоқ міне.	No, look at this.
+	Қазір апайкам ###.	Hear what my auntie has to say...
+	Онда мына басқа поезд.	Then this is a different train.
+SPK0014	Сол ғой.	No, it is the same train.
+SPK0027	Мен Жалаңашкөлдемін.	"""I am in Zhalanashkol"""
+	Потому что он оның,	Because it is its station.
+	станция.	
+SPK0014	Бес жарымда түсесің деп тұр ма.	Is she saying we get off at five thirty?
+	Ана кісі?	That person?
+SPK0036	Бес жарымда отырасың деп тұр Өскеменнен.	She is saying that you get on the train at five thirty in Oskemen.
+SPK0027	Он жарымда түсесің таңертең.	And you get off at ten thirty in the morning.
+SPK0014	###	
+	төрт елу,	It says four fifty, four fifty one
+	елу бір деп тұр.	
+SPK0027	Сол.	Yes, the same train!
+SPK0014	Жоқ,	No.
+	төрт елу бірде	I guess it departs righaway at four fifty.
+	ол,	
+	кажется отправляется сразу.	
+	Оған ерте отырасың.	You get on it earlier.
+	Бұқтырма деген жерге барғыларыңыз келмей ме?	Don't you want to go to a place called Bukhtarma?
+	Жәй.	Just in case.
+SPK0036	Ау.	Come again?
+SPK0014	Бұқтырмаға барғыларыңыз келмей ме.	Don't you want to visit Bukhtarma?
+SPK0036	Бізге бір,	It is just that we need a place with something for remedial and treatment.
+	лечениясы бар бір жер керек болып тұр.	
+	Мен батпағына түскім келіп жүр.	I want to lie in Alakol's mud.
+SPK0027	# Сарыарқа қымбат болып тұрғанын қарашы.	It is so pity that Saryarka is so expensive at the moment!
+SPK0036	Сол жерде.	There in Alakol.
+SPK0014	Иә,	Yes, cool.
+	күшті.	
+	Бірақ # по составу,	They say the lake is good when you look at its composition.
+	озера жақсы дейді иә.	
+	Іші.	
+	Алакөл секілді екен.	Its inside is like that of Alakol's.
+SPK0036	Соны:,	It has this thing...Arasan.
+	несі,	
+	Арасаны бар екен.	
+	Күні екі мың теңге,	Two thousand tenge per day.
+	соған түскім келіп тұр ғой.	I want to get in there!
+	Аяқ-қолым қақсап жүр менің.	My hand and legs are aching these days.
+SPK0014	Ммм.	Oh, I see.
+SPK0036	Оның ешқандай артықшылығы жоқ қой.	There is nothing bad the mud can bring.
+	Батпаққа түссең жақсы ғой.	If you lie in the mud, it is always good.
+	Немене істейік.	What shall we do?
+	Екеуіміз билет алып жіберейік пе.	Shall we get the tickets?
+SPK0014	Сіздер окончательно @реша- @##.	You need to make a final decision.
+SPK0036	Менің ##,	For me it is conclusive.
+	маған окончательный болып тұр ғой.	
+SPK0014	Сарыарқаға звандап жатырсың ба?	Are you calling Saryarka?
+	Сарыарқаға хочешь.	You want to go to Saryarka?
+SPK0027	Мхм.	Yes.
+	Жоқ бірдеңе білейін дегенмін.	No, I wanted to learn about something.
+SPK0014	Мама Сарыарқа күшті.	Mom, Saryarka is cool.
+	Біз барған мама екеуіміз.	The one me and mom went to together.
+	Бәріміз барған.	The one we all went to.
+SPK0036	Иә.	Yes.
+	Мамаң мені шақырды да,	"Your mom invited me, saying ""there was one seat left, let's go"". But I could not go the year before last year."
+	бір орын бар,	
+	жүр деп мен бара алмай қалдым емес пе,	
+	алдыңғы жылы.	
+SPK0027	Иә.	Yes.
+SPK0014	Осы Сарыарқа,	This Saryarka...
+	именно Сарыарқа күшті,	Among all, Saryarka is the best, right mom?
+	иә мама?	
+SPK0036	Немене деді мына қыз.	What did this girl day?

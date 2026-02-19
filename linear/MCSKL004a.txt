@@ -1,0 +1,474 @@
+speaker	span	translation
+SPK3002	Такс професии,	"Alright... ""Art-related professions."""
+	искусства.	
+	Жетісі,	It says here that this topic is covered on the seventh and on the eighth (of some month).
+	сегізі дейді.	
+SPK3001	CLEARS_THROAT	
+	Әй,	Hey, daughter, what are you up to?
+	балам?	
+	Немене істеп жатырсың.	
+	А.	Hey?
+SPK3002	Жа:й.	Nothing important.
+SPK3001	Бір жұм–,	Work...
+	бастайық енді жұмысты.	Let's start working now.
+	Ойбай.	Oh God.
+	Мына,	Let me put these away.
+	нелерді қойып қояйын.	
+	####	
+SPK3002	Зарядкаң істеп жүр ме?	Is your charger working fine these days?
+SPK3001	Мхм.	Yes.
+SPK3002	Если ананың басы үзіліп қалып,	If the head of your charger gets torn off or something, and stops working for any reason, remember that we have another identical one back at home.
+	бірнәрсе болып істемей қалса,	
+	андағындай үйде бас бар.	
+	Ну этот анандай,	I mean that cable thingy.
+	шнур.	
+SPK3001	Жарайды.	Okay.
+SPK3002	###	
+	###	
+	Спасатели всегда:,	"""Rescuers always..."""
+	мынасын тоже бүйтіп салып,	I also put this one like this (in ###).
+	қойдым ###.	
+	Следующий,	"Next is ""We create a holiday."""
+	создаем праздник дейді.	
+SPK3001	BURPS	
+	Қалай болды сонда.	So, what did we end up with here?
+	Болды иә андағы?	Is this one over?
+	Төртінші сынып.	The fourth grade.
+SPK3002	Мхм.	Yes.
+SPK3001	Аха.	Correct.
+	Продиктовать.	"""To dictate."""
+	##	Can you please take a look at the ## that Aliya wrote?
+	Жаңағы,	
+	жаңағы,	
+	¬Алия жазған,	
+	### көре салшы.	
+SPK3002	###	
+	###	
+SPK3001	Иә.	Okay.
+SPK3002	###	
+	###	
+SPK3001	CLEARS_THROAT	
+SPK3002	Он бес-ақ сағат алынып тұр.	There are only fifteen lessons recorded.
+	Тоже не то.	Something is wrong here too.
+SPK3001	Мхм.	Yes.
+	Жарайды.	Okay.
+SPK3002	####	
+	####	
+SPK3001	Мхм.	Okay.
+	Одан кейін,	She says she will attend to it later tomorrow.
+	көремін дейді.	
+SPK3002	Мхм.	Okay.
+SPK3001	Ертең көремін дейді.	
+SPK3002	Такс,	So, Grade 4 is done, and now we are moving over to Grade 6, right?
+	четвертый класс кетті,	
+	енді шестой класс иә?	
+SPK3001	Мхм.	Yes.
+SPK3002	Бли:н,	Damn.
+	(H) неге класстарың @көп @өзі @@@	God, why do you have so many classes?
+SPK3001	Он сегіз сағат.	Eighteen hours.
+SPK3002	Мхм.	Yes.
+SPK3001	Орыс тілі.	Russian language.
+SPK3002	Мхм.	Yes.
+	Алтыншы классың,	So are we doing it for the entire class of Grade 6?
+	вся группа ма.	
+	Весь класс па.	
+SPK3001	Иә весь класс.	Yes, the entire class.
+SPK3002	Количество часов,	For the number of hours...was it two hundred?
+	жүз екі ме еді.	
+SPK3001	Мхм.	Yes.
+	Үш сағаттан.	Three hours each.
+	CLEARS_THROAT	
+SPK3002	Мынаның ішінде алты бар екен.	This one luckily has Grade 6 in it.
+	Как раз.	
+	Пятый.	Grade 5.
+	Вот шестой.	Here is Grade 6.
+	Слово дело великое дейді.	"So, this topic is called ""A word is a great deed""."
+	Ойбай.	Oh no.
+	Міне екен ғой.	It is here apparently.
+SPK3001	Оған не керек.	What about it?
+	Е: соны,	Oh this one, I see.
+	###,	
+	CLEARS_THROAT	
+SPK3002	Ой мам я же–	God, mom, I know what I am doing!
+	я же знаю что делаю.	
+SPK3001	Жарайды.	Okay. As long as you know what you are doing.
+	Білсең болды.	
+SPK3002	@@@@	
+SPK3001	Слово дело великое.	"""A word is a great deed."""
+	Ал енді,	And now, add it.
+	қос енді.	
+	CLEARS_THROAT	
+	Сенің де көзің таусылады.	Your eyes get tired. Mine also get tired.
+	Менің де көзім таусылады.	
+	Енді қайтемін,	There is no other way to deal with this.
+	кіти шыдашы,	Just hang on there a little.
+	осыдан кейін мазаламаймын.	I will not bother you after this.
+	Қайдағы ма.	Who am I kidding though?
+SPK3002	Мынаны мам немене істеймін.	Mom, what should I do with this?
+SPK3001	###	
+	#	
+SPK3002	###	
+SPK3001	Таңертең ерте тұрып,	I badly want to get up early tomorrow and wash my head.
+	басымды жуып алмасам ба өзі.	
+SPK3002	Мен кеше душқа түсіп алғанмын.	I took a shower yesterday.
+SPK3001	Істеп тұр ма душтары.	Is their shower working?
+SPK3002	Мхм.	Yes.
+	Үшеуі де істеп тұр екен.	All three are working.
+SPK3001	М:.	Ah I see.
+	YAWNS	
+	Әгі қасыңдағы қыз,	Did that girl who lives with you also chip in her money?
+	бәріне қосылды ма.	
+	А қыздар ақшаңды берді ме,	Did the girls give you your money back? The three thousand.
+	үш мыңды.	
+SPK3002	Иә.	Yes.
+SPK3001	М:.	I see.
+	##	
+SPK3002	Қасымыздағы қыз,	The girl who lives with us has not chipped in yet. She said she was waiting for her stipend.
+	пока қосылған жоқ.	
+	Ол стипендиямды тосып жүрмін дейді.	
+SPK3001	М:.	I see.
+	Әгі жаңадан келген бе?	You mean the new girl who came recently?
+SPK3002	Мхм.	Yes.
+SPK3001	Е:.	Ah I see.
+SPK3002	Ол,	She apparently also works as a babysitter.
+	немене болып еще,	
+	жұмыс істейді екен.	
+	Нянька болып.	
+SPK3001	Мә:.	Oh wow.
+SPK3002	Жұмыс істейді ғой деймін.	I am not sure though if she really works.
+SPK3001	CLEARS_THROAT	She earns extra money that way, right?
+	Подрабатывает иә?	
+SPK3002	Кажется.	I guess so.
+	КШТ-ға,	She leaves for KShT on Saturdays and Sundays.
+	суббота воскресеньеда кетіп қалады.	
+SPK3001	Аха.	Yes.
+SPK3002	Ме:н,	She says she babysits there. Like...
+	нянька боламын деді.	
+	Ну типа,	
+SPK3001	Иә,	Yes, she probably babysits somebody's baby.
+	біреудің баласын бағатын шығар.	
+SPK3002	солай ғой деймін.	I guess so.
+SPK3001	Аха.	Yes.
+	Не замужем.	Is she married?
+SPK3002	Не:т.	No.
+	Но ол алдында,	But just the other day she went on a date.
+	@свиданиеға @барып @келді.	
+SPK3001	Неге.	Why?
+	Жігіті бар ма екен.	Does she have a boyfriend?
+	А:.	Ah I see.
+SPK3002	##,	
+	жігіті емес?	It is not her boyfriend.
+SPK3001	Енді.	Then what?
+SPK3002	Мынау немене сонда?	What is this thing over here?
+	Раздел бір деп мынау (H)	"It says ""Chapter one""."
+	В человеке все должно быть прекрасно дейді.	"It says ""everything must be perfect in a person."""
+SPK3001	Иә,	Yes.
+SPK3002	Мынау басқа раздел ма.	Is this a different chapter?
+SPK3001	анау введение сияқты.	That one seems like an introduction.
+SPK3002	А жарайды.	Ah okay.
+SPK3001	Аха.	Yes.
+SPK3002	Мынаны раздел бір деп жаза саламын онда.	Then I will just name this as chapter one.
+SPK3001	Иә.	Yes.
+SPK3002	Немене дейді.	So she says that they never saw each other before in life.
+SPK3001	Мхм.	Yes.
+SPK3002	(TSK)	
+	Өмірде бір бірімізді көрмегенбіз дейді.	
+SPK3001	Иә.	Yeah.
+SPK3002	Ну ол екеуі бір жақтікі екен оказывается.	But it turns out that they come from the same area.
+SPK3001	Ой Алла.	Oh really?
+SPK3002	Екеуі бір универде оқыған ғой?	They studied at one university.
+SPK3001	Мхм.	Yeah.
+SPK3002	Анау былтыр бітіріп кетіпті.	The guy graduated last year.
+	Осы жазда бітірген ғой,	He finished this summer.
+SPK3001	Мхм.	Yes.
+SPK3002	анау.	
+SPK3001	Жігіт.	You mean the guy?
+SPK3002	Иә.	Yes.
+SPK3001	Аха.	Yeah.
+SPK3002	Экон:,	I guess he studied economics.
+	омиканы бітірді ғой деймін.	
+	Ана қыз,	That girl studies foreign languages.
+	инязда оқиды.	
+SPK3001	Аха.	Yeah.
+	Ағылшын ба.	English?
+SPK3002	Мхм.	Yeah.
+SPK3001	Мхм.	Yeah.
+SPK3002	Два иностранных,	Two foreign languages, I guess.
+	два иностранных языка,	
+	ғой деймін.	
+SPK3001	Иә два языка.	"Yes, the specialty is called ""two languages."""
+SPK3002	Два языка ма.	Oh is it?
+SPK3001	Аха два языка.	"Yes, it is ""two languages."""
+SPK3002	Иняз.	Forgein languages.
+SPK3001	Аха.	Yes.
+	CLEARS_THROAT Мхм.	Yes.
+	Содан кейін?	Then?
+SPK3002	Со:л.	That is it.
+SPK3001	Сонда?	So then?
+	CLEARS_THROAT	
+	Сонда,	So, they are dating now, right?
+	енді встречаются да.	
+SPK3002	Енді,	Now yes.
+	иә.	
+	А:,	The guy took her to an expensive restaurant.
+	неменеге апарыпты.	
+	Қымба:т ресторанға апарыпты.	
+SPK3001	Мә:?	Oh, wow!
+SPK3002	Сенің мынауың неге,	Why is this one of yours different?
+	басқандай?	
+SPK3001	Неге?	Why?
+SPK3002	Мынада басқандай.	In this one, it looks different.
+SPK3001	Андағы бірақ не,	Everything in this is...
+	мынау дұрыс.	This one is correct.
+	мынау дұрыс.	This one is correct.
+SPK3002	Ал мынау немене.	Then what about this one?
+	Сен қате шығарып қойдың ба.	Did you print it incorrectly?
+SPK3001	Тұра тұр,	Hold on.
+	иә мынау,	Yes, these two together should be one hour in total.
+	мынау екеуі бір сағат болуы керек.	
+	Өтірік.	This is wrong.
+	Мынау дұрыс.	This is correct.
+SPK3002	Мынау дұрыс болса,	If this is correct, what will we do if your days do not match when we check everything at the end again?
+	қазір күндерің келмей қалса қайтеміз.	
+SPK3001	Неге күндерім келмейді.	Why do you think my days won't match?
+SPK3002	Ну енді,	Well, look, here you've got two days for each topic.
+	мында екі екі күннен тұр.	
+SPK3001	Екі екі күн болмау керек ¬Cакош.	Sakosh, it should not be two days each.
+	Мен мынаны қате істеп қойғанмын ба ендеше.	Does this mean that I did it wrong initially?
+	####	
+SPK3002	Мынау например,	For instance, let's say that this one took place on 3/09 (September 9, 2021).
+	айтайық,	
+	үші нөл тоғыз болды иә?	
+	Ойбай.	"Oh God, let me press ""Allow"" for this thing."
+	Разрешить.	
+	Мынау міне.	And here is this one.
+SPK3001	Үй андағы,	Oh no, that one is Grade 1.
+	бірінші класс қой.	
+SPK3002	Ө:й,	Oh!
+	шестой.	Grade 6.
+	Вот шестой класс.	This is Grade 6.
+	Мынау,	So this one is 3/09, right? (meaning this lesson took place on September 3, 2021).
+	үші	
+	нөл тоғыз иә?	
+SPK3001	Мхм.	Yes.
+SPK3002	Одан кейінгісі,	Then the one after this took place on the seventh (7/09/21).
+	жетісі:.	
+SPK3001	Айтайын ба әне,	Shall I dicatate those to you?
+SPK3002	Тұра тұр тұра тұр.	Hold on hold on.
+SPK3001	аха.	Okay.
+SPK3002	Жетісі,	The seventh...
+	сосын,	then...
+	Сегізі.	The eighth.
+SPK3001	Аха.	Yes.
+SPK3002	Сосын,	Then...
+SPK3001	Оны.	The tenth.
+SPK3002	мхм.	Yes.
+SPK3001	Он төрті.	The fourteenth.
+SPK3002	Тұра тұр он төрт.	Hold on hold on.
+SPK3001	Он бес.	Fifteen.
+SPK3002	Он бес.	Fifteen.
+SPK3001	Он жеті.	Seventeen.
+SPK3002	Он жеті.	Seventeen.
+SPK3001	Жиырма бір.	Twenty one.
+SPK3002	Жиырма бір.	Twenty one.
+SPK3001	Жиырма екі.	Twenty two.
+SPK3002	Жиырма екі.	Twenty twos.
+SPK3001	Жиырма төрт.	Twenty four.
+SPK3002	Жиырма төрт.	Twenty four.
+SPK3001	Жиырма сегіз.	Twenty eight.
+SPK3002	Жиырма сегіз.	Twenty eight.
+SPK3001	Жиырма тоғыз.	Twenty nine.
+SPK3002	Тұра тұр.	Hold on.
+	Жиырма,	Twenty nine.
+	тоғыз.	
+SPK3001	##	
+	CLEARS_THROAT	
+	Вот.	So...
+	Содан кейін,	Then...
+	бір.	One.
+SPK3002	Мхм.	Yes.
+SPK3001	Бес.	Five.
+SPK3002	Мхм.	Yes.
+SPK3001	А:.	And then the following day is the sixth.
+	Одан кейін,	
+	алты.	
+SPK3002	Мхм.	Yes.
+SPK3001	Сегіз.	Eight.
+SPK3002	Мхм.	Yes.
+SPK3001	Он екі.	Twelve.
+SPK3002	Мхм.	Yes.
+SPK3001	Он үш.	Thirteen.
+SPK3002	Мхм.	Yes.
+SPK3001	Он бес.	Fifteen.
+SPK3002	Мхм.	Yes.
+SPK3001	Он тоғыз.	Nineteen.
+SPK3002	Он тоғыз.	Nineteen.
+	Мхм.	Yes.
+SPK3001	Жиырма.	Twenty.
+SPK3002	Жиырма.	Twenty.
+SPK3001	Жиырма екі.	Twenty two.
+SPK3002	Жиырма екі.	Twenty two.
+SPK3001	Жиырма алты.	Twenty six.
+SPK3002	Жиырма алты.	Twenty six.
+SPK3001	Жиырма жеті.	Twenty seven.
+SPK3002	Жиырма жеті.	Twenty seven.
+	Бір сағатқа қалып қалды,	So this one is short by one hour.
+SPK3001	(СLEARS THROAT)	
+SPK3002	мынада.	
+SPK3001	Бір жарым бір сағат қалып қалды дейсің бе?	Are you saying that there is one more hour remaining?
+SPK3002	Мхм.	Yes.
+SPK3001	Неразлучные,	"Just put two hours for ""Inseperable Swans."""
+	лебедиға екі сағат қоя сал.	
+SPK3002	Жоқ енді мен,	No, I will still follow this one in any case.
+	мынамен істемейін бе,	
+	бәрі бір.	
+SPK3001	Е:.	Ah yes.
+	Бір сағат қалып қалды дейсің бе.	So you are saying there is an hour remaining?
+SPK3002	Мхм.	Yes.
+SPK3001	Өзі мынау,	"This one, the one called ""Who punished him?"" is such a small story."
+	а–	
+	кто наказал его,	
+	кіти:,	
+	жоқ әңгіме.	
+	Мен қайтадан шығарып аламын оны.	I will print this out again to correct it.
+	Оны дұрыстап.	
+SPK3002	Қайтадан шығара саласың ба?	Will you print this out again?
+	Онда осымен істейін бе?	Then shall I follow this one?
+SPK3001	Осымен істе,	Yes, follow this one.
+	осымен істе,	
+	аха,	
+	осымен істе.	Yes, follow this one.
+SPK3002	Кто наказал его,	"""Who punished him?"""
+SPK3001	Әкелші,	Give me... give me a pencil.
+SPK3002	неше сағат қана-ақ?	How many hours are in it?
+SPK3001	қарандаш берші маған.	
+	Бір-ақ сағат.	Only an hour.
+	Жөндеп қояйын.	Let me correct it.
+	Ол нешесі күні,	What day is this one?
+SPK3002	Кто наказал его.	"""Who punished him?"""
+SPK3001	числосын–	Tell me its date.
+	Мхм.	Yes.
+SPK3002	Он төрті.	The fourteenth.
+SPK3001	Он төрті иә.	The fourteenth, yes?
+	Иә,	
+	#### жоқ иә?	It does not have its ####, right?
+	(СLEARS THROAT)	
+	###	
+SPK3002	Он төртінші сентябрь.	September 14th.
+SPK3001	Мхм.	Yes.
+	Лица друзей,	"""Faces of friends."""
+	он жетісі болады иә?	It is on the seventeenth, right?
+SPK3002	Менде өшіргіш бар.	I have an eraser.
+SPK3001	Ее аха.	Okay.
+	CLEARS_THROAT	
+SPK3002	Жоқ отыра бер,	No, keep seated.
+	мен мына жақта өте саламын жарайды.	I will just go out this way.
+SPK3001	Лица друзей.	"""Faces of friends."""
+	CLEARS_THROAT	
+	Мына екеуі бір сағат болса?	So if we collapse these two together into a single hour...
+SPK3002	Ым.	Yeah..
+SPK3001	Міне.	Here..
+	Мынау.	This...
+	Ымм ымм,	emm emm,
+	кто наказал его,	"""Who punished him?"""
+	(H)	
+	Мынау.	This one is just an hour.
+	Бір-ақ сағат.	
+	Он төрті болады.	On the fourteenth.
+SPK3002	Мхм.	Yes.
+SPK3001	Мынау,	This is on the fifteenth.
+	он бесі болады.	
+	Он бесі.	The fifteenth.
+	Одан кейін нешесі?	What is the date that follows it?
+	Он жетісі иә?	The seventeenth, right?
+SPK3002	Мхм.	Yes.
+SPK3001	Он жетісі.	The seventeenth.
+	Одан кейін.	After that?
+	Жиырма бірі.	The twenty first.
+SPK3002	Жиырма бірі.	The twenty first.
+SPK3001	Жиырма екісі.	The twenty second.
+SPK3002	Жиырма екісі.	The twenty second.
+	Жиырма төрті.	The twenty fourth.
+SPK3001	Мхм.	Yes.
+SPK3002	Вот хамелеон енді екі сағат.	"So now I see that the ""Chameleon"" lesson has become a two-hour one."
+SPK3001	Жиырма сегіз.	Twenty eight.
+	Аха.	
+SPK3002	Он жетісі,	The seventeenth...
+	сосын,	then...
+	жиырма бірі,	the twenty first...
+SPK3001	Мхм.	Yes.
+	жиырма екісі.	The twenty second.
+SPK3002	тұра тұр тұра тұр.	Hold on hold on.
+	Жиырма екісі.	The twenty second.
+SPK3001	Жиырма төрті.	The twenty fourth.
+SPK3002	Қазір қазір қазір қазір,	Hold on hold on.
+	қазір қазір.	
+SPK3001	CLEARS_THROAT	
+SPK3002	Ө:й.	Oh!
+SPK3001	Өй,	Oh, where did it go?
+	қайда кетіп қалды анау.	
+SPK3002	Жиырма төрті дедің иә?	You said twenty fourth, right?
+SPK3001	Мхм.	Yes.
+	CLEARS_THROAT	
+SPK3002	Жиырма төрті.	The twenty fourth.
+	Сосын?	Then?
+SPK3001	Жиырма сегізі.	The twenty eighth.
+SPK3002	Мхм.	Yes.
+SPK3001	Бітті иә.	It is over, right?
+SPK3002	Тұра тұр тұра тұр тұра тұр.	Hold on hold on.
+	Жиырма сегізі.	Twenty eighth.
+	Иә раздел бітті иә.	Yes, so the chapter is over, yes?
+SPK3001	Одан кейін.	Then?
+	Келесі,	Give me the next pages.
+	бетті әпер.	
+SPK3002	Жиырма сегізі:,	The twenty eigth.
+	андағы немене болды.	What about that one?
+SPK3001	Өшіріп тастадым,	I erased it.
+	жиырма сегізі.	The twenty eighth.
+SPK3002	(H) (Hx)	
+	Твой шаг,	"It says, ""Your step into the nature."""
+	в природу дейді.	
+	Бір сағат екен.	It just lasts for an hour, apparently.
+	Твой шаг,	"""Your step into the nature."""
+	в природу.	
+	Жиырма тоғызы.	The twenty nineth.
+SPK3001	Жиырма сегізі,	"The twenty eighth, and then... on which date is the ""Little Soldier? one"""
+	одан кейін,	
+	солдатенок неше.	
+SPK3002	Жиырма сегізі.	The twenty eighth.
+	Солдатенок жиырма сегізі.	"The ""Little Soldier"" is on the twenty eighth."
+	Андағының,	One of these is on the twenty eighth.
+	біреуі,	
+SPK3001	Тұра тұр.	Hold on.
+SPK3002	біреуі жиырма сегізі болады,	
+	біреуі жиырма,	The other is on the twentieth... oh no, on the twenty fourh.
+	ой біреуі жиырма төрті болады,	
+SPK3001	Неге,	Why?
+	жиырма төрті кетіп қалды емес пе.	The twenty fourth is already gone, no?
+SPK3002	Жиырма– (H),	Twenty...
+	Мам сен неге тағы да екі екі сағаттан жазып тастадың ғой.	Mom, you wrote all this again as two hours each.
+	Қарасаңшы,	Just look...
+	Ворон лисица лица друзей,	"""A crow"", ""a fox"", and ""faces of friends..."""
+	барлығы екі екі сағаттан тұр ғой сенде.	You wrote them all as two hours each.
+SPK3001	Онда дұрыстап берші ендеше мә.	Oh then please correct this for me.
+	Мә.	Here, take this.
+SPK3002	Фуй өзі мам.	Oh God, mom!
+	Мама:.	Mom.
+SPK3001	Қасына жаза сал,	Do not erase. Just write your corrections somewhere around.
+	өшірмей-ақ қой.	
+	Мынаның қасына жаза сал.	Just put your corrections beside this one.
+	Мен өзім жазып алам содан кейін.	Then I will just rewrite this whole thing myself.
+	Сызып салған,	Cross the ones that have already been crossed out.
+	сызғандардың үстінен сызып таста.	
+	Сызғандар міне міне.	These are the ones I crossed out.
+	Мынаны жөндейсің бе.	Correct this one.
+	Қасына жаза сал,	Just write it nearby.
+	мына жақ,	Here, write below this.
+	астына жаза сал.	
+SPK3002	Жоқ енді,	Well, I can see that.
+	көріп тұрмын ғой.	
+	Екеуі бірге он төрті күні.	Both of them are on the fourteenth.
+SPK3001	Мхм.	Yes.
+SPK3002	Кто наказал.	"Once ""Who punished?"" is put together with ""Faces of Friends""..."
+	Потом лица друзейдің екеуі бірігіп,	
+SPK3001	Мхм.	Yes.

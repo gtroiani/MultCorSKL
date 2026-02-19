@@ -1,0 +1,843 @@
+speaker	span	translation
+SPK3002	Всё енді жанды.	Done! Now it lit up.
+	Енді қызыл жанды. (H)	Now the red color is showing.
+SPK3001	Мхм.	Ok.
+	Мхм.	Ok.
+SPK3002	Ойбай. TAKES_A_SEAT	Oh no!
+	Жиырма төрті?	Twenty-fourth.
+SPK3001	Мхм.	Yes.
+	MOVES_THE_CHAIR	
+SPK3002	#####	
+	Жиырма сегізі.	Twenty-eighth.
+SPK3001	Мхм.	
+SPK3002	Мына жерде плюс СОР-ы бар.	There is also an SAU here.
+SPK3001	Мхм.	Okay.
+SPK3002	Твой шаг в природу.	"""Your step into the nature."""
+SPK3001	Екеуі бір сағаттық.	Both are one-hour lessons.
+SPK3002	Мынау жиырма тоғызы,	This one is on twenty-nineth.
+	жоқ,	
+	бірікпейді.	No, these lessons don't merge.
+SPK3001	Ммм.	Mmm.
+	Хм.	
+	Бірікпей ме?	They don't merge?
+SPK3002	##	
+SPK3001	Мхм.	Yes.
+	Екі сағат бола ма.	Does it take two hours?
+SPK3002	Мхм.	Yes.
+	Мынау бірі.	This is on the first.
+SPK3001	Аха.	Yes.
+	Содан кейін қаншасы болады.	How many lessons are there after that?
+SPK3002	STARTS_ERASING_SOMETHING_WITH_AN_ERASER	
+SPK3001	CLEARS_THROAT	
+SPK3002	Бірі.	First.
+	Сосын,	Then fifth.
+	бесі?	
+	Зеленый мир,	"""Green World."""
+	Зверев Ласточки.	"""Swallows"" by Zverev."
+	Алтысы?	Sixth.
+SPK3001	Сегізі.	Eighth.
+SPK3002	Такс,	Hmm, eighth.
+	сегізі.	
+SPK3001	Он екісі.	Twelveth.
+SPK3002	Кошка на дороге.	"""A cat on the road."""
+	Он екісі.	Twelveth.
+SPK3001	Он үші.	Thirteenth.
+SPK3002	Белогрудка.	"""Belogrudka."""
+SPK3001	Он үші.	Thirteenth.
+SPK3002	Бір-ақ сағат па?	Is it an hour only?
+SPK3001	Міне,	Look, here is thirteenth.
+	он үші.	
+	Иә.	Yes.
+	Он үші.	Thirteenth.
+	Мхм.	Yes.
+SPK3002	Екеуі бірге он үші.	They two together are on thirteenth.
+SPK3001	Мхм.	Yes.
+SPK3002	Мынау уже,	This one already...
+SPK3001	Он бесі.	Fifteenth.
+SPK3002	Мынау,	
+	екі сағат болады екен.	This one will take two hours apparently.
+SPK3001	CLEARS_THROAT	
+SPK3002	Екі сағат.	Two hours.
+	Он бесі,	It says fifteenth and nineteenth, right?
+	и,	
+	он тоғызы деп тұр иә?	
+SPK3001	Мхм.	
+SPK3002	Одан кейін СОЧ.	And after that we have SATs.
+SPK3001	CLEARS_THROAT	
+SPK3002	Он бесі,	Fifteenth.
+	он тоғыз.	Nineteen.
+SPK3001	Мхм.	Yes.
+SPK3002	Такс мына жақта СОЧ,	Well, there is no SAT here.
+	жоқ.	
+	DRAWS_A_LINE_ON_PAPER	
+SPK3001	Мхм.	Yes.
+SPK3002	Мынау да жоқ.	And there is none of this either.
+SPK3001	Неге?	Why?
+SPK3002	Енді—	Well...
+	А жоқ мынау можно былай істей салғанға.	Oh, no, we can do it like this, making each an hour long, okay.
+SPK3001	Иә.	Yes.
+SPK3002	Бір-бір сағаттан деп,	
+	жарайды.	
+SPK3001	Иә.	Yes.
+	Соны айтып тұрмын ғой.	That's what I am saying.
+SPK3002	Енді астындағысын көрген жоқпын #	Well, I did not see what was written below.
+	Он үші,	Thirteenth.
+	он үшінен кейін мынау,	After thirteenth, this will take place on fifteenth.
+	он бесі күні болады.	
+	Мынау,	This one will take place on nineteenth.
+	он,	
+	тоғызы күні болады.	
+SPK3001	Мхм.	Mhm.
+SPK3002	Поэма,	A poem.
+	Неразлучные,	"""Inseparable Swans."""
+	лебеди?	
+	Плюс СОР.	Plus a SAU.
+SPK3001	СОЧ-ы несі.	Why SAT?
+	СОЧ деген,	So, there cannot be a SAU, is that correct?
+	болмай қалды ма сонда.	
+SPK3002	Сенде мынада,	Here you don't have enough topics.
+	тақырып жетпей қалды ғой.	
+SPK3001	Вот әне:,	You see?
+	әлде екі сағаттық па.	Or is it a two-hour one?
+SPK3002	Сенде тақырып жоқ.	You don't have topics here.
+	Мынада.	
+	Мынада күн,	This one's got days and topics - all of them.
+	тақырып бәрі бар.	
+	Сенде мында тақырып жоқ	But this one has no topic.
+	Сен мында бір тақырыпты,	Here you just took one topic and distributed it over every two days here.
+	екі-екі күннен қойып тастағансың алып.	
+SPK3001	Күн жетпей қалды ма.	So, am I short of days?
+SPK3002	Күн бар.	There are enough days.
+	Тақырып жоқ деймін.	I am saying there is not enough topics in this one of yours.
+	Мынауыңда.	
+SPK3001	Еее.	Oh.
+	Тақырып тұр ғой міне.	Look, there are topics in here!
+SPK3002	(TSK)	
+	Мам ты понимаешь.	Mom, do you understand or not?
+	Тақырып жоқ.	No topics.
+	@Мынауыңдағы тақырып жетпейді	In this one of yours, there are not enough topics.
+	(H) Мынаны сен,	You took this one and put it into the second term.
+	мына жаққа,	
+	екінші четвертьқа қоя беріпсің.	
+	Мынау бірінші четвертьтің сабағы екен.	It is the lesson of the first term apparently.
+SPK3001	Ее жарайды,	Nevermind, feel free to do it there.
+	соған ете бер.	
+	Екінші четверть деген,	It does not matter if it is the second term.
+	не имеет значения.	
+	Ете бер.	Feel free to do it.
+	Ала бер.	Take it.
+	Шимайлап сал да.	Erase it first.
+	Иә.	Yes.
+	Шимайлап сал да ала бер.	Erase it first, and then take it.
+	Андағы нешінші болып еді.	When was that one?
+	Он тоғыз?	Nineteenth?
+SPK3002	Типа мына,	It is like this lesson and this lesson have been merged.
+	урокпен,	
+	мына урок екеуі,	
+SPK3001	Иә.	Yes.
+SPK3002	қосылды.	
+SPK3001	Аха.	Ok.
+SPK3002	Мына жерде,	There is also a SAU here.
+SPK3001	Жиырма.	Twenty.
+SPK3002	еще СОР бар.	
+SPK3001	Мхм.	Yes.
+SPK3002	Иә.	Yes.
+	Екеуі қосылды,	They two merged.
+	и,	And, plus, SAU #2, it says.
+	плюс,	
+	СОР номер,	
+	два дейді.	
+SPK3001	Мхм.	Yes.
+SPK3002	СОР номер два,	Our SAU #2 is on twentieth.
+	бұл бізде,	
+	жиырмасы болады.	
+SPK3001	Мхм.	Yes.
+SPK3002	Одан кейін Куриев деген,	After that, there is this named Kuriev.
+	мынау,	
+SPK3001	Неразлучим—	
+SPK3002	ой жоқ мына жерде,	Oh no, there is also an addɪjtional SAT.
+	плюс (H),	
+	СОЧ бар.	
+SPK3001	Сөйтіп иә,	Yes, like this.
+	өзім үйде сосын жөндеп аламын,	I will get it fixed at home then.
+	шығарып аламын.	I will print it out.
+	Мхм.	Yes.
+SPK3002	Мен саған мынаны жібере саламын.	I will just send this to you.
+SPK3001	Иә.	Yes.
+	Ее.	
+SPK3002	Со-,	Our SAT for the first term will be on twentieth.
+SPK3001	Жібере сал	Oh, ok, you will send it.
+SPK3002	СОЧ бірінші четверть,	
+	бұл бізде,	
+	жиырма,	
+	екісі болады.	
+SPK3001	Мхм.	Yes.
+SPK3002	Ал мынау,	And this one...
+	SOUNDS_OF_ERASER_ON_PAPER	
+SPK3001	CLEARS_THROAT	
+SPK3002	мынау бізде,	This one of ours is on twenty-sixth, one hour.
+	бір сағат,	
+	жиырма алтысы.	
+	И мына жерден только басталады.	And then the second term will only start from here.
+SPK3001	COUGHS	
+	Мхм.	Yes.
+SPK3002	Екінші четверть.	
+SPK3001	Мхм.	Yes.
+	Дұрыс.	That's correct.
+SPK3002	Так,	Well, let me write this down for now.
+	мынаны жазып алайыншы.	
+	Пока.	
+SPK3001	COUGHS	
+SPK3002	Немене жазып жаттым мен.	What was I writing?
+	Твой шаг в природу дейді.	"It says, ""Your Step into the Nature.""  Thirteenth."
+	Он үш.	
+SPK3001	@@	
+SPK3002	Ойба:й.	Oh no!
+SPK3001	Ау.	What's wrong?
+SPK3002	Дұрыс иә?	This is correct, yes?
+	Он екі кетті,	First twelveth, and then thirteenth.
+	он үш кетті.	
+	Енді бесі дейді,	And how fifth.
+	Зеленый Мир.	"""Green World."""
+	MOUSE_CLICKS	
+SPK3001	Ласточки на паровозе.	"""Swallows on a Locomotive."""
+	Алтысы.	Sixth.
+	CLEARS_THROAT	
+	Нәскиім,	My socks...my feet got hot.
+	аяғым қызып кетті шешіп салып	
+	тәпішке киіп келмесем.	I'd better go take them off and wear slippers.
+	CLEARS_THROAT	
+	Мынау сенікі ме?	Is this yours?
+	А.	Hey?
+SPK3002	Мхм.	Yes.
+SPK3001	Күшті ғой?	It is nice.
+	Блестящий.	Sparkly.
+	Қашан алдың.	When did you buy it?
+	Үйден алып па едің.	Did you buy it back at home?
+SPK3002	Моссодан.	From Mosso.
+	Алдында Дидар апаймен келген кезде алғанбыз.	We bought it when we came here with Didar auntie.
+SPK3001	Ммм.	Oh.
+SPK3002	Сурет салуым керек қазір мен.	I need to draw now.
+SPK3001	Аа.	Oh.
+SPK3002	Бір адам:ды,	How long does it take to examine one person, they say? At that thing.
+	қанша қарайды екен ана мы—	
+	неменеде?	
+SPK3001	Көп қарамайды ғой деймін.	I don't think it takes long.
+	Немене.	Why are you asking?
+	Ау.	Hey.
+SPK3002	Ааа,	What about appointments? When do they usually start?
+SPK3001	Ау.	Hey.
+SPK3002	немене,	
+	прием,	
+	қай кезден басталады екен.	
+SPK3001	С восьми.	From 8 am.
+SPK3002	С восьми?	From 8 am?
+SPK3001	До часу.	Till 1 pm.
+	Болды.	That's it.
+SPK3002	Аа.	Oh, I see.
+	Қай больница.	Which hospital?
+SPK3001	Диагностика.	Diagnostics.
+SPK3002	Областная диагностиче—	Regional Diagnostics...
+SPK3001	Иә.	Yes.
+SPK3002	Областоной диагностический центр деген бе.	"The one that is called ""Regional Diagnostics Center""?"
+SPK3001	Иә.	Yes.
+	Иә.	Yes.
+	Иә иә.	Yes yes.
+	Областной диагностический—	Regional Diagnostics..
+	Әгі Тамерланның алдындағы.	The one located in front of Tamerlan.
+	Императордың алдында.	In front of Imperator.
+	Император.	Imperator.
+SPK3002	Бәсе.	I knew it.
+	Тамерланның қасында,	How can it possibly be in front of Tamerlan?
+	####	
+SPK3001	Император,	I mean Imperator.
+	Император.	Imperator.
+	Импера:тор.	Imperator.
+	Кешір.	Forgive me.
+SPK3002	Такс,	Hmm, thirteen.
+	он үш.	
+	Он @үш	Thirteen.
+SPK3001	KISSES_SPEAKER_SPK3002	
+SPK3002	@ма:м.	Mom, what are you doing?
+	Он үш.	Thirteen.
+SPK3001	¬Көркем екеулерің ренжіспейсіңдер ме.	You and Korkem, do you guys upset each other?
+SPK3002	Жоқ.	No.
+SPK3001	Ммм.	Oh, I see.
+	¬Көркем саған,	Korkem takes good care of you, yes?
+	кө:п,	
+	ухаживать етеді иә.	
+SPK3002	Иә:.	Yes.
+SPK3001	Нәнәм ұрса:ды,	"She says, ""My aunite will scold me""."
+	дейді.	
+	@@@	
+	Нәнәм өлтіреді ғой деп.	"She be like ""My auntie will kill me."""
+	Анағылар,	"Did those guys ask ""Are you related?"""
+	туыссыңдар ма деді ме.	
+SPK3002	Мхм.	Yes.
+SPK3001	Ммм.	Mmm.
+SPK3002	Түрлерің ұқсамайды ғо:й,	"""You don't resemble each other,"" said that girl."
+	дейді ана қыз.	
+SPK3001	Ее.	Oh.
+SPK3002	Ее біз алыс туыспыз,	"""Oh, we are distant relatives but we are close in real life"", I said."
+	бірақ жақын араласамыз дедім.	
+SPK3001	Алыс туысы несі ей?	How come you are distant relatives?
+SPK3002	Жоқ енді,	Well...
+	алыс туыс болған кезде,	What I mean is... we are distant relatives because we are related like this: my grandfather from my mom's side...
+SPK3001	Иә.	Yes.
+	Иә.	Yes.
+SPK3002	енді біз бүйтіп-бүйтіп,	
+SPK3001	Иә.	Yes.
+	Иә.	Yes.
+SPK3002	менің нағаш атамның—	
+SPK3001	Мен бөлек,	Oh, you say you are a different blood.
+	қанымын деші.	
+	Иә.	
+SPK3002	Иә.	Yes.
+SPK3001	Аха.	Yes, I see.
+SPK3002	Сондай-сондай ақ,	"""Related only so"", said we."
+SPK3001	Иә.	Yes.
+SPK3002	деп айттық қой.	
+SPK3001	(Hx)	
+SPK3002	Мә:,	
+	алыс екенсіңдер ғой дейді.	"She said, ""Oh, wow, you are very distantly related."""
+	Мен сендерді анандай типа,	"She said, ""I thought your fathers or mothers were like sisters. I thought you were close like this""."
+SPK3001	(Hx)	
+SPK3002	әкелерің,	
+	или мамаларың,	
+	сестры деген сияқты,	
+	сондай жақын екен деп ойласам дейді.	
+SPK3001	Айтпайсың ба,	Why didn't you say she is the child of my brother's younger sister.
+	мынау менің ағ-,	
+	қарындасының баласы	
+SPK3002	Ой мам,	Oh, mom, we said so.
+	### айттық қой.	
+SPK3001	Ее.	Oh.
+	Ұқпай ма.	Doesn't she understand?
+	Алыс емес ол.	She is not a distant relative; we are actually very close relatives.
+SPK3002	Мхм.	Yes.
+SPK3001	Наоборот жақын,	
+	ағайынбыз ғой.	
+SPK3002	Жо:қ.	No.
+SPK3001	Кетші ары.	Oh, you really think so?
+SPK3002	Это жақын (H),	This is close.
+	но,	But when we said, decoding all of our ancestry, saying that Moldir's father's father and my grandfather from my mom's side are brothers, as it turns out...
+	когда біз бүйтіп айттық,	
+	расшифровывать етіп	
+	ну типа (H),	
+	(H)	
+	¬Көркемнің,	
+	әкесінің,	
+	әкесі мен,	
+	менің нағашы атам,	
+	екеуі братья ғой получается.	
+SPK3001	Мхм.	Yes.
+SPK3002	Мы—	It is just that in the very beginning Moldir just told them that we were cousins.
+SPK3001	###	
+SPK3002	¬Көркем просто,	
+	басында айтқан кезде,	
+	типа двоюродные деп айта салған ғой.	
+SPK3001	Мхм.	Yes.
+SPK3002	И:,	And that girl thought so mistakenly.
+	ана қыз ойлап қалыпты.	
+SPK3001	BURPS	
+	Әдем—	Is she a beautiful girl?
+	Әдемі қыз ба.	
+SPK3002	### бе?	(?) Shall I show you her picture?
+SPK3001	Көрсетші.	Show me, please.
+SPK3002	¬Балжа:н қайда еді.	Balzhan... Where was she?
+	¬Балжа:н.	Balzhan.
+	Ү деп сақтаған екенім ғой.	Apparently, I saved her name with the letter ү.
+SPK3001	Ойба:й	Oh no, not so pretty.
+	Қойшы,	
+	жап-жаман ғой.	
+	¬Бозбайдың ¬Арнасы сияқты ғой түрі	She looks like Bozbay's Arna.
+SPK3002	А?	What?
+SPK3001	¬Бозбайдың ¬Арнасы сияқты ғой түрі	Her face is like that of Bozbay's Arna.
+SPK3002	¬Бозбайдың ¬Арнасы	Bozbay's Arna?
+SPK3001	Иә.	Yes.
+	Бол енді.	Hurry up!
+	Қайда кетіп қалдың?	What did you get busy with?
+SPK3002	###	
+	### осылар.	### these people.
+SPK3001	Кім?	Who?
+SPK3002	Мен группаштарым.	My groupmates.
+SPK3001	Ммм.	Oh.
+SPK3002	Аа.	Oh, I see.
+	Понедельник күні,	On Mondays, tickets for students cost only 800 tenge, apparently.
+	студенческий,	
+	сегіз жүз-ақ теңге екен.	
+SPK3001	Мхм.	Mhm.
+SPK3002	(TSK)	
+	Хммм.	Hmmm.
+SPK3001	Немене.	What?
+SPK3002	Киноға билет.	The tickets for movies.
+SPK3001	Ммм.	Mmm.
+SPK3002	Біз,	We..
+	әгі,	
+	немене,	that thing...
+	стипендия түскен кезде,	my groupmates suggested we go watch a movie once our stipend is transferred.
+	киноға барайық деген	
+	груптастар	
+	группаластармен.	
+SPK3001	Жігітің келмей жүр ме.	Doesn't your boyfriend come around these days?
+SPK3002	Мама қумашы.	Mom, stop it please!
+	@@@@	
+	А?	What?
+SPK3001	Ол мәшінмен жүріп пе еді сонда ауылда.	So was her driving a car in the aul then?
+SPK3002	Иә.	Yes.
+	Қалада.	In the city.
+	Иә.	Yes.
+SPK3001	Таксовать ете ме.	Does he work as a cab driver?
+SPK3002	Жоқ.	No.
+SPK3001	Енді.	If no, then what?
+SPK3002	Кешке дейін сабақ онда	He has classes all day.
+SPK3001	А.	What?
+SPK3002	Сабақ деймін.	I say classes.
+SPK3001	Ааа.	Oh.
+SPK3002	Жиырмасы дейді.	It says twentieth.
+SPK3001	Қиын дей ме.	Does he say it is difficult?
+	А.	Hey?
+SPK3002	Оларда,	Oh my, also, their one semester is divided into two.
+	эмм,	
+	###	
+	ойбай,	
+	олардың бір семестрларын,	
+	екіге бөліп тастаған ғой еще.	
+SPK3001	Мхм	Yes.
+SPK3002	Оларда уже,	They already are having their midterm week like the one we have after seventh week of study, like that rating week thing that we have.
+	ааа,	
+	рубежка болып жатыр типа бізде,	
+	жеті аптадан кейін,	
+	рейтинговая неделя сияқты бірнәрсе болады ғой,	
+	сондай бір нәрсе дейді дейді дейді.	The say something like this, says he.
+SPK3001	Ммм.	Mmm.
+	¬Сәкөш те осында емес пе.	Sakosh is also here, right?
+SPK3002	¬Сәкөш,	Akmosh is also here, yes.
+SPK3001	¬Сайгүл.	Saigul.
+SPK3002	иә.	
+SPK3001	Ее.	
+SPK3002	¬Сәкөш?	Sakosh?
+SPK3001	¬Сә- ¬Сә- ¬Сәкөш пе еді.	Was it Sakosh?
+SPK3002	###	
+SPK3001	Ааа.	Oh.
+SPK3002	Ее,	Oh, by the way, did Arman buy a car?
+	¬Арман машина алған ба.	
+SPK3001	Білмеймін.	I don't know.
+SPK3002	Мәшін алыпты ғой	He apparently bought a car.
+SPK3001	Қандай.	What car?
+SPK3002	Семейге сол үшін барыпты ғой.	He apparently went to Semey because of that.
+SPK3001	Қандай машина. алыпты	What kind of car did he buy then?
+SPK3002	Тайота Каролла?	Tayota Carolla.
+SPK3001	Ммм	Oh.
+SPK3002	Ну почему-то ешкім шуламай жатыр.	For some reason, no one is talking about it.
+	Сосын мен айттым,	Then I said that perhaps he lied.
+SPK3001	И кетсінші ары	Oh, hell with him.
+SPK3002	#####	
+	өтірік айтты ма деп.	
+SPK3001	Кім айтты.	Who said?
+SPK3002	Мен ойладым деймін.	I am saying this is what I thought.
+SPK3001	Жоқ.	No, who said that he bought a car?
+	Кім айтты мәшіна алды деп	
+SPK3002	¬Арман.	Arman.
+SPK3001	Эй кетсінші ары.	Oh, hell with him!
+	Ол,	Did he bring your clothes to Oskemen?
+	киімге,	
+	Өскеменге алып келді ме сенің киімдеріңді.	
+SPK3002	Иә.	Yes.
+SPK3001	Мәшінмен кеп пе.	Did he come on a car?
+SPK3002	Білмеймін.	I don't know.
+	Мен көрген жоқпын. (H)	I did not see.
+	Мен ойлағанмын ол келеді екен деп.	I thought they he would apparently come.
+	Ол к-,	But he left it to that person.
+	анаған тастап кетіпті.	
+SPK3001	Кімге.	To whom?
+SPK3002	¬Досанға.	To Dosan.
+SPK3001	Еее.	Oh.
+SPK3002	Сосын ол оны,	Then he brought it to my side.
+	бері қарай алып келіп салды.	
+SPK3001	Ааа.	Oh, I see.
+SPK3002	Жиырма екісі.	Twenty-second.
+	Октябрьдің?	Of October.
+	NOTIFICATION_ON_PHONE	
+	Жиырма алтысы.	Twenty-sixth.
+	Бұрын солай,	Back in the past, like that..
+	ну типа,	well like...
+	@@@@	
+	¬Нұрөш,	"It says: ""Nurosh! Help! Math!"""
+	көмек,	
+	матем дейді.	
+	Мынау математикасын жібертеді маған.	This person gets his math questions sent to me.
+SPK3001	Кім.	Who?
+SPK3002	¬Жалғас.	Zhalgas.
+SPK3001	Иттің баласы.	Son of a dog.
+SPK3002	Кешке дейін осының сабақтарын істеймін.	I do his homework all day.
+SPK3001	Уақытым жоқ де.	Tell him you don't have time.
+SPK3002	Енді қарашы.	Look at it now.
+	¬Жалғас менде уақытым болмай тұр.	"If I say, ""Zhalgas, I am busy right now"",  Bikosh cannot help him either with his homework."
+	Деп айтайын десем,	
+	¬Бикөш те қарай алмайды ғой сабағына.	
+	Сосын амалы не ш#,	"So, you just write ""which math question"" because there is no other way."
+	қайсы деп жазасың.	
+SPK3001	@@@@@	
+SPK3002	Шын.	I am not kidding.
+SPK3001	CLEARS_THROAT	
+SPK3002	Істеп бермей-ақ қояйын десем,	"When I said I wouldn't do it, the other night Bikosh calls me saying, ""Nurosh, I cannot do it. Could you do it please? These others are all relying on me as well."""
+	алдында түнде:	
+	¬Бикөш звандайды.	
+SPK3001	Мхм.	Yeah.
+SPK3002	Істей алмай жатырмын ¬Нұрөш,	
+	мыналар еще жан-жақтан қарап отыр,	
+	істеп берші деп.	
+SPK3001	Ана қыз бар ғой,	You know what.. that girl does not sleep at all apparently.
+	вообще ұйықтамайды екен.	
+SPK3002	@@	
+SPK3001	Содан дейді,	Then she says that she would climb to the top part of the bed and get up on her feet by herself.
+	төсектің басына шығып,	
+	өзі тұрып алады дейді.	
+SPK3002	@@@@@@@	
+SPK3001	######	
+	Содан кейін,	"Then she says that Mansur says ""This thing has also gone crazy."""
+	¬Жалғас айтады, дейді (H)	
+	мынау да өзі құтырып алған иә деп айтады дейді @@@	
+SPK3002	@@@@@	
+SPK3001	Былқ етпей,	She says she goes around until midnight without even flinching.
+	он екіге дейін жүреді дейді.	
+SPK3002	@@@@@@	
+SPK3001	Мәә,	"""Omg, mom, she became ##,"" says she."
+	мамам,	
+	## болып кетті дейді.	
+	Былқ етпейді. #	She does not flinch.
+SPK3002	Қыдыртыңдар @тағы @@@@	Let her hang out more.
+	Такс,	Well, this one is done.
+	мынау бітті?	
+	Жиырма алтысы ма еді.	Was it twenty-sixth?
+	Мына жерде,	Were there nineth and tenth here?
+	тоғыз,	
+	оны деген дата тұрды ма.	
+	Қай уақта басталады екінші тоқсан.	When did the second term start?
+SPK3001	Екінші тоқсан,	Second term.
+	(H)	Hmmm, on Novermber first.
+	бірінші ноябрьден басталады.	
+	Ой,	Oh no, it started on November eighth.
+	же—	
+	сегізінші ноябрьден басталады.	
+	Сегіз он бірден,	It started from 8/11.
+	басталады.	
+SPK3002	Ноябрьдің сегізінен.	From November eighth, right?
+SPK3001	Иә.	Yes.
+SPK3002	Иә?	
+SPK3001	Аха.	Yes.
+SPK3002	Мыналарда сабақтары бар,	These people have classes.
+SPK3001	Содан кейін жиырма тоғызында бітеді.	Then it ends on twenty-nineth.
+SPK3002	мынаны ана #	Mmmm, hold on, hold on!
+	Тұра тұр,	
+	тұра тұршы қазір.	
+	Жиырма,	
+	жиырма екі,	It says twenty, twenty-two, and twenty-six.
+	жиырма алты дейді.	
+	Жиырма,	
+	жиырма екі,	Twenty, twenty-two, twenty-six?
+	жиырма алты?	
+	Жиырма,	Twenty, twenty-two, twenty-six.. Twenty is...
+	жиырма екі,	
+	жиырма алты,	
+	жиырмасы деген это,	
+	вторник,	..Tuesday..
+	среда,	..Wednesday...
+	пятница.	..Friday.
+	Вторник,	These students' classes will be on Tuesdays, Wednesdays and Fridays.
+	среда,	
+	пятница болады екен мыналардың сабақтары.	
+	Ал енді,	Well now, look.
+SPK3001	Кімдердікі.	Whose classes?
+	Алтынікі ме,	Six graders'?
+SPK3002	енді қара.	
+SPK3001	алтынікі ме.	
+SPK3002	Иә.	Yes.
+	Ноябрьдің,	You said it starts on the eighth of November, right?
+	нешесі,	
+	сегізі басталады дедің иә?	
+SPK3001	Иә.	Yes.
+SPK3002	Сегізі басталса,	If it starts on eighth, then their dates will be like this.
+	бұларда дата былай кетеді.	
+	Вторник среда пятница,	Tuesday, Wednesday, Friday.
+	вторник среда пятница,	Tuesday, Wednesday, Friday.
+	вторник среда пятница.	Tuesday, Wednesday, Friday.
+SPK3001	Мхм.	Mhm.
+	Мхм.	Mhm.
+SPK3002	Такс.	"Well, ""Inclincation"" - on nineth."
+	Наклон,	
+	тоғызы.	
+	Мынау,	This one - on tenth.
+	оны.	
+	#####	
+SPK3001	Немене дейді.	What do they say?
+	Түнде дей ме.	Do they say at night?
+SPK3002	Түнде жіберемін деймін.	I am saying I will send it tonight.
+	Қазір қолым бос емес деп.	I am busy now.
+	Ноябрьдің сегізі басталады.	It starts on the eighth of November.
+	Вторник,	Tuesday, Wednesday, Friday.
+	среда,	
+	пятница.	
+	Мынаны қойып алайын.	Let me put this first.
+	Вторнигің?	Your Tuesday is...
+SPK3001	Тоғызы.	Nineth.
+SPK3002	Вторник,	Tuesday, Wednesday, Friday.
+	среда,	
+	пятница.	
+	Тоғыз,	Nine, ten, twelve.
+	он,	
+	он екі.	
+	Он ал-,	Sixteen.
+	ты:.	
+	Он жет-	Seventeen.
+	і:.	
+	О:к.	Okay.
+SPK3001	###	
+SPK3002	Он алты он жеті,	Sixteen, seventeen.
+	көріп тұрмын ғой.	I can see it.
+	И он тоғыз.	And nineteen.
+	Жиырма үш,	Twenty-three, twenty-four, twenty-six.
+	жиырма төрт,	
+	жиырма алты.	
+	Отыз.	Thirty.
+	Декабрьдің бірі демалыс.	The first of December is a day off.
+SPK3001	Мхм.	Yes.
+SPK3002	Оны немене істеймін.	What will I do with it?
+	Екісіне қояйын ба ол сабақты	Will I move this lesson to the second of Decemeber?
+SPK3001	Иә,	"Yes, move it to the second, and put there ""first""."
+	екісіне қоя сал да,	
+	ана жерге бірі деп қойып қой.	
+SPK3002	Ойбай.	Oh!
+	Екі,	Two, twelve, twenty, twenty one.
+	он екі,	
+	жиырма,	
+	жиырма бір.	
+SPK3001	Нөл бірі.	Zero one.
+	Примечанияға.	In the footnotes.
+	Мхм.	Yes.
+	Мхм.	Yes.
+SPK3002	Дей салайын.	Let me just say so.
+SPK3001	Иә.	Yes.
+SPK3002	Метерология такс,	Meterology, well..after that it is the third of December.
+	одан кейін уже,	
+	үші кетеді.	
+	Үші.	Third.
+	Потом декабрьдің жетісі,	Then there is nothing on the seventh of December, right?
+	түк те жоқ емес пе еді иә?	
+SPK3001	Мхм	Yes.
+SPK3002	Жеті.	Seven, eight.
+	Сегіз.	
+	Он.	Ten.
+	Одан кейін,	After that...
+	он төрт,	Fourteen, fifteen, seventeen.
+	он бес,	
+	он жеті.	
+	Он жетісі демалыс па?	Is seventeenth a day off?
+SPK3001	Он:,	Fifteenth.
+	он бесі.	
+SPK3002	## сабақ бар.	There is ## lesson.
+SPK3001	Он бесі.	Fifteenth.
+SPK3002	М?	What?
+	Он жеті,	Seventeen.
+	он жетісінің орнына,	Let me write twentieth in place of seventeenth.
+	мында жиырмасын жазып көрейін?	
+	Он жетісі.	Seventeenth.
+SPK3001	Мхм.	Yes.
+SPK3002	Декабрь дей салайын.	Let me just say December.
+SPK3001	Мхм.	Okay.
+	Өй сонда бітіп қойды ма анау не.	Oh, does this then mean that one finished already?
+	Сабақ бітіп қойды ма.	The classes are over?
+SPK3002	Жоқ мында төрт сағат бар екен ғой еще.	No, there are four more hours left here.
+SPK3001	Әлі біткен жоқ иә?	They are not over, yes?
+	Мхм.	Mhm.
+	Мм.	Mm.
+SPK3002	Жиырмасы.	Twentieth.
+SPK3001	Ойбай бітпей қалады ғой.	Oh no, it doesn't finish!
+	Әгі қайда.	Where is that thing?
+	Ана азайтып жібер.	Decrease that.
+SPK3002	Жиырма бір.	Twenty-one.
+SPK3001	##	
+SPK3002	Мынаған,	For this...
+	жиырма екі,	...twenty two.
+	мынаған,	For this one...
+	жиырма,	...twenty four.
+	төрт кетеді.	
+	Сенде аптасына үш сағат қой.	You have three hours per week.
+SPK3001	Иә.	Yes.
+SPK3002	Жиырма сегіз,	Twenty-eight, twenty-nine, thirty one.
+	жиырма тоғыз,	
+	отыз бір.	
+	Жиырма,	Twenty-eight.
+	сегіз.	
+	Жиырма,	Twenty-nine.
+	тоғыз.	
+SPK3001	Жиырма тоғызбен бітеді.	It ends with twenty nine.
+SPK3002	Жиырма тоғызбен бітеді иә?	It ends with twenty-nine, right?
+SPK3001	Мм	Mhm.
+SPK3002	Онда,	
+	С:емь чудес дегенді қоспая қоямыз	"Then we just won't include ""Seven Wonders."""
+SPK3001	Жоқ эмм,	No, mmm.
+	былай істесе қа-.	What if we do like this?
+	екі нені	What if we make these two things one hour each?
+	бір сағат қылса.	
+	Анау екеуін бір сағаттан қылса.	What if we made those two one hour each?
+SPK3002	Жоқ семь чудес деген это мынау,	"I am just saying that this ""Seven Wonders"" could be different."
+	басқа емес пе деп тұрмын да.	
+	Жоқ анау ма?	Or is it that?
+SPK3001	А- ана жақтікі.	It belongs to that side.
+SPK3002	Қазір көремін.	Let me see.
+	Такс.	Well..
+SPK3007	Таңертең нешеде барамыз ¬Назым	At what time in the morning are we leaving Nazym?
+SPK3001	Жетіде.	At seven.
+	Аха.	Ok.
+	Можно ма.	Is it possible?
+	Иә.	Yes.
+SPK3007	Конечно ей біз,	Hey you, of course it is possible. In fact, we will have gotten up already right at six.
+SPK3001	Жетіге апарып таста.	Take me there at seven.
+SPK3007	тура алтыда тұрамыз уже.	
+SPK3001	Иә.	Yes.
+	Жетіде апарып тастасың болды.	As long as you take me there at seven, it is all good.
+SPK3007	Алты жарымда тұрып қоямыз уже	We will have gotten up already at half past six.
+SPK3001	Аха.	Yes.
+	Жетіде сол жерде тастап кетсең,	If you drop me off there at seven, afterwards I can go back on a taxi by myself once I go out.
+	болды ары қарай,	
+	шығып алсам таксиға отырып қайта беремін.	
+SPK3007	Қайда шығып аласың.	Go out where?
+SPK3001	Ана больницадан шыққаннан кейін,	After I leave that hospital, I will go home.
+	қайта беремін үйге.	
+SPK3007	Жо:қ енді,	No, what I mean is...
+SPK3001	Иә.	Yes.
+SPK3007	о:й сен кіріп шыққанша қазір түс болмай ма ей.	It is just that it will already have become a noon time while you'll be going in and out.
+SPK3001	@@	
+	А нет.	Oh, no.
+	Живая очередь екен.	There is a live queue apparently.
+	Әгі сол үшін ерте барғалы тұрмын.	That's why I am planning to go there early.
+	Мен ана,	Once I enter the hospital, I can then only...
+	эмм ішіне кіргеннен кейін ғана,	
+SPK3007	Ана неге баруымыз керек бірінші.	We need to go to that thing first...
+SPK3001	а—	Mmmm...
+SPK3007	Регистратураға барып,	go to registry office and whatnot.
+SPK3001	Иә,	Yes, in the registry office.
+	регистратураға.	
+SPK3007	ана-мынау ##	
+SPK3001	Иә.	Yes.
+	Э иә направлением мен паспортым керек	Mmm, I need my referral and my passport.
+SPK3007	Еее.	Oh, I see.
+SPK3001	Аха.	Yes.
+SPK3007	Жарайды таңертең көреміз.	Ok, we'll see it tomorrow.
+SPK3001	Мхм.	Mhm.
+	Мхм.	Mhm.
+	Жақсы.	Good.
+	Келді ме.	Did it fit?
+SPK3002	Немене.	What?
+SPK3001	Қысқарта саласың.	You'll just shorten it, making each one-two hours.. one hour, yes?
+	Бір-екі сағат,	
+	бір сағат қылып.	
+	Иә?	
+SPK3002	Қазір тұра тұр.	Hold on now.
+	Көремін.	
+SPK3035	О:й	Oh!
+SPK3001	@@@@@@	
+SPK3035	Все.	I am done!
+	Мен сабақ қараймын.	I will now do my homework.
+SPK3001	Қарай ғой.	Please do.
+	Қара.	Do.
+SPK3035	Опять Ақыл видео қосып кеткен бе.	Did Akyl put the camera on again?
+SPK3001	Мхм.	Mhm.
+	Қосып кетті.	He left it on.
+	Бізге.	For us.
+	(H)	
+	(Hx)	
+	соны көрейік.	Let's see it.
+SPK3002	Оба или обе?	"""Masculine both or feminine both""."
+SPK3001	Оба или обе,	"""Masculine both or feminine both""."
+	иә,	
+	это тема.	Yes, this is a topic.
+	Мужской и женский родтікі.	About masculine and feminine grammatical genders.
+	Оба,	Masculine both... feminine both is feminine.
+	обе,	
+SPK3035	(H) А вы по русскому языку преподаете.	Oh, wow, you teach Russian?
+SPK3001	женского рода.	
+	Да.	Yes.
+SPK3035	Я думала по химии.	I thought you taught Russian.
+SPK3001	Не:.	No.
+SPK3002	@@@@@@	
+SPK3001	Папа зовет.	Your dad is calling you.
+	Беги.	Run.
+	Химия дей ме.	She says chemistry.
+	@@@@	
+	### @@@@	
+SPK3002	Ты и химия.	You and chemistry.
+SPK3001	Сабағың,	Is your class at eight?
+	сегізде ме.	
+SPK3002	Мхм.	Yes.
+SPK3001	Мен кіріп шыққанша сабағыңа кіре бересің сен иә	You'll be going into your class while I leave and come back, yes?
+	Зуммен емес пе.	It is on Zoom, right?
+SPK3002	Мхм.	Yes.
+	Сегізден сегіз елуге дейін.	From eight to eight fifty.
+SPK3001	INTESTINAL_SOUNDS	
+	Сен нешеде баруың керек.	When should you go to school?
+SPK3035	Мен қазір қараймын.	I will now check.
+SPK3001	Аха.	Yes.
+	Сабағыңды қарашы?	Do your schoolwork afterwards.
+	Содан кейін.	
+	Во сколько ты должна.	When should you be there?
+SPK3035	Ммм.	Let me think.
+	###	
+	########	
+	А завтра в,	Oh, tomorrow at 9 am.
+	девять.	
+SPK3001	В девять да.	At nine, right?
+	Скажи отцу.	Tell your dad.
+SPK3035	Да.	Yes.
+SPK3001	Неге #### дейді?	Why does it say ####?
+SPK3002	За счет первого.	At the expense of the first.
+SPK3001	Ааа.	Oh.
+	Сөйтіп жаза ма.	Is it how it should be written?
+SPK3002	Енді,	Well, don't you know that this is how they make us write it?
+	солай жаздырады емес пе еді.	
+	Мен сразу жаза салайын деп тұрмын.	I am thinking about writing so right away now.
+SPK3001	Еее.	Oh!
+	А.	
+SPK3002	Ноль бір,	Zero one, twelve, twenty, twenty one.
+	он екі,	
+	жиырма,	
+	жиырма бір.	
+SPK3035	Ой. (Hx)	Oh.
+	Извиняюсь.	Excuse me.
+SPK3002	@ (Hx) @@	
+SPK3001	@@@	
+SPK3002	######	
+SPK3001	Орыс тілің қандай?	How does your Russian language book look like?
+SPK3035	Орыс тілі кітап жоқ.	There is none.
+	Кітап бермейді.	They (the school) don't give books.
+SPK3001	Бермей ме	They don't give books to you?
+SPK3035	Қазақ тілінен тоже бермейді.	For Kazakh, they don't give books either.
+SPK3001	Аа.	Oh.
+	Ммм.	Oh, I see.
+SPK3035	Ағылшыннан,	Neither for English.
+	тоже бермейді.	
+	Оны,	They give special sheets and slideshows.
+	специальный,	
+	листочектар презентациямен,	
+	солар даже,	You know what, they are even better (thank books).
+SPK3001	(TSK) ааа.	Oh.
+SPK3035	лучше знаете.	
+SPK3001	Да.	Yes.
+SPK3035	Аа	Yeah.
+SPK3001	Ааа.	Oh.
+	Сендердікі басқа программа да?	You study under a different program, right?
+SPK3035	Он-ақ кітап.	Only ten books.
+	О- о- он-ақ сабақ.	Ten subjects in total only.
+SPK3001	Аа.	Mmm.
+SPK3035	А нет он кітап именно.	Oh no, I mean ten books in total only.
+SPK3001	Мхм.	I see.
+SPK3035	Вот.	So, that's how it is.
+SPK3001	Сколько у вас учеников в классе.	How many students are there in your class?
+SPK3035	Жиырма бес.	Twenty-five.
+SPK3001	Ммм мальчик—	Mmm, are there more boys, or are there more girls?
+	эмм мальчиков много,	
+	или девочек много.	
+SPK3035	Он үш,	There are 13 boys.
+	ұл,	

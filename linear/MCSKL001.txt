@@ -1,0 +1,809 @@
+speaker	span	translation
+SPK0032	Сонда өлшетсем,	So when I got measured...
+	алдында білмеймін бір,	I am not sure but the other day…I ate one bitter qurt…###
+	кішкене ашты құрт жедім,	
+	###	
+	Е бір кіти варя—	Ah, some small amount of jam…After I tasted a little of the jam made from that thingy...some bird cherry jam
+	ненің вареньесінен жеп едім,	
+	мойылдың бір ##	
+	Әкәу сегіз де үш болып қойды.	to my surprise…[my glucose level] apparently went up to 8.3.
+	Содан өтірік өлшеді ғой дедім.	Then I thought that it perhaps measured falsely.
+	###	
+SPK0027	Түк етпейді ол?	That is not a big deal.
+	Тамақ ішкеннен кейін,	An 8.3 after meal is normal.
+	сегіз де үш нормально.	
+	Ол екі сағаттан кейін барып қортылады ғой.	It gets digested only after two hours, you know.
+SPK0032	Тамақ ішкенім жоқ.	I did not have food [at that time].
+	Түстен кей:ін,	[It was during] afternoon…at that place, when [we] were sitting outside.
+	ана жерде,	
+	далада отырғанда.	
+	Содан кейін айттым,	Then I said that my child also has [the thing] like this and that [I will] bring that and have it measured [when I go her place].
+	менің,	
+	баламда да бар дедім,	
+	мына сияқ-.	
+	Соны алып келіп,	
+	өлшетіп алам,	
+	барғанда.	
+SPK0027	Иә өлшетіп ал ¬Сәкенге.	Yes, have Saken measure it for you.
+	Мен де өлшей аламын.	I can also measure myself. So well…
+	Так,	So...
+	(Hx)	Huuh!
+	OPENS_LID_OF_A_BOWL	
+	Балаң шаршап қалды сенің.	Your child got tried already.
+	Жалқау балаң.	Your lazy child.
+SPK0032	Дем алып ал,	Put this thing of yours [on the stove] and rest a little.
+	кешкене мынауыңды салып қой да	
+SPK0027	Ұйықтап қалайын @ба.	Shall I just go and sleep? Lying down engulfed [in a blanket].
+	@@@	
+	@бүркеніп @жатып @@	
+	@@	
+SPK0032	Анаған бұқтырасың ба?	Will you sterilize [the jars] in that one?
+SPK0027	Мынаған.	In this one.
+	CLOSES_THE_LID	
+	SPK0027_WASHES_DISHES	
+	Всегда осыған істеймін мен.	I always do in this one.
+SPK0032	Менің бір ескі,	[I totally forgot about] one old coffee pot of mine. My mind was all over the place, you know.
+	копейнигімді білгенім жоқ қой менің,	
+	есім шығып кетті ғой.	
+	¬Жанарға бере салғанмын.	I gave it away to Zhanar.
+	¬Жанар сұрағаннан кейін.	After Zhanar asked for it…
+	Өстіп ап-,	…in order to [prepare] jars, like this (like we are doing), with her sister.
+	апайымен әгі,	
+	банкі не етіп жүрейінші деп.	
+	Содан кейінгі ақ шелек ол.	And then there is that white bucket [which I also forgot about (?)]
+SPK0027	Сағынып отырсың ба.	Are you missing [these things/the village (?)]?
+SPK0032	¬Ақмана дейді.	Apparently ¬Akmana…Apparently there are two boxes of kitchware of the entire kitchen ... and plates.
+	Мұқым столовойдың,	
+	екі жәшік,	
+	ыдысы бар екен дейді,	
+	тәрелкесі дейді.	
+SPK0027	Сарғайып кеткен шығар мама.	Mom, [they] have probably gone yellow.
+SPK0032	Аа.	Come again?
+SPK0027	Сарғайып кеткен шығар ол.	They have probably gone yellow.
+SPK0032	Ойбай ол,	Oh my, she [¬Akmana] will make sure it doesn’t go yellow.
+	сарғайтпайды да.	
+	Бауырының магазиніне қойып үш жүзде:н,	
+	сатты дейді.	
+SPK0027	Аа.	She put [them] into her brother’s shop, and [apparently sold them] for 300.
+SPK0032	¬Айнар айтады.	¬Aynar says [all the above]. Also…
+	Содан кейін дейді,	…those aluminum spoons……they sold them for 100 tenge each…
+	мына әгі,	
+	алюминиевый қасық дейді,	
+	жүз теңгеден дейді.	
+	¬Сайгүл алып қойды дейді ей.	¬Saigul took them all says she. Can you imagine?
+SPK0027	Аа.	Oh!
+SPK0032	Содан кейін деді,	Also…[Those things] called ‘for dessert’…those small...white plates that do not have flower [prints on them]. [She apparently sold] those for two hundred and for one hundred and fifty.
+	десертный деген кішкене-кішкене әгі,	
+SPK0027	Иә.	Yes.
+SPK0032	гүлі жоқ ақ тәрелке.	
+SPK0027	Мхм.	Mhm.
+SPK0032	Соны,	
+	екі жүзде:н,	
+	жүз елуден,	
+	сатты дейді.	
+	Анау,	That ¬Zhalgas, [you know, works] at that thingy...at the canteen.
+	¬Жалғас неде,	
+	неде істеді ғой,	
+	столовойда істеген ғой.	
+SPK0027	Иә,	Yes.
+	білемін оны.	
+	Аха.	Mhm.
+SPK0032	Одан кейін мына,	After that, he worked at SPTU.
+	неде,	
+	СПТУ-да істеген.	
+	Дача алып алыпты олар.	They bought a dacha, apparently.
+SPK0027	Қай жақтан.	Where?
+SPK0032	Семейден.	In Semey.
+SPK0027	Ол,	Who is he living with?
+SPK0032	##	
+SPK0027	кімдермен тұрып жатыр?	
+SPK0032	¬Төремен.	With ¬Tore.
+	##	
+SPK0027	Жер үй алды,	[Did they buy] a house?
+	жер үй.	A house.
+SPK0032	Екінші әгі,	With ¬Zengi Baba.
+	¬Зеңгі Бабамен,	
+SPK0027	Білемін ¬Төрені.	I know ¬Tore.
+SPK0032	¬Зеңгі Бабамен тұрып жатыр.	He is living with ¬Zengi Baba.
+SPK0027	Неше,	How much..
+	неше—	How much..?
+	жер үйде тұра ма?	Do they live in a house?
+SPK0032	Жоқ,	No. They apparently live on the seventh floor [of a residential building].
+	жетінші этаж дейді.	
+	Төрт бөлмелі үй алыпты дейді.	Apparently, he bought a 4-bedroom house.
+	И үш бөлмелі ме,	Did ¬Kenesbay say it was 3 or 4 bedroooms, hmm, I don't remember.
+	төрт бөлмелі дей ме,	
+	¬Кеңесбай,	
+	фотосын жіберді деп ағаң айтып,	Your brother...your father was saying that he sent the photos of it.
+	әкең айтып отырған.	
+SPK0027	Семейден?	In Semey?
+SPK0032	Семейден иә.	Yes, in Semey.
+	Жетінші этаж деп айтты дейді.	Apparently, they said seventh floor.
+SPK0027	Мхм.	Mhm.
+SPK0032	Аналар үйін,	¬Tore and his family sold their appartment.
+	сатып,	
+	¬Төрелер.	
+	¬Төреде үй де жоқ қой.	¬Tore never had a house.
+SPK0027	А.	А?
+SPK0032	¬Төре де сол	¬Tore just lived in a one-bedroom appartment.
+	бір бөлмелі үйде тұрған.	
+	Үйін сатып жібер-,	They two sold their home and went to live under ¬Tore's care.
+	екеуі ¬Төренің қолына барыпты.	
+	¬Төренің.	
+SPK0027	Аа.	Oh.
+	Бір комнаталықта тұрып па?	Did Tore live in a one-bedroom appartment?
+SPK0032	А.	Come again?
+SPK0027	¬Төреде үй болмап па еді?	Didn't ¬Tore have a house?
+SPK0032	Болған жоқ дейді.	Apparently, they never had one. They both lived in a one-bedroom appartment, apparently.
+	Екеуі де,	
+	бір бөлмелі үйде тұрыпты дейді.	
+	Қайдан білейін әкәм.	How can I know after all?
+	Содан анау,	So, his son got married, and now his daughter...
+	ұлы үйленгеннен кейін,	
+	енді қызы—	
+SPK0027	Мама осы ¬Төре біздің ¬Жарасқа келген жоқ иә?	Mom, ¬Tore did not come to our ¬Zharas  ['s funeral], right?
+SPK0032	Келген жоқ.	No, he didn't.
+	¬Өркен де келген жоқ.	¬Orken did not come either.
+SPK0027	¬Өркен де келген жоқ па?	Did Orken also not come?
+SPK0032	¬Өркен де келген жоқ.	¬Orken did not come either.
+	Әгі ¬Жанасылдың боқтайтыны сол ғой.	That is why ¬Zhanasyl swears about them:
+	Әкеңнің аузын сігейіндер,	"""You, who fuck your fathers' mouth,..."""
+	неменеге не етесің сен осы,	"""Why do you do this?"""
+	біреуі де келген жоқ солардың,	"""None of them came""."
+	##	
+SPK0027	Аа.	Oh.
+	Недеген оңбаған ей?	They are so disrespectful, aren't they?
+	Олар вообще.	
+	А.	Yeah?
+	Соны ¬Сәдөк ¬Сәде-,	So, ¬Sadok... ¬Sadok, oh not, what was his name... ¬Zharkyn..
+	кім еді ###	
+	кім еді әгі,	
+SPK0032	А.	What?
+SPK0027	¬Жарқын#,	
+	әкелері айтпай ма?	Don't their father tell them anything?
+SPK0032	Мына ¬Жарқын,	Oh, you are calling ¬Zharkyn a human...
+	адам дедің ғой.	
+	салпыауыз қатын не дейді,	He does what that sluggish woman tells him to do.
+	соны істейді ол.	
+	Мынандай езілгені тұра берсін иә?	Let's keep these crushed ones, yes?
+	Компотқа.	For kompot.
+	##	
+SPK0027	Иә.	Yes.
+SPK0032	Мынандай тым қаттылар,	These too hard ones...we do not need them.
+	керек жоқ.	
+	####	
+	Кейбіреуі пыспай,	Some of these got here joined to one another without having been detached properly.
+	екеуі айырылмай,	
+	кетіп қалған екеуі?	
+	Осыны бір жауып көрші,	At least try preserving these first.
+	өзі қазір бірінші рет.	
+SPK0027	Жоқ андағын мен,	This one, I will just make kompot from it.
+	жәй компот қайнатамын.	
+SPK0032	Иә иә.	Yes, yes.
+	Қайнатасың ба?	Will you boil these?
+SPK0027	Жәй қайнатамын.	I will just boil them.
+SPK0032	Ее?	Ok, good.
+SPK0027	Ішкенге.	Just to drink.
+SPK0032	Иә иә.	
+	Иә,	
+	жарайды,	Ok.
+	ыдысқа,	To the dish.
+	компотқа,	They have no harm in the form of kompots or jams. We do not drink this.
+	вареньеға,	
+	зияны жоқ,	
+	ішпейміз.	
+	Әкең ішпейді,	You father doesn't, neither do I.
+	мен ішпеймін.	
+	Балалар ішеді.	The children do.
+	Мен ендеше,	So, I thought that elderly woman... that her appartment is the one which is behind your door.
+	мына сенің үйің#,	
+	есіктеріңнің артындағы есік солардікі екен деп,	
+	мен ана кемпірді.	
+	##	
+SPK0027	Жоқ.	No, she lives upstairs.
+	Үстінде тұрады.	
+SPK0032	Үстіңгі этажда,	In the upper floor, right?
+	иә?	
+SPK0027	Мхм.	Mhm.
+	Үшінші этажда тұрады.	She lives on the third floor.
+SPK0032	М-м-м	Mmm.
+SPK0027	(Hx)	
+	Қазақстан	
+SPK0032	Кешке бірақ келеді иә?	Will ¬Saken come in the evening only?
+	¬Сәкен.	
+SPK0027	Ой ол,	Oh, he is working as a cab driver right now.
+	таксовать етіп жүр.	
+	Обедке өзі келмей жүр ғой.	I do not know. Lately he is not coming home for lunch.
+	Білмеймін?	
+	Бауырының үйінен ішті ме,	Perhaps he eats at his brother's place. As you see, he is not home.
+SPK0032	Ее.	Oh.
+SPK0027	жоқ қой әйту.	
+	Маған мешать етпейін,	Maybe he is thinking of not bothering me.
+	@деп @жатқан @.	
+SPK0032	Аа.	Come again?
+SPK0027	Маған мешать етпейінші деп жатқан шығар.	Maybe he is thinking of not bothering me.
+SPK0032	Ее.	Oh.
+	Мынасын,	"He probably thinks ""let her finish this first""."
+	істеп алсын деп пе.	
+SPK0027	Осы бір @,	This one...
+	иә.	
+	Мен пысықпын ғой.	I am nimble, you know.
+	Тез-тез істеймін бәрін.	I do everything very fast.
+	@@@	
+	Жартысын,	"He will come now saying ""you have probably thrown the half of the plums away""."
+	лақтырып жіберген шығарсың деп,	
+	сөйлеп келеді қазір.	
+SPK0032	Лақтырып жібердің бе деп пе?	Meaning that if you've thrown away?
+SPK0027	Иә.	Yes.
+SPK0032	Лақтырған,	There is nothing that has been thrown away.
+	түк те жоқ?	
+	Біздің ¬Кеңесхан,	Apparently, our Keneskhan has been given a position of some sort beside the town mayor.
+	әкімнің,	
+	бірдеңесі болып сайланыпты деймін әйту.	
+	¬Кеңесханды айтамын.	I am talking about ¬Keneskhan.
+SPK0027	Замның,	The deputy's...
+	әкімнің,	The assistant for the mayor's deputy.
+	замының көмекшісі.	
+SPK0032	Замның көмекшісі ғой иә.	The assistant of the deputy, right?
+SPK0027	Иә.	Yes.
+SPK0032	Содан,	So, he called ¬Talgat, and told him that he found a job for ¬Talgat, he and told him to come, saying that he will be able to attend school and his competition even if he takes this job.
+	¬Талғатқа звандап,	
+	жұмыс тауып қойдым,	
+	келсін дейді,	
+	#	
+	Әгі оқуына да,	
+	бәріне,	
+	барып тұрады,	
+	жарысына да деп.	
+SPK0027	Аха.	Mhm.
+SPK0032	Ол барған.	Then ¬Talgat went there.
+	Білмеймін соны.	I do not know... Apparently, they  [the people at work] told him to wait.
+	Тос деген бе,	
+	тегі.	
+SPK0027	Немене жұмыс.	What kind of job?
+SPK0032	Сол әкімнің несінде істейді.	Same thing at mayor's.
+	Сол жерде бірдеңе істейді.	For doing something there.
+	Шауып кел,	I guess it is a 'go-do-this-go-do-that' sort of job.
+	барып келдер ғой деймін.	
+	Мынау ұлдың,	Did you see how this boy looks like?
+	түрін көрдің бе сен?	
+	Көрген жоқсың иә?	You didn't see, right?
+SPK0027	Әне көрген кісі,	Look, the person who has seen the boy is here at home.
+	үйде.	
+SPK0032	А.	Come again?
+SPK0027	¬Сәкөш,	¬Sakosh...
+	¬Бекзат көрген.	...¬Bekzat has seen the boy.
+SPK0032	Түрін бе?	His appearance?
+SPK0027	Иә.	Yes.
+SPK0032	Бірақ ол,	But he is little, you know.
+	кіти ғой.	
+SPK0014	Кімнің,	Whose appearance?
+	түрін.	
+SPK0027	¬Кеңсханның ұлы.	¬Keneskhan's son.
+SPK0032	Осының атын,	I thought of his name.
+	ой- ойладым.	
+SPK0014	Ой,	Oh..
+	маған бәрі бірдей.	they all look the same to me,
+SPK0027	Бәрі бірей дейді,	Mom he says all of them is identical to him.
+	мама.	
+SPK0032	Аа.	Come again?
+SPK0027	Бәрі бірдей дейді.	All are identical, he says.
+SPK0032	@	
+	Пұшық па.	All of them with upturned noses?
+SPK0014	¬Кеңесхан,	All of them are like ¬Keneskhan himself. They do not look like anyone else.
+	барлығы,	
+	басқа ешкімге,	
+	қарамайды олар.	
+	####	
+	Сізге ұқсамайды ешқайсысы.	None of them look like you, grandma.
+	###	
+SPK0032	¬Кеңесхан сияқты дей ме?	Is he saying they are like ¬Keneskhan?
+SPK0027	Аха.	Yes.
+SPK0032	Жоқ ана үлкен қызының тұмсығы,	For sure, I bet, the nose of his eldest daughter is sharp.
+	пістиген ей.	
+SPK0027	Менің қызым ба?	My daughter?
+SPK0032	Иә.	Yes.
+SPK0027	Маған тартқан ол.	She is like me.
+SPK0032	Әйбәт.	She is good.
+	Қыз болып қалыпты.	She looks almost like a girl now...with her hair tied.
+	Шашын түйіп.	
+SPK0027	Ойбай мына,	Oh no, my son...she drove him nuts.
+	менің ұлым,	
+	есін шығарыпты ғой.	
+SPK0032	Кісіні көрсе,	When she sees a person, she would run away.
+	осы қашатын.	
+	Мен сонда ойлайтынмын,	So, I would think whether this child is autistic...
+	мынау аутизм бе,	
+	недеген—	
+SPK0014	Ойбай апа,	Grandma, I know right?
+	құдай сақтасын,	God save us from that girl.
+	ана қыздан.	
+SPK0032	А.	Come again?
+SPK0014	Анау,	She is a bandit.
+	бандит.	
+SPK0032	Қайсы.	Which one?
+	үлкен қыз ба?	The eldest girl?
+SPK0014	Жоқ.	No.
+	Иә.	Yes.
+SPK0032	Аа.	Come again?
+SPK0014	Иә.	Yes.
+	Үлкен қыз.	
+	Төбелеседі адаммен.	She fights with people.
+	Істеме деген не- нәрсе-,	She does what she is told not to.
+	істейді.	
+	Шыбжық қыз екен.	She is apparently very naughty.
+	Ырбың-ырбың,	So naughty..
+	@@	
+SPK0032	Шыбжық,	Naughty...
+	шыбжық.	naughty.
+SPK0014	Өте шыбжық қыз екен.	A very naughty girl apparently.
+	#####	
+SPK0027	Мынаны компотқа деп,	Put this into this for kompot.
+SPK0014	Мынандай,	She climbs up on the windowsill like this.
+SPK0027	мынаған сала салшы.	
+SPK0014	терезенің үстіне шығып алады?	
+	Подоконникқа.	
+	Үстіне шығады да,	She climbs up, and she jumps down onto the floor.
+	жерге секіріп кеп қалады.	
+	Қорықпайды ғой.	She is just not afraid.
+SPK0032	Кім бе.	Is that her?
+SPK0014	¬Аружан.	¬Aruzhan.
+	Ана кішкентай қызды,	She punches that little girl.
+	бір переді екен.	
+SPK0032	Ой кішкентай шартығың,	Oh, that littly shorty..
+	пәле ол.	she is naughty.
+SPK0014	Жо:қ.	No.
+	Наоборот,	
+	ол не ғой.	She is, you know...
+	Ол вообще,	She does not say a word at all.
+	үндемейді.	
+SPK0032	Кішкене ғой ол.	She is little.
+	Тамаққа тойып алса болды дейді.	Apparently, as long as she is full, all is fine with her.
+	Әгі,	That...
+	¬Сәлім атасы ұқсап.	Like her grandfather ¬Salim.
+	Соны ойладым,	I thought about that.
+	неше: түрлі,	There are so many names of Kazakh batrys.
+	қазақтың батырлары,	
+	әгі атасына ұйқас,	Why make this boy's name rhyme with his grandfather's name... Why didn't they name him differently?
+	неге,	
+	қоймады.	
+	¬Сәлімге ұйқас қойғанша деп.	Instead of giving him a name that rhymes with ¬Salim.
+SPK0027	Кім деп қойыпты.	How did they name him?
+SPK0032	Абдулкәрім дей ме?	Is it Abdulkarim... or Augarim?
+	Әугәрім дей ме,	
+SPK0027	Жо:қ.	No.
+SPK0032	###	
+SPK0027	Кәрім деген сөз жоқ.	There is no such a word as Karim in the name.
+	Абуали ме,	Is it Abuali..
+	Немене өзі.	What was it?!
+SPK0032	Сонда әйту,	So, names like Zhantore, Kuntore..
+	Жантөре:,	
+	Күнтөре:,	
+SPK0014	Жо:қ.	No.
+	Олар,	They..
+	қазір айтамын.	I'll tell you now.
+	Қиын ат.	It is a difficult name.
+	Ме- ме- мен,	I did not remember it.
+	не запомнил @оны.	
+	Үш #	
+	үш рет сұрадым @.	I asked three times.
+SPK0027	Абдул,	Abdul...
+SPK0014	Абдул а-,	Abdul...
+	кәрім:,	...karim.
+SPK0027	азиз.	...aziz.
+	А-а.	No.
+SPK0014	Абдулғали ме еді.	Was it Abdulgali?
+	Абдулкарим ба.	Or Abdulkarim?
+	Кім еді?	What was that name?
+SPK0032	Түріктің аты ма,	Is it a Turkish name?
+	немене өзі,	
+	өлгені құр-.	Oh, what is it for God's sake?
+SPK0014	Жоқ.	No.
+	Ат.	Name...
+	Сондай,	It is just a religious name, yes?
+	діни ат қой иә?	
+SPK0032	Абдуләлем бе,	Is it Abdualim?
+	бірдеңе.	
+SPK0014	Абдулалим,	Abdulalim they said, I guess.
+	деді ғой деймін.	
+SPK0027	Азиз	Aziz.
+	Абдулалим ба?	Is it Abdulalim?
+SPK0014	Абдулалим,	I guess it is Abdulalim.
+	ғой деймін.	
+SPK0027	Азиз деген,	Azis is that person's...
+	кімдікі.	
+SPK0014	Азиз деген	There is no Aziz in ###. There is no ## in the name as well.
+	### жоқ.	
+	## деген жоқ ішінде.	
+SPK0027	¬Берметтікі Азиз,	¬Bermet's boy is Aziz, right? Abdulaziz.
+	иә бізде,	
+	Абдулазиз.	
+SPK0032	¬Берметтің ұлының аты ма?	The name of ¬Bermet's son?
+SPK0027	Иә.	Иә.
+SPK0032	Aaa.	Oh.
+	¬Бермет,	¬Bermet
+	ыыы,	That one's husband went to Almaty apparently...¬Zhadyra's husband.
+	кімнің күйеуі,	
+	Алматыға кетіп қалыпты деп айтты дейді.	
+	¬Жадыраның күйеуі.	
+	Сол кеткеннен ол кетіп жүр ме тегі?	So I wonder did she leave because her husband left?
+SPK0027	Жоқ.	No.
+	Бір жұмыстарымен кетті деп отырған.	According to them, he went there to take care of some things.
+SPK0032	Жұмысқа кеттік деп отыр.	"""We went for work"", they said."
+SPK0027	Еее.	Oh.
+	Мына күйеуім жақсы,	"""This husband of mine is good"", says she. She said that he told her ""I am happy as long as you are healthy. I do not need any children."""
+	маған,	
+	сен өзің аман болсаң болды маған,	
+	бала керек жоқ деп айтты дейді.	
+	Бала таппадың деп айтпаймын депті.	"He apparently said ""I won't complain that do not have kids."""
+SPK0032	Кім ана,	That person... Oh he has got children already!
+	е оның баласы бар?	
+	Не қылады,	Why would he need chidlren?
+	баланы.	
+SPK0027	Ее.	Oh, I see.
+SPK0032	Екі ұлы бар.	He has two sons.
+SPK0027	Еее.	Oh.
+SPK0032	Екі-үш баласы бар ей.	He has two or three children!
+	Бір-екі үйленген жігіт бұл да?	He is also a guy who has been married one or two times before.
+	¬Ақылжанов Райымбектің,	He is the son of ¬Akylzhanov Raimbek's son.
+	ұлының ұлы екен ғой.	
+	Білеміз біз.	We know.
+	¬Гүлнәз,	¬Gulnaz, ¬Nazgul and others associated with them...
+	¬Назгүл дегендер.	
+	Баяғыда бірге болған.	A long time ago, they were together.
+	###-да істеген.	Worked at ###.
+	Әгі:,	Worked as copywriters.
+	әріп теретін болған.	
+	Редакцияда.	At editorial office.
+SPK0027	Мына қазір компотқа не етіп отырсың иә?	You are doing this for kompot, yes?
+SPK0032	Иә.	Yes.
+	Мынаған,	I am thinking of filling this fully so that we could wash them later.
+	тіпті саған толтырып салайын ба,	
+	жуылғанға деп отырмын.	
+	Салайық.	Let's put it there.
+	Ананы бір салып жібересің,	You will put that in.
+	ау.	Yes?
+SPK0027	Неменеге?	Into what?
+SPK0032	Мынау жейтін дегенің.	This is the one that you said is for eating.
+SPK0027	Иә,	Yes, this one is for eating.
+	Иә мынау жейтін.	
+	Жуып тастайын.	Let me wash them up.
+	Бір шайып қояйын.	Let me rinse them once.
+	Ит—,	They are becoming smelly, slowling rotting.
+	иістеніп барады,	
+	базданып.	
+	Сол іріктеп-іріктеп,	I really want to sort these and be done with it.
+	бітірмесек өзі.	
+SPK0032	Өй ол,	Oh that ¬Zulfiya... your father said she is a good kelin.
+	¬Зульфия біздің,	
+	жақсы келін деген әкең.	
+	Сол ¬Әлемханның ең үлкені,	She is ¬Alemkhan's oldest child.
+	қалғаны барлығы өліп өліп,	The rest died.
+	әгі кемпірге.	For that old woman.
+SPK0027	Ее.	Oh.
+	Пысық кісі ғой енді.	She is a nimble person after all.
+	Мама,	Mom, if you really look at it, regardless of how she had her children, she is, after all, raising her children as that person's own as one family.
+	қалай былай,	
+	бала тапса да,	
+	енді,	
+	а- зато ана кісінің,	
+	баласы дегізіп,	
+	бір семя ғып отыр ғой,	
+	былай қарасаң.	
+SPK0032	Иә иә,	Yes, yes.
+	жақсы.	It is good.
+SPK0027	Кетіп қалған жо:қ,	She did not leave.
+	как будто ешкім ###—	As if no one...
+SPK0032	Кетіп те қалды ғой бұл ей.	She left once actually.
+	¬Алматыда тұрып,	She lived in Almaty, and after not returning for some time, she came back, didn't you know?
+	келмей әйту,	
+	қайта келді емес пе.	
+SPK0027	Ол,	It is this person himself.
+	мына кісінің өзі ғой?	
+	Осы жақта біреумен тұрған.	He lived with someone here.
+SPK0032	А.	Come again?
+SPK0027	¬Әлихан аға осы жақта біреумен тұрды емес пе.	Sir ¬Alikhan lived with someone in this place, didn't he?
+SPK0032	¬Әлиханның тұрғаны сол.	Well, yes, what ¬Alikhan did is...
+	Ана:,	He lived with those people...hmm... ¬Zulfiya's sisters or something like this.
+	кімнің,	
+	¬Зульфияның,	
+	апайла- (H),	
+	немене,	
+	бірдеңесімен тұрып,	
+	тұрыпты.	
+	Білмеймін.	I don't know.
+	Өтірік па шын ба әйту.	Is it a lie or a truth — I do not know.
+SPK0027	Жо:қ,	No.
+	бір әйелмен тұрды ғой ол кісі де.	He also lived with some woman.
+SPK0032	Иә.	Yes.
+	Мынау ¬Алматыда содан кейін үйін сатып келді ғой.	After that he sold his house in Almaty and returned.
+	Ойбай ¬Нұрболды тосып,	"""Oh, she is in Almaty, waiting for ¬Nurbol"", said those women, spreading rumors."
+	¬Алматыда отыр деп,	
+	сөз ғып жүреді осы қатындар.	
+SPK0027	Қатындар айта береді емес пе.	Oh women do so all the time!
+	Не шықса,	"Whenever something happens, they always say ""it is women""."
+	қатындар деп шығады.	
+	Онбаган	"""Scoundrel""."
+	##	When I speak like ¬Sveta, ¬Saken laughs till his tummy hurts.
+	Ана,	
+	¬Света жеңгем ұқсап сөйлесем,	
+	¬Сә:кен,	
+	ішегі қатады.	
+SPK0032	@@	
+SPK0027	Это грязная картошка,	"""These are dirty potatoes""."
+	это чистый картошка дейді	"""These are clean potatoes"", Sveta says."
+	Я вот это помыла дейді.	"She says, ""I washed these""."
+	Это грязный кір картошка	"""These are dirty potatoes""."
+SPK0032	Ол неғып жуып жүр.	Why did she wash those?
+	## шләңгімен,	She washed them all with a hosepipe in front of the house.
+	перді ғой есік алдына.	
+SPK0027	Сосын мен айттым неменеге жуып жүрсің оны.	"Then I said, ""Why are you washing it?"""
+SPK0032	Анау,	After she did this, it all got muddy around.
+	суғарды ғой,	
+	соғаннан кейін батпақ болып қалды ғой.	
+SPK0027	Да она же грязная.	"""The potatos are just so dirty."""
+	Әйту біз барсақ,	Whenever we go there, she always has her food prepared.
+	тамақ істеп қояды.	
+SPK0032	Э-э.	That's good.
+SPK0027	¬Сәкен,	¬Saken...
+	Aхай мы зде— VOXING_SURPRISEDLY	"..."" Hey we are here"""
+	Мен айттым,	
+	Әй че то жеңгешка үйде ме үйде емес пе.	"I said, ""I see zhengeshka is not home apparently"", and when I was entering the house saying ""She must have run away to somewhere"", she came out and said ""I am home""."
+	Че то она убежала куда-то деп,	
+	кіріп бара жатсам,	
+	я дома деп,	
+	шығып келе жатыр.	
+SPK0032	@@@	
+SPK0014	Мама @сен мама,	Mom... you mom, you can imitate all such sounds.
+	андай,	
+	дауыстардың барлығын саласың	
+	@	
+	#	
+SPK0027	Міне менде,	Look, I have this much of dried fruits.
+	мынанша сухофрукты бар.	
+	Алма кепкен.	Dried apples.
+	Орыс подружкам берген.	A Russian friend of mine gave it to me.
+SPK0032	Орыс.	Russian?
+	Аха.	Mhm.
+	Вкусный,	Delicious...
+	вкус- вкус-.	Del- del-...
+	Қане,	Where?
+	ухх.	Wow!
+SPK0027	Тап-таза.	So clean.
+SPK0032	Мөп-мөлдір ғой әшейін.	So clean indeed!
+SPK0027	Грушамен қосылған.	Mixed with pears.
+SPK0032	Ол немене істейсің.	What will you do with it?
+SPK0027	Қысқыға.	For winter.
+SPK0032	Компот істейсің.	Will you make kompot?
+SPK0014	Қыстың қамын,	In summer, take care of winter's needs.
+	жаз ойла.	
+SPK0032	Ол енді ана,	Then take this and put it higher into that place where other jars are kept.
+	биік,	
+	банкі тұрған жерге қоя сал?	
+SPK0027	Мына мескейдің ішінде тұрған ғой.	It was actually inside this bowl.
+SPK0032	Саласың ба анаған?	Will you put it into that?
+SPK0027	Орыс подружкаларым аман болсын.	God keep my Russian friends safe!
+SPK0032	##	
+SPK0027	Жоқ,	No, because I need the bowl now.
+	мескей керек болып тұр маған.	
+SPK0032	А.	Come again?
+SPK0027	Мескейді босатып жатырмын.	I am emptying the bowl...
+SPK0032	Ее.	Oh.
+SPK0027	Компот қоя салайын деп.	...so that I could cook kompot.
+SPK0032	Иә,	Oh, yes, I see. You are going to make it in the big bowl.
+	үлкен мескейге қайтанасың екенсің ғой.	
+	Берме мантоваркаңды,	Don't give them your mantovarka!
+	керек жоқ өзі алады олар.	No need. They will get one themselves.
+	Бәрі табыс табады.	They all earn money.
+	Сен де бір мақұлық,	You stupid... they said you told them they can take your mantovarka.
+	ман- мантоваркаңды ал деп айтқан маған дейді.	
+	Мен айырбасқа беріп пе едің дедім.	"I said, ""Did you give it in an exchange for something?"""
+	Өзі өйтіп сөйлемеймін.	I normally don't speak like that.
+	Ыза болып кеттім.	I got angry.
+	Біреуіне осы қатты сөйлеп көргенім жоқ.	I never raised voiced at any one of them.
+	Білмеймін.	I do not know.
+	Ол қайта өзіңді бо—	She...also...you...
+	ыы	um-m-m-...
+	не етеді,	does that...
+	ыза қылдырып жібереді.	...makes you angry.
+	Жездем әперді деп,	"I said ""She was happy saying that her zhezde bought it for her""."
+	мәз болып жүрген өзі қуанып.	
+	Сен де әпермепсің ғой дедім ө-,	"I said, ""You did not buy it either, ¬Ekonay bought it for her..gave the money for it""."
+	¬Еконайым әперіпті ғой.	
+	Беріпті ғой ақшасын.	
+	Мен білеймін әгі былтыр,	I do not know...you remember the thing you brought me which was brown and light?
+	сендер әкпеп- әкеп бердіңдер ғой ана біреу?	
+	Қоңыр жұқа.	
+	Ол да сонда қалып қойған.	I also left it there.
+	Мынау не керек,	"She took it, saying ""Why do you need it? It does not fit you"""
+	саған сыймайды деп,	
+	оны да алып қалды.	
+SPK0027	Қай.	Which one?
+SPK0032	Жарайды тұра берсін дедім.	"I said, ""Ok, let it stay""."
+SPK0027	Қай?	Which one?
+SPK0032	Әгі қоңыр бір жұқа ¬Айсулу екеу ¬Айс-,	That brown, light clothing Aisulu brought...you and Bayan bought for me...
+	¬Баян екеуің,	
+	кім,	
+	сырттан кие салатын,	...the thing that you put on...it is light..
+	жұқа.	
+SPK0027	Кардиган?	A cardigan?
+SPK0032	Иә.	Yes.
+	Кардиган ба?	Was it a cardgian?
+SPK0027	Көк емес,	Not blue...
+	біздікі көк қой.	ours is blue..
+	Күшті.	Very nice.
+SPK0032	Көк емес,	Not blue.
+	қоңыр.	Brown.
+	Көк несі бар.	With the blue thingy.
+SPK0027	Мама,	Mom, it is very expensive.
+	ол вообще қымбат қой,	
+	оны неге алып қалады ол.	Why would she take it?
+SPK0032	Қымбат емес ей.	Not expensive actually.
+SPK0027	Қайсын айтып тұрсың сен.	Which one are you talking about?
+SPK0032	Өй,	Oh my, that thing that you put on over a dress, you know?
+	Көйлектің сыртынан кие салатын бар ғой,	
+SPK0027	Мама ол,	Mom, we bought it for a very high price.
+	қымбатқа алғанбыз біз.	
+SPK0032	Әгі,	The one that does not have a collar and that has some cloth in the neck area...
+	жағасы жоқ,	
+	мойнында бүйткен шүперегі бар.	
+	Тоқымасы бар.	...with a weaving.
+SPK0027	Оны біз қымбатқа алғанбыз мама.	We bought it at a high price, mom.
+	Беларуский трикотаж ол.	It is Belorussian knitwear.
+SPK0032	Қайдан білем.	How could I know...
+	Мен соны,	I... it..
+	біреуден әгі беріп жеретін шығар.	..maybe she will deliver it to me through somebody.
+SPK0027	Мама ол вообще күшті нәрсе.	Mom, it is a very nice thing!
+	Ананың трикотажы,	Its knitwear fabric is five times better than that of poor-quality Bishkek ones that you are wearing.
+	сен киіп жүрген,	
+	жаман Бишкектің әгі,	
+	бүйткенінен бес есе.	
+SPK0032	Е құдай-ай маған,	Oh, god!
+	маған кім қа- қайбір,	Oh my, did anybody bring me any good stuff...ever?
+	тәуірін әкеп берді-ей.	
+SPK0027	Мен саған просто разницасын айтып тұрмын.	I am just telling you the difference.
+SPK0032	Жоқ білем,	No, I know.
+	мен,	I..
+	мен де білемін оның #### киім разницасын.	I also know the difference.
+	Бәрін білемін.	I know all of it.
+SPK0027	Вот анау,	That one..
+	сен айтасың ғой,	you say...
+	анау вообще күшті болатын.	that one was very very nice.
+SPK0032	Материалын,	Its fabric and its quality - I know all of it.
+	оның несін,	
+	качествосын бәрін білемін.	
+SPK0027	¬Жайдар екеуіміз алғанда,	When we bought it with Zhaidar, we bought the Belorussian one.
+	Белоруссиянікін алғанбыз.	
+	Трикотаж Белорусский,	It is Belurussian knitwear.
+	анау.	
+	Оны неге алып қала-,	Why would she take it?
+	ол сымайды ғой ¬Салтанатқа.	It does not fit ¬Saltanat.
+SPK0032	Жоқ,	No, it doesn't.
+	сыймайды,	
+	Кейін аласың,	"She said, ""You will take it later when you need it""."
+	керек болса деп,	
+	######	
+SPK0027	Сыймай қалды ма не.	Didn't it fit you?
+SPK0032	А.	Come again?
+SPK0027	Сыймай қалды ма.	Didn't it fit you?
+SPK0032	Жо:қ,	No.
+	сыяды.	It fits.
+	#	
+	бір келгенде әкеп берем деді ме білмеймін.	I am not sure but she said she would bring it when she'll come here.
+	Әкеп беретін сияқты.	Looks like she will bring it.
+	Содан кейін,	
+	ұрсып-ұрсып алады да,	"And then after scolding me, she says ""Why do you need this, why do you need that?"""
+	мынау не керек,	
+	мынау не керек,	
+	мынау не керек,	
+	дейді маған.	
+	Содан бір көйлегім бар,	And so, I have one dress.
+	сия ммм	Ink...
+	немене берген,	¬Zhaidar gave her..that thingy of hers.
+	¬Жайдар өзінікін.	
+	Баяғыда:,	She bought it a long time ago when she lived in the aul.
+	аудылда отырғанда алған бір.	
+	Велюр көйлек.	A velour dress.
+	Мынау не керек саған деп,	"She took that as well, saying ""Why do you need this?"""
+	оны да алып қалды.	
+	Керек жоқ,	"""No need, ok"", I said."
+	жарайды дедім.	
+	Әгі өртемесең болды дедім.	"I said, ""As long as you do not burn them, it is ok. Do not burn them."""
+	Өртеме өзі.	
+SPK0027	Өй жоқ анау өртейтін нәрсе емес қой мама.	Oh my, mom.. that thing is not for burning.
+SPK0032	Иә?	Yeah, I know.
+SPK0027	Ана киімді қалай өртейді ол.	How would she dare to burn that clothing?
+	Ойбай ол,	Oh my god.. it..
+	су жаңа ол,	..it is super new..
+	бәлембәй мыңға алынған нәрсе.	...it was bought for thousands of tenges.
+SPK0032	Ана күні әгі,	The other day, ¬Salim's yellow daughter..
+	¬Сәлімнің,	
+	сары қызы,	
+	ммм	..mmm when there was this...
+	немене болды ғой?	
+	мммм	mmmm...
+SPK0027	Қатым?	Katym?
+SPK0032	BURPS	
+SPK0027	Қатым берді.	They gave katym.
+SPK0032	Қатым берген.	They gave katym.
+SPK0027	¬Люба.	¬Luba.
+SPK0032	Сонда шақырған.	They invited me there.
+	Соның ана күйеуі қандай жақсы бала,	Her husband is such a good guy.
+	қандай жақсы сөйлейді әшейін.	The way he speaks is so nice.
+SPK0027	Шымкент қой ол.	He is from Shymkent.
+	Шымкент.	Shymkent.
+SPK0032	Зуылдап тұр ей.	He is so spirited.
+	Хм	Hm.
+	¬Люба жүр,	¬Luba was there, covering her head.
+	басын бай-,	
+	басына шыт байлап жүр.	
+	Әйбәт сияқты.	Looks good.
+SPK0027	¬Тәкәлөктің,	¬Takalor's wife.. she is pregnant apparently.
+	келіншегі,	
+	аяғы ауыр екен.	
+SPK0032	Бәсе екі-қабат қой дедім мен.	I also thought that she was pregnant.
+	Әй,	Oh, she recovered from that thing.. right?
+	осы жазылып кетті иә ана неден.	
+SPK0027	Иә.	Yes.
+SPK0032	Ааа	Mmm, mmm, from cancer?
+	ааа	
+	рактан.	
+SPK0027	Иә.	Yes.
+SPK0032	Бәсе.	I also thought so.
+	Ал енді ¬Тәкөлөгің,	¬Takalok is such a glutton, you know.
+	бір тажал ғой.	
+	Келіп отыра салды,	He came in, sat down, holding his two kids, and kept eating everyting that was on the table.
+	содан ана,	
+	әшейін келеді де,	
+	екі баласын екі жағына алып әшейін үстелді сыпырып жей береді.	
+SPK0027	Ол кішкентай ғой үйде,	He is the youngest in the family.
+	оған ешкім—	No one... to him...
+SPK0032	А.	
+SPK0027	әлі күнге дейін кішкентай ол оларға.	..even now he is the youngest for them.
+SPK0032	Кетсінші ары қар-.	Oh, for God's sake!
+	Кішкене бала,	A little kid, dealing with being a father of four children...
+	ана төрт баланың әкесі болғай әлек.	
+	Ол келіншегі әйбәт.	His wife is good.
+	Шешесі бір орыс сияқты жәрмес.	The mother is like a Russian... a moron.
+	Ойбай әкесі де немене,	Oh, his dad is...
+	##	
+	Бірақ қазақи екен әкесі,	But his dad is very Kazakh.
+	қолының қап-қаралығы енді өзінің,	That blacnkess of his hands...
+	несімен құдай сақтасын,	Oh my god.. with the tip of his hand he cut the meat.
+	мына қолының басымен ет турады.	
+SPK0027	Олар мына,	They, I guess, live here in Krasina.
+	Красинада тұрады ғой деймін.	
+	Мына жерде.	Here.
+SPK0032	Ее.	Oh.
+	Шешесі ол,	The mother was just speaking Russian only!
+	### чисто орысша сөйлеп отыр.	
+SPK0027	Мм.	Mmm.
+	Так мына,	Let me wash this.
+	жуып қояйын.	
+	Ее кішкене-кішкене азайып бара жатыр @@	Oh, finally, it is getting fewer and fewer.
+SPK0032	Азаймағанда,	Of course, it is.
+	қайда барады ол.	What else should happen to it?
+	Мынаны ыңғайлап алғаннан кейін мыналардан,	After you are done organizing that, we should cut these for kompot.. oh no.. for jam.
+	компот турап қою керек,	
+	әгі компотың де не.	
+SPK0027	Андағы қазір,	That one now..
+SPK0032	варенье.	
+SPK0027	Жоқ,	No.
+	мынау компот қазір.	This is for kompot now.
+SPK0032	Жоқ ана,	No, I mean in case you want to make jam.
+	варене қайнатам десең деймін.	
+SPK0027	Иә ана,	Yes, from those black ones, yes?
+	қарадан иә?	
+SPK0032	Иә.	Yes.
+	Анау қалай шығады екен,	See how it will turn out.
+	көр.	
+SPK0027	Иә.	Yes.
+	Анау кішкене өзі тұрсын.	That one, let it stay for a liitle.
+	Пысса пысып қалатын шығар жәшікте.	If it stays in the box, maybe it will ripen fully.
+	А.	Yes?
+SPK0032	А.	Come again?
+SPK0027	Біраз жәшікте тұрса,	If they stay in the box for a bit, they will perhaps ripen fully.
+	пысып кететін шығар.	
+SPK0032	Пысып кетеді.	They will ripen.
+	Бетін жауып қойшы өзі,	Just cover them. They will ripen.
+	пісіп кетеді	

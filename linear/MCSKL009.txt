@@ -1,0 +1,384 @@
+speaker	span	translation
+SPK3001	###.	
+SPK3002	Қолыңды байқа.	Watch your hands!
+SPK0032	BURPS	
+SPK3001	Бетім бәрі ауыр түсіртіп тұрғанын қарашы.	Oh, if only my face wasn't feeling like it is weighing me down.
+SPK3002	А.	Come again?
+SPK3001	Бетім бәрі ауыр түсіртіп тұрғанын қарашы.	Oh, if only my face wasn't feeling like it is weighing me down.
+	Төмен қарап.	With me looking down.
+SPK3002	Қолыңды байқашы өзі.	Please watch your hands.
+SPK3004	###.	
+SPK3002	Жоқ.	No.
+SPK3001	Жарайды.	This is enough.
+SPK3002	Болды.	
+	Болды.	Now yes.
+	Істей бер.	Continue.
+SPK3001	Әкел.	Give it to me.
+	Сала салайық па.	Shall just put it?
+SPK0032	Ол бітеудей ғой ##.	It is still in its whole shape.
+SPK3004	Қайда.	Put where?
+SPK3001	Иә.	Yes.
+	Бачокқа.	Into the tank.
+SPK3004	####.	
+SPK3001	Еее.	Oh.
+SPK3002	Мынау бітеу кете ме.	Is it going to be gone in its entirety?
+SPK3001	Мхм.	Yes.
+	Немене істейін деп тұрсың.	What are you going to do?
+	Ау.	Tell me.
+SPK3004	Сорғысын ба деп тұрмын кішкене.	I am thinking of letting it soak a bit.
+SPK3001	Е онда сорғыса сорғысын.	Oh, then, let's just let it soak.
+	Ананы да іле салайықшы қасына.	Let's hang that one as well beside it.
+	¬Сәкө?	Hey, Sako?
+SPK3002	Туш па типа?	Like a carcass?
+SPK3001	Содан кейін ана ақ шүберек бар сонымен кіти жаба тұрайық.	Then we have that white rag. Let's just cover this with it for a bit.
+	Әгі үлкен мына.	That big one.
+SPK3004	###.	
+SPK3001	Иә.	Yes.
+SPK3004	###.	
+	########.	
+SPK3001	А жүр енді.	Let's go then.
+	Мынаны іл і—	To hang this...
+	Әгі ілетін бар еді ғой мынандай.	Didn't we have that thing to hang stuff like this?
+	¬Сәкө.	Sako?
+SPK3002	### астына қан тамады ғой.	But blood will drop below the ### in this case.
+	#####.	
+SPK3001	###.	
+	Клеенканы жая саламыз.	We'll just put the table mat.
+	Клеенканы жая саламыз.	We'll place the table mat.
+	Мынау осы еттің клеенкасы ғой.	This table mat is the one we use for meat.
+SPK3002	Кладовканың ішіне де бір нәрсені орау керек қой иә сыртынан.	We should still cover it with something when it is in the pantry, right?
+SPK3001	Мынада с##.	In this....
+	# шыбын жоқ қой эмм,	No flies...
+	ана ақ шүберектер дайын тұр.	Those white rags are ready.
+	Әгі ненің несі,	Those of that thing...
+SPK3002	Мм.	Ok.
+SPK3001	төбенің нелері.	those of the ceiling.
+	Төбенікі.	Those of the ceiling like white gauze.
+	Ақ марля сияқты.	
+	Кішкене су алып кел.	Fetch some water.
+	Мыналарды жуып алайық ілгіштерді.	Let's get these hangers washed.
+	Иә?	Ok?
+SPK3002	Мхм.	Ok.
+SPK3001	Сосын маған бір шөміш суық су алып келші барып.	Then fetch a ladle of cold water for me.
+	Ау- ауызым кеуіп қалды уже.	My mouth is dry already.
+	Бара ғой.	Please go.
+	Сөйтейік пе.	Shall we do so?
+SPK3002	GETS_SCARED_AND_SURPRISED	
+SPK3001	Жуайық па.	Shall we wash these?
+SPK3004	А.	Come again?
+SPK3001	Жуайық па?	Shall we wash these?
+	Төмендеу аласың ба мынаны.	Can you hold it a bit down?
+	Жүр.	Let's go.
+	Жуып жер.	Quickly rinse it.
+SPK3004	Аа.	What?
+SPK3001	Жуып жіберейік пе?	Shall we rinse these first?
+SPK3004	##?	
+	####.	
+SPK3001	####.	
+SPK3004	Тұра тұр.	Stop.
+	Ұстап тұр,	
+	рульды басып тұр.	Pull the wheel down.
+	Рульды басып тұр.	Pull the wheel down.
+SPK3001	А?	Come again?
+	А.	Come again?
+SPK3004	Бас,	Press  harder.
+	қатты.	
+SPK3001	##.	
+SPK3004	####.	
+SPK3001	Осы үйдің қойын соятын екеуіміз ғой.	The people who butcher this house's sheep are us two.
+	Содан бәрін үйреніп алғансың ғой.	So I learned everything.
+	Түгел.	Everything.
+	Рас айтамын.	I am telling the truth.
+	Қайсысын қайда қойып,	I know where to pu stuff, and where...
+	қайда—	
+	Мынау үзілгелі тұр екен.	This one is about to tear apart.
+	Осыған @е-,	For this...
+	@екі @метр @@@	two meters...
+SPK0032	Мынасы әйбәт екен,	This thing is cool.
+	белсебеттің құлағы.	The bicycle's ears.
+SPK3001	@Иә @иә	Yes, yes.
+	Екі метр осы.	This... two meters.
+	Мынаны,	This...
+	ана.	...that...
+	Неге.	When we went to that place...Ulgili Malshy.
+	Үлгілі малшыға барғанда.	
+	¬Зейнегүл апайлардың күйеуі өстіп сояды екен.	Zeinegul aunt's husband butchers their sheep like this.
+SPK3004	Aa.	What?
+SPK3006	Әкел.	Give me.
+SPK3001	А.	What?
+	Жоқ?	No need.
+	Атаң өзі істеп жатыр ғой.	Your grandfather is doing it himself.
+SPK3006	#######.	
+SPK3001	Е.	Ah.
+	Өй,	Oh, I am telling you my kid, he will do it himself.
+	істей салады өзі балам.	
+SPK3006	##,	
+	###.	
+SPK3001	Атаң әне.	You see how your father-in-law does it!
+	Әй.	Hey, there was a rag. Cover the meat with that rag.
+	Шүберек бар еді ғой ##?	
+	Соны жаба салшы.	
+SPK3006	Болды иә?	That's all?
+SPK3001	Е ненікі,	The rag of that thing.
+	болды ###.	Yes, that's all.
+SPK3004	Болды болды.	That's all.
+SPK3001	¬Dana ана,	Hey, Dana, you know where that thing (the rag) is, right?
+	білесің ғой жабатын иә.	
+SPK3006	###.	
+SPK3001	Сонымен орап тастаңдар.	Wrap the meat up with it.
+	Сол ¬Зейнегүл апайлар,	So, when we went to Zeinegul aunt's place, they butchered a sheep.
+	біз барғанда,	
+	қой сойған.	
+	Сонда өстіп сояды екен,	And this is how they do it.
+	содан үйреніп алдық.	And we've learned this from them.
+	Кім еді аты.	What was his name?
+	Атын ұмытып қалыппын оның.	I forgot his name.
+	Жездесінің атын ұмытып қалыппын.	I forgot her brother-in-law's name.
+SPK3002	Мам.	Mom?
+SPK3001	Ау?	Yes?
+	Қазір.	Just a sec.
+	Түсіп қалар ма екен.	I am afraid if this could fall.
+	Біреудің басын жарып ала ма екен.	I wonder if it could break someone's head.
+	######.	
+SPK3002	########.	
+SPK0032	########.	
+	Анау анасын қойып жүр екен ғой.	That person has put that thing of his apparently.
+	Анау бәрін түсіреді иә.	That thing records everything, yes?
+	Видик.	Video.
+SPK3001	Ох Алла!	Oh Allah!
+	Мынаны бір кіти?	Go fetch a small plastic bag. Let me put the intestines into the bag.
+	Целлофан алып келші,	
+	целлофанға салып ала салайын.	
+	Ішекті.	
+SPK3002	Құрғатпайсың ба,	Aren't you doing to dry it first?
+	апа бере сал бере сал.	Grandma, just give it to me.
+SPK3001	Ішекті ме.	You mean the intestines?
+SPK3002	Мында құя салайын.	Let me just discard the water into this.
+SPK3001	##,	
+	######.	
+SPK3002	Ааа.	I see.
+	Ойбай.	Oh my!
+	Камера ###.	The camera ###.
+SPK3004	Ааа-ай,	Oh!
+	қорқып кеттім ғой өзі.	You scared me!
+	Қорықпаймын ба деп едім,	I thought I wouldn't get scared of Sakosh, but I did.
+	Қорқып кеттім ғой ¬Сакоштен.	
+	####.	
+	Так.	So...
+SPK3001	Тох,	Oh my, you, poor, raised the dust.
+	шыңдатып жібердің ғой қайыршы.	
+SPK3004	А.	Come again?
+SPK3001	Шаңдатып жібердің ғой.	You raised the dust.
+	Алла-ай, алла-ай.	Oh my god!
+SPK3004	Шаңдатып?	Raised the dust?
+SPK3001	Иә.	Yes.
+SPK3004	Кім.	Who?
+SPK3001	Сен.	You.
+SPK3004	Қой ей.	You shut up.
+	Мен не істедім.	What did I do?
+SPK3001	Мынаны,	Please put this at some place higher.
+	жоғары# ## жерден қойшы.	
+SPK3004	Андағыны ма.	This one?
+	Тұр осы жерде,	Stay here, don't move.
+	қозғалмай.	
+	Ұят болады.	Or it will be a shame on you!
+SPK0032	@@	
+SPK3004	Мынау немене.	What is this?
+SPK0032	Керек болған уақта дайын тұрады.	When you'll need this, it will stay there ready for use.
+SPK3001	##.	
+	Қазір тегенелердің жуып алайын ба деп отырмын.	I am thinking of washing the bowls now.
+	#####.	
+SPK3004	Осы жерге?	Do you want to wash them here?
+SPK3001	Иә осы жерге жуып алмасам,	Yes, if I don't wash them here, there ## lots of flies.
+	ана жақтың бәрі шыбын ##.	
+	И так шыбын жетеді ол.	We have enough flies there already.
+	Сен басыңды ұйытып таста,	You scorch the head, and I'll then wash the head before the meal is ready.
+	мен бас жуып тастайын.	
+	Тамақ піскенше.	
+	Өзі содан кейін,	Let us have our meal only after we finish everything.
+	бірақ отырайық.	
+SPK3002	¬Асылға ала сал дейін бе мынаны.	Shall I tell Asyl to take off the camera?
+SPK3001	Неге.	Why?
+SPK3002	Болды ғой уже.	It is enough already.
+SPK3001	##.	
+	Жаңа бір келіп көріп кеткен.	He just came and saw it once.
+SPK3002	###.	
+	Ыдыс-аяқ жуып-жуып қайтамыз ғой содан кейін.	We'll go back after we wash the dishes.
+SPK3001	Бас жуу керек.	We also need to wash the head.
+SPK3002	Бас жуасың ба.	Will you wash the head?
+SPK3001	Бас үйітеді қазір.	He will scorch the head now.
+SPK3002	Ойба:й.	Oh my god.
+SPK3001	Енді екі қойдың басын немене істейміз.	What will we do with the heads of those two sheep?
+	Мынаны апарып таста кім.	You, take this back (to the kitchen).
+SPK3002	Тұз керек пе.	Do you still need salt?
+	##########.	
+SPK3001	Иә сөйте сал иә жарайды.	Yes, do so, ok.
+SPK0014	Анель жаңадан су керек пе саған.	Anel, do you need water again?
+SPK3002	А.	Come again?
+SPK0014	Жаңадан су керек пе саған.	Do you need water again?
+SPK3002	Жоқ.	No.
+	Мына,	
+	тегененің бәрі керек пе.	Do you need all these bowls?
+SPK3001	Бір-ақ,	I need only one..two.
+	екі-ақ,	
+	тегене керек.	
+	Екеуін жуып апарып таста.	Wash the two and take them back.
+	Андағы.	This...
+SPK3002	Мынау таза,	This one is clean.
+	мынау кір.	This one is dirty.
+SPK3001	Иә иә,	Yes, yes, these two.
+	мына екеуі,	
+	ана,	But leave those two.
+	ана иә иә анау екеуі қалсын.	
+	Болды.	That's all.
+	Екеуін,	Just rinse them each and put them back.
+	бір-бір шай да,	
+	қоя сал.	
+	Бір-бір шайып таста.	Just rinse them each.
+SPK3002	Мынаны морозильникке сала салам ішекті.	I will put the intestines into the fridge.
+SPK3001	Иә сала сал.	
+	Оппа.	Here we go!
+	Үстіне шыбын,	Did flies gather up around it, I wonder?
+	қаптап алды ма ей ананың.	
+SPK3004	А.	Come again?
+SPK3001	Үстіне шыбын қаптап тұр ма.	Are there flies flying all over it?
+SPK3004	Қайда.	Where?
+SPK3001	Бұзауға.	Over the calf.
+	Көтені де қанап тұр ма ананың.	Is the calf's backside bloody?
+SPK3004	Сол ана бағанағы жерден қан шығып тұр.	The blood is coming off from that part of the calf that we both saw earlier.
+	SINGS	
+	SINGS	
+SPK3001	Адам бола ма болмай ма ###.	Will the calf recover and become normal...
+	######.	
+SPK0032	Ауырмаса адам болып кетеді ғой.	If it is not sick, the calf will get better.
+SPK3001	Былай қарасаң ширақ секілді.	On the other hand, it seems very active.
+SPK0032	Әне.	You see.
+SPK3001	Көзі бәрі үлиіп тұрған жоқ.	
+SPK0032	Ммм.	Oh.
+	####### көзі кіртейіп.	####### with the eyes tired.
+SPK3001	Иә.	Yes.
+	Не етпейді ғой,	It does not do that thing...
+SPK0032	##.	
+	####.	
+SPK3001	мынау әйту,	For some reasons, this calf does his things like hitting.
+	өзінше теуіп бірдеңе істейді.	
+	Ширақ сияқты #.	It seems energetic.
+SPK3004	Әй ¬Назгүл,	Hello Nazgul.... where is Nazgul?
+	¬Назгүл қайда әгі.	
+SPK0027	А не не не.	What?
+	Мен тамақ істеп жүрмін.	I am cooking food.
+SPK0032	#########.	
+SPK3001	Еее.	I see.
+SPK3004	######.	
+SPK3001	Бұған,	To this thing...
+	не.	
+	Ары қарай құртты емдеп кеткен ғой байқұс.	Poor him, the then cured the worms of the calf.
+SPK3006	#######.	
+	##?	
+SPK3004	####.	
+	#####.	
+SPK3001	Не?	What?
+SPK0027	Жоқ жай.	
+SPK3001	Немене істейсің.	What are you going to do?
+SPK3006	Әкететін немене бар еді.	What were those things to be taken back?
+SPK3001	Түкте жоқ,	Nothing.
+SPK3006	Тұз бар.	There is salt.
+SPK3001	мен.	
+	Тұз тұрсын.	Leave the salt here.
+	Мен басты жуып осы жерден бірақ кетем.	I will leave this place once I am done washing the sheep's head.
+	Бастың жағын айырып бірақ кетемін.	I will leave once I tear its jaws apart.
+SPK0027	Қазанда су бар ғой.	There is water in the pot.
+SPK3001	Иә,	Yes, no, that...
+	жоқ,	
+	ана,	
+	## не етіп алсын,	Let ## do that thing first...
+	####.	
+SPK3004	#,	
+	қысты күні суық суға сол,	Will this person who washes (the scorched head?) using cold water in winter use hot water in summer?
+	жуатын кісіге,	
+	жаздың күні енді ыстық суға жуа ма бұл.	
+SPK0027	Жоқ енді қазанда,	It is just that there is some water left in the pot after some of it was used for laundry.
+	кірден қалған су тұр?	
+	Просто.	
+SPK3001	#######.	
+SPK3004	########.	
+SPK0027	########.	
+SPK3001	А?	Come again?
+SPK0027	Жарайды.	Ok.
+SPK3001	Әкел мен қуып жіберем мә.	Here, I will make them run away.
+SPK0027	Құрттап қалған ба?	Is this dog sick with worms?
+SPK3001	Құрттап қалған ғой.	Yes, it is sick with worms.
+SPK0032	##########.	
+SPK3002	Здравствуйте:	Hello.
+	# папа ананы байқашы аяғыңды.	Dad, careful, watch your legs!
+SPK3004	#####.	
+	###.	
+SPK3001	¬Сәкө,	Sako...to this...soil...
+	мынаған,	
+	топырақ.	
+SPK3002	Әлі қой сойып жатырсыңдар ма дейді.	"""Are you still butchering the sheep?"", says he."
+	Мен ұйықтап тұрып қойдым дейді.	"""I already woke up,"" says he."
+SPK0032	А.	Come again?
+SPK3002	Әлі қой сойып жатырсыңдар ма,	"""Are you still butchering the sheep? I already woke up,"" he says."
+	мен ұйықтап тұрып қойдым дейді.	
+SPK0032	Ух-ух,	Uh-uh.
+	#######.	
+	¬Бәкөнтәй.	Bakontai.
+	Қой жоқ иә.	There is no sheep, right?
+	Ееее.	Oh!
+SPK3002	Қой жоқ деш жоқ.	"Say ""there is no sheep."""
+SPK0032	Әне дейді.	"He says, ""there""."
+SPK3001	Әй мынау лақытара салатын ба.	Hey, is it to be thrown away?
+	Лақтыра салатын ба?	A thing to be thrown away?
+SPK0032	######.	
+SPK3001	Нива да жоқ мынау кешке дейін сасып кетеді ғой енді.	Niva is gone. This [the corpse] will get smelly by midnight.
+SPK0032	#############.	
+SPK3002	Маздамен апара салайық.	Let's take it on Mazda (car brand).
+SPK3001	А.	Come again?
+SPK3002	Маздамен.	On Mazda.
+SPK3001	Қойшы сасып кетпейді ме.	Oh, no, the car will smell afterwards.
+SPK0032	#,	
+SPK3001	Тәшкімен апара саламыз.	We'll take it there on the wheelbarrow.
+SPK0032	######.	
+SPK3002	Әйтпесе пакетке салып беріңдер.	Otherwise put the parts of the corpse into seperate plastic bags, and I will take these bags to the disposal site on the bicycle.
+	Бір-бірлеп мен мына,	
+	великпен апарып лақтыра саламын.	
+SPK3001	#####.	
+SPK3002	#####.	
+SPK3001	Мынау қайдағы пакет балам.	What plastic bags are you talking about, daughter?
+	Мынау жоя:н қарын.	It is a big stomach of the sheep.
+SPK3002	Онда мөшек.	What about a bigger bag?
+	Мөшегімен қосып лақтыра салайын.	I'll then throw it away with the bag itself.
+SPK3001	Тәшкіге салып апара салыңдар.	Just take it on the wheelbarrow.
+SPK3002	Тәшкімен мен бармаймын.	I am not going with a wheelbarrow.
+SPK3001	¬Асыл сүйретеді,	Asyl will drag the wheelbarrow.
+	Асыл #### @@@	Asyl ####.....
+SPK3002	¬Асылға бәрі бір ол жүре береді.	Asyl does not care. He is ok with dragging the wheelbarrow.
+SPK3001	Тәшкіге салыңдар да лақтыра салыңдар.	Just put it onto the wheelbarrow and just throw it away.
+	Тәшкі жүріп түр аяғы.	The wheelbarrow's wheels are working.
+SPK3002	Қай жерге лақтырасың сен.	Where will you throw it away?
+SPK3004	Қайда.	Where?
+SPK3001	Ә:у Шеңгелдінің ішіне.	Inside Shengeldi.
+SPK0032	Неменені?	Throw what?
+SPK3004	Қойшы ей.	You are joking, right?
+SPK3001	Ананы.	Throw that.
+SPK0032	Ееее.	Oh.
+SPK3001	¬Баконтайым.	My Bakontai!
+SPK0032	Ол атасына қарайды.	He is looking at his grandad.
+SPK3004	¬Баконтай?	Bakontai!
+SPK3001	####.	
+	Шөлдеп тұр ғой деймін андағы.	I think he is thirsty at the moment.
+	Шөлдеп.	Thirsty.
+	Су берші бар.	Go and give him some water.
+	Шөлдеп тұр ғой деймін,	I think he is thirsty.
+	######.	
+	Бере ғой.	Give him some water.
+	Ішін жап.	Cover his belly!
+	Мынау осы жолы алғаның ба ей?	Is this the one you bought recently?
+SPK3004	А.	Come again?
+SPK3001	Мынау очки осы жолы алған ба.	Is these glasses the one bought recently?
+SPK3004	###.	
+	####.	
+SPK3001	Осы жолы очки алған жоқсың ба.	Didn't you buy new glasses this time?
+	Ааа.	Oh.
+SPK3004	SPEAKER_IS_FINISHING_UP_SCORCHING_THE_ANIMAL_HEAD	

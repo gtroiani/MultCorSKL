@@ -1,0 +1,683 @@
+speaker	span	translation
+SPK3012	Алматыға барамыз ба,	Are we going to Almaty or not?
+	жоқ па.	
+SPK3013	Жоқ барамыз.	No, we are going.
+	Ертең,	Let me first get my that thing... My vacation pay should be transferred to me tomorrow.
+	неменемді алайын.	
+	Отпускнойым ертең түседі.	
+	Бірсүгіні шықпаймын жұмысқа өзі.	I am not working the day after tomorrow.
+	(H)	
+SPK3012	Сен қандай күндері бар— м,	What days would want to go to Almaty? Till when is your leave?
+	барғың келеді.	
+	Сенің отпускің қашанға дейін.	
+SPK3013	А.	Come again?
+SPK3012	Отпускің,	Till when is your leave?
+	қашанға дейі:н.	
+SPK3013	Менің отпускім:,	My vacation...
+	кароче,	let me think...
+	отызы күні жұмысқа шығуым керек қой енді.	well I need to be back at work on the 30th.
+SPK3012	М:.	Mm.
+SPK3013	Жиырма алтысы,	I should be here by around 26th.
+	сондайда,	
+	осында болуым керек.	
+	###,	
+	наверное,	Probably..
+	так (Hx)	alright...
+	соны,	we should make up my mind about it now.
+	қазір,	
+	округлиться надо.	
+	Если Алматыға барсақ,	If we go to Almaty...
+	сразу бірінші Алматыға барып BEGINS_WASHING_DISHES	will we go to Alakol after first getting to Almaty? Is that how we want it to be?
+	одан кейін,	
+	Алакөлге барамыз ба?	
+	Қалай.	
+	Будем.	
+	###.	
+	Алматыға барсақ,	If we go to Almaty, then where will we go? I mean...
+	қайда барамыз.	
+	Имеется в виду.	
+SPK3012	Қандай жерлерге,	Do you mean to which specfic places in Almaty?
+	типа.	
+SPK3013	Сен өзің айттың,	You said that yourself, so think now.
+	ойлан енді.	
+	Пойызға,	We could take a train to Turkistan.
+	отырып,	
+	Түркістанға сондай кетіп қалсақ деп.	
+SPK3012	Түркістанға?	To Turkistan? From Almaty?
+	Алматыдан.	
+SPK3013	Иә.	Yes.
+	Бірақ,	
+	оған,	But it is too hot for that.
+	немене ғой деймін,	
+	ыстық қой деймін,	
+	вообще.	
+	Шымкент жақ еще.	Plus it is the area near Shymkent.
+SPK3012	Скорее всего.	Most likely so.
+	И плюс мне кажется,	Plus it seems to me that Ulan would not want to be there.
+SPK3013	###.	
+SPK3012	¬Ұлан осы,	
+	жүрмейтін секілді.	
+	Ну сен Алматыға барғың келсе,	Well if you want to go to Almaty...
+	саған еще нужно этот,	you also need that...
+	турға барғың келсе?	If you want to go on a tour...
+	¬Ұлан мен,	I think Ulan, Ayan, and others will not go.
+	¬Аяндар бармайтын шығар турға.	
+SPK3013	###,	
+	####?	
+SPK3012	Если сенен,	If there is no one else with you [on the tour], I can go with you if you wish. It is not difficult for me.
+	басқа,	
+	ешкім жоқ болса,	
+	мен сенімен қайтадан бара аламын.	
+	Если хочешь.	
+	Мне не сложно.	
+	Просто сразу говорю,	Let me warn you in advance: you will not be available for the whole day.
+	бір күн жоқ боласың.	
+	Типа,	What I mean is that you go to the tour bus at six in the morning and it will have been ten thirty pm by the time you finish seeing and doing all things.
+	таңғы сағат алтыда,	
+	жиналасың автобусқа,	
+	потом,	
+	барып көріп түсіп біткенше,	
+	сағат он жары:м,	
+SPK3013	##### Алматыға барсам,	If I go to Almaty..
+SPK3012	болады.	
+SPK3013	##:,	
+	Алматыға баратын болсам—	If I go to Almaty...
+	Мынада,	
+	кофе бар ма?	Is there coffee in it?
+SPK3012	Кофе емес,	It is not coffee. It is just water inside it.
+	ішінде су жай.	
+	Немене ойланып тұрмын дейсің.	What were you saying you were thinking about?
+SPK3013	Квартира снимать етпей,	What if we do not rent an appartment and just go to those people's place.
+	кімдердікіне бара салсақ.	
+SPK3012	Кімдердікі.	Who?
+SPK3013	####.	At ####'s place?
+SPK3012	А:.	Whaaat? All of us? All four of us?
+	Бәріміз?	
+	Төртеуіміз?	
+SPK3013	Ешкім жоқ ###	There is no one ###
+	##,	
+	##.	
+SPK3012	Кім бар.	Who is there?
+SPK3013	Әйелі де бөлек,	His wife also lives seperately.
+	¬Маржан,	There is only Marzhan, her husband, our brother-in-law, and then their girl who studies in grade 8-9.
+	жолдасы,	
+	жездеміз.	
+	Одан кейін әгі,	
+	сегіз оқитын,	
+	тоғыз оқитын қыз,	
+	әгі,	
+	¬Саида күйеуға шығып кетті.	Saida already got married [and does not live with them].
+	Или,	Or...
+	квартира снимать етейік құрысын.	Let's just rent an appartment, screw it.
+SPK3012	Ақшаңды жалко ма.	Do you just not want to spend your money on that?
+	Понимаю.	I understand though.
+	Ну можно.	Well we can.
+	Но:,	But..
+	менде мысалы университетегі,	For example there are friends of mine who I know from university who live in Almaty.
+	танитын Алматыда балалар бар.	
+	И мен солар—,	Just letting you know that I will be with them.
+	солармен жүремін если что.	
+	Әр күн емес,	Not each day...
+	қызда:р,	Girls...
+	ұлда:р.	Boys...
+SPK3013	Біз болсақ бір,	If we go, we will go for around four days.
+	төрт күн сондай боламыз.	
+	Бір екі күн,	Say, if we take two days for ourselves...
+	өзімізге арнасақ мысалы,	
+SPK3012	Иә.	Yes.
+SPK3013	бір күн мысалы,	Say one day we will ###
+	####.	
+	####,	
+	бір күн екеуіміз шопиться етсек?	And say if you and I go for shopping for a whole day...
+	Сол сен екі күн өзіңнің неменеңе,	And you take two days for that thing of yours...
+	###.	
+SPK3012	Ауылға кеткен соң не істейсіңдер,	What will you do after you leave for the village?
+SPK3013	А.	Come again?
+SPK3012	сендер екі күнде немене істейсіңдер ол кезде.	What will you do at that time?
+	Сендер,	You and Ulan... have you been to Koktobe?
+	¬Ұлан,	
+	Көктөбеге барып па еді.	
+	Шымбұлаққа барып па еді.	Did he go to Shymbulak?
+SPK3013	Ой Шымбұлаққа барған жоқ.	Oh, no, he did not go to Shymbulak.
+SPK3012	Анда отырып па еді,	Did he sit on that thing...
+	ана нәрсеге,	on that thing...
+	канатныйға.	on the cable car...
+	Отырған.	He did, right?
+SPK3013	Көктөбеден,	We took the cable car when we went back down from Koktobe.
+	немене,	
+	түскенде отырғанбыз.	
+SPK3012	А:.	Oh I see.
+SPK3013	Ой біз анандайға да отырғанбыз,	Oh we also took on the thing like that...
+	Лесная сказка деген бар ғой.	you know the thing called Lesnya skazka.
+SPK3012	Лесная сказка.	Lesnya Skazka.
+SPK3013	Сондайда.	On something like that.
+	Лесная Сказка,	It turns out that Lesnya Skazka is...
+SPK3012	Ол,	It is...
+	қазір,	wait a minute..
+SPK3013	оказывается немене екен ғой.	
+	Ой,	
+	Қарағай деген,	Apparently Karagai is such an expensive place!!!
+	керемет қымбат,	
+	жер екен ғой.	
+	##.	
+SPK3012	######.	
+	Бассейн бе,	Is that the place where you swam in the pool or something?
+	бірдеңе түскен жерлерің бе.	
+SPK3013	Жоқ ол,	No...
+	бассейн ол,	the pool is...
+	сен білмейсің бе не осы жолы,	Did you not know ... the other time we went to Tau Samaly... and then...
+	Тау Самалы дегенге барамыз.	
+SPK3012	Немене Тау Самалы деген.	What is Tau Samaly...
+SPK3013	Кароче,	Basically  there are 7-8 pools outside, and 7-8 saunas...
+	далада немене,	
+	м:,	
+	жеті сегіз бассейн,	
+	жеті сегіз баня,	
+	а:,	... and you can also eat there...
+	там можно кушать,	
+	в принципе сондайға,	Actually we could go to someplace like that... instead of going to the acquapark.
+	соған барса болады,	
+	аквапарктен гөрі.	
+SPK3012	Жарайды.	Okay.
+SPK3013	Ал,	But the place where we went to with Ular is...
+	¬Ұлан екеуіміздің барғанымыз ол әгі,	
+	семинар өтті ғой,	you know where the seminar was held...
+	Ой-Қарағай деген,	the place called Oy-Karagai...
+	ол қаланың шетінде.	it is on the outskirts of the city.
+	Әгі мен айттым ғой кім,	Remember I told you... that person...
+	¬Сымбат а:йқайлап,	...told you that Symbat was swearing and crying out loud...
+	боқтады деп.	
+	Оказывается,	It turns out that...
+	#####.	
+	Немене,	the thing is that...
+	боязнь высоты.	...the fear of height...
+SPK3012	А:.	Oh I see.
+SPK3013	Но бірақ-та,	However...
+SPK3012	Мхм.	Mhm.
+SPK3013	но бірақ-та қызы үшін,	but for her daughter...
+	типа енді,	well nobody wants their children to be [on the cable car] with strangers, right?
+	әркім баласын,	
+	біреумен жібермейді ғой?	
+	Қызы анандай канатыныңға,	So because her daughter got on the cable car, she also decided she would do it.
+	үлке:н дорогада отырғаны үшін,	
+	мен енді отырғым келіп тұр,	
+	отырды ғой.	
+	Бә: анандай,	Omg, apparently the fear of height is really scary, right?
+	боязнь деген,	
+	страшный екен ғой иә.	
+	Кәдімгідей талып қалды ғой.	She literally fainted.
+	Қо:зғалмайды,	She could not move.
+	әрең дауысы шығады.	Her voice barely came out.
+SPK3012	Конечно.	Of course.
+SPK3013	(H) ¬Анар ¬Алимбетова деген,	Anar Alimbetova immediately understood this.
+	түсініп қойды.	
+	А,	
+	ана екеуі,	But the other two laughed so hard.
+	қа:рқылдайды.	
+SPK3012	Неге,	Whyt?
+	неге байқұс кісіні,	Why the poor person...
+	прям уже паническая атака,	It really is a panick attack...
+	жүрегі ұстап қалуы мүмкін ғой.	She could gave gotten a heart attack.
+	Неге оны,	Why...
+SPK3013	Енді ол неге отырып алды.	Then why did she choose to ride the cable car?
+SPK3012	түсіріп—	
+	Неге енді күліп отырсыңдар ол кісіге.	Why are you laughing at that person?
+	Жарайды отырсын,	Ok, so what if she choose to ride...
+	айқайласын,	Let her cry...
+	неге күлесіңдер енді.	Why do you laugh at her?
+SPK3013	Үшеуіміз,	All three of us laughed so hard...
+	қа:рқылдап,	
+	күлдік қой.	
+	Содан бар ғой,	You know what happened next...
+	бәрі түскеннен кейін мен айтамын өзі,	After we all got out, I say...
+	сұп,	Her face went grey.
+	сұр болды ғой.	
+	Содан кейін екінші жаққа түстік?	Then we went down to the second side...
+	Ойбай,	Oh my god, she then just stopped.
+	###,	
+	тоқтап қалды ғой.	
+SPK3012	@@@@	
+SPK3013	Представь.	Imagine that.
+	Мә:.	Oh my...
+	Анау көзің көрсен ғой бүйт-,	If only you saw her eyes...
+	бүйтіп кеткен.	it went just like this...
+	Содан кейін енді,	Then after that, you know...
+	қайтадан бүйтіп ол,	she again...
+	бә ұза:қ,	Oh it is long, and big, and Saya look...
+	үлке:н,	
+	еще таудың қарашы ¬Сая,	
+	былай таудың үсті ғой иә?	... this is the surface of the mountain, right..
+SPK3012	Мхм.	Mhm.
+SPK3013	Анада:й тау,	These mountains are like that...so big...
+	анандай анандай,	
+	Соны қазір мен ойласам, қорқып кетемін.	I get scared if I think about it now.
+	######.	
+	Қорықпай отырғанмын.	But I was not scared at the time.
+SPK3012	Қорқынышты ма.	Is it scary?
+SPK3013	Балалармен.	With kids...
+SPK3012	Маған кажется қорқынышты емес,	I think it would not be scary to me unless it moves like this.
+	если қатты былай қозғалмаса.	
+SPK3013	Қозғалады ғой.	It does move!
+	Ол анандай немене емес,	It is not like that...
+	көктөбенікі секілді жабық емес.	...it [the cable car] is not enclosed like that of Koktobe...
+SPK3012	Ашық па.	Is it open?
+SPK3013	Ашық кәдімгі былай,	It is open like that...
+	неменеде отырасың ғой.	like when you sit in that thing...
+SPK3012	Типа ана,	Is it like ###.. you know like those they show on TV..
+	### секілділер ме,	
+	кинода көрсетеді ғой.	
+SPK3013	Иә?	Yes.
+	Иә,	
+	иә вот этот,	Yes, we sat at exactly that level of height.
+	тура сондай биіктікте отырдық (H).	
+	Төртеуіміз отырып алғанбыз ғой.	The four of us got onto the cable car...
+	Содан кейін,	Then, if you go down the other side...
+	ана жаққа түссең,	
+	қайтқанда,	
+	былайынан қайту керек қой.	when you return, you should return this way...
+	Қайтпай қойды ғой.	But she refused to return that way.
+	Ақыры,	So we never made it to the seminar.
+	тұрдық та,	
+	семинарға да барған жоқпыз,	
+	автобусқа отырып,	We got on the bus, and went back to the city.
+	қалаға қайттық.	
+SPK3012	@@	
+SPK3013	@@	
+	Иә,	Yes.
+	автобусқа отырып,	We went back tothe city, after we got on the bus.
+	қалаға қайттық.	
+SPK3012	Не знаю,	I do not know...
+	Алматы сұрып тұрғаным,	I am asking about Almaty because...
+	маған сабақтарды нужно перенести:,	...I will need to postpone my lessons [if we go]...
+	а:,	A...
+	сол Алматыда болатын балалармен,	And I need to agree with friends in Almaty whom I will be with that I'd meet them.
+	договориться,	
+	что солармен кездесмін деп.	
+	И:,	And...
+	а:,	mmm...
+	вот.	this...
+SPK3013	Егер кететін болсақ,	If we decide to go....
+	міне ертең он үші ме,	you see if tomorrow is thirteenth...
+	Алла бұйырып он төрті күні шығып кетсек,	If God permits and we depart on the 14th, we will go be on the road for an entire day.
+	бір күн жолда жүреміз біз.	
+SPK3012	А уже он төрті.	But it is already on the 14th.
+SPK3013	Иә.	Yes.
+SPK3012	Кішкене,	Why didn't you tell me a little in advance because I should inform my students one two days in advance...
+	заранее неге айтпайсыңдар менің?	
+	оқушыларға бір екі күн бұрыннан,	
+	айтуым керек қой.	
+SPK3013	Ну он бесі шығайық енді,	Then let's depart on the 15th.
+	мен білмей тұрмын ертең сонымен,	That's the thing I am not really sure about my vacation pay...
+	неменеммен,	
+	отпускнойым,	
+	отпускноймен,	
+	премия беремін деген.	They said they'd give me a bonus.
+SPK3012	М:.	Ah I see.
+SPK3013	Соған қарап тұрмын.	So I am being depedent on that...
+	Е осы осыны Алматыға бір үш төрт күнге,	So we've already decided that we'd go to Almaty for three to four days...
+	Алматы деп айтып қойдық па?	
+	Үш төрт күн Алматыға барайық сосын—	Let us first go to Almaty for 3-4 days, and then...
+SPK3012	Жоқ	No...
+	если:,	If they do not give you your vacation pay, I will not go. It will be too expensive.
+	отпускной бермесе бармаймын,	
+	## қымбат болады.	
+	Ну,	Well... if we do not rent an appartment, it should be okay.
+	если,	
+	квартиру не снимать,	
+	то нормально.	
+SPK3013	Жоқ,	No.
+	квартира снимать етіп керек жоқ.	We'd better not rent an appartment.
+	Сосын,	And then...
+	сосын қайтқан кезде сен не істейсің,	What will you do on the way back?
+	Алакөлге барасың ба.	Will you go to Alakol?
+SPK3012	Бармаймын Алакөлге.	I won't go to Alakol.
+SPK3013	Онда сол жерде ##—	Then at that place...
+SPK3012	Мен Алакөлде немене тағы да ана,	Will I again teach my lessons in the cabin like two years ago?
+	ана ж—,	
+	екі жыл бұрынғы секілді немене,	
+	кабинканың ішінде өткіземін бе сабағымды.	
+	¬Шырай мен подружкасы.	Shyrai and her friends...
+SPK3013	Қазір вайфайлар бар.	Now there is Wi-Fi.
+SPK3012	Жоқ,	No...
+	жарайды вайфай вайфай.	okay let wifi be...
+SPK3013	Суға түссең,	You can swim...
+	суды жек көресің әйтпесе.	but you do not like swimming..
+SPK3012	Ана жолы біз,	The other time do you remember we went there with Shyrai and her friend Makpal?
+	¬Шырай мен ¬Мақпал деген подружкасы бардық қой.	
+	Әлбетте екеуі суға түседі,	Of course they two went swimming, and I was just sitting under the tree..
+	мен отырамын немене,	
+	талдың асты—	
+	Тал емес немене әгі,	Not under a tree, you know that thing...
+	домиктардың асты,	under the small houses...
+	мен әйту суға түспеймін,	I did not swim...
+	бір рет түсемін.	I only swam once...
+	Одан кейін комнатаға келіп сабақ жүргіземін,	Then I came to my room and taugh a class.
+	###	
+	### екеуі ана жерде,	They both went to the bar and got acquainted with  some people... I guess Chechens?
+	барға барып,	
+	бір немене,	
+	чеченецтар ма бірдеңемен танысып алған ба,	
+	солар,	They...
+	¬Шырай жыныма тиіп,	Shyrai... drove my crazy...
+	енді,	Well they managed to get acquainted... why would they do that? When I came back, they were all already sitting and having a conversation...
+	танысып алды ғой,	
+	неменеге танысты,	
+	мен келсем уже,	
+	бәрі сөйлесіп отыр.	
+	#####.	
+SPK3013	Кімдермен дейсің?	With who?
+SPK3012	Чечендер ме бірдеңе,	Some Chechen guys or something...
+	чеченцы кароче.	Let's just say Chechens.
+	Неменелері,	I guess they said they come from Almaty or something like that...
+SPK3013	##.	
+SPK3012	Алматыдан келген дей ме,	
+	солар,	
+	содан кейін,	
+	а:.,	
+	потом,	Then..
+	бір екі күннен кейін,	after a couple of days there were some boyds from Shyrai's university.
+	¬Шырайдың группасындағы ұлдар ма,	
+	біреулер болды,	
+	балалар.	
+	Солармен жүргенде,	So we were hanging out with them...
+	аналар отыр ғой енді,	They were sitting there..
+	бәрі бір жер,	well we were all in one place...
+	үлкен улица ғой содан кейін,	you know it all one big street.. so after that...
+	<VOX ¬Шырай,	"they were like: ""Hi Shiray"", and then I was like: ""Shyrai, do not look at them! Wo do not speak to them!"""
+	приве:т, >	
+	деп содан айтамын ¬Шырай,	
+	қарама аналарға,	
+	қара біз олармен де сөйлеспейміз,	
+	біз олармен қазір жүрмейміз,	
+	кетші деп.	"She said: ""Oh screw you, I will."""
+SPK3013	¬Шырай ма?	Did Shyrai say that?
+SPK3012	Мен айтамын ¬Шырайға.	I was saying all this to Shyrai.
+	Содан кейін,	Then after that...
+	ең,	Right at the time when were all going to go back... first these [Chechen] guys came up again...
+	қайтар күні бір жақтан солар,	
+	бір жақтан ¬Шырайдың группасынан,	"...and secondly Shyrai's university friends were all like: ""Hi Syrai!, Hi Shyrai!"""
+	<VOX ¬Шырай привет,	
+	¬Шырай я привет > деп уже,	
+	танысып алған ғой ¬Шырай.	Shyrai knows them all by now, you know.
+	Содан мен айтамын,	Then I said to her:
+	неменеге танысасың,	"""Why would you get to know them? Why can't you just keep still?"
+	неге тыныш жүрмейсің деп.	
+SPK3013	¬Шырайға ұрстың ба?	Did you scold Shyrai?
+SPK3012	Тура сол кезде мен ¬Шыраймен ұрсыса жаздадым.	Right at that time I was about to have an argument with Shyrai!
+SPK3013	@@	
+	Онда өйтетін болсақ,	If we do so,
+	сені Алматыдан,	shall we then
+	жарты жолға дейін келіп,	send you back home on taxt after we arrive halfway at Urzhdar?
+	Үржардан салып жібереміз бе сені таксиге,	
+	или Алматыдан,	Or right from Almaty?
+SPK3012	А:.	Oh I see what you mean...
+	П- поезд жоқ деп ойлайсың ба?	Did you think there will be no trains at the time?
+	Қарайын ба?	Shall I check?
+SPK3013	А.	Come again?
+SPK3012	Поезд жоқ деп ойлайсың ба.	Do you think there will be no trains?
+SPK3013	Ол,	Regarding that...
+	қарап қою керек.	We should check that just in case.
+	Просто орын бар болса,	If there are seats available,
+	сидячиймен,	we could come back on a couch train.
+	бері қарай қайтатын.	
+	В принципе бері қарай қайтатын бар шығар,	In principle, probably there are such trains on the way back from there, but not on the way to there.
+	ары қарай баратын жоқ қой.	
+SPK3012	¬Шырайлар,	Shyrai and people associated with her will depart on the 15th.
+	он бесі күні шығады?	
+	¬Дана мен ¬Шырай шығады Семейден,	Dana and Shyrai will depart from Semey.
+	а: м:,	Mmmm..
+SPK3013	¬Бибарыс Ақсуаттың неменесінен отырады ма?	Will Bibarys depart from that thing in Aksuat?
+SPK3012	¬Бибарыс,	Bibarys... will come to Semey and I guess he will take the plane.
+	содан кейін келіп Семейден,	
+	самолет пе,	
+	вот,	
+	самолетке отырады ғой деймін.	
+	Содан кейін ¬Шырай немене деп отырды.	Then what was Shyrai saying, let me remember.
+	Типа,	Like...
+	COUGHS	
+	¬Данаға айттым,	I told Dana:
+	бірдей,	Let's buy seats from two different  carriages but at the same kupe [number]...
+	купеден,	
+	бірақ екі түрлі вагон болады ғой,	
+	содан орын алайық,	
+	потом тура сонымен ауыстырып аламыз деп.	...so that we can then swap the places...
+	Типа сен астында мен үстінде,	Like mine will be the top seat and yours the bottom seat...
+	ауысып аламын деп,	
+	¬Дана ұқпаған ғой.	Dana did not really understand what I said...
+	Бір вагоннан,	And so she bought the seats from the same carriage, and she bought her own seat at the spot which is close to that smelly part of the carriage where the toilet is...
+	бірақ өзінікін мына,	
+	е:ң туалетке жақын сасық жері бар ғой,	
+	сол жерден алыпты.	
+	Бірақ Тальго екен.	But apparently she chose a Talgo train.
+	Купе.	And kupe.
+	Сол екеуі барады,	So they two are going...
+	он бесі күні,	on the 15th.
+SPK3013	STARTS_WASHING_DISHES	
+SPK3012	одан кейін,	After that...
+	ы:,	mmm...
+	какой-то,	You know there is a place in China that is close to Kazakhstan...
+	Қытайда,	
+	Қазақстанға,	
+	жақын жағы бар ғой?	
+SPK3013	Мхм.	Mhm.
+SPK3012	Сол жерге,	They said we'd go to that place.
+	барамыз деді.	
+SPK3013	Қытай деді?	They said China?
+SPK3012	Қытай.	China.
+	Одан кейін возможно Қырғызстанға?	Then after China probably will go to Kyrgyztan.
+	Но Қырғызстанға может не получится,	But probably the Kyrgyztan plan is not going to work out.
+	и потом,	And then...
+	келіп,	after coming back...
+	а:,	aaa...
+	той жиырма,	I guess the wedding is on the 22nd.
+	екісі ғой деймін.	
+SPK3013	Мхм.	Mhm.
+SPK3012	Жиырма екісі тойға барады,	She will go to the wedding on the 22nd, and then Shyrai will come back, and on the 23rd and 24th she will go to yet another wedding.
+	одан ¬Шырай келеді де,	
+	жиырма үші,	
+	жиырма төртінде ме,	
+	бір күні тағы тойға барады.	
+	¬Самал деген қыз бар,	There is a girl named Samal in Aksuat.
+	Ақсуатта ¬Самал деген қыз бар.	
+	Соның тойына,	She will go to her wedding.
+	подружка невесты.	She will go as the bridesmaid.
+SPK3013	¬Сая,	Hey Saya...
+	олар Қытайға,	Why are they going to China for?
+	неменеге барады?	
+SPK3012	Білмеймін?	I do not know.
+	¬Бибарыс барғысы келетін шығар.	Maybe it is because Bibarys wants to go.
+SPK3013	#####.	
+SPK3012	¬Бибарыс барғысы келіп жүр.	Bibarys want to go these days.
+SPK3013	Жоқ Қырғызстанда Ыстықкөлге барады ма?	No, are they going to Ystikkol specifically in Kyzgystan\?
+	Иссыкульге.	To Yssikkol?
+SPK3012	Солай,	I do not know.. maybe...
+	солай шығар.	
+	Или Бишкек может.	Or maybe Bishkek.
+SPK3013	Ты узнай этот,	You know what... can you check if...
+	немене,	
+	соткадан білесің бе,	...on the internet or anywhere else...
+	Иссыкульге немене керек пе?	... whether one needs that thingy for travelling to Kyrgyzstan...
+SPK3012	(H)	
+	Мен немене көрдім,	
+	А:,	Ah some ...
+SPK3013	Виза	I mean whether one needs a visa...
+SPK3012	какой-то	
+SPK3013	ай-,	Oh I meant...
+SPK3012	виза керек жоқ қой деймін.	I think you do not need visa.
+SPK3013	Загран паспорт керек пе?	if one needs an international passport for Kyrgyzstan.
+SPK3012	Керек жоқ қой деймін.	I do not think it is needed. I do not know for sure.
+	Білмеймін,	
+	қазір қараймын,	I will check now.
+	немене,	That thing..
+	а:,	
+	бір видео жіберді типа,	...someone sent me a video where, like,...
+	жаңадан—	there is new...
+SPK3014	Мама мынаны көрдің бе ей?	Mom, did you see this?
+	#.	
+SPK3013	А.	Come again?
+SPK3014	Светті.	Did you see the lights?
+SPK3013	Ойбай,	Oh my, are you now sharing this with dad?
+	папа екеуің бөлісіп жүрсіңдер ме,	
+	қазір подожди,	
+	мен жуып алайын,	Let me wash these first...
+	#######.	
+SPK3012	Немене,	That thing...
+	ы:,	
+	какой-то автобус,	some bus or something like that...
+	па:,	
+	или:,	Or was it a train..I am not sure.. anyways they launched something like this...
+	пойыз ба,	
+	жүргізіпті типа,	
+SPK3013	Иссыкульге иә?	Is this the one that goes to Issykkul?
+SPK3012	вот такой,	
+	классный да.	It looks cool, right?
+SPK3013	Вот мен соны ойлап тұрмын да?	That's why I am thinking about it...
+	Может,	Shall we not go to Alakol...
+	Алакөлге де не надо.	
+SPK3012	Бомба тұр ғой,	There is Bobma. Do you want it? The ice-cream. You can eat mine.
+	жейсің бе мороженое.	
+SPK3014	A.	Come again?
+SPK3012	Менікін жей бер.	
+	¬Сәкенге айтамын.	I tell Saken...
+SPK3014	BEGINS_IMITATING_MONKEY_NOISES	
+	Ой ¬Сая братан,	Saya, my bro, is the best.
+	лучший,	
+	қойшы сасықсың қойшы.	No, please, you stink.
+SPK3012	########.	
+SPK3013	##########.	
+SPK3014	###.	
+SPK3012	######.	
+SPK3014	Мен қайдан білемін,	How can I possibly know?
+	####.	
+SPK3013	Әйту оятқанда,	When I wake you up, you are always sleepy and you get up like this... Look at me Saken.
+	ұйықылы ояу келіп,	
+	қарашы бүйтіп тұрасың ғой ¬Сәкен қарашы.	
+	PARODIZES_HER_SON	
+	Аю ұқсап,	You walk like a bear.
+	бүйтіп келесің де жатасың.	
+SPK3014	Не смешно.	It is not funny.
+SPK3013	Күнге,	Towards the sun...
+	сен мына жақта күнге—	You on this side towards the sun...
+SPK3014	Это чистый же да.	This one is clean, right?
+SPK3013	Отырып жеші,	Please eat sitting down.
+	мынаны түсірме.	Do not let this fall.
+SPK3014	Чистый ма?	Is this clean?
+SPK3013	Чистый иә.	Yes, it is.
+	Мынау мына жақта күнге жатады.	This one lies on this side where the sun shines.
+SPK3014	Не чистый.	It is not clean.
+SPK3013	Чистый ғой ей.	It is clean, I am telling you!
+SPK3014	Су ше.	What about the water?
+SPK3012	Төге салмайсың ба.	Just discard the water!
+SPK3013	Кім,	Listen...
+SPK3014	М:.	Mmm..
+SPK3013	Еще ана жақта,	On that side...
+	содан ойлып қоямын менің қызым күнде,	Then I thought to myself: oh my girls sleep right facing the sun, apparently.
+	күнде жатады екен ғой.	
+SPK3012	Мен,	I...
+	мен келгелі бар ғой,	Since I came..
+	## жатқан жоқпын ғой.	I did not even sleep [there].
+	Қонақтар болды.	There were a lot of guests.
+	Сен Алматыдан келгелі,	Since you came back from Almaty, I have been sleeping in the kid's room only.
+	мен,	
+	спальная,	
+	десткийға ғана жаттым,	
+	үлкен үйде,	There was always someone in the other big house.
+	всегда біреу болды,	
+	жатқан жоқпын жо:қ.	I never slept there,
+	Я просто не пом—	I just don't remember...
+	А.	
+	Бір екі рет иә,	Oh yes, I did sleep in there, once or twice only.
+	бір екі рет қана.	
+SPK3013	Ана.	That...
+	####,	
+	##,	
+	#######.	
+	Просто ана жолы әгі кім,	It is just that the other time... that person... Kymbat, you know..
+	¬Қымбат айтты ғой?	
+	Ұлыңызға загран жасап қойсаңызшы деп.	"..she said: ""Why don't you make an international passport for your son."""
+SPK3012	Иә.	Yes.
+SPK3013	####,	
+	жоқ ана,	But that...
+	Иссыкульге если,	If one does not need an international passport for Issykkol...
+	загран паспорт керек жоқ болса,	
+	қарамасам ба өзі?	Why don't I go and check how one can travel to Yssikkol.
+	Ыстықкөлге қалай баруға болады,	
+	ана,	
+	гидтар немелер.	tour guide and stuff...
+	Жасайды ғой типа немелер,	you know they organize all these like [tours and stuff].
+SPK3012	Тур секілді.	Like tours, you mean.
+SPK3013	## секілді.	
+SPK3012	М.	Yes.
+SPK3013	Қазір тыныш қой иә?	Now it is calm there, right?
+SPK3012	¬Сания.	Aliya...
+SPK3013	Қырғызстан иә?	I mean Kyrgyztan... it's borders.
+	шекарасы.	
+SPK3012	Қыр—	In Kyrgyzstan? Yes, nothing happens there...
+	Иә?	
+	Ештеңе болмайды ғой.	
+SPK3013	Соны айтамын.	That's what I was saying.
+SPK3012	Мен,	I...
+	немене,	that thing..
+	¬Сания,	Aliya apparently got her MMZh.
+	ММЖ-сын алыпты.	
+SPK3013	Алып па.	Oh really?
+	Ну молодец (H).	Well kudos to her!
+	Енді ол недеген сөз енді ол,	What does that mean tho?
+	сол жерде қала береді ме.	Will she stay there?
+SPK3012	Енді?	Now because that happened, it is easier for me to get a visa for Lithuania.
+	Мен,	
+	мне легче получить визу в Литву,	
+	потому что я как типа могу,	"Because I can be like ""I am travelling to my friends."""
+	как друзьям еду.	
+	##.	
+SPK3013	Анандай друзья,	Friends... like that...
+SPK3012	Через семьи,	"Apparently there are options like ""via family, relatives"" and also an option ""via friends."""
+	родственники,	
+	и друзья деген тоже қосылып тұр екен,	
+	иә,	
+	жіберді бір немене,	She said something.. I guess it was the rules of the visa or something like that.
+	правила ма бірдеңесін,	
+	визаның.	
+SPK3013	М:.	Ah I see.
+SPK3012	Вот,	So that's how it is..
+	и,	and...
+	мен просто,	Did I tell you that we were going to Georgia or Lithuania this October?
+	айттым ба,	
+	неменеге,	
+	либо Грузияға,	
+	либо Литваға барамыз деп октябрьде,	
+	и мен тосқанмын,	So that's why I was waiting to Aliya's MMZh.
+	¬Санияның,	
+	ММЖ-сын,	
+	чтобы,	In order to...
+	вдруг мен,	In case I accidentally get tickets for Lithuania... apparently the roundway ticket costs 300K KZT for October.
+	а,	
+	Литваға там үш жүз мыңға билет алып қоямын,	
+	туда обратно,	
+	оказывается,	
+	октябрьге үш жүз мың екен.	
+	Туда обратно.	
+SPK3013	Недеген қымбат ей билеті.	Omg, so expensive!
+SPK3012	Қымбат па?	Is it?
+	Пойдет.	I think it is ok!
+	Одан да қымбатырақ болған бұрында.	It was even more expensive below.
+SPK3013	##,	
+	Турцияға мысалы,	I am just saying that... for example for Turkey.. if you buy tickets well in advance, you get those for only 150K KZT>
+	алдыннан алсаң,	
+	жүз елу мыңға,	
+	сондайға аласың ғой дегенім ғой.	
+SPK3012	Грузияға,	For Georgia, it is around 150K KZT.
+	где-то,	
+	жүз елу мың:,	
+SPK3013	Елу мың дейді?	Really?
+SPK3012	жоқ,	No it also depends on ... for instance if you fly from Atyrau.
+	это зависит еще Атыраудан алсаң мысалы.	
+	Қай қала а:,	Depends on the city from which you are flying from.
+	қай күні аласың.	Also on when you buy the tickets.
+SPK3013	А,	Ah I see.
+	Кутаиси деген,	There is this city...Kutaisi
+	елдің бәрі сонда барады ғой?	Everybody goes there... you know...
+	Сол Астанадан Кутисиға,	So from Astana to Kutaisi, the tickets apparently cost 50K KZT for a roundway trip.
+	елу мың екен,	
+	барып қайтқан,	
+	еще осы сезонда.	For this season, for that matter.

@@ -1,0 +1,1088 @@
+speaker	span	translation
+SPK5004	Маған да бір кездері осы ұна-	At one point, I was also interested in this topic, such as speaking beautifully and producing sounds clearly.
+	ы:	
+	тақырып қатты қызық болған	
+	әдемі сөйлей алу	
+	деген	
+	дауысты жақсы жеткізу деген сияқты	
+SPK5005	Сен Toastmasters-та қызық	Did you enjoy being in Toastmasters (student club)?
+	болды ма	
+SPK5004	Бірақ бізде Toastmasters SpeakOn сияқты істемейді	But our Toastmasters do not do it like Speak On.
+	Toastmasters-та	Mainly in Toastmasters, its main achievement is conquering your fear of audience.
+	көбінесе	
+	өзіңнің	
+	ну	
+	қысымды	
+	мысалы халықтан қорқасың қорқынышты сол	
+	жеңуді	
+	басты оның жетістігі	
+	Ал ол жақта	However, we do not teach each other because we do not have a trainer, for example, there is no one like ¬Alikhan who comes to learn.
+	бір-бірімізді біз үйретпейміз	
+	себебі ол жақта тренер жоқ қой	
+	мысалы ¬Әлихан сияқты үйренгісі келген адам жоқ та	
+	CLAP	(CLAP)
+	Ы:	Their only goal is to speak and deliver your thoughts.
+	сөйлеу мен	
+	ойыңды жеткізу ғана ана жақта мақсаты	
+SPK5005	Мен бір несіне се- сес- сес- сес- сессиясына барғанмын	I went to their session once and I was anxious about public speaking at the time, so my heart was beating crazy like thump, thump, thump, because I was worried about being called to speak.
+	ол кезде менде	
+	ы	
+	public speaking	
+	anxiety	
+	өте жоғары болған	
+	прям маған андай мені қазір шығарып қалса деп жүрегім дың-дың-дың	
+SPK5006	М:	I see.
+SPK5005	@@	QQ
+SPK5004	М:	Mmm.
+SPK5005	Тек қана мені шақырмасын шақырмаса екен деп солай өте	I was really scared of being called to speak at the time wishing not to call me.
+	сол кезде өте қорқатынмын	
+SPK5004	M:	I see.
+SPK5005	Еще ол кезде	Also they all spoke Russian at the time, and I was not confident in my Russian proficiency.
+	о- орыс тілінде барлығымен сөйледі де	
+	ал мен орыс тілінен өте сенімді емес едім	
+SPK5004	М:	Мmm.
+SPK5005	Бірақ соңғы бір жылда андай	Eventually, I got to speak fluently and write in Russian by writing to stories in Russian.
+	stories-қа жазып жазып	
+	@	
+	орыс тілінде	
+	ы: қазір уже орыс тілінде а- анық сөйлей аламын	
+SPK5004	Иә мен байқадым	Yes, I noticed that.
+SPK5005	### аламын	
+SPK5004	О-	Once your stories suddenly were in Engli- Russian.
+	сен бір кездері	
+	бірден stories-тар	
+	ағылш- орысша болды ғой	
+SPK5005	Иә	Yes.
+SPK5004	Одан кейін барлығы	And then everything was in a deep, psychological theme.
+	үлкен андай	
+	психологический темаларда болды да	
+	сол негізі	
+SPK5005	Иә	Yes.
+	Орыс және психологмен орысша сөйлесіп	I guess I was able to improve my Russian by talking to my psychologist in Russian and reading a lot of books in Russian.
+SPK5004	####	&&&&
+SPK5005	психолог- орысша көп жазып орысша кітаптар көп оқып	
+	жақсартып алған сияқтымын	
+SPK5004	М:	I see.
+SPK5005	Еще о- оқушылармен де орысша сабақ өткеннен кейін менің ойымша	I also think that teaching students in Russian was a huge experience for me.
+	мен үшін үлкен бір тәжірибе болды	
+SPK5004	Иә	Yes.
+SPK5006	Орысша ма не сабақтар	Are your classes in Russian?
+SPK5005	Жоқ енді	No, but I mostly teach English and Mathematics, and it is impossible to teach solely in English because of some of the students' proficiency.
+	а: ағылшын тілін білемін ғой	
+	ағылшын математиканы беремін көбінесе	
+	бірақ а:	
+	кейбір	
+	оқушылардың деңгейінде	
+	толық толық ағылшын сөйлеу мүмкін емес қой	
+	Сол себепті әсіресе грамматикалық тақырыптарды	Therefore, it is easier and faster to explain some of the topics in Russian, especially grammar.
+	орысша төл- орысша түсіндірген оңайырақ жылдамырақ	
+SPK5004	Мхм	Mmm.
+SPK5005	Сол кезде мысалы орысша сөйлесемін	At such times, I speak Russian, or generally, when I meet and discuss things with a student or someone else, I speak Russian.
+	немесе жаңағы жалпы	
+	біреумен танысқанда	
+	оқушымен танысқанда	
+	келіскенде	
+	барлығын орысша	
+	талқылаймыз	
+	Орыс тілінен	I would that Russian is a language to use in a professional setting.
+	іскери	
+	тіл деп айтуға болады негізі	
+SPK5004	Мхм	Yes.
+SPK5005	Қазақша маған қатты	I would not say that Kazakh is comfortable for me (in a professional setting).
+SPK5004	Жұмыстық	For work.
+SPK5005	қатты ыңғайлы емес	
+SPK5004	Қазақ тілі	I think of the Kazakh language as a language of what, used with friends and relatives.
+	не сияқты	
+	жақындардың арасында	
+	достардың арасында	
+	а: сөйлесетін тіл сияқты	
+SPK5005	Тараздықтармен ғана қазақша сөйлесемін	I only speak Kazakh with people from Taraz.
+SPK5004	Иә Тараздықтармен	With people from Taraz, yes.
+	иә	
+SPK5005	Немесе барлығымен орысша	In any other case, I speak Russian.
+SPK5004	Бірақ менің достарымның көбісі	But most of my friends know that I speak Kazakh, so they started learning Kazakh.
+SPK5005	Сенімен де орысша сөйлеседі ғой ####	They speak Russian with you as well.
+SPK5004	біледі ғой менің қазақша сөйлейтінімді	
+SPK5006	Жоқ	No.
+SPK5004	а:	
+	қазақшаға үйрене бастады	
+SPK5006	@	@
+SPK5004	Мысалы	For example, friends from Almaty and Oral started learning Kazakh.
+	Алматынікі де қазақша үйрене бастады	
+	Оралдікі де қазақша үйреніп бастады	
+	Мен барлығын қазақшаландырамын ғой	I make people speak Kazakh (Kazakhified).
+	@@	QQ
+SPK5005	Білмеймін маған мысалы өзімнің психологиялық	I do not know but, for example, it is comfortable for me to say about psychological topics in Russian.
+SPK5004	(H)	(H)
+SPK5005	ы: тақырыптардағы	
+	сөйлесу	
+	орысша ыңғайлы	
+SPK5004	Маған да сондай	It is the same for me.
+SPK5005	Қазақша мүлдем сөйлесе алмаймын	I cannotFor example, everyone in the family speaks Kazakh and they do not care about psychology, so we live in an environment where mental well-being is neglected.
+	себебі ол менталитет және ассоциация сияқты	
+SPK5004	Маған да сондай	It is the same for me.
+	Иә иә иә иә	Yes yes yes.
+SPK5005	мысалы	For example, everyone in the family speaks Kazakh and they do not care about psychology, so we live in an environment where mental well-being is neglected.
+	отбасыда отбасымызда	
+	андай	
+	қ- барлығы қазақша сөйлегендіктен	
+	психологияға мән бермейді ғой олар	
+	мүлдем	
+	мүлдем мән бермейтін ондай менталитетте өмір сүреміз ғой негізі	
+	Ал орыстар керісінші андай эмоцияларға мән береді	Whereas in opposite, Russian people care about emotions and feelings.
+	сезімдерге мән береді	
+	И және психологтардың көбісі орысша сөйлеседі қазақ психологтар өте сирек сияқты	And most psychologists speak Russian, so it feels to me that there are only a few Kazakh-speaking psychologists.
+	қазақша сөйлейтін психологтар	
+SPK5004	Иә	Yes, I agree with you when it comes to talking about psychological topics in Russian.
+	мен келісемін сенімен	
+	кел- келісемін мына тұрғыда да	
+	орысша сөйлеуге	
+	ыңғайлырақ	
+	психологиялық	
+	тақырыптар деген	
+	Себебі мен	This is because when I read or watch psychological videos, I need them in Russian and only sometimes in English but-
+	видео көрсем де психологиялық	
+	оқысам да барлығы орысша керек маған	
+	а:	
+	кей- ке- кейбіреулері ғана ағылшынша бірақ	
+	осы тақырыпты мен	I most certaintly go and search everything in Russian.
+	орысша	
+	целенаправленно барып іздеймін де	
+SPK5006	Мхм	I see.
+SPK5004	А:	Even being at home, I use words in Russian and switch to Russian when talking about psychological topics with my mother and father.
+	үйде де мысалы ойымды жеткізетін кезде сол тақырыптарға қатысты мамамен папамен сөйлескенде орысша сөздер кетеді	
+SPK5005	М	I see.
+SPK5004	орысша айтып кетемін одан кейін ше	
+SPK5005	Мхм	Mhm.
+SPK5004	Басқа тақырыпты мүлдем сөйлеспеймін мама папамен орысша	I do not speak Russian with my mother and father when it comes to other topics.
+SPK5005	Жаңағы	I cannot say about psychological topics with my family at all because they are not used to such topics and we do not speak in Russian with each other.
+	о- психологиялық тақырыптарда	
+	үйдегілермен мүлдем сөйлесе алмаймын	
+	себебі	
+	олармен сөйлесу мүмкін білмеймін ә- әдеттегі нәрсе емес	
+	мүлдем орысша сөйлеспейміз де	
+SPK5006	Бірақ олар орысша біледі ғой	But they know Russian, right?
+SPK5005	Ну қатты жақсы біледі деп айта алмаймын	Well, I cannot say that they know it fluently but they can understand; it would be weird if I speak Russian with them.
+	түсінеді бірақ	
+	а:	
+	мен оларға орысша сөйлесем біртүрлі	
+	болатын еді	
+SPK5004	Мхм	Mhm.
+SPK5005	Сол себепті қазақша мен айта алғанымша айтамын да	Therefore, I say to them in Kazakh as much as I can and then we stop the conversation, while I can say to my friends and psychologists for three hours.
+	ары қарай талқыламаймыз көп	
+	ал	
+	достарыммен	
+	психологпен мысалы там	
+	үш сағат отырып орысша сөйлесе аламыз	
+SPK5004	Ата-анаңмен сөйлесіп жатқанда сенде екі блок болатын сияқты	When you are talking to your parents, it feels like having two different blockages.
+	орысша ойыңды жеткізгің келеді бірақ сен қазақшаға ауысасың	You want to try to convey your thoughts in Russian but have to speak in Kazakh. You also cannot talk about these topics.
+SPK5005	Мхм	Yes
+SPK5004	және ол тақырыптарды сен қозғай алмайсың да	
+	яғни	So, while you are trying to cover many things, you cannot even start properly.
+	екі жақтан да	
+SPK5005	Иә	Yes, I agree.
+SPK5004	қысасың да	
+SPK5005	келісемін	
+SPK5004	көп нәрсе жабылып қалады ашылмай ше	
+SPK5006	М:	Мmm.
+SPK5005	М: жалпы иә	Generally speaking, I rarely discuss my problmes with them because I just leave the conversation.
+	мен олармен	
+	өте сирек	
+	мәселелерімді талқылаймын себебі ме- мен әдетте кетіп қаламын жәй ғана	
+SPK5004	М:	I see.
+SPK5005	Мен өте мысалы бес соңғы бес жылда үйде тек қана осы	In these past 5 years, I had to spend time at home only during the pandemic because I was not able to plan my finances well.
+	коронавирус кезінде ғана	
+	уақыт өткізуге мәжбүр болып қалдым себебі	
+	жоспарымда фи-	
+	қаржы қаржымды жоспарлаған жоқ едім	
+SPK5004	М:	I see.
+SPK5005	Ал қалған уақыттардың барлығында мен	Apart from that, I do not really spend much time at home.
+	үйде уақыт өткізбеймін негізі	
+SPK5006	М:	I see, but what about friends?
+	достармен ше	
+SPK5005	Дастармен қай тілде	Which language (do you speak) with friends?
+SPK5006	Жоқ психология жөнінде	No, I mean speaking in Russian about psychology.
+SPK5005	А:	Right, we mostly speak Russian.
+SPK5006	орысша	
+SPK5005	көбінесе орысша сөйлесеміз иә	
+	Сенімен де орысша сөйлесіп едік қой біз Zoom-да	We also spoke in Russian with you on Zoom, right?
+SPK5006	Иә иә иә	Right right right.
+SPK5005	Орыс тілі маған психологиялық түрде өте ыңғайлы себебі	The Russian language is convinient for me when it comes to psychology, which is probably due to the goals set with the psychologist or because all the information is in Russian.
+	білмеймін	
+	психологпен	
+	дағ- дағдыланған	
+	дағдыланғаннан кейін бе	
+	әлде	
+SPK5006	М:	Mmm.
+SPK5005	жаңағы бүкіл ақпараттардың бәрі орысша болғаннан кейін бе	
+SPK5004	Иә	Yes.
+SPK5005	Кейде ағылшынша қосып тұрамыз енді	We also sometimes add English.
+SPK5006	@	@
+SPK5005	Себебі ағылшын тілде	This is because English is close to psychology.
+	психологияға жақын	
+	негізі	
+SPK5004	Иә	Yes.
+SPK5005	Негізі қазақ тілі жақын емес деп айта алмаймын	In general, I am not saying that Kazakh is not close to psychology but these are solely my associations.
+	бұл жәй ғана менің ассоциациям ғой	
+SPK5006	Иә	Yes.
+SPK5005	Ол ә- әркімде әртүрлі болуы мүмкін	It can be different for everyone.
+SPK5004	Мхм	Mhm.
+SPK5005	Мүмкін қазір	It is possible that the younger generation (code-switching)...
+	қазіргі	
+	кіші- бізден кішірек	
+	а	
+	generation	
+SPK5004	Ұрпақ	Descendants.
+	Ұрпақ	Descendants.
+SPK5005	Ұрпақ деп айта ма	Is it called descendants?
+	Generation	Generation.
+SPK5006	Ұрпақ демейді	It is not descendants.
+SPK5004	Не дейді	But what is it?
+	Тұқым демейді	A clan?
+SPK5006	@@	
+SPK5004	@@@	
+SPK5006	Конфликт поколения қазақша қалай болады	What is generation conflict in Kazakh?
+SPK5005	Мхм поколение қазақша қалай	Yes, what is generation in Kazakh?
+SPK5004	Ұрпақ	Descendants?
+SPK5006	Ұрпақ	Descendants.
+SPK5005	Ұрпақ емес	It is not descendants, a descendant is an offspring.
+SPK5004	Ұрпақ	Descendants.
+SPK5005	ұрпақ деген ол потомок қой	
+	generation деген	Generation is possible your century-mates.
+	сіздің	
+	замандастар мүмкін	
+	Давай проверим	Let's check it. Sozdik.kz
+	сөздік точка kz	
+SPK5006	@@	
+	@	
+SPK5005	Қазір	It is on the tip of my tongue but I cannot think of it right now.
+	мен тілімнің ##### тілім тілімніңнің ұшында тұр бірақ айта алмай тұрғаным	
+SPK5004	Басқа сөз болуы мүмкін иә	It is possible that there is another word for that, right?
+SPK5005	Біз екеуміз соңғы қазақ курсын алдық қой айтпақшы бірге соңғы семестр	By the way, we took a kazakh course together during the last semester.
+SPK5004	Қай курс алып едіңдер	Which course did you take?
+SPK5006	А: не ғой	Oh, it was Kazakh Diplomacy.
+	(TSK)	
+	diplomacy	
+SPK5004	А kazakh diplomacy	I see, kazakh diplomacy with teacher ¬Zeinekhan?
+	¬Зейнехан ба апайларың	
+SPK5005	Өте	It was a very interesting (cool) and easy course but there was one bad thing about it that everyone did bad on one of the midterms.
+	өте	
+	прикольный курс сондай	
+	халявный бірақ	
+SPK5004	Иә:	Yes.
+SPK5005	бір жаман жері	
+	бір бір мидканы бәріміз	
+	жаман алып қалдық қой иә	
+SPK5006	Мхм	Yes.
+SPK5005	Со- сол үшін э- эй A болмай қалды менде	Therefore, I did not get an A.
+SPK5004	М:	I see.
+SPK5006	Андай қызық	It was interesting.
+SPK5005	Сенде эй A болды сенде эй A болды ма	Did you get an A?
+SPK5004	Қызық негізі тақырыптары қызық қой	The topics were interesting (topics in the course).
+SPK5006	Менде эй A болған жоқ	I did not get an A.
+SPK5005	Э- эй A minus болды ма	Did you get an A-?
+SPK5006	Иә	Yes.
+SPK5005	Менде де сондай болды	Same for me.
+	Бірақ андай қыз- қызық дейсің бе	Did you say it was interesting?
+SPK5004	Қызық тақырыптар ғой	The topics were interesting.
+SPK5005	Өте андай курстың	The quality of the course was low for me.
+	маған сапасы мен үшін төмен болды	
+SPK5004	Жоқ	No, I mean it could have been better but the teacher herself is of age, right?
+	әрине оны одан да жақсартуға болатын еді	
+	кішкене апайдың өзі де жасы үлкендеу кісі ғой	
+SPK5005	Но менің ойымша айтсам	But in my opinion.
+SPK5004	Ол бар да	There is that and also...
+	одан бөлек	
+	бірақ андай	
+SPK5005	Буын	Generation.
+SPK5004	Буын	Generation?
+SPK5006	Буын	Generation?
+SPK5005	Иә ортақ буын деп айтамыз ғой біз әдетте ортақ буынымыз ше	Yes, we do usually say mutual generation or generation younger than us.
+SPK5004	А	Yes, our generation or young generation.
+	біздің буын	
+SPK5005	бізден кіші кішірек буындар	
+SPK5004	жас буын деп бір рет	
+SPK5005	жас буын деп иә	Yes, young generation.
+	(H)	
+	Иә менің білім- білім- маған өзіме	Yes, I do not know but I cannot say that I liked the quality of the course.
+	андай	
+	курстың сапасы қатты ұнады деп айта алмаймын	
+	қызық	
+SPK5004	Мен екінші курста алғанмын	I took it in my second year, so I do not quite remember; but it was a good course for my second-year-self at that time.
+	кішкене ұмытып қалдым бірақ	
+	ол кезде	
+	маған екінші курстағы	
+	милық деңгейіме ол жақсы курс болып қалып қалған да	
+SPK5006	@	
+SPK5004	@@	
+SPK5005	Төрт	I took four Kazakh (language) courses and the one I liked the most was Kazakh short stories.
+SPK5004	Төртінші курста ұнатпайтын едім бәлкім білмеймін	Maybe I would not have liked if I was in my forth year.
+SPK5005	төрт қазақ	
+	курсын алдым	
+	қазақ тілінен төрт курс алдым соның ішінде ең қатты ұнағаны	
+	Kazakh short stories	
+SPK5004	М:	I see.
+SPK5005	Өйткені	Because my whole view of Kazakh literature...
+	мен	
+	ы: жалпы қазақ тіл-	
+	әдебиетіне деген	
+	көз-қарасым	
+SPK5004	Сен үшінші курста алдың иә соны	You took it in your third year, right?
+	Немесе екі	Or was it the second year, or third?
+	немесе үш	
+SPK5005	Өзім де ұмытып қалдым үш болуы мүмкін	I cannot remember but it may be the second year, or third year.
+	немесе екі	
+SPK5004	Fall-да алғансың кажется	You took it in the fall semester.
+SPK5005	Иә	Yes, somewhere that time.
+	сондай бір кезде алдым	
+SPK5004	Себебі дәл сол қазақ тілін алып жатқан кезімде мен помню екеуіміз	Because I remember we met and talked somewhere in SHSS when you took that kazakh class, and you said you were heading to the class.
+	а:	
+	SHSS-тың бір несінде кездесіп қалғанбыз сөйлесіп қалғанбыз	
+	сол кезде соған бара жатырмын деп	
+SPK5005	А біз екеуіміз кездесіп жүретін едік қой ол кезде	I see, we used to meet up at that time.
+SPK5004	Иә арасында	Yes, we used to meet up and you told me that.
+	не	
+	кездесетін уақыттар болып тұратын	
+	сол кезде айтқансың	
+	есімде	
+SPK5005	Сол курс өте	So, I really liked that course because it changed my view of the kazakh literature.
+	өте ұнады себебі	
+	мен бүкіл	
+	әдебиет қазақ әдебиетіне деген көз-қарасымды толықтай өзгертті	
+SPK5004	М	I see.
+SPK5005	Бұрын мысалы мен оқыған кезде	In the past, I did not want to read kazakh literature because I did not like it and it was not interesting to read kazakh literature.
+	оқығым келмейтін ұнамайтын мысалы маған қызық болып көрінбейтін	
+SPK5004	Мхм	I see.
+SPK5005	Ал біз ол кезде жалпы қысқа	At that time (when taking Kazakh Short Stories), we read short stories.
+	әңгімелерді оқыдық	
+SPK5004	Мхм	I see.
+SPK5005	Және ә- менің түсінгенім	They (authors) all wrote their short stories during the Soviet time and as I understood, the main policy or the main message of the course was...
+	сол жаңағы	
+	қысқаша айтқанда	
+	курстың	
+	жалпы	
+	политикасы	
+	жалпы басты ы:	
+	cообщениесі message-і	
+	ы:	
+	олардың барлығы со- совет үкіметі кезінде	
+	жазды ғой	
+	өздерінің әңгімелерін қысқа әңгімелерін	
+SPK5004	Мхм	Yes.
+SPK5005	Және совет үкіметінде цензура өте үлкен қатты болды	And the censorship was massive under the Soviet rule, so secretly with subtexts, they wrote the information and news they wanted to send despite the censorship.
+SPK5004	Мхм	Yes.
+SPK5005	сол цензураға қарамастан өздерінің анандай	
+	бергісі келген ақпараттарын	
+	а:	
+	бергісі келген хабарламаларын	
+	өте жасырын түрмен	
+SPK5004	М:	I see.
+SPK5005	подтекстпен жіберген де	
+SPK5004	М:	Yes.
+SPK5005	И	And I did not notice that in the past.
+	соны соны бұрын байқаған жоқ едім мен мысалы	
+	Ал біз сол курсты алған кезде	When we took that course, we read short stories, discuss it for 15 or 20 minutes, and it was interesting because every short story had a possible secret message.
+	әр әр ы:	
+	әр қысқа әңгімені оқимыз	
+	жиырма минут он бес минут талқылаймыз	
+	өте қызық	
+	әр қайсында әртүрлі ақ- не	
+	мүмкін	
+	сообщениелар бар мысалы message-дар	
+	Және ол өте күшті екен шынымен мысалы со- со- соншама цензураға қарамастан	And it is really cool that Kazakh authors were able to send their information despite the censorship.
+SPK5004	А:	I see.
+SPK5005	қазақ қазақтың жаңағы жазушылары	
+	айтқысы келген	
+	хабарламаны жеткізе білген	
+SPK5004	Қандай жазушылардың	What authors did you read?
+	ы:	
+	шығармаларын оқыдыңдар	
+SPK5005	Шынымды айтсам бәрін жаттап алдым деп айта алмаймын бірақ өте көп оқыдық негізі мысалы	To be honest, I cannot say that I remember everything because we read many stories. For example, Magzhan Zhumabayev, Baitursynov...no, kidding, I do not think we read Baitursynov's works but there definitely was Zhumabayev.
+	Мағжан Жұмабаев	
+SPK5006	М:	I see.
+SPK5005	Байтұрсынов	
+	деп айтып қояды дейді Байтұрсынов емес шығар мүмкін білмеймін	
+SPK5006	@@	
+SPK5005	бірақ Жұмабаев точно болды	
+SPK5006	@@	
+SPK5005	Қалғандарын ұмытып қалдым өкінішке қарай	Unfortunately, I cannot remember others; I do not really notice details because the content is more important for me.
+	и мен мен негізі андай	
+	детальдарға көп мән бермеймін	
+	маған	
+SPK5004	Суть	The main point.
+SPK5005	к- контент маған контент маңыздырақ	
+SPK5004	Мағынасы контенті	The meaning and content.
+	Мхм иә	Yes, right.
+SPK5005	Ра- ¬Бақытмен бірге алдық	I took it (the course) with ¬Baqyt.
+SPK5006	Орыс	Russian.
+SPK5004	А ¬Бақыт да алды ма	Oh, ¬Baqyt took it as well?
+SPK5006	Орыс литературасын алып көрдің бе	Have you taken the Russian literature (course)?
+SPK5005	Мхм	No.
+SPK5006	Бізде беретін	Which is taught here.
+SPK5005	Бізде бар ма не	Do we have such course?
+SPK5004	Кім бар ма не ондай	Do we have it?
+SPK5006	Русская литература	The Russian literature.
+SPK5005	Курс сондай ма	Is the course like that (about Russian literature)?
+SPK5004	Кім береді	Who teaches the course?
+SPK5006	Иә мен алғанмын	Yes, I took it.
+	а:	
+SPK5005	Может лингвисттерге	Maybe it is for linguistics students?
+SPK5006	Жоқ барлығына	No, it is for everyone.
+SPK5005	Мен ағылшынша алдым кстати	I took the course in English.
+SPK5006	Russian literature of nineteenths	Russian literature of nineteenths.
+SPK5004	¬Kearney бермей ме	Does ¬Kearney teach it?
+SPK5006	В смысле	No, I mean the course itself is in English but we read the Russian literature. .
+	курс өзі ағылшынша бірақ	
+	о- оқитын әдебиетіміз орыс	
+SPK5005	А:	I see.
+SPK5006	әдебиеті	
+SPK5004	¬Kearney беретін сияқты иә	I think ¬Kearney teaches it, right?
+SPK5006	Жо- жоқ	No.
+	А кім	¬Polina.
+SPK5004	Ы:	¬Polina...I cannot pronounce her surname.
+SPK5006	¬Полина	
+SPK5004	¬Полина	
+	фамилиясын айта алмаймын	
+SPK5006	Иә	Yes, it is difficult.
+	қиын	
+SPK5004	@@	
+SPK5006	Аха	Yes, she teaches it.
+SPK5004	Иә	Yes.
+SPK5006	сол	
+SPK5004	Сол кісімен бізде бір	"We had a collaboration with her and even then I could not pronunce her name. I was like ""Professor..."" and stopped."
+	ы:	
+	collaboration болған тоже	
+	сол кезде де атын айта алмаймын ғой	
+	(H)	
+	профессор	
+	тоқтап қалам да QQQ	
+SPK5006	@@	
+SPK5004	айта алмаймын	
+	(H)	
+SPK5005	А мен кімнен кімнен алдым intro to literary studies алдым	"I took ""Intro to literary studies"" but every year, every academic year I have a depression for half a year."
+SPK5006	Мхм	I see.
+SPK5004	М:	I see.
+SPK5005	бірақ мен о- ол кезде не по моему	
+	менде	
+	әр семестрдің жарт-	
+	әр жылы әр оқу жылы	
+	жарты жыл депрессия болады	
+	@@	
+	Ә- сол ол ол курсты алып жатқан жылы менің депрессиямен сәйкес келіп қалды да сол үшін ол курсты өте андай	My depression coincided with the time I took that course, so I passed the course mostly by cheating.
+	ch- cheating-пен жаптым	
+	ы:	
+	Курс курстар өте жо- жоқ	No, I am a really good cheater.
+	мен өте жақсы cheater десем да	
+SPK5006	@@	
+SPK5004	@@@	
+SPK5005	@@	
+SPK5004	Professional cheater	Professional cheater.
+SPK5005	@@]	
+SPK5004	@	
+SPK5005	Жоқ кей кезде оқып өзім жауып тұрдым кей кезде кей кезде мысалы	No, sometimes I did myself (assignments) and sometimes, for example...How did I cheat?
+SPK5004	@	
+SPK5005	қалай cheat-ить еттім мен	
+	Біреулердің жа- жауаптарын paraphrase жасап деген сияқты	By paraphrasing other's responses; What I liked about the course was that there was a good analysis compared to short stories.
+SPK5006	М:	I see.
+SPK5004	Мхм	Right.
+SPK5005	бірақ	
+	маған ұна- ұнаған жері	
+	мысалы short stories-қа қарағанда	
+	бұл жақта да анализ жақсы болды	
+	әр оқыған short stories-қа анализ жасадық	We did psychological analysis and had discussions for every short stories, and it was interesting.
+	андай	
+	психологияларын анализ жасап	
+	талқыладық	
+	қызық болды бұл жақтары	
+	Бірақ андай	But how to say...the literary techniques.
+	ы:	
+	қалай айтсам екен әдеби	
+	тәсілдер	
+	ы:	
+SPK5006	Олар кірмейді ғой	They are not included (in the course)?
+SPK5005	Сол жоқ соның барлығын	No, they did not explain those, for example semantics.
+	оны керісінше	
+	түсіндіріп салмайды	
+SPK5006	А:	I see.
+SPK5005	Там семантикалық	
+	біз дұрыс мен дұрыс дұрыс дұрыс айтып жатырмын ба семантика деген не екенін білмеймін	I am not sure if I am saying it right because I do not really know what is semantics.
+	негізі	
+SPK5006	Семантика деген не неге	Semantics is about meaning.
+	а:	
+	мағынаға байланысты	
+SPK5005	Иә әртүрлі мысалы стилистикалық	So, we learned these different stylistic terms, but, for example, they are important for literary studies and linguistics students.
+	терминдер соның барлығын өтті де мысалы	
+SPK5006	Мхм	I see.
+SPK5005	а ол кішкене мынандай	
+	literary studies	
+	лингвисттер үшін маңызды сияқты	
+	ал мен	But for me as economics student, it was not important nor interesting.
+	мен үшін мысалы экономист үшін	
+	қатты маңызды емес	
+	қызық емес оқығым келген жоқ	
+	И ондай	And there was a bunch of these terms, so it was difficult.
+	ондай терминдер көп болды да	
+	сол осы курста	
+	сол үшін	
+	кішкене қиын болды	
+SPK5004	М:	I see.
+SPK5005	Еще экзаменда	And during the exam...
+SPK5004	Мен алғым келген	I wanted to take that course for multiple times but everytime I open Registrar (website for course registration), it is one of those courses that get full immediately.
+	бірнеше рет сол курсты	
+	бірақ әрдайым	
+	Registrar-ды ашсаң	
+	ең бірінші болып кетіп қалатын курстардың бірі ғой	
+	Бәлкім кейін бір ашылатын шығар бір екі	Maybe then there are a couple of available places.
+	Бәлкім кейін бір ашылатын шығар бір екі	
+SPK5006	Электив қой	It is an elective and intro course.
+SPK5004	Бәлкім кейін бір ашылатын шығар бір екі	
+SPK5006	intro курс просто	
+SPK5004	Иә	Maybe there are a couple of available places but I have a finalized schedule then, so I do not even look it up.
+	бір екеу	
+	болып ашылып қалатын шығар ар жақтан	
+	бос орындар	
+	бірақ ол кезде менде	
+	ы:	
+	күнтізбем	
+	толып тұрады да уже	
+	қарамаймын оған	
+SPK5005	Мен курстарға қалай жазылатынымды білмеймін шынымды айтсам	I do not know how I register for courses; my schedule might change during the last two weeks (of registration).
+	өмірі соңғы екі аптада менің курстарым ауысып кетуі мүмкін	
+SPK5006	@	
+SPK5004	Менде де солай басында басқалай пландар жасап жүремін де	It is the same for me as I have plans from the start.
+SPK5005	&&	
+SPK5004	Мен әрдайым мынандай күнтіз- осы	During registration, I always have two or three plans of registering this or that, but, in the end, it turns out to be something completely different.
+	курс алатын кезде	
+	үш	
+	немесе екі	
+	план болады	
+	былай аламын немесе былай аламын деген	
+	бірақ соңында	
+	нәтижесінде	
+	мүлдем басқаша болып шығады	
+SPK5006	Иә	Yes.
+SPK5004	QQ	
+SPK5005	&&&	
+SPK5004	Бірақ мен соны	I do not know why but I repeat it every semester even if I tell myself to register according to plan.
+	қайталаймын ғой	
+	әр семестр сайын солай істеймін деймін де	
+	әрдайым басқаша болып шығады нәтижесі	
+	бірақ не үшін екенін білмеймін	
+	Қорқатын сияқтымын іштен	I guess, I am afraid that I will be left with nothing if I do not prepare for registration. So, I comfort myself by a thought that I at least have prepared even if my prepared plan does not work out.
+	и дайынсыз	
+	дайындықсыз алсам	
+	мен ештеңесіз қаламын деген ой болады да	
+SPK5005	М	I see.
+SPK5006	М:	Mmm.
+SPK5004	өзімді жұбату үшін әдейі	
+	жазып жазып қоямын да	
+SPK5006	Иә	Yes.
+SPK5004	ол	
+	жұмыс істемеуі мүмкін бірақ	
+	at least бар да	
+SPK5005	Менде мысалы андай қызық	There is something weird about me when it comes to registration of courses.
+	ы:	
+	&&	
+	қызық жағы бар	
+	курс алған кезде	
+	Курс аламын	I take a course, open Moodle (university learning platform), check participants, and I stay in the class if there is my crush (among participants).
+	moodle-ға кіремін	
+	participants-ты қараймын	
+	егер ішінде crush-ым болса	
+SPK5004	QQQ	
+SPK5006	QQQ	
+SPK5005	қалдырамын	
+SPK5004	Осы методым	I noticed that this method is used by many of my friends.
+	ол менің таныстарымның көбісінде бар екенін байқадым	
+SPK5005	Cru-	If my crush is not there, then I drop the course and take another. However, I do this thing very rarely, of course.
+	crush-ым жоқ болса курсты	
+SPK5004	алмаймын деп	
+SPK5005	drop-ать етіп жіберем де басқа курсты аламын	
+	QQ	
+SPK5004	QQ	
+SPK5005	кейде ө- өте сирек жасаймын бұлай бұл нәрсені әрине андай	
+SPK5004	@	
+SPK5005	&&&	
+	Эмоциядан бөлек	I try to act intelligenttly instead of following my emotions, but sometimes when a class is interesting, I look at some other factors and may stay in the class if there are interesting peope so I can meet those people.
+	ақылмен де	
+	әрекет жасауға тырысамын	
+	бірақ кейде мысалы егер курс шыныменде қызық	
+SPK5006	Решающий	Deciding (factor).
+SPK5005	иә бірақ	
+	тағы да бір басқа факторларға қараймын ғой	
+	сол кезде participants-та егер маған қызық адамдар болса	
+	онда	
+	курсты қалдыра саламын	
+	тек қана сол адамдармен танысу үшін	
+SPK5004	М:	I see. I want to add something about this participants thing.
+	түсінікті	
+	осы participants деген тақырыпта бір нәрсе айтқым келіп тұр тағы да	
+	Мен мүлдем қарамаймын да	I don’t look at it at all, I mean, with studying like for example, when the semester starts, I don’t look at anything for one week, and the second week when everyone came fully, and at that point, maybe I start paying attention and might have crashes among coursemates.
+SPK5005	Мхм	I see.
+SPK5004	мен	
+	оқудың	
+	мысалы семестр басталды	
+	бір апта қарамаймын	
+	екінші апта	
+	барлығы	
+	толық болды деген бар ғой	
+	сол кезде	
+	бәлкім қарауым мүмкін де	
+SPK5006	Мхм	Yes.
+SPK5005	Мхм	Yes.
+SPK5004	(H)	
+	ы:	
+	курс барысында	
+	менде сол жақтан crush-тар болу мүмкін	
+SPK5006	@	
+SPK5004	Немесе	Or, you get to know some people quite well, and how can I put it like I go in without knowing in advance, there’s no prior exposure, and I don’t prepare myself beforehand, especially when it comes to people.
+	кейбір адамдарды жақсы біліп кетесің де	
+SPK5006	(H)	
+SPK5004	қалай айтсам болады андай	
+	алдын ала білмей барамын да	
+SPK5006	Мхм	Мhm.
+SPK5004	exposure болмайды да өзім алдын ала дайындап алмаймын соған келгенде адамдарға келгенде ше	
+SPK5006	Сондықтан келгенде приятный сюрприз болады да	ANd that's why when they come, it is a nice surprise, right?
+SPK5004	Иә иә иә	Yes yes yes.
+SPK5005	А crush деген	And a ‘crush,’ as I understand it, like it was said, that’s something else, not in a romantic sense.
+	менің түсінігімде	
+	кім айтпақшы	
+	ол басқа нәрсе	
+	романтикалық мағынада емес	
+SPK5004	Мхм	Мhm.
+SPK5005	Мен мен мысалы	I mean, for example, it happens like that, yeah
+SPK5004	Мен де олай түсінбеймін	I don't understand it in that way too.
+SPK5005	болады ғой анандай	
+	иә	
+SPK5004	Тек қарап отырғанға	Only for admiring, you know like ###.
+SPK5005	Маған	For me, I call a ‘crush’ people whose certain qualities seem interesting to me, or whose social role seems interesting.
+SPK5004	&&& болады ғой	
+SPK5005	маған белгілі бір	
+	қасиеттері	
+SPK5004	Ұнайды	I like it.
+SPK5005	қыз- қызық болып көрінетін	
+	немесе	
+SPK5004	Иә	YEs.
+SPK5005	с-	
+	қоғамдық	
+	рө- рөлі қызық болып көрінетін адамдарды	
+	crush деп айтамын	
+	Негізі оларға андай ешқандай	Basically, I don’t have any romantic feelings toward them at all, I’m just interested in them, so I want to talk to them and get to know them.
+	романтикалық сезімдерім жоқ	
+SPK5004	Иә иә иә	Yes yes yes.
+SPK5005	жай ғана қызық болған үшін олармен сөйлескім келеді танысқым келеді	
+	Сол үшін солар солар солармен	That's why I try to take the courses with them together.
+	бірге курс алуға тырысамын	
+SPK5004	Мхм	Мhm.
+SPK5006	М:	М:
+SPK5004	Мен еще	I also like, it might happen with everyone or with me only, kind of internally, um say in a class or a course, for example, if there are fifteen people, among them there are one, two, three people whose thoughts I enjoy listening to.
+	кез келген адамда болатын секілді	
+	м:	
+	немесе менде да	
+	былай өзімде ішімде	
+	м: сабақта	
+	курста мысалы	
+	он бес адам болса соның ішінде бір екеу үшеу адамның	
+	үшеу адамның	
+	а ойларын тыңдаған маған ұнайды да	
+SPK5005	М:	М:
+SPK5004	Мен үшін ол адамдар crush да мысалы	For me, those people are a kind of ‘crush.’ I pay very close attention to them, listening carefully to what they’re going to say.
+SPK5005	Мхм	Мhm.
+SPK5004	олардың	
+	өте	
+	назар қойып тыңдап отырамын	
+	не айтады екен деп	
+SPK5005	Мхм	Мhm.
+SPK5004	A:	For example, if I have an opposing opinion, I feel like talking to them and if I have the courage, I might talk later. But if I don’t have the courage, I end up not talking to them.
+	мысалы қарсы пікірлері болса	
+	сөйлескім келіп тұрады	
+	батылым	
+	бар болса	
+	сөйлесемін да мысалы кейін да	
+	ал батылым жоқ болса сөйлеспей қалып қаламын	
+	Бірақ	But internally, I sort of treat those people as especially interesting, different almost like V.I.P.s.
+	іштей бүйтіп	
+	қызық болып басқаша болып	
+	ерекше V.I.P болып ұстап отырасын да ол адамдарды ше	
+SPK5006	@	
+SPK5004	QQQ	
+SPK5005	Толықтай келісемін	Fully agree.
+SPK5004	Бірақ қызық осы	But what’s interesting is this: I don’t know how I choose my ‘crushes’ like whether it has something to do with taste, or whether those people have some kind of charisma that draws me in.
+	қалай crush-тарды таңдау менде бір	
+	несі бар ма	
+	ол	
+	талғамға қатысты ма	
+	әлде	
+SPK5006	Бар сияқты	I think there are.
+SPK5004	ол адамдардың харизмасы та- ұстап тұра ма	
+	білмеймін бір нәрсе арқылы	
+	кез келген	I don’t know but through something, in any social group, there are always one, two, or three people I end up liking.
+	қоғамның ішінде бір	
+	екі үш адам маған жағып тұрады	
+	Ол не арқылы жағатынын білмеймін	I don’t know what exactly makes me like them.
+SPK5005	Мен мысалы өз өзімдікін жақсы білемін	For example, I know mine, like what makes me to like them.
+SPK5004	Бір	It seems like everyone has their own way like, ‘these are the kinds of people I like.’ As for me, my crushes usually don’t follow any single pattern or trend like there isn’t anything established like that.
+	әркімнің өзінің бір тәсілі бар сияқты	
+	маған мынандай адамдар ұнайды деген	
+	менде crush-тар	
+	әдетте бір	
+	не жоқ	
+	бір	
+	trend бір	
+	қалыптасқан не жоқ та	
+SPK5006	Tendency	Tendency.
+SPK5004	Иә tendency жоқ та	Yeah, there’s no tendency.
+	Мен білмеймін өзі сол кезде өзімді түсінбеймін да мен қалай таңдаймын	I don’t really know, I don’t even understand myself at that moment, how I choose them
+	Қандай	What kind of method or approach I use to choose them.
+	методты әдісті қолданып таңдаймын	
+SPK5006	Менімше ол бүйтіп сырттан қарағанда ұқсастықтары жоқ	In my view, from the outside they don’t seem to have any similarities but if you really look closely, from the inside, there’s definitely something they have in common, yeah.
+	ішінен бүйтіп	
+	прям бүйтіп	
+	қарап көрсең	
+	по-любому бір ортақ нәрсесі бар иә	
+SPK5004	Бар иә	They have it, right?
+	А:	А:
+SPK5005	Мен мен мысалы не үшін маған crush екенін өте анық білемін	I mean, for example, I know very clearly why someone is a crush for me.
+	Негізі ешқашан білмейтін кездерім болмайды	Basically, there are never times when I don’t know.
+	Бірінші қарайтын нәрсем	The first thing I look at is how beautifully they can express their thoughts, that’s very important to me.
+	жаңағы	
+	ойын қаншалықты әдемі жеткізе алады	
+	мен үшін өте маңызды	
+SPK5006	Мхм	Мхм.
+SPK5005	Екінші	Second, how deeply they are able to think and articulate ideas.
+	қаншалықты терең ой ой ой айта алады	
+	Мысалы сабақ кезінде	For example, during class, if they answer a question, I listen carefully, and when I hear a really deep, intelligent answer, they immediately become my crush.
+	андай	
+	бір сұраққа жауап берсе	
+	тыңдап отырамын да	
+	и шынымен андай	
+	қ-	
+	терең ақылды жауап тыңдаған кезде	
+	crush-ым болып қалады сразу	
+SPK5006	QQ	
+SPK5005	(H)	
+	Екіншіден	Second uh third, yeah, even if their appearance isn’t entirely right, unfortunately unfortunately yes it is something important for me.
+	ы:	
+	үшіншіден	
+	иә	
+	бүйтіп &&&	
+	ы:	
+	сыртқы бейнесі ы:	
+	қаншалықты дұрыс емес болса да	
+SPK5004	Жаны болу керек	It should have some meaning.
+SPK5005	өкінішке өкінішке орай	
+	иә маңызды нәрсе мен үшін	
+SPK5004	Иә	Yes.
+SPK5005	Өзім	I try not to pay at- attention to it, but no ma- matter how much I try, some people’s appearance.
+	маңыз- ма-	
+	мән бермеуге тырысамын	
+	бірақ қанша тырысқанға қа- қарамастан	
+	кейбір адамдардың сыртқы бейнесі	
+SPK5004	Сен эстетсың ғой	I have noticed that you are aesthetic.
+	менің бір байқағаным	
+SPK5006	А	А?
+SPK5004	Иә эстет эстет қой ол үшін мысалы	Yes, it’s about aesthetics for them, for example, even the way they write their Stories. I think some people, just to express their thoughts, write in a very messy, crooked way.
+SPK5006	А:	А:
+SPK5004	Stories-тарын	
+	жазғанынын өзі	
+	мысалы	
+	ы:	
+	тіптен анандай	
+	мен ойлаймын әшейін	
+	кейбір адамдар ойын жеткізу үшін қисық қисық болса да жаза береді	
+SPK5006	А:	А:
+SPK5004	ал бұда	But with him, with ¬Bekmyrza, everything has to be arranged properly like this.
+	міндетті түрде ¬Бекмырзада бәрі былай тұру керек	
+SPK5006	Formating	Formating.
+SPK5004	Иә	Yes.
+SPK5005	QQ	
+SPK5004	Түстері де сәйкес келу керек	The colors have to match too, the formatting as well. When you look at it, it’s simple, but there’s still a kind of aesthetic inside it.
+	formating	
+	одан қалай көрсең	
+	қарапайым	
+	бірақ сонда да бір	
+	эстетика бар да ішінде	
+SPK5005	Минималисттік	Minimalistic
+SPK5004	Иә минималисттік	Yes, minimalistic. So I think that for an aesthetic person, it’s impossible not to pay attention to appearance.
+	сондықтан мен ойлаймын	
+	эстет адамға	
+	м:	
+	внешностьқа	
+	мән бермеу мүмкін емес деп ойлаймын	
+	А:	Also, I want to add that voice is important to me, I’m realizing that now.
+	қоса кетейін	
+	маған	
+	дауыс маңызды екен	
+	енді түсініп отырмын оны	
+SPK5005	М:	М:
+SPK5004	Мен оны қазір сен сөйлеп жаттың ғой	You were talking and listing things just now, and at that moment I was thinking about what I pay attention to, there was this thinking process going on in my head.
+	тізіп жаттың ғой сол кезде мен ойлап отырдым да	
+SPK5006	QQ	
+SPK5004	мен неге мән беремін деп	
+	басымда жұмыс істеу процессі болды да	
+	Қарасам	And I realized that I might not know what a person looks like, I might not have seen them, but their voice definitely has to be good, whether it’s a woman or a man, it has to be special in its own way.
+	мен ол адамның түрін білмеуім мүмкін	
+	көрмеуім мүмкін	
+	бірақ міндетті түрде оның дауысы	
+	қыз болсын ұл болсын	
+	жақсы болуы керек	
+	өзінше бір ерекше болуы керек те	
+SPK5005	М:	М:
+SPK5004	(H)	
+	ы:	
+SPK5005	Мен үшін қатты маңызды емес	Voice, it is not important for me. I don't like my own voice but I don't know it is not important for me.
+	дауыс	
+	мен өзімнің дауысымды да қатты жақсы көрмеймін негізі	
+SPK5006	@	
+SPK5005	бірақ	
+	білмеймін мен үшін қатты маңызды емес	
+SPK5004	М:	М:
+SPK5005	Бірақ сен үшін	But it is important for you.
+	маңызды	
+SPK5004	Иә әркімде әрқалай ғой	Yes, it is different for everyone.
+SPK5005	Иә	Yes, yes, it is totally normal thing.
+	иә	
+	өте өте	
+	нормальный нәрсе	
+SPK5006	QQ	
+SPK5004	QQQ	
+SPK5005	QQ	
+	Нормально деген қазақша қалай	How to say normal in Kazakh?
+SPK5004	QQ	
+SPK5005	QQ	
+SPK5006	Айта берсейші	Just say how it is.
+SPK5004	Нормально деген сөз	The word “normal,” especially among Kazakhs, is probably the most frequently used word, I noticed that.
+	әсіресе	
+	а:	
+	COUGH	
+	қазақтардың	
+	ең көп қолданатын сөзі ғой	
+	мен соны байқадым	
+SPK5006	Нормально	Normal?
+SPK5004	Иә	
+	кез келген жерде қоса береді ғой	Yes, it is inserted everywhere, like when asked if everything is good, answer is it is normal.
+	(H)	
+	барлығы жақсы ма десе нормально	
+SPK5005	Психологтардың көп қолданатын сөзі	A word that is used a lot by psychologists.
+SPK5004	Нормально	Saying like normal, normal.
+	нормально деп ше	
+SPK5006	Эквиваленті бар ма қазақ тілінде	Does it have an equivalent in Kazakh?
+SPK5004	Бәрі жақсы	Everything is good?
+	Немесе жақсы	Or just good?
+	Бірақ жақсы деген	But for me good is good, but normal is like so-so right?
+SPK5006	Жақсы да бірдей емес қой	Good is not the same thing.
+SPK5004	иә	
+	жақсы деген мен үшін	
+	жақсы да	
+SPK5006	QQQ	
+SPK5004	ал нормально ол	
+SPK5005	&&&	
+SPK5004	so so да	
+SPK5006	Axa	Yes.
+	Сол үшін	Maybe that's wy we say normal because it does not have a close equivalent.
+	прям жақын экв-	
+	эквиваленті жоқ болғаны үшін	
+	айта беретін шығармыз солай	
+SPK5004	Иә иә	Yes yes.
+SPK5006	нормально деп	
+	нормально деп	
+	Мынау әйтеуір сөздіктен шықпайды	This one always follows the dictionary.
+SPK5004	@	
+	Тіл тазалығын қатты	The one who keeps the language clear and pays attention to that.
+	мән беретін адам ғой	
+SPK5005	Иә	Yes, yes, that’s it, in the Kazakh language I’m trying to purify my speech, to speak cleanly.
+	иә сол	
+	қазақ тілінде	
+	тілімді тазартуға	
+	тырысып жүрмін	
+	таза сөйлеуге	
+	Бірақ мынау	But this dictionary is kind of strange.
+	сөздік біртүрлі екен	
+SPK5006	Неге	Why?
+SPK5005	Андай	It doesn’t have a keyboard here, it has its own keyboard instead, yes.
+	клавиатурасы жоқ та мына жақта өзінің клавиатурасы бар	
+	и сол	
+SPK5006	Ол жерде кнопкасы бар	There’s a button there, I think, where you choose whether you type with your own keyboard or with the site’s keyboard.
+	по-моему	
+	өз клавиатуранмен жазасың ба	
+	или сол сайттың клавиатурасымен жазасың ба деген	
+	таңдау	
+SPK5005	Сондай да бар ма	Is there such a thing?
+SPK5004	Меніңше біз андай	I think when we talk about language purity, we deliberately look for translations of specific words when we don’t know them.
+	тіл тазалығы деген кезде	
+SPK5005	А	Yes, there is.
+	бар екен	
+SPK5004	арнайы сөздердің	
+	аудармасын іздейміз ғой	
+	білмей қалатын	
+SPK5006	Мхм	Мhm.
+SPK5004	Соларды аударуға тырысып отырамыз да	We try to translate them, because if we don’t know certain words and end up inserting Russian words, it doesn’t look like language purity.
+	себебі	
+	м	
+	белгілі бір сөздерді білмей қалсақ	
+	орысша сөз қосып жіберсек	
+	тілдің тазалығы емес	
+SPK5005	Қалыпты	It normal, like normal thing.
+	&&&	
+SPK5004	болып көрінеді де	
+SPK5005	қалыпты	
+	бұл қалыпты нәрсе	
+SPK5006	Обыденный деген сияқты ғой	It is like everyday.
+SPK5004	Иә ол обыденный басқа сөз сияқты	Yes, it’s like an ordinary, everyday word.
+SPK5005	Жоқ менің ойымша	No, in my opinion, it’s not only in that sense, for example, in my opinion, the fact that you pay attention to voice seems like a normal thing.
+	тек қана ондай мағынада емес мысалы	
+	менің менің ойымша сенің	
+	дауысқа мән беретінің қалыпты нәрсе сияқты	
+	Бұл	It is good for me.
+SPK5004	М:	М:
+SPK5005	мен мен үшін жақсы	
+SPK5004	Иә	Yes, right now it was used as an adjective.
+	сын есім болып айтылды қазір ше	
+SPK5005	Кімнің бұл қандай контексте қолданғанына байланысты шығар	It probably depends on who uses it and in what context.
+SPK5004	Иә иә иә	Yes yes yes.
+SPK5005	Жақсы нәрсе дейді әдеттегі нәрсе дейді	They say it’s a good thing, they say it’s an ordinary thing.
+SPK5004	Мхм	Мhm.
+SPK5006	Нормально	It is normal.
+SPK5004	Сол тіл тазалығына қатысты айта салайын дегенмін	I just wanted to mention it in relation to language purity.
+SPK5005	Мхм	Мhm.
+SPK5004	Ы:	Uh, usually we look for certain words, right, and if you don’t know the translation of something, it feels like your language isn’t clean.
+	біз әдетте	
+	белгілі бір сөздерді іздейміз ғой	
+	осының аудармасын білмесең	
+	тілің таза емес секілді	
+SPK5006	Мхм	Мhm.
+SPK5004	Бірақ	But one thing I’ve noticed is that tools that we use to actually make our language not clean aren't not knowing the translation of certain words, but rather parasite words like ‘uh,’ ‘and,’ and other filler words.
+	бір байқағаным	
+	біз	
+	тілді таза емес қылып	
+	жасайтын	
+	құралдарымыз	
+	ол	
+	белгілі бір сөздерді білмей қалу емес аудармасын	
+	біздің и	
+	және тағы да басқа паразит сөздер бар да	
+SPK5006	Мхм	Мhm.
+SPK5004	Білмейміз өзіміз	We don’t realize it ourselves, we keep using them, those are the ones.
+	қолданып жүреміз	
+	солар ғой	
+SPK5006	Мхм	Мhm.
+SPK5004	Мен қазір	Right now, uh, for first-year students of our NU, I practice the speaking and talk with them in Kazakh language, I am basically uh, I’m the professor’s instructor, well, the instructor’s assistant.
+	ы:	
+	бірінші курстарға	
+	қазақ тілінен	
+	өзіміздің НУ-дың	
+	ы:	
+	айтылым жасаймын	
+	сөйлесемін да	
+	м:	
+	профессордың инструкторымын да	
+	инструкторың көмекшісімін да QQ	
+SPK5005	Аха	Yes.
+SPK5004	QQQ	
+SPK5005	QQ	
+SPK5004	Ол соңында бір үлкен research болады да	In the end there’s a big research project, and uh, at that point you need to speak Kazakh, and I try to do the same, to find translations for words, and there you have record it.
+SPK5005	Мхм	Мhm.
+SPK5004	а:	
+	сол кезде	
+	қазақша сөйлеуің керексің	
+	мен де осылай тырысамын	
+	сөздің аудармасын табуға	
+	бірақ	
+	recording жасайсың	
+	видеомды қарасам	And when I watch my video, no matter how much I try to keep the words clean and find their translations, I end up making mistakes with phrases like 'i'.
+	мен қанша ол сөздерді	
+	таза қылып	
+	аудармасын іздеп тауып алуға тырысқанмен	
+	мен	
+	мына жақтан	
+	қате жасап отырмын ғой	
+SPK5006	И деп отырдың иә	You were saying ‘i,’ right?”
+SPK5004	и деген сөздер	
+	Айтқым келмесе де мен оны байқамай айтым жіберемін де	Even if I don’t want to say it, I end up saying it without noticing.
+SPK5006	Но	'But'.
+SPK5004	И да	And ‘i,’ ‘da,’ ‘da da’ like that, I say ‘da’ at the end to get agreement.
+	да да деген	
+SPK5006	Мхм	Мhm.
+SPK5004	анандай	
+	соңында келісімді алу үшін	
+	да деп айтамын да	
+SPK5005	Мхм	Мhm.
+SPK5006	Иә	Yes.
+SPK5005	Бұл да қалыпты нәрсе сияқта біздің бәріміз үшін	This also seems like a normal thing for all of us, uh, because after all, we’re living in a kind of post-Soviet space.
+	а:	
+SPK5004	М:	М:
+SPK5005	себебі не дегенмен де	
+	андай	
+	постсоветтік	
+	&&&	
+	пространствода өмір сүріп жатырмыз ғой	
+	(Hx)	
+SPK5006	Иә	Иә.
+SPK5005	сол себепті	So completely removing some Russian words and speaking only pure Kazakh is possible, but difficult.
+	орыс тілінің кейбір сөздерін	
+	мүлдеп толықтай алып салу	
+	тек қана таза қазақша сөйлеу деген	
+SPK5004	Мүмкін емес секілді	It seems impossible.
+SPK5005	а:	
+	мүмкін бірақ қиын	
+SPK5006	Мхм	Мhm.
+SPK5004	Иә	Yes.
+	Бірақ мен ойлаймын	But I think that we really place a lot of emphasis on language purity, we say it very intensely, and then people say things like ‘why don’t Kazakhs speak Kazakh,’ adding a bit of aggression when they talk.
+	бізде	
+	біз қатты аса мән береміз ғой	
+	тіздің тілдің тазалығына	
+	андай	
+	яро айтамыз одан кейін	
+	неге қазақ қазақша сөйлемейді	
+	деген сияқты ойларды	
+	кішкентай агрессия қосып сөйлейді ғой адамдар ше	
+	Сонысы маған ұнамайды да	I don’t like that, and I looked at it separately, thinking that this isn’t a problem only we have, for example, in the Philippines, over there.
+	бөлек былай қарадым да	
+	жалғыз осы	
+	проблема бізде ғана деп қарасам	
+	мысалы Филиппины	
+	ол жақта	
+SPK5005	Біз деген кім	Who do you mean by ‘we’?
+	Біз екеуіміз	Both of us?
+SPK5004	QQ	
+SPK5005	QQQ	
+SPK5006	QQQ	
+SPK5004	Жалпы айтып жатырмын да	I’m speaking in general, I’m talking about Kazakhs.
+SPK5005	QQQ	
+SPK5004	қазақтарды айтып жатырмын	
+SPK5005	QQ	
+SPK5004	Біз дегендегі	When I say ‘we,’ I mean Kazakhs in general, not all people, I’m not trying to paint everyone with the same brush.
+SPK5006	QQ	
+SPK5005	A:	Ah.
+SPK5004	сөзім	
+	жалпылама қазақтар да	
+SPK5005	A:	Ah.
+SPK5004	халықтардың барлығы емес	
+	төпке көпке топырақ шашқаным емес	
+	бірақ Филип- пины	But in the Philippines, over there, they freely mix English and their own Filipino languages, and it seems like no one judges them for it, at least that’s how it looks to me.
+	ол жақта	
+SPK5005	QQ	
+SPK5006	QQ	
+SPK5004	орысша	
+SPK5005	QQ	
+SPK5004	ай	
+	ағылшынға	
+	және өздерінің филиппин тілдерін қолданып сөйлей береді да	
+	ешкім оларды	
+	judge жасамайтын секілді	
+	солай көрінеді маған	
+	Олардың	Their media works that way too.
+	СМИ-лары да солай жұмыс істейді	
+	үлкен	And even big artists, really prominent ones, for example their senators now, many of them are opening YouTube channels.
+	а:	
+	артисттер де	
+	керемет деген	
+	мысалы сенаторлары қазір мысалы көбісінде Youtube	
+	ашып жатыр да	
+SPK5006	Мхм	Мхм.
+SPK5004	Барлығында да осындай да	It’s like this everywhere.
+SPK5005	Мен сені	Me you.
+SPK5004	Қолдана береді	They’ll be speaking Filipino, and then at some point they switch to R- English.
+	Филиппинше сөйлеп келе жатады да бір кезде о-	
+	ағылшынша сөйлеп кетеді	
+	Ортасында қайтадан филиппинше сөйлеп кетеді	In the middle, they switch back to Filipino again.

@@ -1,785 +1,785 @@
-token_id	speaker	iu_type	tu_id	span	form	type	modality	features	align
-0-0	SPK0014	Rising	0	Ішті?	Ішті	linguistic			Begin=0.870|End=1.880
-1-0	SPK0014	Falling	1	Тамақ	Тамақ	linguistic			Begin=1.890
-1-1	SPK0014	Falling	1	ішті	ішті	linguistic			
-1-2	SPK0014	Falling	1	ғой.	ғой	linguistic			End=2.803
-2-0	SPK0032	Rising	2	Е:?	Е	linguistic		Prolongation=0	Begin=2.870|End=3.867
-3-0	SPK0027	Rising	3	Тары	Тары	linguistic			Begin=12.648
-3-1	SPK0027	Rising	3	жейсің	жейсің	linguistic			
-3-2	SPK0027	Rising	3	бе?	бе	linguistic			End=13.714
-4-0	SPK0032	Continuing	4	Ой	Ой	linguistic			Begin=14.251
-4-1	SPK0032	Continuing	4	Алла-ау,	Алла-ау	linguistic			End=14.897
-5-0	SPK0032	Continuing	5	менің	менің	linguistic			Begin=14.897
-5-1	SPK0032	Continuing	5	тарым	тарым	linguistic			
-5-2	SPK0032	Continuing	5	ба	ба	linguistic			
-5-3	SPK0032	Continuing	5	мынау,	мынау	linguistic			End=15.890
-6-0	SPK0032	Falling	6	таңертей	таңертей	linguistic			Begin=15.902
-6-1	SPK0032	Falling	6	жеймін.	жеймін	linguistic			End=16.841
-7-0	SPK0032	Rising	7	Мына	Мына	linguistic			Begin=17.511
-7-1	SPK0032	Rising	7	құрлы	құрлы	linguistic			
-7-2	SPK0032	Rising	7	тамақпен	тамақпен	linguistic			
-7-3	SPK0032	Rising	7	қайтіп	қайтіп	linguistic			
-7-4	SPK0032	Rising	7	жеймін?	жеймін	linguistic			End=19.040
-8-0	SPK0032	Falling	8	Қарғам.	Қарғам	linguistic			Begin=19.040|End=19.876
-9-0	SPK0027	undefined	9	(Hx)	(Hx)	_			Begin=37.214|End=38.217
-10-0	SPK0032	Rising	10	Мынаны	Мынаны	linguistic			Begin=58.180
-10-1	SPK0032	Rising	10	араластыра	араластыра	linguistic			
-10-2	SPK0032	Rising	10	ма?	ма	linguistic			End=59.183
-11-0	SPK0032	Falling	11	Бүйтіп.	Бүйтіп	linguistic			Begin=59.183|End=60.070
-12-0	SPK0027	Interrupted	12	Жей	Жей	linguistic			Begin=60.258
-12-1	SPK0027	Interrupted	12	бер	бер	linguistic			
-12-2	SPK0027	Interrupted	12	ара-	ара	linguistic		Interrupted=Yes	End=61.275
-13-0	SPK0027	Falling	13	Мхм.	Мхм	linguistic			Begin=61.855|End=62.746
-14-0	SPK0032	Rising	14	Шелпекті	Шелпекті	linguistic			Begin=62.659
-14-1	SPK0032	Rising	14	қарашы?	қарашы	linguistic			End=64.104
-15-0	SPK0027	Continuing	15	Бүйтіп	Бүйтіп	linguistic			Begin=67.130
-15-1	SPK0027	Continuing	15	ора	ора	linguistic			
-15-2	SPK0027	Continuing	15	да,	да	linguistic			End=68.769
-16-0	SPK0032	Falling	16	Мхм.	Мхм	linguistic			Begin=69.530|End=70.534
-17-0	SPK0027	Falling	17	бүйтіп	бүйтіп	linguistic			Begin=70.228
-17-1	SPK0027	Falling	17	же.	же	linguistic			End=70.947
-18-0	SPK0027	undefined	18	@@@	@@@	linguistic			Begin=77.340|End=79.170
-19-0	SPK0032	undefined	19	@@@	@@@	linguistic			Begin=78.677|End=80.010
-20-0	SPK0027	Falling	20	Шанши	Шанши	linguistic			Begin=82.740
-20-1	SPK0027	Falling	20	сал	сал	linguistic			
-20-2	SPK0027	Falling	20	сөйтіп.	сөйтіп	linguistic			End=84.450
-21-0	SPK0027	Falling	21	Сала	Сала	linguistic			Begin=90.330
-21-1	SPK0027	Falling	21	сал	сал	linguistic			
-21-2	SPK0027	Falling	21	аузыңа.	аузыңа	linguistic			End=91.442
-22-0	SPK0032	Continuing	22	Маған	Маған	linguistic			Begin=91.133
-22-1	SPK0032	Continuing	22	сендердің	сендердің	linguistic			
-22-2	SPK0032	Continuing	22	ана	ана	linguistic			
-22-3	SPK0032	Continuing	22	жақтағы	жақтағы	linguistic			
-22-4	SPK0032	Continuing	22	үйлерің,	үйлерің	linguistic			End=92.978
-23-0	SPK0032	Falling	23	соны	соны	linguistic			Begin=92.978
-23-1	SPK0032	Falling	23	айтып	айтып	linguistic			
-23-2	SPK0032	Falling	23	жатыр.	жатыр	linguistic			End=94.157
-24-0	SPK0032	Falling	24	Адамның	Адамның	linguistic			Begin=94.503
-24-1	SPK0032	Falling	24	үйі	үйі	linguistic			
-24-2	SPK0032	Falling	24	ыстық	ыстық	linguistic			
-24-3	SPK0032	Falling	24	қой.	қой	linguistic			End=95.985
-25-0	SPK0032	Falling	25	Атаңды	Атаңды	linguistic			Begin=97.096
-25-1	SPK0032	Falling	25	айтамын.	айтамын	linguistic			End=98.315
-26-0	SPK0027	Falling	26	Е:.	Е	linguistic		Prolongation=0	Begin=98.846|End=99.765
-27-0	SPK0032	Falling	27	#####.	#####	unknown			Begin=99.845|End=101.337
-28-0	SPK0032	Falling	28	#####.	#####	unknown			Begin=101.354|End=103.025
-29-0	SPK0027	Falling	29	Е:.	Е	linguistic		Prolongation=0	Begin=104.530|End=105.495
-30-0	SPK0027	Falling	30	Сорпасынан	Сорпасынан	linguistic			Begin=124.130
-30-1	SPK0027	Falling	30	құяйын	құяйын	linguistic			
-30-2	SPK0027	Falling	30	ба	ба	linguistic			
-30-3	SPK0027	Falling	30	саған.	саған	linguistic			End=125.599
-31-0	SPK0027	Falling	31	Аз	Аз	linguistic			Begin=126.690
-31-1	SPK0027	Falling	31	болып	болып	linguistic			
-31-2	SPK0027	Falling	31	кетіпті.	кетіпті	linguistic			End=127.620
-32-0	SPK0032	Falling	32	Жо	Жо	linguistic			Begin=127.744
-32-1	SPK0032	Falling	32	жо	жо	linguistic			
-32-2	SPK0032	Falling	32	жо.	жо	linguistic			End=128.687
-33-0	SPK0032	Continuing	33	Ана	Ана	linguistic			Begin=147.972
-33-1	SPK0032	Continuing	33	кіти	кіти	linguistic			
-33-2	SPK0032	Continuing	33	ұлың,	ұлың	linguistic			End=148.980
-34-0	SPK0032	Rising	34	үлкенің	үлкенің	linguistic			Begin=148.980
-34-1	SPK0032	Rising	34	ішпей	ішпей	linguistic			
-34-2	SPK0032	Rising	34	ме	ме	linguistic			
-34-3	SPK0032	Rising	34	әгі?	әгі	linguistic			End=150.209
-35-0	SPK0027	Falling	35	Ішіп	Ішіп	linguistic			Begin=150.249
-35-1	SPK0027	Falling	35	алған	алған	linguistic			
-35-2	SPK0027	Falling	35	ол	ол	linguistic			
-35-3	SPK0027	Falling	35	бағана.	бағана	linguistic			End=151.545
-36-0	SPK0032	Falling	36	Ана	Ана	linguistic			Begin=151.858
-36-1	SPK0032	Falling	36	Ташок	Ташок	linguistic			
-36-2	SPK0032	Falling	36	ішті	ішті	linguistic			
-36-3	SPK0032	Falling	36	ме.	ме	linguistic			End=153.018
-37-0	SPK0027	Falling	37	Ішті.	Ішті	linguistic			Begin=153.041|End=154.240
-38-0	SPK0032	Falling	38	Е:.	Е	linguistic		Prolongation=0	Begin=155.062|End=155.590
-39-0	SPK0032	Rising	39	########?	########	unknown			Begin=155.610|End=157.790
-40-0	SPK0027	Rising	40	М?	М	linguistic			Begin=157.856|End=158.439
-41-0	SPK0032	Continuing	41	Таңертеңнен,	Таңертеңнен	linguistic			Begin=158.771|End=159.530
-42-0	SPK0032	Falling	42	тамақ	тамақ	linguistic			Begin=159.530
-42-1	SPK0032	Falling	42	ішкен	ішкен	linguistic			
-42-2	SPK0032	Falling	42	жоқ	жоқ	linguistic			
-42-3	SPK0032	Falling	42	деймін.	деймін	linguistic			End=160.767
-43-0	SPK0027	Rising	43	Дәмі	Дәмі	linguistic			Begin=198.845
-43-1	SPK0027	Rising	43	қалай	қалай	linguistic			
-43-2	SPK0027	Rising	43	екен?	екен	linguistic			End=199.756
-44-0	SPK0032	Falling	44	Әйбәт.	Әйбәт	linguistic			Begin=199.885|End=200.741
-45-0	SPK0027	Falling	45	Жеуі	Жеуі	linguistic			Begin=200.794
-45-1	SPK0027	Falling	45	қиын	қиын	linguistic			
-45-2	SPK0027	Falling	45	екен	екен	linguistic			
-45-3	SPK0027	Falling	45	деші.	деші	linguistic			End=202.024
-46-0	SPK0032	Continuing	46	Сен,	Сен	linguistic			Begin=203.625|End=204.230
-47-0	SPK0032	Falling	47	неше	неше	linguistic			Begin=204.230
-47-1	SPK0032	Falling	47	түрлі	түрлі	linguistic			
-47-2	SPK0032	Falling	47	тамақ	тамақ	linguistic			
-47-3	SPK0032	Falling	47	жасайсың.	жасайсың	linguistic			End=205.673
-48-0	SPK0027	Continuing	48	Мама	Мама	linguistic			Begin=211.158
-48-1	SPK0027	Continuing	48	сорпасының,	сорпасының	linguistic			End=211.976
-49-0	SPK0032	undefined	49	Вер–	Вер–	linguistic			Begin=211.711|End=212.170
-50-0	SPK0027	Continuing	50	дәмімен	дәмімен	linguistic			Begin=211.976
-50-1	SPK0027	Continuing	50	жесеңші,	жесеңші	linguistic			End=212.770
-51-0	SPK0032	Falling	51	вермешелін	вермешелін	linguistic			Begin=212.170
-51-1	SPK0032	Falling	51	қарашы	қарашы	linguistic			
-51-2	SPK0032	Falling	51	міне.	міне	linguistic			End=213.763
-52-0	SPK0027	Falling	52	қасықпен.	қасықпен	linguistic			Begin=212.770|End=213.860
-53-0	SPK0027	Falling	53	Мә	Мә	linguistic			Begin=214.634
-53-1	SPK0027	Falling	53	ет	ет	linguistic			
-53-2	SPK0027	Falling	53	же.	же	linguistic			End=215.157
-54-0	SPK0027	Falling	54	Тауықтың	Тауықтың	linguistic			Begin=215.157
-54-1	SPK0027	Falling	54	еті.	еті	linguistic			End=215.822
-55-0	SPK0027	Continuing	55	¬Алияның	Алияның	linguistic		Anonymized=Yes	Begin=232.976
-55-1	SPK0027	Continuing	55	келіні,	келіні	linguistic			End=234.370
-56-0	SPK0027	Falling	56	кіріп	кіріп	linguistic			Begin=234.370
-56-1	SPK0027	Falling	56	келе	келе	linguistic			
-56-2	SPK0027	Falling	56	жатыр	жатыр	linguistic			
-56-3	SPK0027	Falling	56	екен	екен	linguistic			
-56-4	SPK0027	Falling	56	жаңа.	жаңа	linguistic			End=235.320
-57-0	SPK0027	Falling	57	¬Лаура.	Лаура	linguistic		Anonymized=Yes	Begin=235.320|End=235.978
-58-0	SPK0032	Falling	58	Е:.	Е	linguistic		Prolongation=0	Begin=236.120|End=236.833
-59-0	SPK0027	Continuing	59	Мамаң	Мамаң	linguistic			Begin=237.431
-59-1	SPK0027	Continuing	59	үйде	үйде	linguistic			
-59-2	SPK0027	Continuing	59	ме	ме	linguistic			
-59-3	SPK0027	Continuing	59	десем,	десем	linguistic			End=238.520
-60-0	SPK0027	Continuing	60	үйде,	үйде	linguistic			Begin=238.520|End=238.890
-61-0	SPK0027	Continuing	61	балалармен	балалармен	linguistic			Begin=238.890
-61-1	SPK0027	Continuing	61	отырған	отырған	linguistic			
-61-2	SPK0027	Continuing	61	шығар,	шығар	linguistic			End=239.901
-62-0	SPK0027	Falling	62	балаларымды	балаларымды	linguistic			Begin=239.901
-62-1	SPK0027	Falling	62	алып	алып	linguistic			
-62-2	SPK0027	Falling	62	кетуге	кетуге	linguistic			
-62-3	SPK0027	Falling	62	келе	келе	linguistic			
-62-4	SPK0027	Falling	62	жатырмын	жатырмын	linguistic			
-62-5	SPK0027	Falling	62	дейді.	дейді	linguistic			End=242.013
-63-0	SPK0032	Continuing	63	Е:,	Е	linguistic		Prolongation=0	Begin=242.570|End=242.910
-64-0	SPK0032	Falling	64	осы	осы	linguistic			Begin=242.920
-64-1	SPK0032	Falling	64	үйде	үйде	linguistic			
-64-2	SPK0032	Falling	64	екен	екен	linguistic			
-64-3	SPK0032	Falling	64	ғой	ғой	linguistic			
-64-4	SPK0032	Falling	64	балалары.	балалары	linguistic			End=244.231
-65-0	SPK0027	Falling	65	Таңертең	Таңертең	linguistic			Begin=244.520
-65-1	SPK0027	Falling	65	¬Жанат	Жанат	linguistic		Anonymized=Yes	
-65-2	SPK0027	Falling	65	әкеліп	әкеліп	linguistic			
-65-3	SPK0027	Falling	65	тастапты	тастапты	linguistic			
-65-4	SPK0027	Falling	65	дейді.	дейді	linguistic			End=246.141
-66-0	SPK0032	Falling	66	М:.	М	linguistic		Prolongation=0	Begin=247.527|End=248.786
-67-0	SPK0027	Rising	67	М?	М	linguistic			Begin=248.340|End=249.460
-68-0	SPK0032	Rising	68	Көршің	Көршің	linguistic			Begin=249.800
-68-1	SPK0032	Rising	68	бе?	бе	linguistic			End=251.220
-69-0	SPK0027	Falling	69	Шал	Шал	linguistic			Begin=282.236
-69-1	SPK0027	Falling	69	тауып	тауып	linguistic			
-69-2	SPK0027	Falling	69	алыпты	алыпты	linguistic			
-69-3	SPK0027	Falling	69	ғой	ғой	linguistic			
-69-4	SPK0027	Falling	69	мынау.	мынау	linguistic			End=283.692
-70-0	SPK0032	Interrupted	70	Шалмен-	Шалмен	linguistic		Interrupted=Yes	Begin=283.527|End=284.208
-71-0	SPK0032	Rising	71	орыстар	орыстар	linguistic			Begin=284.230
-71-1	SPK0032	Rising	71	ма?	ма	linguistic			End=285.680
-72-0	SPK0027	Falling	72	Иә.	Иә	linguistic			Begin=287.350|End=288.480
-73-0	SPK0027	Falling	73	Көрші:.	Көрші	linguistic		Prolongation=4	Begin=292.811|End=293.986
-74-0	SPK0032	Falling	74	М:.	М	linguistic		Prolongation=0	Begin=296.740|End=297.982
-75-0	SPK0032	Interrupted	75	Екеуі	Екеуі	linguistic			Begin=299.373
-75-1	SPK0032	Interrupted	75	бір	бір	linguistic			
-75-2	SPK0032	Interrupted	75	жерден	жерден	linguistic			
-75-3	SPK0032	Interrupted	75	кел-	кел	linguistic		Interrupted=Yes	End=300.310
-76-0	SPK0027	Falling	76	Қарама	Қарама	linguistic			Begin=299.437
-76-1	SPK0027	Falling	76	мама.	мама	linguistic			End=300.908
-77-0	SPK0032	Falling	77	А:.	А	linguistic		Prolongation=0	Begin=300.360|End=301.200
-78-0	SPK0027	Falling	78	Қарама.	Қарама	linguistic			Begin=301.117|End=302.025
-79-0	SPK0027	Falling	79	Ұят	Ұят	linguistic			Begin=302.783
-79-1	SPK0027	Falling	79	болады.	болады	linguistic			End=303.810
-80-0	SPK0027	Continuing	80	Мама	Мама	linguistic			Begin=306.580
-80-1	SPK0027	Continuing	80	бүйтіп,	бүйтіп	linguistic			End=307.490
-81-0	SPK0027	Continuing	81	іліп	іліп	linguistic			Begin=307.490
-81-1	SPK0027	Continuing	81	алсаң	алсаң	linguistic			
-81-2	SPK0027	Continuing	81	да,	да	linguistic			End=308.152
-82-0	SPK0027	Falling	82	желінеді	желінеді	linguistic			Begin=308.152
-82-1	SPK0027	Falling	82	ғой.	ғой	linguistic			End=308.842
-83-0	SPK0032	Falling	83	Желінеді.	Желінеді	linguistic			Begin=309.780|End=310.592
-84-0	SPK0027	Continuing	84	Тарыны	Тарыны	linguistic			Begin=364.020
-84-1	SPK0027	Continuing	84	ұмытып	ұмытып	linguistic			
-84-2	SPK0027	Continuing	84	кетіппін	кетіппін	linguistic			
-84-3	SPK0027	Continuing	84	ғой,	ғой	linguistic			End=365.271
-85-0	SPK0027	Falling	85	саған	саған	linguistic			Begin=365.271
-85-1	SPK0027	Falling	85	бермей.	бермей	linguistic			End=365.885
-86-0	SPK0032	Rising	86	Баяғыдағы	Баяғыдағы	linguistic			Begin=366.905
-86-1	SPK0032	Rising	86	тарым	тарым	linguistic			
-86-2	SPK0032	Rising	86	иә?	иә	linguistic			End=368.380
-87-0	SPK0027	Falling	87	Мхм.	Мхм	linguistic			Begin=368.330|End=369.210
-88-0	SPK0032	Continuing	88	Әлі	Әлі	linguistic			Begin=368.452
-88-1	SPK0032	Continuing	88	бар,	бар	linguistic			End=369.040
-89-0	SPK0032	Rising	89	сен	сен	linguistic			Begin=369.050
-89-1	SPK0032	Rising	89	жемейсің	жемейсің	linguistic			
-89-2	SPK0032	Rising	89	иә?	иә	linguistic			End=370.272
-90-0	SPK0027	Falling	90	Анда:	Анда	linguistic		Prolongation=3	Begin=370.490
-90-1	SPK0027	Falling	90	санда.	санда	linguistic			End=371.471
-91-0	SPK0027	Continuing	91	Шал	Шал	linguistic			Begin=393.633
-91-1	SPK0027	Continuing	91	тауып	тауып	linguistic			
-91-2	SPK0027	Continuing	91	алыпты,	алыпты	linguistic			End=394.793
-92-0	SPK0027	Falling	92	өзі.	өзі	linguistic			Begin=394.793|End=395.380
-93-0	SPK0032	Falling	93	Ау.	Ау	linguistic			Begin=395.380|End=396.063
-94-0	SPK0027	Falling	94	Шал	Шал	linguistic			Begin=396.178
-94-1	SPK0027	Falling	94	тауып	тауып	linguistic			
-94-2	SPK0027	Falling	94	алыпты	алыпты	linguistic			
-94-3	SPK0027	Falling	94	деймін.	деймін	linguistic			End=397.574
-95-0	SPK0032	Rising	95	Кемпір	Кемпір	linguistic			Begin=397.873
-95-1	SPK0032	Rising	95	ме?	ме	linguistic			End=398.863
-96-0	SPK0027	Falling	96	Сондай	Сондай	linguistic			Begin=404.008
-96-1	SPK0027	Falling	96	кемпір	кемпір	linguistic			
-96-2	SPK0027	Falling	96	емес.	емес	linguistic			End=405.778
-97-0	SPK0027	Falling	97	¬Баяндар	Баяндар	linguistic		Anonymized=Yes	Begin=405.797
-97-1	SPK0027	Falling	97	шамалас.	шамалас	linguistic			End=406.896
-98-0	SPK0032	Falling	98	Е.	Е	linguistic			Begin=407.010|End=407.445
-99-0	SPK0032	Interrupted	99	Күйеуі	Күйеуі	linguistic			Begin=407.500
-99-1	SPK0032	Interrupted	99	анау	анау	linguistic			
-99-2	SPK0032	Interrupted	99	күйеу-	күйеу	linguistic		Interrupted=Yes	End=408.480
-100-0	SPK0032	Rising	100	шалы	шалы	linguistic			Begin=408.480
-100-1	SPK0032	Rising	100	ма?	ма	linguistic			End=409.086
-101-0	SPK0027	Falling	101	Солай	Солай	linguistic			Begin=409.441
-101-1	SPK0027	Falling	101	ғой	ғой	linguistic			
-101-2	SPK0027	Falling	101	деймін.	деймін	linguistic			End=410.180
-102-0	SPK0027	Falling	102	Бұрын	Бұрын	linguistic			Begin=410.220
-102-1	SPK0027	Falling	102	жоқ	жоқ	linguistic			
-102-2	SPK0027	Falling	102	болатын.	болатын	linguistic			End=411.330
-103-0	SPK0027	Rising	103	Картошкасы	Картошкасы	linguistic			Begin=430.870
-103-1	SPK0027	Rising	103	түспеп	түспеп	linguistic			
-103-2	SPK0027	Rising	103	пе	пе	linguistic			
-103-3	SPK0027	Rising	103	не	не	linguistic			
-103-4	SPK0027	Rising	103	саған?	саған	linguistic			End=432.386
-104-0	SPK0032	Rising	104	М?	М	linguistic			Begin=433.230|End=433.990
-105-0	SPK0027	Rising	105	Картошкасы	Картошкасы	linguistic			Begin=433.462
-105-1	SPK0027	Rising	105	жоқ	жоқ	linguistic			
-105-2	SPK0027	Rising	105	па?	па	linguistic			End=434.831
-106-0	SPK0032	Falling	106	Бар.	Бар	linguistic			Begin=434.782|End=435.466
-107-0	SPK0032	Continuing	107	Ет,	Ет	linguistic			Begin=435.586|End=435.905
-108-0	SPK0032	Falling	108	бар.	бар	linguistic			Begin=436.027|End=436.605
-109-0	SPK0027	Falling	109	Қасықпен	Қасықпен	linguistic			Begin=437.000
-109-1	SPK0027	Falling	109	жей	жей	linguistic			
-109-2	SPK0027	Falling	109	бер	бер	linguistic			
-109-3	SPK0027	Falling	109	мама.	мама	linguistic			End=439.230
-110-0	SPK0032	Continuing	110	Ананы,	Ананы	linguistic			Begin=439.340|End=440.490
-111-0	SPK0032	Continuing	111	қайнатқанды,	қайнатқанды	linguistic			Begin=441.550|End=442.810
-112-0	SPK0032	Rising	112	қойдың	қойдың	linguistic			Begin=442.810
-112-1	SPK0032	Rising	112	ба	ба	linguistic			
-112-2	SPK0032	Rising	112	енді?	енді	linguistic			End=444.179
-113-0	SPK0027	Continuing	113	Қайнатамын	Қайнатамын	linguistic			Begin=444.198
-113-1	SPK0027	Continuing	113	қазір,	қазір	linguistic			End=445.801
-114-0	SPK0027	Continuing	114	бетінде,	бетінде	linguistic			Begin=447.050|End=447.850
-115-0	SPK0027	Continuing	115	көбігі	көбігі	linguistic			Begin=447.850
-115-1	SPK0027	Continuing	115	ғой	ғой	linguistic			
-115-2	SPK0027	Continuing	115	деймін,	деймін	linguistic			End=448.510
-116-0	SPK0027	Falling	116	анау	анау	linguistic			Begin=448.510
-116-1	SPK0027	Falling	116	ұқсап	ұқсап	linguistic			
-116-2	SPK0027	Falling	116	тұрған.	тұрған	linguistic			End=449.630
-117-0	SPK0032	Continuing	117	Мхм,	Мхм	linguistic			Begin=449.870|End=450.400
-118-0	SPK0032	Rising	118	қалың	қалың	linguistic			Begin=450.420
-118-1	SPK0032	Rising	118	болып	болып	linguistic			
-118-2	SPK0032	Rising	118	тұр	тұр	linguistic			
-118-3	SPK0032	Rising	118	иә?	иә	linguistic			End=451.280
-119-0	SPK0032	Falling	119	қаймақ	қаймақ	linguistic			Begin=451.280
-119-1	SPK0032	Falling	119	ұқсап.	ұқсап	linguistic			End=452.150
-120-0	SPK0027	Rising	120	Картошка	Картошка	linguistic			Begin=469.300
-120-1	SPK0027	Rising	120	салып	салып	linguistic			
-120-2	SPK0027	Rising	120	берейін	берейін	linguistic			
-120-3	SPK0027	Rising	120	бе?	бе	linguistic			End=471.270
-121-0	SPK0032	Falling	121	Болды.	Болды	linguistic			Begin=472.264|End=473.343
-122-0	SPK0032	Falling	122	Картошкасы	Картошкасы	linguistic			Begin=477.034
-122-1	SPK0032	Falling	122	бар.	бар	linguistic			End=478.133
-123-0	SPK0027	Falling	123	Бүгін	Бүгін	linguistic			Begin=497.320
-123-1	SPK0027	Falling	123	тоқыма	тоқыма	linguistic			
-123-2	SPK0027	Falling	123	тоқымадың	тоқымадың	linguistic			
-123-3	SPK0027	Falling	123	ғой.	ғой	linguistic			End=499.710
-124-0	SPK0032	Falling	124	М.	М	linguistic			Begin=499.970|End=500.790
-125-0	SPK0027	Rising	125	Тоқитыныңды	Тоқитыныңды	linguistic			Begin=500.909
-125-1	SPK0027	Rising	125	алып	алып	linguistic			
-125-2	SPK0027	Rising	125	келіп	келіп	linguistic			
-125-3	SPK0027	Rising	125	пе	пе	linguistic			
-125-4	SPK0027	Rising	125	едің?	едің	linguistic			End=502.010
-126-0	SPK0032	Continuing	126	Алып	Алып	linguistic			Begin=503.270
-126-1	SPK0032	Continuing	126	келгенмін,	келгенмін	linguistic			End=504.270
-127-0	SPK0032	Continuing	127	ананы	ананы	linguistic			Begin=504.270
-127-1	SPK0032	Continuing	127	өлшеп	өлшеп	linguistic			
-127-2	SPK0032	Continuing	127	алып,	алып	linguistic			End=505.040
-128-0	SPK0032	Falling	128	мынаны	мынаны	linguistic			Begin=505.060
-128-1	SPK0032	Falling	128	не	не	linguistic			
-128-2	SPK0032	Falling	128	етіп	етіп	linguistic			
-128-3	SPK0032	Falling	128	аламын	аламын	linguistic			
-128-4	SPK0032	Falling	128	деп.	деп	linguistic			End=505.820
-129-0	SPK0032	Falling	129	Тоқимын	Тоқимын	linguistic			Begin=505.820
-129-1	SPK0032	Falling	129	деп.	деп	linguistic			End=506.937
-130-0	SPK0027	Continuing	130	Телевизордың	Телевизордың	linguistic			Begin=506.847
-130-1	SPK0027	Continuing	130	артында,	артында	linguistic			End=507.770
-131-0	SPK0027	Falling	131	өлшейтін.	өлшейтін	linguistic			Begin=507.770|End=508.600
-132-0	SPK0027	Falling	132	Қай	Қай	linguistic			Begin=510.510
-132-1	SPK0027	Falling	132	жерде	жерде	linguistic			
-132-2	SPK0027	Falling	132	еді	еді	linguistic			
-132-3	SPK0027	Falling	132	өзі.	өзі	linguistic			End=511.840
-133-0	SPK0032	Continuing	133	Инемді:,	Инемді	linguistic		Prolongation=5	Begin=511.250|End=512.193
-134-0	SPK0032	Continuing	134	бір,	бір	linguistic			Begin=512.193|End=512.611
-135-0	SPK0032	Falling	135	қалған	қалған	linguistic			Begin=512.611
-135-1	SPK0032	Falling	135	жіптерді	жіптерді	linguistic			
-135-2	SPK0032	Falling	135	алып	алып	linguistic			
-135-3	SPK0032	Falling	135	келгенмін.	келгенмін	linguistic			End=514.012
-136-0	SPK0032	Falling	136	Көлденең	Көлденең	linguistic			Begin=519.480
-136-1	SPK0032	Falling	136	мынамен	мынамен	linguistic			
-136-2	SPK0032	Falling	136	бірдей	бірдей	linguistic			
-136-3	SPK0032	Falling	136	қылып	қылып	linguistic			
-136-4	SPK0032	Falling	136	тоқимын.	тоқимын	linguistic			End=521.540
-137-0	SPK0032	Continuing	137	Ана,	Ана	linguistic			Begin=521.550|End=522.372
-138-0	SPK0032	Continuing	138	ұзыныңды	ұзыныңды	linguistic			Begin=522.414
-138-1	SPK0032	Continuing	138	ары	ары	linguistic			
-138-2	SPK0032	Continuing	138	қарай,	қарай	linguistic			End=523.290
-139-0	SPK0032	Continuing	139	шығарыңқырап,	шығарыңқырап	linguistic			Begin=523.290|End=524.054
-140-0	SPK0032	Falling	140	сол	сол	linguistic			Begin=524.054
-140-1	SPK0032	Falling	140	ұзынын	ұзынын	linguistic			
-140-2	SPK0032	Falling	140	не	не	linguistic			
-140-3	SPK0032	Falling	140	етіп	етіп	linguistic			
-140-4	SPK0032	Falling	140	алсам	алсам	linguistic			
-140-5	SPK0032	Falling	140	болды.	болды	linguistic			End=525.473
-141-0	SPK0032	Falling	141	Өлшеп	Өлшеп	linguistic			Begin=525.473
-141-1	SPK0032	Falling	141	алсам.	алсам	linguistic			End=526.684
-142-0	SPK0027	Falling	142	Қасықпен	Қасықпен	linguistic			Begin=580.430
-142-1	SPK0027	Falling	142	же	же	linguistic			
-142-2	SPK0027	Falling	142	мама.	мама	linguistic			End=581.567
-143-0	SPK0027	Falling	143	Жей	Жей	linguistic			Begin=581.567
-143-1	SPK0027	Falling	143	алмасаң.	алмасаң	linguistic			End=582.315
-144-0	SPK0032	Falling	144	Иә.	Иә	linguistic			Begin=581.570|End=582.585
-145-0	SPK0027	Rising	145	Ұйықтадың	Ұйықтадың	linguistic			Begin=657.150
-145-1	SPK0027	Rising	145	ба	ба	linguistic			
-145-2	SPK0027	Rising	145	кішкене?	кішкене	linguistic			End=658.920
-146-0	SPK0032	Falling	146	Ұйықтап	Ұйықтап	linguistic			Begin=658.920
-146-1	SPK0032	Falling	146	қалыппын.	қалыппын	linguistic			End=660.280
-147-0	SPK0027	Falling	147	Помидор	Помидор	linguistic			Begin=662.650
-147-1	SPK0027	Falling	147	жесеңші.	жесеңші	linguistic			End=663.920
-148-0	SPK0032	Continuing	148	Түнде,	Түнде	linguistic			Begin=664.500|End=665.720
-149-0	SPK0032	Continuing	149	кейде	кейде	linguistic			Begin=667.221
-149-1	SPK0032	Continuing	149	ұйқым	ұйқым	linguistic			
-149-2	SPK0032	Continuing	149	келмейді,	келмейді	linguistic			End=668.190
-150-0	SPK0032	Continuing	150	кейде	кейде	linguistic			Begin=668.190
-150-1	SPK0032	Continuing	150	сөйтемін	сөйтемін	linguistic			
-150-2	SPK0032	Continuing	150	міне,	міне	linguistic			End=669.645
-151-0	SPK0032	Falling	151	ұйқым	ұйқым	linguistic			Begin=669.670
-151-1	SPK0032	Falling	151	келмейді.	келмейді	linguistic			End=670.550
-152-0	SPK0027	Falling	152	Өй	Өй	linguistic			Begin=704.876
-152-1	SPK0027	Falling	152	әкеңнің	әкеңнің	linguistic			
-152-2	SPK0027	Falling	152	басы	басы	linguistic			
-152-3	SPK0027	Falling	152	құрғыр.	құрғыр	linguistic			End=706.660
-153-0	SPK0032	Falling	153	Ау.	Ау	linguistic			Begin=706.690|End=707.520
-154-0	SPK0027	Falling	154	Әкелші	Әкелші	linguistic			Begin=707.525
-154-1	SPK0027	Falling	154	орап	орап	linguistic			
-154-2	SPK0027	Falling	154	берейін.	берейін	linguistic			End=708.668
-155-0	SPK0032	undefined	155	@@@@	@@@@	linguistic			Begin=709.010|End=710.030
-156-0	SPK0027	Continuing	156	Күйісің	Күйісің	linguistic			Begin=709.920
-156-1	SPK0027	Continuing	156	кетті	кетті	linguistic			
-156-2	SPK0027	Continuing	156	ғой,	ғой	linguistic			End=711.360
-157-0	SPK0027	Falling	157	тамақ	тамақ	linguistic			Begin=711.610
-157-1	SPK0027	Falling	157	жегің	жегің	linguistic			
-157-2	SPK0027	Falling	157	келіп	келіп	linguistic			
-157-3	SPK0027	Falling	157	тұрып.	тұрып	linguistic			End=713.540
-158-0	SPK0032	Continuing	158	Жарайды	Жарайды	linguistic			Begin=713.870
-158-1	SPK0032	Continuing	158	өзім	өзім	linguistic			
-158-2	SPK0032	Continuing	158	ала	ала	linguistic			
-158-3	SPK0032	Continuing	158	саламын	саламын	linguistic			
-158-4	SPK0032	Continuing	158	әкәм,	әкәм	linguistic			End=715.460
-159-0	SPK0032	Falling	159	кесіп	кесіп	linguistic			Begin=715.460
-159-1	SPK0032	Falling	159	кесіп	кесіп	linguistic			
-159-2	SPK0032	Falling	159	қарғам	қарғам	linguistic			
-159-3	SPK0032	Falling	159	кесіп.	кесіп	linguistic			End=716.600
-160-0	SPK0027	Falling	160	Мә.	Мә	linguistic			Begin=717.455|End=718.350
-161-0	SPK0032	Falling	161	Бүйтіп	Бүйтіп	linguistic			Begin=718.130
-161-1	SPK0032	Falling	161	бүйтіп.	бүйтіп	linguistic			End=719.378
-162-0	SPK0027	Falling	162	Мә.	Мә	linguistic			Begin=719.453|End=720.510
-163-0	SPK0027	Falling	163	Қасықты	Қасықты	linguistic			Begin=720.640
-163-1	SPK0027	Falling	163	ұста.	ұста	linguistic			End=721.900
-164-0	SPK0032	Falling	164	Жоқ	Жоқ	linguistic			Begin=725.240
-164-1	SPK0032	Falling	164	болды.	болды	linguistic			End=726.780
-165-0	SPK0032	Falling	165	Вермешелін	Вермешелін	linguistic			Begin=728.450
-165-1	SPK0032	Falling	165	қарашы.	қарашы	linguistic			End=729.816
-166-0	SPK0032	Continuing	166	Шетінен,	Шетінен	linguistic			Begin=729.816|End=730.280
-167-0	SPK0032	Falling	167	ирек-ирек	ирек-ирек	linguistic			Begin=730.280
-167-1	SPK0032	Falling	167	қылып	қылып	linguistic			
-167-2	SPK0032	Falling	167	істеген.	істеген	linguistic			End=731.776
-168-0	SPK0027	Falling	168	Мхм.	Мхм	linguistic			Begin=731.786|End=732.841
-169-0	SPK0027	Falling	169	Мә	Мә	linguistic			Begin=739.190
-169-1	SPK0027	Falling	169	шыт.	шыт	linguistic			End=739.520
-170-0	SPK0027	undefined	170	(Hx)	(Hx)	_			Begin=742.167|End=742.817
-171-0	SPK0032	Falling	171	Ой	Ой	linguistic			Begin=748.980
-171-1	SPK0032	Falling	171	Алла:.	Алла	linguistic		Prolongation=3	End=751.126
-172-0	SPK0032	Falling	172	Суып	Суып	linguistic			Begin=761.410
-172-1	SPK0032	Falling	172	қалды	қалды	linguistic			
-172-2	SPK0032	Falling	172	иә	иә	linguistic			
-172-3	SPK0032	Falling	172	мынадағылар	мынадағылар	linguistic			
-172-4	SPK0032	Falling	172	енді.	енді	linguistic			End=763.010
-173-0	SPK0027	Falling	173	Мхм.	Мхм	linguistic			Begin=762.836|End=763.977
-174-0	SPK0032	Falling	174	Сырты	Сырты	linguistic			Begin=763.145
-174-1	SPK0032	Falling	174	сұп-суық	сұп-суық	linguistic			
-174-2	SPK0032	Falling	174	###.	###	unknown			End=765.093
-175-0	SPK0032	Continuing	175	Екеуінде	Екеуінде	linguistic			Begin=795.701
-175-1	SPK0032	Continuing	175	де	де	linguistic			
-175-2	SPK0032	Continuing	175	мәшін	мәшін	linguistic			
-175-3	SPK0032	Continuing	175	бар	бар	linguistic			
-175-4	SPK0032	Continuing	175	ғой,	ғой	linguistic			End=796.973
-176-0	SPK0032	undefined	176	###	###	unknown			Begin=796.973|End=797.724
-177-0	SPK0032	Continuing	177	¬Жания-,	Жания	linguistic		Interrupted=Yes|Anonymized=Yes	Begin=797.724|End=798.194
-178-0	SPK0032	Continuing	178	¬Алия-,	Алия	linguistic		Interrupted=Yes|Anonymized=Yes	Begin=798.194|End=798.733
-179-0	SPK0032	Continuing	179	¬Алиямен,	Алиямен	linguistic		Anonymized=Yes	Begin=798.733|End=799.610
-180-0	SPK0032	Falling	180	қазірге	қазірге	linguistic			Begin=799.980
-180-1	SPK0032	Falling	180	дейін.	дейін	linguistic			End=800.970
-181-0	SPK0027	Falling	181	Ыы-ыы.	Ыы-ыы	linguistic			Begin=800.900|End=801.870
-182-0	SPK0027	Falling	182	Ұлдарында	Ұлдарында	linguistic			Begin=801.870
-182-1	SPK0027	Falling	182	ғана	ғана	linguistic			
-182-2	SPK0027	Falling	182	бар.	бар	linguistic			End=803.160
-183-0	SPK0032	Falling	183	Аaa:.	Аaa	linguistic		Prolongation=2	Begin=804.060|End=805.310
-184-0	SPK0027	Falling	184	¬Алия	Алия	linguistic		Anonymized=Yes	Begin=805.254
-184-1	SPK0027	Falling	184	қайдағы	қайдағы	linguistic			
-184-2	SPK0027	Falling	184	машина	машина	linguistic			
-184-3	SPK0027	Falling	184	жүргізеді.	жүргізеді	linguistic			End=806.826
-185-0	SPK0032	Falling	185	Қазір	Қазір	linguistic			Begin=807.290
-185-1	SPK0032	Falling	185	енді	енді	linguistic			
-185-2	SPK0032	Falling	185	#	#	unknown			
-185-3	SPK0032	Falling	185	не	не	linguistic			
-185-4	SPK0032	Falling	185	ғой.	ғой	linguistic			End=809.170
-186-0	SPK0027	Falling	186	Жоқ	Жоқ	linguistic			Begin=809.168
-186-1	SPK0027	Falling	186	мәшін.	мәшін	linguistic			End=810.823
-187-0	SPK0027	Falling	187	Ұлында	Ұлында	linguistic			Begin=816.600
-187-1	SPK0027	Falling	187	ғана	ғана	linguistic			
-187-2	SPK0027	Falling	187	бар.	бар	linguistic			End=817.960
-188-0	SPK0027	Falling	188	¬Жанатта	Жанатта	linguistic		Anonymized=Yes	Begin=817.960
-188-1	SPK0027	Falling	188	да	да	linguistic			
-188-2	SPK0027	Falling	188	жоқ	жоқ	linguistic			
-188-3	SPK0027	Falling	188	мәшін.	мәшін	linguistic			End=819.495
-189-0	SPK0027	Falling	189	Правасынан	Правасынан	linguistic			Begin=820.200
-189-1	SPK0027	Falling	189	жеті	жеті	linguistic			
-189-2	SPK0027	Falling	189	жылға	жылға	linguistic			
-189-3	SPK0027	Falling	189	айырылып	айырылып	linguistic			
-189-4	SPK0027	Falling	189	қалған.	қалған	linguistic			End=822.221
-190-0	SPK0032	Falling	190	А:.	А	linguistic		Prolongation=0	Begin=822.326|End=823.948
-191-0	SPK0027	Continuing	191	Ол	Ол	linguistic			Begin=827.100
-191-1	SPK0027	Continuing	191	мәшінді	мәшінді	linguistic			
-191-2	SPK0027	Continuing	191	алды	алды	linguistic			
-191-3	SPK0027	Continuing	191	да,	да	linguistic			End=828.090
-192-0	SPK0027	Continuing	192	сып	сып	linguistic			Begin=828.090
-192-1	SPK0027	Continuing	192	еткізіп,	еткізіп	linguistic			End=828.720
-193-0	SPK0027	Falling	193	келіншек	келіншек	linguistic			Begin=828.740
-193-1	SPK0027	Falling	193	сатып	сатып	linguistic			
-193-2	SPK0027	Falling	193	жіберді.	жіберді	linguistic			End=830.416
-194-0	SPK0027	Falling	194	Пәлекет	Пәлекет	linguistic			Begin=832.170
-194-1	SPK0027	Falling	194	ол.	ол	linguistic			End=833.820
-195-0	SPK0027	Falling	195	Сатып	Сатып	linguistic			Begin=834.510
-195-1	SPK0027	Falling	195	жібергенге.	жібергенге	linguistic			End=835.966
-196-0	SPK0032	Rising	196	¬Лаура	Лаура	linguistic		Anonymized=Yes	Begin=835.468
-196-1	SPK0032	Rising	196	ма?	ма	linguistic			End=836.506
-197-0	SPK0027	Continuing	197	Ауырса,	Ауырса	linguistic			Begin=840.463|End=841.010
-198-0	SPK0027	Continuing	198	емделіп	емделіп	linguistic			Begin=841.030
-198-1	SPK0027	Continuing	198	жіберіп,	жіберіп	linguistic			End=841.940
-199-0	SPK0027	Falling	199	енем	енем	linguistic			Begin=841.940
-199-1	SPK0027	Falling	199	сияқтымын	сияқтымын	linguistic			
-199-2	SPK0027	Falling	199	дейді.	дейді	linguistic			End=842.970
-200-0	SPK0027	Continuing	200	Ауырған	Ауырған	linguistic			Begin=842.970
-200-1	SPK0027	Continuing	200	жерімді,	жерімді	linguistic			End=843.930
-201-0	SPK0027	Falling	201	емдеп	емдеп	linguistic			Begin=843.930
-201-1	SPK0027	Falling	201	аламын.	аламын	linguistic			End=845.086
-202-0	SPK0032	Rising	202	¬Алия	Алия	linguistic		Anonymized=Yes	Begin=845.604
-202-1	SPK0032	Rising	202	сиықтымын	сиықтымын	linguistic			
-202-2	SPK0032	Rising	202	дей	дей	linguistic			
-202-3	SPK0032	Rising	202	ме?	ме	linguistic			End=847.043
-203-0	SPK0027	Continuing	203	Енем	Енем	linguistic			Begin=847.482
-203-1	SPK0027	Continuing	203	сияқты,	сияқты	linguistic			End=848.705
-204-0	SPK0027	Falling	204	емделе	емделе	linguistic			Begin=848.705
-204-1	SPK0027	Falling	204	қоямын	қоямын	linguistic			
-204-2	SPK0027	Falling	204	дейді.	дейді	linguistic			End=849.705
-205-0	SPK0032	undefined	205	@	@	linguistic			Begin=850.297|End=850.662
-206-0	SPK0027	Falling	206	Суып	Суып	linguistic			Begin=861.030
-206-1	SPK0027	Falling	206	қалды	қалды	linguistic			
-206-2	SPK0027	Falling	206	ғой	ғой	linguistic			
-206-3	SPK0027	Falling	206	мама	мама	linguistic			
-206-4	SPK0027	Falling	206	андағы.	андағы	linguistic			End=862.560
-207-0	SPK0032	Falling	207	#.	#	unknown			Begin=861.320|End=862.300
-208-0	SPK0032	Falling	208	А.	А	linguistic			Begin=862.400|End=863.443
-209-0	SPK0027	Falling	209	Суып	Суып	linguistic			Begin=862.560
-209-1	SPK0027	Falling	209	қалған	қалған	linguistic			
-209-2	SPK0027	Falling	209	шығар	шығар	linguistic			
-209-3	SPK0027	Falling	209	ендігі.	ендігі	linguistic			End=864.179
-210-0	SPK0032	Continuing	210	Әгі,	Әгі	linguistic			Begin=863.890|End=864.450
-211-0	SPK0032	undefined	211	###	###	unknown			Begin=865.416|End=866.042
-212-0	SPK0032	undefined	212	###	###	unknown			Begin=866.042|End=866.739
-213-0	SPK0032	Falling	213	####.	####	unknown			Begin=866.742|End=867.884
-214-0	SPK0032	undefined	214	#	#	unknown			Begin=868.749|End=869.280
-215-0	SPK0032	undefined	215	###	###	unknown			Begin=869.293|End=870.584
-216-0	SPK0027	Falling	216	Мені	Мені	linguistic			Begin=951.010
-216-1	SPK0027	Falling	216	ұйқы	ұйқы	linguistic			
-216-2	SPK0027	Falling	216	басып	басып	linguistic			
-216-3	SPK0027	Falling	216	отыр	отыр	linguistic			
-216-4	SPK0027	Falling	216	әшейін.	әшейін	linguistic			End=952.646
-217-0	SPK0032	Falling	217	Ұйықта.	Ұйықта	linguistic			Begin=953.220|End=954.220
-218-0	SPK0027	Falling	218	Кө:зімді	Көзімді	linguistic		Prolongation=1	Begin=956.430
-218-1	SPK0027	Falling	218	аша	аша	linguistic			
-218-2	SPK0027	Falling	218	алмай	алмай	linguistic			
-218-3	SPK0027	Falling	218	отырмын.	отырмын	linguistic			End=957.871
-219-0	SPK0027	Falling	219	Бейуақта	Бейуақта	linguistic			Begin=959.080
-219-1	SPK0027	Falling	219	ұйықтауға	ұйықтауға	linguistic			
-219-2	SPK0027	Falling	219	болмайды.	болмайды	linguistic			End=960.726
-220-0	SPK0032	Falling	220	А.	А	linguistic			Begin=960.035|End=961.030
-221-0	SPK0027	Falling	221	Бейуақта	Бейуақта	linguistic			Begin=961.277
-221-1	SPK0027	Falling	221	ұйықтауға	ұйықтауға	linguistic			
-221-2	SPK0027	Falling	221	болмайды.	болмайды	linguistic			End=963.059
-222-0	SPK0032	Falling	222	Кеш	Кеш	linguistic			Begin=985.468
-222-1	SPK0032	Falling	222	болып	болып	linguistic			
-222-2	SPK0032	Falling	222	қойды	қойды	linguistic			
-222-3	SPK0032	Falling	222	иә.	иә	linguistic			End=986.906
-223-0	SPK0027	Falling	223	Тағы	Тағы	linguistic			Begin=998.080
-223-1	SPK0027	Falling	223	салып	салып	linguistic			
-223-2	SPK0027	Falling	223	берейін	берейін	linguistic			
-223-3	SPK0027	Falling	223	бе	бе	linguistic			
-223-4	SPK0027	Falling	223	картошкасынан.	картошкасынан	linguistic			End=999.790
-224-0	SPK0032	Falling	224	А.	А	linguistic			Begin=999.477|End=1000.151
-225-0	SPK0027	Falling	225	Картошкасынан.	Картошкасынан	linguistic			Begin=1000.070|End=1001.081
-226-0	SPK0032	Continuing	226	Жо:қ,	Жоқ	linguistic		Prolongation=1	Begin=1000.220|End=1000.626
-227-0	SPK0032	Continuing	227	Бол-,	Бол	linguistic		Interrupted=Yes	Begin=1000.626|End=1001.020
-228-0	SPK0032	Continuing	228	болдым	болдым	linguistic			Begin=1001.020
-228-1	SPK0032	Continuing	228	әке,	әке	linguistic			End=1001.610
-229-0	SPK0032	Falling	229	мынау	мынау	linguistic			Begin=1001.620
-229-1	SPK0032	Falling	229	көп.	көп	linguistic			End=1002.380
-230-0	SPK0032	Continuing	230	Көп,	Көп	linguistic			Begin=1002.380|End=1002.728
-231-0	SPK0032	Continuing	231	әрең,	әрең	linguistic			Begin=1002.728|End=1003.390
-232-0	SPK0032	Falling	232	жеп	жеп	linguistic			Begin=1003.390
-232-1	SPK0032	Falling	232	отырмын	отырмын	linguistic			
-232-2	SPK0032	Falling	232	##.	##	unknown			End=1004.697
-233-0	SPK0032	Falling	233	Дәмі	Дәмі	linguistic			Begin=1006.950
-233-1	SPK0032	Falling	233	жақсы	жақсы	linguistic			
-233-2	SPK0032	Falling	233	екен.	екен	linguistic			End=1008.700
-234-0	SPK0027	Rising	234	Жақсы	Жақсы	linguistic			Begin=1008.768
-234-1	SPK0027	Rising	234	ма?	ма	linguistic			End=1009.727
-235-0	SPK0032	Falling	235	Мхм.	Мхм	linguistic			Begin=1009.847|End=1010.258
-236-0	SPK0027	Continuing	236	Жаңағы	Жаңағы	linguistic			Begin=1010.660
-236-1	SPK0027	Continuing	236	приправалар	приправалар	linguistic			
-236-2	SPK0027	Continuing	236	ғой,	ғой	linguistic			End=1012.310
-237-0	SPK0027	Falling	237	сол	сол	linguistic			Begin=1012.310
-237-1	SPK0027	Falling	237	дәмін	дәмін	linguistic			
-237-2	SPK0027	Falling	237	келтіріп	келтіріп	linguistic			
-237-3	SPK0027	Falling	237	тұр.	тұр	linguistic			End=1013.462
-238-0	SPK0032	Continuing	238	¬Асыл	Асыл	linguistic		Anonymized=Yes	Begin=1036.700
-238-1	SPK0032	Continuing	238	ана,	ана	linguistic			End=1037.280
-239-0	SPK0032	Falling	239	Қалжырдағы	Қалжырдағы	linguistic			Begin=1037.280
-239-1	SPK0032	Falling	239	үйді	үйді	linguistic			
-239-2	SPK0032	Falling	239	көрсетіп	көрсетіп	linguistic			
-239-3	SPK0032	Falling	239	отырған	отырған	linguistic			
-239-4	SPK0032	Falling	239	маған.	маған	linguistic			End=1039.382
-240-0	SPK0027	Falling	240	Аa:.	Аa	linguistic		Prolongation=1	Begin=1039.606|End=1040.918
-241-0	SPK0032	Continuing	241	Е	Е	linguistic			Begin=1041.375
-241-1	SPK0032	Continuing	241	құдай,	құдай	linguistic			End=1042.775
-242-0	SPK0032	Falling	242	атамдар	атамдар	linguistic			Begin=1043.763
-242-1	SPK0032	Falling	242	қандай	қандай	linguistic			
-242-2	SPK0032	Falling	242	бай	бай	linguistic			
-242-3	SPK0032	Falling	242	тұрады	тұрады	linguistic			
-242-4	SPK0032	Falling	242	дейді.	дейді	linguistic			End=1045.390
-243-0	SPK0032	Falling	243	Қораларын	Қораларын	linguistic			Begin=1045.401
-243-1	SPK0032	Falling	243	қарашы	қарашы	linguistic			
-243-2	SPK0032	Falling	243	дейді.	дейді	linguistic			End=1046.713
-244-0	SPK0032	Falling	244	Қайда	Қайда	linguistic			Begin=1047.670
-244-1	SPK0032	Falling	244	сендердің	сендердің	linguistic			
-244-2	SPK0032	Falling	244	тойларың	тойларың	linguistic			
-244-3	SPK0032	Falling	244	дейді	дейді	linguistic			
-244-4	SPK0032	Falling	244	әуелі.	әуелі	linguistic			End=1050.420
-245-0	SPK0027	Falling	245	М:.	М	linguistic		Prolongation=0	Begin=1049.420|End=1050.600
-246-0	SPK0027	Falling	246	Ертең	Ертең	linguistic			Begin=1072.197
-246-1	SPK0027	Falling	246	қыздың	қыздың	linguistic			
-246-2	SPK0027	Falling	246	документін	документін	linguistic			
-246-3	SPK0027	Falling	246	өткізе	өткізе	linguistic			
-246-4	SPK0027	Falling	246	беріңдер	беріңдер	linguistic			
-246-5	SPK0027	Falling	246	деп	деп	linguistic			
-246-6	SPK0027	Falling	246	жатыр.	жатыр	linguistic			End=1074.390
-247-0	SPK0027	Falling	247	Ертең	Ертең	linguistic			Begin=1074.390
-247-1	SPK0027	Falling	247	соны	соны	linguistic			
-247-2	SPK0027	Falling	247	өткізіп	өткізіп	linguistic			
-247-3	SPK0027	Falling	247	келемін.	келемін	linguistic			End=1075.731
-248-0	SPK0032	Continuing	248	Е:	Е	linguistic		Prolongation=0	Begin=1080.370
-248-1	SPK0032	Continuing	248	балаларға	балаларға	linguistic			
-248-2	SPK0032	Continuing	248	ма,	ма	linguistic			End=1081.539
-249-0	SPK0032	Rising	249	мектепке?	мектепке	linguistic			Begin=1081.551|End=1082.754
-250-0	SPK0027	Continuing	250	Иә	Иә	linguistic			Begin=1082.819
-250-1	SPK0027	Continuing	250	бағана,	бағана	linguistic			End=1083.660
-251-0	SPK0027	Falling	251	жазды	жазды	linguistic			Begin=1083.680
-251-1	SPK0027	Falling	251	ғой.	ғой	linguistic			End=1084.761
-252-0	SPK0027	Continuing	252	Дайындап	Дайындап	linguistic			Begin=1085.840
-252-1	SPK0027	Continuing	252	қойғанмын,	қойғанмын	linguistic			End=1086.920
-253-0	SPK0027	Falling	253	өткізіп	өткізіп	linguistic			Begin=1086.920
-253-1	SPK0027	Falling	253	тастамасам.	тастамасам	linguistic			End=1087.840
-254-0	SPK0027	Continuing	254	Жұмысқа	Жұмысқа	linguistic			Begin=1088.080
-254-1	SPK0027	Continuing	254	шығып	шығып	linguistic			
-254-2	SPK0027	Continuing	254	кетсем,	кетсем	linguistic			End=1089.188
-255-0	SPK0027	Falling	255	өткізілмей	өткізілмей	linguistic			Begin=1089.190
-255-1	SPK0027	Falling	255	қалады	қалады	linguistic			
-255-2	SPK0027	Falling	255	содан	содан	linguistic			
-255-3	SPK0027	Falling	255	кейін.	кейін	linguistic			End=1090.316
-256-0	SPK0027	Continuing	256	Күнде	Күнде	linguistic			Begin=1090.316
-256-1	SPK0027	Continuing	256	әне,	әне	linguistic			End=1090.980
-257-0	SPK0027	Falling	257	күнде	күнде	linguistic			Begin=1090.980
-257-1	SPK0027	Falling	257	міне.	міне	linguistic			End=1092.120
-258-0	SPK0032	Rising	258	Сен	Сен	linguistic			Begin=1091.450
-258-1	SPK0032	Rising	258	қашан	қашан	linguistic			
-258-2	SPK0032	Rising	258	шығайын	шығайын	linguistic			
-258-3	SPK0032	Rising	258	деп	деп	linguistic			
-258-4	SPK0032	Rising	258	едің?	едің	linguistic			End=1092.250
-259-0	SPK0032	Rising	259	Таяп	Таяп	linguistic			Begin=1092.250
-259-1	SPK0032	Rising	259	қалды?	қалды	linguistic			End=1093.273
-260-0	SPK0027	Falling	260	Жиырма	Жиырма	linguistic			Begin=1093.282
-260-1	SPK0027	Falling	260	бірінде	бірінде	linguistic			
-260-2	SPK0027	Falling	260	шығамын.	шығамын	linguistic			End=1094.829
-261-0	SPK0032	Continuing	261	Ондай	Ондай	linguistic			Begin=1095.752
-261-1	SPK0032	Continuing	261	болып	болып	linguistic			
-261-2	SPK0032	Continuing	261	қояды	қояды	linguistic			
-261-3	SPK0032	Continuing	261	ғой,	ғой	linguistic			End=1096.792
-262-0	SPK0032	Falling	262	уақыт	уақыт	linguistic			Begin=1096.792
-262-1	SPK0032	Falling	262	өтіп	өтіп	linguistic			
-262-2	SPK0032	Falling	262	кетеді.	кетеді	linguistic			End=1098.017
-263-0	SPK0032	Continuing	263	А	А	linguistic			Begin=1102.150
-263-1	SPK0032	Continuing	263	қырық	қырық	linguistic			
-263-2	SPK0032	Continuing	263	шелпекке	шелпекке	linguistic			
-263-3	SPK0032	Continuing	263	дейін,	дейін	linguistic			End=1103.410
-264-0	SPK0032	Rising	264	істетіп	істетіп	linguistic			Begin=1103.410
-264-1	SPK0032	Rising	264	қоясың	қоясың	linguistic			
-264-2	SPK0032	Rising	264	ба?	ба	linguistic			End=1104.622
-265-0	SPK0027	Falling	265	Қайдағы	Қайдағы	linguistic			Begin=1104.959
-265-1	SPK0027	Falling	265	қырық	қырық	linguistic			
-265-2	SPK0027	Falling	265	шелпек.	шелпек	linguistic			End=1106.609
-266-0	SPK0032	Falling	266	Өй	Өй	linguistic			Begin=1106.670
-266-1	SPK0032	Falling	266	әгі	әгі	linguistic			
-266-2	SPK0032	Falling	266	кіти	кіти	linguistic			
-266-3	SPK0032	Falling	266	ұлдың.	ұлдың	linguistic			End=1108.217
-267-0	SPK0027	Falling	267	Ол	Ол	linguistic			Begin=1108.464
-267-1	SPK0027	Falling	267	қашан	қашан	linguistic			
-267-2	SPK0027	Falling	267	болады	болады	linguistic			
-267-3	SPK0027	Falling	267	екен.	екен	linguistic			End=1109.532
-268-0	SPK0032	Falling	268	А.	А	linguistic			Begin=1109.690|End=1110.150
-269-0	SPK0027	Falling	269	Онікі	Онікі	linguistic			Begin=1109.960
-269-1	SPK0027	Falling	269	қашан.	қашан	linguistic			End=1111.279
-270-0	SPK0032	Continuing	270	Жоқ	Жоқ	linguistic			Begin=1111.670
-270-1	SPK0032	Continuing	270	енді	енді	linguistic			
-270-2	SPK0032	Continuing	270	әгі:,	әгі	linguistic		Prolongation=2	End=1112.790
-271-0	SPK0032	Falling	271	есептеп	есептеп	linguistic			Begin=1112.790
-271-1	SPK0032	Falling	271	сол	сол	linguistic			
-271-2	SPK0032	Falling	271	уақта	уақта	linguistic			
-271-3	SPK0032	Falling	271	бере	бере	linguistic			
-271-4	SPK0032	Falling	271	қойса	қойса	linguistic			
-271-5	SPK0032	Falling	271	деймін.	деймін	linguistic			End=1115.068
-272-0	SPK0027	Falling	272	Бермейтін	Бермейтін	linguistic			Begin=1116.508
-272-1	SPK0027	Falling	272	шығар	шығар	linguistic			
-272-2	SPK0027	Falling	272	олар	олар	linguistic			
-272-3	SPK0027	Falling	272	##.	##	unknown			End=1118.460
-273-0	SPK0027	Falling	273	Жай	Жай	linguistic			Begin=1119.900
-273-1	SPK0027	Falling	273	бара	бара	linguistic			
-273-2	SPK0027	Falling	273	салу	салу	linguistic			
-273-3	SPK0027	Falling	273	керек	керек	linguistic			
-273-4	SPK0027	Falling	273	оларға.	оларға	linguistic			End=1121.860
-274-0	SPK0027	Falling	274	Үйде	Үйде	linguistic			Begin=1123.540
-274-1	SPK0027	Falling	274	сабақ	сабақ	linguistic			
-274-2	SPK0027	Falling	274	беріп	беріп	linguistic			
-274-3	SPK0027	Falling	274	жүр	жүр	linguistic			
-274-4	SPK0027	Falling	274	екен	екен	linguistic			
-274-5	SPK0027	Falling	274	ғой	ғой	linguistic			
-274-6	SPK0027	Falling	274	ол.	ол	linguistic			End=1125.070
-275-0	SPK0027	Falling	275	Кіти	Кіти	linguistic			Begin=1125.070
-275-1	SPK0027	Falling	275	балаларға.	балаларға	linguistic			End=1125.890
-276-0	SPK0032	Falling	276	Кім.	Кім	linguistic			Begin=1125.540|End=1125.870
-277-0	SPK0027	Falling	277	¬Гүлжанат.	Гүлжанат	linguistic		Anonymized=Yes	Begin=1125.890|End=1126.898
-278-0	SPK0027	Falling	278	Ақша	Ақша	linguistic			Begin=1126.898
-278-1	SPK0027	Falling	278	тауып.	тауып	linguistic			End=1128.000
-279-0	SPK0032	Falling	279	Енді	Енді	linguistic			Begin=1127.694
-279-1	SPK0032	Falling	279	қайтеді.	қайтеді	linguistic			End=1129.310
-280-0	SPK0027	Continuing	280	Үйге	Үйге	linguistic			Begin=1128.960
-280-1	SPK0027	Continuing	280	мұға-	мұға	linguistic		Interrupted=Yes	
-280-2	SPK0027	Continuing	280	бала-,	бала	linguistic		Interrupted=Yes	End=1129.890
-281-0	SPK0027	Continuing	281	бала-	бала	linguistic	_	Interrupted=Yes	Begin=1129.890
-281-1	SPK0027	Continuing	281	балаларды	балаларды	linguistic	_		End=1130.582
-282-0	SPK0027	Continuing	282	үйретіп,	үйретіп	linguistic			Begin=1130.582|End=1130.910
-283-0	SPK0027	Falling	283	бірінші	бірінші	linguistic			Begin=1130.910
-283-1	SPK0027	Falling	283	классқа	классқа	linguistic			
-283-2	SPK0027	Falling	283	дайындап.	дайындап	linguistic			End=1132.475
-284-0	SPK0032	Falling	284	Е:.	Е	linguistic		Prolongation=0	Begin=1132.120|End=1132.834
-285-0	SPK0032	Continuing	285	Өзі	Өзі	linguistic			Begin=1132.834
-285-1	SPK0032	Continuing	285	ылғи	ылғи	linguistic			
-285-2	SPK0032	Continuing	285	бір,	бір	linguistic			End=1133.775
-286-0	SPK0032	Falling	286	бірінші	бірінші	linguistic			Begin=1133.775
-286-1	SPK0032	Falling	286	классты	классты	linguistic			
-286-2	SPK0032	Falling	286	алмай	алмай	linguistic			
-286-3	SPK0032	Falling	286	ма.	ма	linguistic			End=1135.257
-287-0	SPK0027	Continuing	287	Жо:қ,	Жоқ	linguistic		Prolongation=1	Begin=1135.570|End=1136.290
-288-0	SPK0027	Continuing	288	бірінші	бірінші	linguistic			Begin=1136.290
-288-1	SPK0027	Continuing	288	класс	класс	linguistic			
-288-2	SPK0027	Continuing	288	причем	причем	linguistic			
-288-3	SPK0027	Continuing	288	тут,	тут	linguistic			End=1137.330
-289-0	SPK0027	Continuing	289	бірінші	бірінші	linguistic			Begin=1137.430
-289-1	SPK0027	Continuing	289	класс	класс	linguistic			
-289-2	SPK0027	Continuing	289	алған,	алған	linguistic			End=1138.700
-290-0	SPK0027	Continuing	290	просто	просто	linguistic			Begin=1138.700
-290-1	SPK0027	Continuing	290	балаларды	балаларды	linguistic			
-290-2	SPK0027	Continuing	290	мектепке	мектепке	linguistic			
-290-3	SPK0027	Continuing	290	дайындап,	дайындап	linguistic			End=1140.260
-291-0	SPK0027	Continuing	291	ақша,	ақша	linguistic			Begin=1140.260|End=1140.670
-292-0	SPK0027	Continuing	292	жасап	жасап	linguistic			Begin=1140.690
-292-1	SPK0027	Continuing	292	жүр	жүр	linguistic			
-292-2	SPK0027	Continuing	292	үйде	үйде	linguistic			
-292-3	SPK0027	Continuing	292	сөйтіп,	сөйтіп	linguistic			End=1141.870
-293-0	SPK0027	Falling	293	репетитор	репетитор	linguistic			Begin=1141.870
-293-1	SPK0027	Falling	293	болып.	болып	linguistic			End=1143.457
-294-0	SPK0032	Falling	294	Енді	Енді	linguistic			Begin=1149.070
-294-1	SPK0032	Falling	294	қайтеді.	қайтеді	linguistic			End=1150.902
-295-0	SPK0032	Continuing	295	¬Аяна	Аяна	linguistic		Anonymized=Yes	Begin=1156.486
-295-1	SPK0032	Continuing	295	дейді,	дейді	linguistic			End=1157.043
-296-0	SPK0032	Continuing	296	неде	неде	linguistic			Begin=1157.043
-296-1	SPK0032	Continuing	296	деді,	деді	linguistic			End=1157.539
-297-0	SPK0032	Falling	297	лагерьде	лагерьде	linguistic			Begin=1157.539
-297-1	SPK0032	Falling	297	деді.	деді	linguistic			End=1158.997
-298-0	SPK0027	Falling	298	Келіп	Келіп	linguistic			Begin=1157.890
-298-1	SPK0027	Falling	298	қойған	қойған	linguistic			
-298-2	SPK0027	Falling	298	ол.	ол	linguistic			End=1159.113
-299-0	SPK0032	Continuing	299	¬Сәкөш	Сәкөш	linguistic		Anonymized=Yes	Begin=1163.305
-299-1	SPK0032	Continuing	299	¬Сәкөш	Сәкөш	linguistic		Anonymized=Yes	
-299-2	SPK0032	Continuing	299	ә-,	ә	linguistic		Interrupted=Yes	End=1165.385
-300-0	SPK0032	Continuing	300	а	а	linguistic			Begin=1165.385
-300-1	SPK0032	Continuing	300	әгі	әгі	linguistic			
-300-2	SPK0032	Continuing	300	кім	кім	linguistic			
-300-3	SPK0032	Continuing	300	айтады	айтады	linguistic			
-300-4	SPK0032	Continuing	300	оны,	оны	linguistic			End=1166.529
-301-0	SPK0027	Rising	301	¬Дәкөш?	Дәкөш	linguistic		Anonymized=Yes	Begin=1168.399|End=1169.238
-302-0	SPK0032	Falling	302	¬Дәкөш	Дәкөш	linguistic		Anonymized=Yes	Begin=1169.200
-302-1	SPK0032	Falling	302	айтады.	айтады	linguistic			End=1170.424
-303-0	SPK0032	Falling	303	Бірі	Бірі	linguistic			Begin=1171.076
-303-1	SPK0032	Falling	303	күні	күні	linguistic			
-303-2	SPK0032	Falling	303	кеткен	кеткен	linguistic			
-303-3	SPK0032	Falling	303	деп.	деп	linguistic			End=1172.917
-304-0	SPK0032	Continuing	304	Мен	Мен	linguistic			Begin=1174.365
-304-1	SPK0032	Continuing	304	содан	содан	linguistic			
-304-2	SPK0032	Continuing	304	кейін,	кейін	linguistic			End=1174.887
-305-0	SPK0032	Continuing	305	мен	мен	linguistic			Begin=1174.887
-305-1	SPK0032	Continuing	305	¬Гүлжанат	Гүлжанат	linguistic		Anonymized=Yes	
-305-2	SPK0032	Continuing	305	та	та	linguistic			
-305-3	SPK0032	Continuing	305	барып	барып	linguistic			
-305-4	SPK0032	Continuing	305	жүруші	жүруші	linguistic			
-305-5	SPK0032	Continuing	305	еді	еді	linguistic			
-305-6	SPK0032	Continuing	305	ғой,	ғой	linguistic			End=1176.780
-306-0	SPK0032	Falling	306	өзі	өзі	linguistic			Begin=1176.780
-306-1	SPK0032	Falling	306	де	де	linguistic			
-306-2	SPK0032	Falling	306	кетті	кетті	linguistic			
-306-3	SPK0032	Falling	306	ме	ме	linguistic			
-306-4	SPK0032	Falling	306	дедім.	дедім	linguistic			End=1177.863
-307-0	SPK0027	Continuing	307	Жо:қ,	Жоқ	linguistic		Prolongation=1	Begin=1177.639|End=1178.391
-308-0	SPK0027	Continuing	308	¬Гүлжанат	Гүлжанат	linguistic		Anonymized=Yes	Begin=1183.064
-308-1	SPK0027	Continuing	308	ол,	ол	linguistic			End=1183.458
-309-0	SPK0027	Falling	309	мектептің	мектептің	linguistic			Begin=1183.458
-309-1	SPK0027	Falling	309	лагеріне	лагеріне	linguistic			
-309-2	SPK0027	Falling	309	баратын.	баратын	linguistic			End=1184.815
-310-0	SPK0027	Falling	310	Қазір	Қазір	linguistic			Begin=1184.815
-310-1	SPK0027	Falling	310	мектептің	мектептің	linguistic			
-310-2	SPK0027	Falling	310	лагері	лагері	linguistic			
-310-3	SPK0027	Falling	310	жоқ.	жоқ	linguistic			End=1186.869
-311-0	SPK0032	Rising	311	Енді	Енді	linguistic			Begin=1189.185
-311-1	SPK0032	Rising	311	ана	ана	linguistic			
-311-2	SPK0032	Rising	311	жаққа	жаққа	linguistic			
-311-3	SPK0032	Rising	311	ауысатын	ауысатын	linguistic			
-311-4	SPK0032	Rising	311	шығар	шығар	linguistic			
-311-5	SPK0032	Rising	311	иә?	иә	linguistic			End=1191.191
-312-0	SPK0027	Falling	312	Білмеймін	Білмеймін	linguistic			Begin=1192.002
-312-1	SPK0027	Falling	312	соны.	соны	linguistic			End=1193.284
-313-0	SPK0032	Falling	313	Жақын	Жақын	linguistic			Begin=1192.671
-313-1	SPK0032	Falling	313	жерге.	жерге	linguistic			End=1193.893
-314-0	SPK0027	Falling	314	Орын	Орын	linguistic			Begin=1194.180
-314-1	SPK0027	Falling	314	болса	болса	linguistic			
-314-2	SPK0027	Falling	314	ауысады.	ауысады	linguistic			End=1195.804
+token_id	speaker	iu_type	iu_id	tu_id	span	form	type	modality	features	align
+0-0	SPK0014	Rising	0	0	Ішті?	Ішті	linguistic	_	_	Begin=0.87|End=1.88
+1-0	SPK0014	Falling	1	1	Тамақ	Тамақ	linguistic	_	_	Begin=1.89
+1-1	SPK0014	Falling	1	1	ішті	ішті	linguistic	_	_	_
+1-2	SPK0014	Falling	1	1	ғой.	ғой	linguistic	_	_	End=2.803
+2-0	SPK0032	Rising	2	2	Е:?	Е	linguistic	_	Prolongation=0	Begin=2.87|End=3.867
+3-0	SPK0027	Rising	3	3	Тары	Тары	linguistic	_	_	Begin=12.648
+3-1	SPK0027	Rising	3	3	жейсің	жейсің	linguistic	_	_	_
+3-2	SPK0027	Rising	3	3	бе?	бе	linguistic	_	_	End=13.714
+4-0	SPK0032	Continuing	4	4	Ой	Ой	linguistic	_	_	Begin=14.251
+4-1	SPK0032	Continuing	4	4	Алла-ау,	Алла-ау	linguistic	_	_	End=14.897
+5-0	SPK0032	Continuing	5	4	менің	менің	linguistic	_	_	Begin=14.897
+5-1	SPK0032	Continuing	5	4	тарым	тарым	linguistic	_	_	_
+5-2	SPK0032	Continuing	5	4	ба	ба	linguistic	_	_	_
+5-3	SPK0032	Continuing	5	4	мынау,	мынау	linguistic	_	_	End=15.89
+6-0	SPK0032	Falling	6	5	таңертей	таңертей	linguistic	_	_	Begin=15.902
+6-1	SPK0032	Falling	6	5	жеймін.	жеймін	linguistic	_	_	End=16.841
+7-0	SPK0032	Rising	7	6	Мына	Мына	linguistic	_	_	Begin=17.511
+7-1	SPK0032	Rising	7	6	құрлы	құрлы	linguistic	_	_	_
+7-2	SPK0032	Rising	7	6	тамақпен	тамақпен	linguistic	_	_	_
+7-3	SPK0032	Rising	7	6	қайтіп	қайтіп	linguistic	_	_	_
+7-4	SPK0032	Rising	7	6	жеймін?	жеймін	linguistic	_	_	End=19.04
+8-0	SPK0032	Falling	8	6	Қарғам.	Қарғам	linguistic	_	_	Begin=19.04|End=19.876
+9-0	SPK0027	undefined	9	_	(Hx)	(Hx)	exhale	_	_	Begin=37.214|End=38.217
+10-0	SPK0032	Rising	10	7	Мынаны	Мынаны	linguistic	_	_	Begin=58.18
+10-1	SPK0032	Rising	10	7	араластыра	араластыра	linguistic	_	_	_
+10-2	SPK0032	Rising	10	7	ма?	ма	linguistic	_	_	End=59.183
+11-0	SPK0032	Falling	11	7	Бүйтіп.	Бүйтіп	linguistic	_	_	Begin=59.183|End=60.07
+12-0	SPK0027	Interrupted	12	8	Жей	Жей	linguistic	_	_	Begin=60.258
+12-1	SPK0027	Interrupted	12	8	бер	бер	linguistic	_	_	_
+12-2	SPK0027	Interrupted	12	8	ара-	ара-	linguistic	_	Interrupted=Yes	End=61.275
+13-0	SPK0027	Falling	13	9	Мхм.	Мхм	linguistic	_	_	Begin=61.855|End=62.746
+14-0	SPK0032	Rising	14	10	Шелпекті	Шелпекті	linguistic	_	_	Begin=62.659
+14-1	SPK0032	Rising	14	10	қарашы?	қарашы	linguistic	_	_	End=64.104
+15-0	SPK0027	Continuing	15	11	Бүйтіп	Бүйтіп	linguistic	_	_	Begin=67.13
+15-1	SPK0027	Continuing	15	11	ора	ора	linguistic	_	_	_
+15-2	SPK0027	Continuing	15	11	да,	да	linguistic	_	_	End=68.769
+16-0	SPK0032	Falling	16	12	Мхм.	Мхм	linguistic	_	_	Begin=69.53|End=70.534
+17-0	SPK0027	Falling	17	11	бүйтіп	бүйтіп	linguistic	_	_	Begin=70.228
+17-1	SPK0027	Falling	17	11	же.	же	linguistic	_	_	End=70.947
+18-0	SPK0027	undefined	18	_	@@@	@@@	linguistic	_	_	Begin=77.34|End=79.17
+19-0	SPK0032	undefined	19	_	@@@	@@@	linguistic	_	_	Begin=78.677|End=80.01
+20-0	SPK0027	Falling	20	13	Шанши	Шанши	linguistic	_	_	Begin=82.74
+20-1	SPK0027	Falling	20	13	сал	сал	linguistic	_	_	_
+20-2	SPK0027	Falling	20	13	сөйтіп.	сөйтіп	linguistic	_	_	End=84.45
+21-0	SPK0027	Falling	21	14	Сала	Сала	linguistic	_	_	Begin=90.33
+21-1	SPK0027	Falling	21	14	сал	сал	linguistic	_	_	_
+21-2	SPK0027	Falling	21	14	аузыңа.	аузыңа	linguistic	_	_	End=91.442
+22-0	SPK0032	Continuing	22	15	Маған	Маған	linguistic	_	_	Begin=91.133
+22-1	SPK0032	Continuing	22	15	сендердің	сендердің	linguistic	_	_	_
+22-2	SPK0032	Continuing	22	15	ана	ана	linguistic	_	_	_
+22-3	SPK0032	Continuing	22	15	жақтағы	жақтағы	linguistic	_	_	_
+22-4	SPK0032	Continuing	22	15	үйлерің,	үйлерің	linguistic	_	_	End=92.978
+23-0	SPK0032	Falling	23	15	соны	соны	linguistic	_	_	Begin=92.978
+23-1	SPK0032	Falling	23	15	айтып	айтып	linguistic	_	_	_
+23-2	SPK0032	Falling	23	15	жатыр.	жатыр	linguistic	_	_	End=94.157
+24-0	SPK0032	Falling	24	16	Адамның	Адамның	linguistic	_	_	Begin=94.503
+24-1	SPK0032	Falling	24	16	үйі	үйі	linguistic	_	_	_
+24-2	SPK0032	Falling	24	16	ыстық	ыстық	linguistic	_	_	_
+24-3	SPK0032	Falling	24	16	қой.	қой	linguistic	_	_	End=95.985
+25-0	SPK0032	Falling	25	17	Атаңды	Атаңды	linguistic	_	_	Begin=97.096
+25-1	SPK0032	Falling	25	17	айтамын.	айтамын	linguistic	_	_	End=98.315
+26-0	SPK0027	Falling	26	18	Е:.	Е	linguistic	_	Prolongation=0	Begin=98.846|End=99.765
+27-0	SPK0032	Falling	27	_	#####.	#####	unknown	_	_	Begin=99.845|End=101.337
+28-0	SPK0032	Falling	28	_	#####.	#####	unknown	_	_	Begin=101.354|End=103.025
+29-0	SPK0027	Falling	29	19	Е:.	Е	linguistic	_	Prolongation=0	Begin=104.53|End=105.495
+30-0	SPK0027	Falling	30	20	Сорпасынан	Сорпасынан	linguistic	_	_	Begin=124.13
+30-1	SPK0027	Falling	30	20	құяйын	құяйын	linguistic	_	_	_
+30-2	SPK0027	Falling	30	20	ба	ба	linguistic	_	_	_
+30-3	SPK0027	Falling	30	20	саған.	саған	linguistic	_	_	End=125.599
+31-0	SPK0027	Falling	31	21	Аз	Аз	linguistic	_	_	Begin=126.69
+31-1	SPK0027	Falling	31	21	болып	болып	linguistic	_	_	_
+31-2	SPK0027	Falling	31	21	кетіпті.	кетіпті	linguistic	_	_	End=127.62
+32-0	SPK0032	Falling	32	22	Жо	Жо	linguistic	_	_	Begin=127.744
+32-1	SPK0032	Falling	32	22	жо	жо	linguistic	_	_	_
+32-2	SPK0032	Falling	32	22	жо.	жо	linguistic	_	_	End=128.687
+33-0	SPK0032	Continuing	33	23	Ана	Ана	linguistic	_	_	Begin=147.972
+33-1	SPK0032	Continuing	33	23	кіти	кіти	linguistic	_	_	_
+33-2	SPK0032	Continuing	33	23	ұлың,	ұлың	linguistic	_	_	End=148.98
+34-0	SPK0032	Rising	34	24	үлкенің	үлкенің	linguistic	_	_	Begin=148.98
+34-1	SPK0032	Rising	34	24	ішпей	ішпей	linguistic	_	_	_
+34-2	SPK0032	Rising	34	24	ме	ме	linguistic	_	_	_
+34-3	SPK0032	Rising	34	24	әгі?	әгі	linguistic	_	_	End=150.209
+35-0	SPK0027	Falling	35	25	Ішіп	Ішіп	linguistic	_	_	Begin=150.249
+35-1	SPK0027	Falling	35	25	алған	алған	linguistic	_	_	_
+35-2	SPK0027	Falling	35	25	ол	ол	linguistic	_	_	_
+35-3	SPK0027	Falling	35	25	бағана.	бағана	linguistic	_	_	End=151.545
+36-0	SPK0032	Falling	36	26	Ана	Ана	linguistic	_	_	Begin=151.858
+36-1	SPK0032	Falling	36	26	Ташок	Ташок	linguistic	_	_	_
+36-2	SPK0032	Falling	36	26	ішті	ішті	linguistic	_	_	_
+36-3	SPK0032	Falling	36	26	ме.	ме	linguistic	_	_	End=153.018
+37-0	SPK0027	Falling	37	27	Ішті.	Ішті	linguistic	_	_	Begin=153.041|End=154.24
+38-0	SPK0032	Falling	38	28	Е:.	Е	linguistic	_	Prolongation=0	Begin=155.062|End=155.59
+39-0	SPK0032	Rising	39	_	########?	########	unknown	_	_	Begin=155.61|End=157.79
+40-0	SPK0027	Rising	40	29	М?	М	linguistic	_	_	Begin=157.856|End=158.439
+41-0	SPK0032	Continuing	41	30	Таңертеңнен,	Таңертеңнен	linguistic	_	_	Begin=158.771|End=159.53
+42-0	SPK0032	Falling	42	30	тамақ	тамақ	linguistic	_	_	Begin=159.53
+42-1	SPK0032	Falling	42	30	ішкен	ішкен	linguistic	_	_	_
+42-2	SPK0032	Falling	42	30	жоқ	жоқ	linguistic	_	_	_
+42-3	SPK0032	Falling	42	30	деймін.	деймін	linguistic	_	_	End=160.767
+43-0	SPK0027	Rising	43	31	Дәмі	Дәмі	linguistic	_	_	Begin=198.845
+43-1	SPK0027	Rising	43	31	қалай	қалай	linguistic	_	_	_
+43-2	SPK0027	Rising	43	31	екен?	екен	linguistic	_	_	End=199.756
+44-0	SPK0032	Falling	44	32	Әйбәт.	Әйбәт	linguistic	_	_	Begin=199.885|End=200.741
+45-0	SPK0027	Falling	45	33	Жеуі	Жеуі	linguistic	_	_	Begin=200.794
+45-1	SPK0027	Falling	45	33	қиын	қиын	linguistic	_	_	_
+45-2	SPK0027	Falling	45	33	екен	екен	linguistic	_	_	_
+45-3	SPK0027	Falling	45	33	деші.	деші	linguistic	_	_	End=202.024
+46-0	SPK0032	Continuing	46	34	Сен,	Сен	linguistic	_	_	Begin=203.625|End=204.23
+47-0	SPK0032	Falling	47	34	неше	неше	linguistic	_	_	Begin=204.23
+47-1	SPK0032	Falling	47	34	түрлі	түрлі	linguistic	_	_	_
+47-2	SPK0032	Falling	47	34	тамақ	тамақ	linguistic	_	_	_
+47-3	SPK0032	Falling	47	34	жасайсың.	жасайсың	linguistic	_	_	End=205.673
+48-0	SPK0027	Continuing	48	35	Мама	Мама	linguistic	_	_	Begin=211.158
+48-1	SPK0027	Continuing	48	35	сорпасының,	сорпасының	linguistic	_	_	End=211.976
+49-0	SPK0032	undefined	49	36	Вер–	Вер–	linguistic	_	_	Begin=211.711|End=212.17
+50-0	SPK0027	Continuing	50	35	дәмімен	дәмімен	linguistic	_	_	Begin=211.976
+50-1	SPK0027	Continuing	50	35	жесеңші,	жесеңші	linguistic	_	_	End=212.77
+51-0	SPK0032	Falling	51	36	вермешелін	вермешелін	linguistic	_	_	Begin=212.17
+51-1	SPK0032	Falling	51	36	қарашы	қарашы	linguistic	_	_	_
+51-2	SPK0032	Falling	51	36	міне.	міне	linguistic	_	_	End=213.763
+52-0	SPK0027	Falling	52	35	қасықпен.	қасықпен	linguistic	_	_	Begin=212.77|End=213.86
+53-0	SPK0027	Falling	53	37	Мә	Мә	linguistic	_	_	Begin=214.634
+53-1	SPK0027	Falling	53	37	ет	ет	linguistic	_	_	_
+53-2	SPK0027	Falling	53	37	же.	же	linguistic	_	_	End=215.157
+54-0	SPK0027	Falling	54	38	Тауықтың	Тауықтың	linguistic	_	_	Begin=215.157
+54-1	SPK0027	Falling	54	38	еті.	еті	linguistic	_	_	End=215.822
+55-0	SPK0027	Continuing	55	39	¬Алияның	Алияның	linguistic	_	Anonymized=Yes	Begin=232.976
+55-1	SPK0027	Continuing	55	39	келіні,	келіні	linguistic	_	_	End=234.37
+56-0	SPK0027	Falling	56	39	кіріп	кіріп	linguistic	_	_	Begin=234.37
+56-1	SPK0027	Falling	56	39	келе	келе	linguistic	_	_	_
+56-2	SPK0027	Falling	56	39	жатыр	жатыр	linguistic	_	_	_
+56-3	SPK0027	Falling	56	39	екен	екен	linguistic	_	_	_
+56-4	SPK0027	Falling	56	39	жаңа.	жаңа	linguistic	_	_	End=235.32
+57-0	SPK0027	Falling	57	39	¬Лаура.	Лаура	linguistic	_	Anonymized=Yes	Begin=235.32|End=235.978
+58-0	SPK0032	Falling	58	40	Е:.	Е	linguistic	_	Prolongation=0	Begin=236.12|End=236.833
+59-0	SPK0027	Continuing	59	41	Мамаң	Мамаң	linguistic	_	_	Begin=237.431
+59-1	SPK0027	Continuing	59	41	үйде	үйде	linguistic	_	_	_
+59-2	SPK0027	Continuing	59	41	ме	ме	linguistic	_	_	_
+59-3	SPK0027	Continuing	59	41	десем,	десем	linguistic	_	_	End=238.52
+60-0	SPK0027	Continuing	60	41	үйде,	үйде	linguistic	_	_	Begin=238.52|End=238.89
+61-0	SPK0027	Continuing	61	41	балалармен	балалармен	linguistic	_	_	Begin=238.89
+61-1	SPK0027	Continuing	61	41	отырған	отырған	linguistic	_	_	_
+61-2	SPK0027	Continuing	61	41	шығар,	шығар	linguistic	_	_	End=239.901
+62-0	SPK0027	Falling	62	42	балаларымды	балаларымды	linguistic	_	_	Begin=239.901
+62-1	SPK0027	Falling	62	42	алып	алып	linguistic	_	_	_
+62-2	SPK0027	Falling	62	42	кетуге	кетуге	linguistic	_	_	_
+62-3	SPK0027	Falling	62	42	келе	келе	linguistic	_	_	_
+62-4	SPK0027	Falling	62	42	жатырмын	жатырмын	linguistic	_	_	_
+62-5	SPK0027	Falling	62	42	дейді.	дейді	linguistic	_	_	End=242.013
+63-0	SPK0032	Continuing	63	43	Е:,	Е	linguistic	_	Prolongation=0	Begin=242.57|End=242.91
+64-0	SPK0032	Falling	64	43	осы	осы	linguistic	_	_	Begin=242.92
+64-1	SPK0032	Falling	64	43	үйде	үйде	linguistic	_	_	_
+64-2	SPK0032	Falling	64	43	екен	екен	linguistic	_	_	_
+64-3	SPK0032	Falling	64	43	ғой	ғой	linguistic	_	_	_
+64-4	SPK0032	Falling	64	43	балалары.	балалары	linguistic	_	_	End=244.231
+65-0	SPK0027	Falling	65	44	Таңертең	Таңертең	linguistic	_	_	Begin=244.52
+65-1	SPK0027	Falling	65	44	¬Жанат	Жанат	linguistic	_	Anonymized=Yes	_
+65-2	SPK0027	Falling	65	44	әкеліп	әкеліп	linguistic	_	_	_
+65-3	SPK0027	Falling	65	44	тастапты	тастапты	linguistic	_	_	_
+65-4	SPK0027	Falling	65	44	дейді.	дейді	linguistic	_	_	End=246.141
+66-0	SPK0032	Falling	66	45	М:.	М	linguistic	_	Prolongation=0	Begin=247.527|End=248.786
+67-0	SPK0027	Rising	67	46	М?	М	linguistic	_	_	Begin=248.34|End=249.46
+68-0	SPK0032	Rising	68	47	Көршің	Көршің	linguistic	_	_	Begin=249.8
+68-1	SPK0032	Rising	68	47	бе?	бе	linguistic	_	_	End=251.22
+69-0	SPK0027	Falling	69	48	Шал	Шал	linguistic	_	_	Begin=282.236
+69-1	SPK0027	Falling	69	48	тауып	тауып	linguistic	_	_	_
+69-2	SPK0027	Falling	69	48	алыпты	алыпты	linguistic	_	_	_
+69-3	SPK0027	Falling	69	48	ғой	ғой	linguistic	_	_	_
+69-4	SPK0027	Falling	69	48	мынау.	мынау	linguistic	_	_	End=283.692
+70-0	SPK0032	Interrupted	70	49	Шалмен-	Шалмен-	linguistic	_	Interrupted=Yes	Begin=283.527|End=284.208
+71-0	SPK0032	Rising	71	50	орыстар	орыстар	linguistic	_	_	Begin=284.23
+71-1	SPK0032	Rising	71	50	ма?	ма	linguistic	_	_	End=285.68
+72-0	SPK0027	Falling	72	51	Иә.	Иә	linguistic	_	_	Begin=287.35|End=288.48
+73-0	SPK0027	Falling	73	52	Көрші:.	Көрші	linguistic	_	Prolongation=4	Begin=292.811|End=293.986
+74-0	SPK0032	Falling	74	53	М:.	М	linguistic	_	Prolongation=0	Begin=296.74|End=297.982
+75-0	SPK0032	Interrupted	75	54	Екеуі	Екеуі	linguistic	_	_	Begin=299.373
+75-1	SPK0032	Interrupted	75	54	бір	бір	linguistic	_	_	_
+75-2	SPK0032	Interrupted	75	54	жерден	жерден	linguistic	_	_	_
+75-3	SPK0032	Interrupted	75	54	кел-	кел-	linguistic	_	Interrupted=Yes	End=300.31
+76-0	SPK0027	Falling	76	55	Қарама	Қарама	linguistic	_	_	Begin=299.437
+76-1	SPK0027	Falling	76	55	мама.	мама	linguistic	_	_	End=300.908
+77-0	SPK0032	Falling	77	56	А:.	А	linguistic	_	Prolongation=0	Begin=300.36|End=301.2
+78-0	SPK0027	Falling	78	57	Қарама.	Қарама	linguistic	_	_	Begin=301.117|End=302.025
+79-0	SPK0027	Falling	79	58	Ұят	Ұят	linguistic	_	_	Begin=302.783
+79-1	SPK0027	Falling	79	58	болады.	болады	linguistic	_	_	End=303.81
+80-0	SPK0027	Continuing	80	59	Мама	Мама	linguistic	_	_	Begin=306.58
+80-1	SPK0027	Continuing	80	59	бүйтіп,	бүйтіп	linguistic	_	_	End=307.49
+81-0	SPK0027	Continuing	81	59	іліп	іліп	linguistic	_	_	Begin=307.49
+81-1	SPK0027	Continuing	81	59	алсаң	алсаң	linguistic	_	_	_
+81-2	SPK0027	Continuing	81	59	да,	да	linguistic	_	_	End=308.152
+82-0	SPK0027	Falling	82	59	желінеді	желінеді	linguistic	_	_	Begin=308.152
+82-1	SPK0027	Falling	82	59	ғой.	ғой	linguistic	_	_	End=308.842
+83-0	SPK0032	Falling	83	60	Желінеді.	Желінеді	linguistic	_	_	Begin=309.78|End=310.592
+84-0	SPK0027	Continuing	84	61	Тарыны	Тарыны	linguistic	_	_	Begin=364.02
+84-1	SPK0027	Continuing	84	61	ұмытып	ұмытып	linguistic	_	_	_
+84-2	SPK0027	Continuing	84	61	кетіппін	кетіппін	linguistic	_	_	_
+84-3	SPK0027	Continuing	84	61	ғой,	ғой	linguistic	_	_	End=365.271
+85-0	SPK0027	Falling	85	61	саған	саған	linguistic	_	_	Begin=365.271
+85-1	SPK0027	Falling	85	61	бермей.	бермей	linguistic	_	_	End=365.885
+86-0	SPK0032	Rising	86	62	Баяғыдағы	Баяғыдағы	linguistic	_	_	Begin=366.905
+86-1	SPK0032	Rising	86	62	тарым	тарым	linguistic	_	_	_
+86-2	SPK0032	Rising	86	62	иә?	иә	linguistic	_	_	End=368.38
+87-0	SPK0027	Falling	87	63	Мхм.	Мхм	linguistic	_	_	Begin=368.33|End=369.21
+88-0	SPK0032	Continuing	88	64	Әлі	Әлі	linguistic	_	_	Begin=368.452
+88-1	SPK0032	Continuing	88	64	бар,	бар	linguistic	_	_	End=369.04
+89-0	SPK0032	Rising	89	65	сен	сен	linguistic	_	_	Begin=369.05
+89-1	SPK0032	Rising	89	65	жемейсің	жемейсің	linguistic	_	_	_
+89-2	SPK0032	Rising	89	65	иә?	иә	linguistic	_	_	End=370.272
+90-0	SPK0027	Falling	90	66	Анда:	Анда	linguistic	_	Prolongation=3	Begin=370.49
+90-1	SPK0027	Falling	90	66	санда.	санда	linguistic	_	_	End=371.471
+91-0	SPK0027	Continuing	91	67	Шал	Шал	linguistic	_	_	Begin=393.633
+91-1	SPK0027	Continuing	91	67	тауып	тауып	linguistic	_	_	_
+91-2	SPK0027	Continuing	91	67	алыпты,	алыпты	linguistic	_	_	End=394.793
+92-0	SPK0027	Falling	92	67	өзі.	өзі	linguistic	_	_	Begin=394.793|End=395.38
+93-0	SPK0032	Falling	93	68	Ау.	Ау	linguistic	_	_	Begin=395.38|End=396.063
+94-0	SPK0027	Falling	94	69	Шал	Шал	linguistic	_	_	Begin=396.178
+94-1	SPK0027	Falling	94	69	тауып	тауып	linguistic	_	_	_
+94-2	SPK0027	Falling	94	69	алыпты	алыпты	linguistic	_	_	_
+94-3	SPK0027	Falling	94	69	деймін.	деймін	linguistic	_	_	End=397.574
+95-0	SPK0032	Rising	95	70	Кемпір	Кемпір	linguistic	_	_	Begin=397.873
+95-1	SPK0032	Rising	95	70	ме?	ме	linguistic	_	_	End=398.863
+96-0	SPK0027	Falling	96	71	Сондай	Сондай	linguistic	_	_	Begin=404.008
+96-1	SPK0027	Falling	96	71	кемпір	кемпір	linguistic	_	_	_
+96-2	SPK0027	Falling	96	71	емес.	емес	linguistic	_	_	End=405.778
+97-0	SPK0027	Falling	97	72	¬Баяндар	Баяндар	linguistic	_	Anonymized=Yes	Begin=405.797
+97-1	SPK0027	Falling	97	72	шамалас.	шамалас	linguistic	_	_	End=406.896
+98-0	SPK0032	Falling	98	73	Е.	Е	linguistic	_	_	Begin=407.01|End=407.445
+99-0	SPK0032	Interrupted	99	74	Күйеуі	Күйеуі	linguistic	_	_	Begin=407.5
+99-1	SPK0032	Interrupted	99	74	анау	анау	linguistic	_	_	_
+99-2	SPK0032	Interrupted	99	74	күйеу-	күйеу-	linguistic	_	Interrupted=Yes	End=408.48
+100-0	SPK0032	Rising	100	74	шалы	шалы	linguistic	_	_	Begin=408.48
+100-1	SPK0032	Rising	100	74	ма?	ма	linguistic	_	_	End=409.086
+101-0	SPK0027	Falling	101	75	Солай	Солай	linguistic	_	_	Begin=409.441
+101-1	SPK0027	Falling	101	75	ғой	ғой	linguistic	_	_	_
+101-2	SPK0027	Falling	101	75	деймін.	деймін	linguistic	_	_	End=410.18
+102-0	SPK0027	Falling	102	76	Бұрын	Бұрын	linguistic	_	_	Begin=410.22
+102-1	SPK0027	Falling	102	76	жоқ	жоқ	linguistic	_	_	_
+102-2	SPK0027	Falling	102	76	болатын.	болатын	linguistic	_	_	End=411.33
+103-0	SPK0027	Rising	103	77	Картошкасы	Картошкасы	linguistic	_	_	Begin=430.87
+103-1	SPK0027	Rising	103	77	түспеп	түспеп	linguistic	_	_	_
+103-2	SPK0027	Rising	103	77	пе	пе	linguistic	_	_	_
+103-3	SPK0027	Rising	103	77	не	не	linguistic	_	_	_
+103-4	SPK0027	Rising	103	77	саған?	саған	linguistic	_	_	End=432.386
+104-0	SPK0032	Rising	104	78	М?	М	linguistic	_	_	Begin=433.23|End=433.99
+105-0	SPK0027	Rising	105	79	Картошкасы	Картошкасы	linguistic	_	_	Begin=433.462
+105-1	SPK0027	Rising	105	79	жоқ	жоқ	linguistic	_	_	_
+105-2	SPK0027	Rising	105	79	па?	па	linguistic	_	_	End=434.831
+106-0	SPK0032	Falling	106	80	Бар.	Бар	linguistic	_	_	Begin=434.782|End=435.466
+107-0	SPK0032	Continuing	107	80	Ет,	Ет	linguistic	_	_	Begin=435.586|End=435.905
+108-0	SPK0032	Falling	108	81	бар.	бар	linguistic	_	_	Begin=436.027|End=436.605
+109-0	SPK0027	Falling	109	82	Қасықпен	Қасықпен	linguistic	_	_	Begin=437.0
+109-1	SPK0027	Falling	109	82	жей	жей	linguistic	_	_	_
+109-2	SPK0027	Falling	109	82	бер	бер	linguistic	_	_	_
+109-3	SPK0027	Falling	109	82	мама.	мама	linguistic	_	_	End=439.23
+110-0	SPK0032	Continuing	110	83	Ананы,	Ананы	linguistic	_	_	Begin=439.34|End=440.49
+111-0	SPK0032	Continuing	111	83	қайнатқанды,	қайнатқанды	linguistic	_	_	Begin=441.55|End=442.81
+112-0	SPK0032	Rising	112	83	қойдың	қойдың	linguistic	_	_	Begin=442.81
+112-1	SPK0032	Rising	112	83	ба	ба	linguistic	_	_	_
+112-2	SPK0032	Rising	112	83	енді?	енді	linguistic	_	_	End=444.179
+113-0	SPK0027	Continuing	113	84	Қайнатамын	Қайнатамын	linguistic	_	_	Begin=444.198
+113-1	SPK0027	Continuing	113	84	қазір,	қазір	linguistic	_	_	End=445.801
+114-0	SPK0027	Continuing	114	85	бетінде,	бетінде	linguistic	_	_	Begin=447.05|End=447.85
+115-0	SPK0027	Continuing	115	85	көбігі	көбігі	linguistic	_	_	Begin=447.85
+115-1	SPK0027	Continuing	115	85	ғой	ғой	linguistic	_	_	_
+115-2	SPK0027	Continuing	115	85	деймін,	деймін	linguistic	_	_	End=448.51
+116-0	SPK0027	Falling	116	85	анау	анау	linguistic	_	_	Begin=448.51
+116-1	SPK0027	Falling	116	85	ұқсап	ұқсап	linguistic	_	_	_
+116-2	SPK0027	Falling	116	85	тұрған.	тұрған	linguistic	_	_	End=449.63
+117-0	SPK0032	Continuing	117	86	Мхм,	Мхм	linguistic	_	_	Begin=449.87|End=450.4
+118-0	SPK0032	Rising	118	87	қалың	қалың	linguistic	_	_	Begin=450.42
+118-1	SPK0032	Rising	118	87	болып	болып	linguistic	_	_	_
+118-2	SPK0032	Rising	118	87	тұр	тұр	linguistic	_	_	_
+118-3	SPK0032	Rising	118	87	иә?	иә	linguistic	_	_	End=451.28
+119-0	SPK0032	Falling	119	87	қаймақ	қаймақ	linguistic	_	_	Begin=451.28
+119-1	SPK0032	Falling	119	87	ұқсап.	ұқсап	linguistic	_	_	End=452.15
+120-0	SPK0027	Rising	120	88	Картошка	Картошка	linguistic	_	_	Begin=469.3
+120-1	SPK0027	Rising	120	88	салып	салып	linguistic	_	_	_
+120-2	SPK0027	Rising	120	88	берейін	берейін	linguistic	_	_	_
+120-3	SPK0027	Rising	120	88	бе?	бе	linguistic	_	_	End=471.27
+121-0	SPK0032	Falling	121	89	Болды.	Болды	linguistic	_	_	Begin=472.264|End=473.343
+122-0	SPK0032	Falling	122	90	Картошкасы	Картошкасы	linguistic	_	_	Begin=477.034
+122-1	SPK0032	Falling	122	90	бар.	бар	linguistic	_	_	End=478.133
+123-0	SPK0027	Falling	123	91	Бүгін	Бүгін	linguistic	_	_	Begin=497.32
+123-1	SPK0027	Falling	123	91	тоқыма	тоқыма	linguistic	_	_	_
+123-2	SPK0027	Falling	123	91	тоқымадың	тоқымадың	linguistic	_	_	_
+123-3	SPK0027	Falling	123	91	ғой.	ғой	linguistic	_	_	End=499.71
+124-0	SPK0032	Falling	124	92	М.	М	linguistic	_	_	Begin=499.97|End=500.79
+125-0	SPK0027	Rising	125	93	Тоқитыныңды	Тоқитыныңды	linguistic	_	_	Begin=500.909
+125-1	SPK0027	Rising	125	93	алып	алып	linguistic	_	_	_
+125-2	SPK0027	Rising	125	93	келіп	келіп	linguistic	_	_	_
+125-3	SPK0027	Rising	125	93	пе	пе	linguistic	_	_	_
+125-4	SPK0027	Rising	125	93	едің?	едің	linguistic	_	_	End=502.01
+126-0	SPK0032	Continuing	126	94	Алып	Алып	linguistic	_	_	Begin=503.27
+126-1	SPK0032	Continuing	126	94	келгенмін,	келгенмін	linguistic	_	_	End=504.27
+127-0	SPK0032	Continuing	127	95	ананы	ананы	linguistic	_	_	Begin=504.27
+127-1	SPK0032	Continuing	127	95	өлшеп	өлшеп	linguistic	_	_	_
+127-2	SPK0032	Continuing	127	95	алып,	алып	linguistic	_	_	End=505.04
+128-0	SPK0032	Falling	128	95	мынаны	мынаны	linguistic	_	_	Begin=505.06
+128-1	SPK0032	Falling	128	95	не	не	linguistic	_	_	_
+128-2	SPK0032	Falling	128	95	етіп	етіп	linguistic	_	_	_
+128-3	SPK0032	Falling	128	95	аламын	аламын	linguistic	_	_	_
+128-4	SPK0032	Falling	128	95	деп.	деп	linguistic	_	_	End=505.82
+129-0	SPK0032	Falling	129	95	Тоқимын	Тоқимын	linguistic	_	_	Begin=505.82
+129-1	SPK0032	Falling	129	95	деп.	деп	linguistic	_	_	End=506.937
+130-0	SPK0027	Continuing	130	96	Телевизордың	Телевизордың	linguistic	_	_	Begin=506.847
+130-1	SPK0027	Continuing	130	96	артында,	артында	linguistic	_	_	End=507.77
+131-0	SPK0027	Falling	131	96	өлшейтін.	өлшейтін	linguistic	_	_	Begin=507.77|End=508.6
+132-0	SPK0027	Falling	132	97	Қай	Қай	linguistic	_	_	Begin=510.51
+132-1	SPK0027	Falling	132	97	жерде	жерде	linguistic	_	_	_
+132-2	SPK0027	Falling	132	97	еді	еді	linguistic	_	_	_
+132-3	SPK0027	Falling	132	97	өзі.	өзі	linguistic	_	_	End=511.84
+133-0	SPK0032	Continuing	133	98	Инемді:,	Инемді	linguistic	_	Prolongation=5	Begin=511.25|End=512.193
+134-0	SPK0032	Continuing	134	98	бір,	бір	linguistic	_	_	Begin=512.193|End=512.611
+135-0	SPK0032	Falling	135	98	қалған	қалған	linguistic	_	_	Begin=512.611
+135-1	SPK0032	Falling	135	98	жіптерді	жіптерді	linguistic	_	_	_
+135-2	SPK0032	Falling	135	98	алып	алып	linguistic	_	_	_
+135-3	SPK0032	Falling	135	98	келгенмін.	келгенмін	linguistic	_	_	End=514.012
+136-0	SPK0032	Falling	136	99	Көлденең	Көлденең	linguistic	_	_	Begin=519.48
+136-1	SPK0032	Falling	136	99	мынамен	мынамен	linguistic	_	_	_
+136-2	SPK0032	Falling	136	99	бірдей	бірдей	linguistic	_	_	_
+136-3	SPK0032	Falling	136	99	қылып	қылып	linguistic	_	_	_
+136-4	SPK0032	Falling	136	99	тоқимын.	тоқимын	linguistic	_	_	End=521.54
+137-0	SPK0032	Continuing	137	100	Ана,	Ана	linguistic	_	_	Begin=521.55|End=522.372
+138-0	SPK0032	Continuing	138	100	ұзыныңды	ұзыныңды	linguistic	_	_	Begin=522.414
+138-1	SPK0032	Continuing	138	100	ары	ары	linguistic	_	_	_
+138-2	SPK0032	Continuing	138	100	қарай,	қарай	linguistic	_	_	End=523.29
+139-0	SPK0032	Continuing	139	100	шығарыңқырап,	шығарыңқырап	linguistic	_	_	Begin=523.29|End=524.054
+140-0	SPK0032	Falling	140	100	сол	сол	linguistic	_	_	Begin=524.054
+140-1	SPK0032	Falling	140	100	ұзынын	ұзынын	linguistic	_	_	_
+140-2	SPK0032	Falling	140	100	не	не	linguistic	_	_	_
+140-3	SPK0032	Falling	140	100	етіп	етіп	linguistic	_	_	_
+140-4	SPK0032	Falling	140	100	алсам	алсам	linguistic	_	_	_
+140-5	SPK0032	Falling	140	100	болды.	болды	linguistic	_	_	End=525.473
+141-0	SPK0032	Falling	141	100	Өлшеп	Өлшеп	linguistic	_	_	Begin=525.473
+141-1	SPK0032	Falling	141	100	алсам.	алсам	linguistic	_	_	End=526.684
+142-0	SPK0027	Falling	142	101	Қасықпен	Қасықпен	linguistic	_	_	Begin=580.43
+142-1	SPK0027	Falling	142	101	же	же	linguistic	_	_	_
+142-2	SPK0027	Falling	142	101	мама.	мама	linguistic	_	_	End=581.567
+143-0	SPK0027	Falling	143	101	Жей	Жей	linguistic	_	_	Begin=581.567
+143-1	SPK0027	Falling	143	101	алмасаң.	алмасаң	linguistic	_	_	End=582.315
+144-0	SPK0032	Falling	144	102	Иә.	Иә	linguistic	_	_	Begin=581.57|End=582.585
+145-0	SPK0027	Rising	145	103	Ұйықтадың	Ұйықтадың	linguistic	_	_	Begin=657.15
+145-1	SPK0027	Rising	145	103	ба	ба	linguistic	_	_	_
+145-2	SPK0027	Rising	145	103	кішкене?	кішкене	linguistic	_	_	End=658.92
+146-0	SPK0032	Falling	146	104	Ұйықтап	Ұйықтап	linguistic	_	_	Begin=658.92
+146-1	SPK0032	Falling	146	104	қалыппын.	қалыппын	linguistic	_	_	End=660.28
+147-0	SPK0027	Falling	147	105	Помидор	Помидор	linguistic	_	_	Begin=662.65
+147-1	SPK0027	Falling	147	105	жесеңші.	жесеңші	linguistic	_	_	End=663.92
+148-0	SPK0032	Continuing	148	106	Түнде,	Түнде	linguistic	_	_	Begin=664.5|End=665.72
+149-0	SPK0032	Continuing	149	106	кейде	кейде	linguistic	_	_	Begin=667.221
+149-1	SPK0032	Continuing	149	106	ұйқым	ұйқым	linguistic	_	_	_
+149-2	SPK0032	Continuing	149	106	келмейді,	келмейді	linguistic	_	_	End=668.19
+150-0	SPK0032	Continuing	150	107	кейде	кейде	linguistic	_	_	Begin=668.19
+150-1	SPK0032	Continuing	150	107	сөйтемін	сөйтемін	linguistic	_	_	_
+150-2	SPK0032	Continuing	150	107	міне,	міне	linguistic	_	_	End=669.645
+151-0	SPK0032	Falling	151	107	ұйқым	ұйқым	linguistic	_	_	Begin=669.67
+151-1	SPK0032	Falling	151	107	келмейді.	келмейді	linguistic	_	_	End=670.55
+152-0	SPK0027	Falling	152	108	Өй	Өй	linguistic	_	_	Begin=704.876
+152-1	SPK0027	Falling	152	108	әкеңнің	әкеңнің	linguistic	_	_	_
+152-2	SPK0027	Falling	152	108	басы	басы	linguistic	_	_	_
+152-3	SPK0027	Falling	152	108	құрғыр.	құрғыр	linguistic	_	_	End=706.66
+153-0	SPK0032	Falling	153	109	Ау.	Ау	linguistic	_	_	Begin=706.69|End=707.52
+154-0	SPK0027	Falling	154	110	Әкелші	Әкелші	linguistic	_	_	Begin=707.525
+154-1	SPK0027	Falling	154	110	орап	орап	linguistic	_	_	_
+154-2	SPK0027	Falling	154	110	берейін.	берейін	linguistic	_	_	End=708.668
+155-0	SPK0032	undefined	155	_	@@@@	@@@@	linguistic	_	_	Begin=709.01|End=710.03
+156-0	SPK0027	Continuing	156	111	Күйісің	Күйісің	linguistic	_	_	Begin=709.92
+156-1	SPK0027	Continuing	156	111	кетті	кетті	linguistic	_	_	_
+156-2	SPK0027	Continuing	156	111	ғой,	ғой	linguistic	_	_	End=711.36
+157-0	SPK0027	Falling	157	111	тамақ	тамақ	linguistic	_	_	Begin=711.61
+157-1	SPK0027	Falling	157	111	жегің	жегің	linguistic	_	_	_
+157-2	SPK0027	Falling	157	111	келіп	келіп	linguistic	_	_	_
+157-3	SPK0027	Falling	157	111	тұрып.	тұрып	linguistic	_	_	End=713.54
+158-0	SPK0032	Continuing	158	112	Жарайды	Жарайды	linguistic	_	_	Begin=713.87
+158-1	SPK0032	Continuing	158	112	өзім	өзім	linguistic	_	_	_
+158-2	SPK0032	Continuing	158	112	ала	ала	linguistic	_	_	_
+158-3	SPK0032	Continuing	158	112	саламын	саламын	linguistic	_	_	_
+158-4	SPK0032	Continuing	158	112	әкәм,	әкәм	linguistic	_	_	End=715.46
+159-0	SPK0032	Falling	159	112	кесіп	кесіп	linguistic	_	_	Begin=715.46
+159-1	SPK0032	Falling	159	112	кесіп	кесіп	linguistic	_	_	_
+159-2	SPK0032	Falling	159	112	қарғам	қарғам	linguistic	_	_	_
+159-3	SPK0032	Falling	159	112	кесіп.	кесіп	linguistic	_	_	End=716.6
+160-0	SPK0027	Falling	160	113	Мә.	Мә	linguistic	_	_	Begin=717.455|End=718.35
+161-0	SPK0032	Falling	161	114	Бүйтіп	Бүйтіп	linguistic	_	_	Begin=718.13
+161-1	SPK0032	Falling	161	114	бүйтіп.	бүйтіп	linguistic	_	_	End=719.378
+162-0	SPK0027	Falling	162	115	Мә.	Мә	linguistic	_	_	Begin=719.453|End=720.51
+163-0	SPK0027	Falling	163	116	Қасықты	Қасықты	linguistic	_	_	Begin=720.64
+163-1	SPK0027	Falling	163	116	ұста.	ұста	linguistic	_	_	End=721.9
+164-0	SPK0032	Falling	164	117	Жоқ	Жоқ	linguistic	_	_	Begin=725.24
+164-1	SPK0032	Falling	164	117	болды.	болды	linguistic	_	_	End=726.78
+165-0	SPK0032	Falling	165	118	Вермешелін	Вермешелін	linguistic	_	_	Begin=728.45
+165-1	SPK0032	Falling	165	118	қарашы.	қарашы	linguistic	_	_	End=729.816
+166-0	SPK0032	Continuing	166	118	Шетінен,	Шетінен	linguistic	_	_	Begin=729.816|End=730.28
+167-0	SPK0032	Falling	167	118	ирек-ирек	ирек-ирек	linguistic	_	_	Begin=730.28
+167-1	SPK0032	Falling	167	118	қылып	қылып	linguistic	_	_	_
+167-2	SPK0032	Falling	167	118	істеген.	істеген	linguistic	_	_	End=731.776
+168-0	SPK0027	Falling	168	119	Мхм.	Мхм	linguistic	_	_	Begin=731.786|End=732.841
+169-0	SPK0027	Falling	169	120	Мә	Мә	linguistic	_	_	Begin=739.19
+169-1	SPK0027	Falling	169	120	шыт.	шыт	linguistic	_	_	End=739.52
+170-0	SPK0027	undefined	170	_	(Hx)	(Hx)	exhale	_	_	Begin=742.167|End=742.817
+171-0	SPK0032	Falling	171	121	Ой	Ой	linguistic	_	_	Begin=748.98
+171-1	SPK0032	Falling	171	121	Алла:.	Алла	linguistic	_	Prolongation=3	End=751.126
+172-0	SPK0032	Falling	172	122	Суып	Суып	linguistic	_	_	Begin=761.41
+172-1	SPK0032	Falling	172	122	қалды	қалды	linguistic	_	_	_
+172-2	SPK0032	Falling	172	122	иә	иә	linguistic	_	_	_
+172-3	SPK0032	Falling	172	122	мынадағылар	мынадағылар	linguistic	_	_	_
+172-4	SPK0032	Falling	172	122	енді.	енді	linguistic	_	_	End=763.01
+173-0	SPK0027	Falling	173	123	Мхм.	Мхм	linguistic	_	_	Begin=762.836|End=763.977
+174-0	SPK0032	Falling	174	124	Сырты	Сырты	linguistic	_	_	Begin=763.145
+174-1	SPK0032	Falling	174	124	сұп-суық	сұп-суық	linguistic	_	_	_
+174-2	SPK0032	Falling	174	124	###.	###	unknown	_	_	End=765.093
+175-0	SPK0032	Continuing	175	125	Екеуінде	Екеуінде	linguistic	_	_	Begin=795.701
+175-1	SPK0032	Continuing	175	125	де	де	linguistic	_	_	_
+175-2	SPK0032	Continuing	175	125	мәшін	мәшін	linguistic	_	_	_
+175-3	SPK0032	Continuing	175	125	бар	бар	linguistic	_	_	_
+175-4	SPK0032	Continuing	175	125	ғой,	ғой	linguistic	_	_	End=796.973
+176-0	SPK0032	undefined	176	126	###	###	unknown	_	_	Begin=796.973|End=797.724
+177-0	SPK0032	Continuing	177	126	¬Жания-,	Жания-	linguistic	_	Interrupted=Yes|Anonymized=Yes	Begin=797.724|End=798.194
+178-0	SPK0032	Continuing	178	126	¬Алия-,	Алия-	linguistic	_	Interrupted=Yes|Anonymized=Yes	Begin=798.194|End=798.733
+179-0	SPK0032	Continuing	179	126	¬Алиямен,	Алиямен	linguistic	_	Anonymized=Yes	Begin=798.733|End=799.61
+180-0	SPK0032	Falling	180	126	қазірге	қазірге	linguistic	_	_	Begin=799.98
+180-1	SPK0032	Falling	180	126	дейін.	дейін	linguistic	_	_	End=800.97
+181-0	SPK0027	Falling	181	127	Ыы-ыы.	Ыы-ыы	linguistic	_	_	Begin=800.9|End=801.87
+182-0	SPK0027	Falling	182	128	Ұлдарында	Ұлдарында	linguistic	_	_	Begin=801.87
+182-1	SPK0027	Falling	182	128	ғана	ғана	linguistic	_	_	_
+182-2	SPK0027	Falling	182	128	бар.	бар	linguistic	_	_	End=803.16
+183-0	SPK0032	Falling	183	129	Аaa:.	Аaa	linguistic	_	Prolongation=2	Begin=804.06|End=805.31
+184-0	SPK0027	Falling	184	130	¬Алия	Алия	linguistic	_	Anonymized=Yes	Begin=805.254
+184-1	SPK0027	Falling	184	130	қайдағы	қайдағы	linguistic	_	_	_
+184-2	SPK0027	Falling	184	130	машина	машина	linguistic	_	_	_
+184-3	SPK0027	Falling	184	130	жүргізеді.	жүргізеді	linguistic	_	_	End=806.826
+185-0	SPK0032	Falling	185	131	Қазір	Қазір	linguistic	_	_	Begin=807.29
+185-1	SPK0032	Falling	185	131	енді	енді	linguistic	_	_	_
+185-2	SPK0032	Falling	185	131	#	#	unknown	_	_	_
+185-3	SPK0032	Falling	185	131	не	не	linguistic	_	_	_
+185-4	SPK0032	Falling	185	131	ғой.	ғой	linguistic	_	_	End=809.17
+186-0	SPK0027	Falling	186	132	Жоқ	Жоқ	linguistic	_	_	Begin=809.168
+186-1	SPK0027	Falling	186	132	мәшін.	мәшін	linguistic	_	_	End=810.823
+187-0	SPK0027	Falling	187	133	Ұлында	Ұлында	linguistic	_	_	Begin=816.6
+187-1	SPK0027	Falling	187	133	ғана	ғана	linguistic	_	_	_
+187-2	SPK0027	Falling	187	133	бар.	бар	linguistic	_	_	End=817.96
+188-0	SPK0027	Falling	188	134	¬Жанатта	Жанатта	linguistic	_	Anonymized=Yes	Begin=817.96
+188-1	SPK0027	Falling	188	134	да	да	linguistic	_	_	_
+188-2	SPK0027	Falling	188	134	жоқ	жоқ	linguistic	_	_	_
+188-3	SPK0027	Falling	188	134	мәшін.	мәшін	linguistic	_	_	End=819.495
+189-0	SPK0027	Falling	189	135	Правасынан	Правасынан	linguistic	_	_	Begin=820.2
+189-1	SPK0027	Falling	189	135	жеті	жеті	linguistic	_	_	_
+189-2	SPK0027	Falling	189	135	жылға	жылға	linguistic	_	_	_
+189-3	SPK0027	Falling	189	135	айырылып	айырылып	linguistic	_	_	_
+189-4	SPK0027	Falling	189	135	қалған.	қалған	linguistic	_	_	End=822.221
+190-0	SPK0032	Falling	190	136	А:.	А	linguistic	_	Prolongation=0	Begin=822.326|End=823.948
+191-0	SPK0027	Continuing	191	137	Ол	Ол	linguistic	_	_	Begin=827.1
+191-1	SPK0027	Continuing	191	137	мәшінді	мәшінді	linguistic	_	_	_
+191-2	SPK0027	Continuing	191	137	алды	алды	linguistic	_	_	_
+191-3	SPK0027	Continuing	191	137	да,	да	linguistic	_	_	End=828.09
+192-0	SPK0027	Continuing	192	137	сып	сып	linguistic	_	_	Begin=828.09
+192-1	SPK0027	Continuing	192	137	еткізіп,	еткізіп	linguistic	_	_	End=828.72
+193-0	SPK0027	Falling	193	137	келіншек	келіншек	linguistic	_	_	Begin=828.74
+193-1	SPK0027	Falling	193	137	сатып	сатып	linguistic	_	_	_
+193-2	SPK0027	Falling	193	137	жіберді.	жіберді	linguistic	_	_	End=830.416
+194-0	SPK0027	Falling	194	138	Пәлекет	Пәлекет	linguistic	_	_	Begin=832.17
+194-1	SPK0027	Falling	194	138	ол.	ол	linguistic	_	_	End=833.82
+195-0	SPK0027	Falling	195	139	Сатып	Сатып	linguistic	_	_	Begin=834.51
+195-1	SPK0027	Falling	195	139	жібергенге.	жібергенге	linguistic	_	_	End=835.966
+196-0	SPK0032	Rising	196	140	¬Лаура	Лаура	linguistic	_	Anonymized=Yes	Begin=835.468
+196-1	SPK0032	Rising	196	140	ма?	ма	linguistic	_	_	End=836.506
+197-0	SPK0027	Continuing	197	141	Ауырса,	Ауырса	linguistic	_	_	Begin=840.463|End=841.01
+198-0	SPK0027	Continuing	198	141	емделіп	емделіп	linguistic	_	_	Begin=841.03
+198-1	SPK0027	Continuing	198	141	жіберіп,	жіберіп	linguistic	_	_	End=841.94
+199-0	SPK0027	Falling	199	141	енем	енем	linguistic	_	_	Begin=841.94
+199-1	SPK0027	Falling	199	141	сияқтымын	сияқтымын	linguistic	_	_	_
+199-2	SPK0027	Falling	199	141	дейді.	дейді	linguistic	_	_	End=842.97
+200-0	SPK0027	Continuing	200	141	Ауырған	Ауырған	linguistic	_	_	Begin=842.97
+200-1	SPK0027	Continuing	200	141	жерімді,	жерімді	linguistic	_	_	End=843.93
+201-0	SPK0027	Falling	201	141	емдеп	емдеп	linguistic	_	_	Begin=843.93
+201-1	SPK0027	Falling	201	141	аламын.	аламын	linguistic	_	_	End=845.086
+202-0	SPK0032	Rising	202	142	¬Алия	Алия	linguistic	_	Anonymized=Yes	Begin=845.604
+202-1	SPK0032	Rising	202	142	сиықтымын	сиықтымын	linguistic	_	_	_
+202-2	SPK0032	Rising	202	142	дей	дей	linguistic	_	_	_
+202-3	SPK0032	Rising	202	142	ме?	ме	linguistic	_	_	End=847.043
+203-0	SPK0027	Continuing	203	143	Енем	Енем	linguistic	_	_	Begin=847.482
+203-1	SPK0027	Continuing	203	143	сияқты,	сияқты	linguistic	_	_	End=848.705
+204-0	SPK0027	Falling	204	143	емделе	емделе	linguistic	_	_	Begin=848.705
+204-1	SPK0027	Falling	204	143	қоямын	қоямын	linguistic	_	_	_
+204-2	SPK0027	Falling	204	143	дейді.	дейді	linguistic	_	_	End=849.705
+205-0	SPK0032	undefined	205	_	@	@	linguistic	_	_	Begin=850.297|End=850.662
+206-0	SPK0027	Falling	206	144	Суып	Суып	linguistic	_	_	Begin=861.03
+206-1	SPK0027	Falling	206	144	қалды	қалды	linguistic	_	_	_
+206-2	SPK0027	Falling	206	144	ғой	ғой	linguistic	_	_	_
+206-3	SPK0027	Falling	206	144	мама	мама	linguistic	_	_	_
+206-4	SPK0027	Falling	206	144	андағы.	андағы	linguistic	_	_	End=862.56
+207-0	SPK0032	Falling	207	_	#.	#	unknown	_	_	Begin=861.32|End=862.3
+208-0	SPK0032	Falling	208	145	А.	А	linguistic	_	_	Begin=862.4|End=863.443
+209-0	SPK0027	Falling	209	144	Суып	Суып	linguistic	_	_	Begin=862.56
+209-1	SPK0027	Falling	209	144	қалған	қалған	linguistic	_	_	_
+209-2	SPK0027	Falling	209	144	шығар	шығар	linguistic	_	_	_
+209-3	SPK0027	Falling	209	144	ендігі.	ендігі	linguistic	_	_	End=864.179
+210-0	SPK0032	Continuing	210	146	Әгі,	Әгі	linguistic	_	_	Begin=863.89|End=864.45
+211-0	SPK0032	undefined	211	_	###	###	unknown	_	_	Begin=865.416|End=866.042
+212-0	SPK0032	undefined	212	_	###	###	unknown	_	_	Begin=866.042|End=866.739
+213-0	SPK0032	Falling	213	_	####.	####	unknown	_	_	Begin=866.742|End=867.884
+214-0	SPK0032	undefined	214	_	#	#	unknown	_	_	Begin=868.749|End=869.28
+215-0	SPK0032	undefined	215	_	###	###	unknown	_	_	Begin=869.293|End=870.584
+216-0	SPK0027	Falling	216	147	Мені	Мені	linguistic	_	_	Begin=951.01
+216-1	SPK0027	Falling	216	147	ұйқы	ұйқы	linguistic	_	_	_
+216-2	SPK0027	Falling	216	147	басып	басып	linguistic	_	_	_
+216-3	SPK0027	Falling	216	147	отыр	отыр	linguistic	_	_	_
+216-4	SPK0027	Falling	216	147	әшейін.	әшейін	linguistic	_	_	End=952.646
+217-0	SPK0032	Falling	217	148	Ұйықта.	Ұйықта	linguistic	_	_	Begin=953.22|End=954.22
+218-0	SPK0027	Falling	218	149	Кө:зімді	Көзімді	linguistic	_	Prolongation=1	Begin=956.43
+218-1	SPK0027	Falling	218	149	аша	аша	linguistic	_	_	_
+218-2	SPK0027	Falling	218	149	алмай	алмай	linguistic	_	_	_
+218-3	SPK0027	Falling	218	149	отырмын.	отырмын	linguistic	_	_	End=957.871
+219-0	SPK0027	Falling	219	150	Бейуақта	Бейуақта	linguistic	_	_	Begin=959.08
+219-1	SPK0027	Falling	219	150	ұйықтауға	ұйықтауға	linguistic	_	_	_
+219-2	SPK0027	Falling	219	150	болмайды.	болмайды	linguistic	_	_	End=960.726
+220-0	SPK0032	Falling	220	151	А.	А	linguistic	_	_	Begin=960.035|End=961.03
+221-0	SPK0027	Falling	221	152	Бейуақта	Бейуақта	linguistic	_	_	Begin=961.277
+221-1	SPK0027	Falling	221	152	ұйықтауға	ұйықтауға	linguistic	_	_	_
+221-2	SPK0027	Falling	221	152	болмайды.	болмайды	linguistic	_	_	End=963.059
+222-0	SPK0032	Falling	222	153	Кеш	Кеш	linguistic	_	_	Begin=985.468
+222-1	SPK0032	Falling	222	153	болып	болып	linguistic	_	_	_
+222-2	SPK0032	Falling	222	153	қойды	қойды	linguistic	_	_	_
+222-3	SPK0032	Falling	222	153	иә.	иә	linguistic	_	_	End=986.906
+223-0	SPK0027	Falling	223	154	Тағы	Тағы	linguistic	_	_	Begin=998.08
+223-1	SPK0027	Falling	223	154	салып	салып	linguistic	_	_	_
+223-2	SPK0027	Falling	223	154	берейін	берейін	linguistic	_	_	_
+223-3	SPK0027	Falling	223	154	бе	бе	linguistic	_	_	_
+223-4	SPK0027	Falling	223	154	картошкасынан.	картошкасынан	linguistic	_	_	End=999.79
+224-0	SPK0032	Falling	224	155	А.	А	linguistic	_	_	Begin=999.477|End=1000.151
+225-0	SPK0027	Falling	225	154	Картошкасынан.	Картошкасынан	linguistic	_	_	Begin=1000.07|End=1001.081
+226-0	SPK0032	Continuing	226	155	Жо:қ,	Жоқ	linguistic	_	Prolongation=1	Begin=1000.22|End=1000.626
+227-0	SPK0032	Continuing	227	156	Бол-,	Бол-	linguistic	_	Interrupted=Yes	Begin=1000.626|End=1001.02
+228-0	SPK0032	Continuing	228	156	болдым	болдым	linguistic	_	_	Begin=1001.02
+228-1	SPK0032	Continuing	228	156	әке,	әке	linguistic	_	_	End=1001.61
+229-0	SPK0032	Falling	229	156	мынау	мынау	linguistic	_	_	Begin=1001.62
+229-1	SPK0032	Falling	229	156	көп.	көп	linguistic	_	_	End=1002.38
+230-0	SPK0032	Continuing	230	156	Көп,	Көп	linguistic	_	_	Begin=1002.38|End=1002.728
+231-0	SPK0032	Continuing	231	157	әрең,	әрең	linguistic	_	_	Begin=1002.728|End=1003.39
+232-0	SPK0032	Falling	232	157	жеп	жеп	linguistic	_	_	Begin=1003.39
+232-1	SPK0032	Falling	232	157	отырмын	отырмын	linguistic	_	_	_
+232-2	SPK0032	Falling	232	157	##.	##	unknown	_	_	End=1004.697
+233-0	SPK0032	Falling	233	158	Дәмі	Дәмі	linguistic	_	_	Begin=1006.95
+233-1	SPK0032	Falling	233	158	жақсы	жақсы	linguistic	_	_	_
+233-2	SPK0032	Falling	233	158	екен.	екен	linguistic	_	_	End=1008.7
+234-0	SPK0027	Rising	234	159	Жақсы	Жақсы	linguistic	_	_	Begin=1008.768
+234-1	SPK0027	Rising	234	159	ма?	ма	linguistic	_	_	End=1009.727
+235-0	SPK0032	Falling	235	160	Мхм.	Мхм	linguistic	_	_	Begin=1009.847|End=1010.258
+236-0	SPK0027	Continuing	236	161	Жаңағы	Жаңағы	linguistic	_	_	Begin=1010.66
+236-1	SPK0027	Continuing	236	161	приправалар	приправалар	linguistic	_	_	_
+236-2	SPK0027	Continuing	236	161	ғой,	ғой	linguistic	_	_	End=1012.31
+237-0	SPK0027	Falling	237	162	сол	сол	linguistic	_	_	Begin=1012.31
+237-1	SPK0027	Falling	237	162	дәмін	дәмін	linguistic	_	_	_
+237-2	SPK0027	Falling	237	162	келтіріп	келтіріп	linguistic	_	_	_
+237-3	SPK0027	Falling	237	162	тұр.	тұр	linguistic	_	_	End=1013.462
+238-0	SPK0032	Continuing	238	163	¬Асыл	Асыл	linguistic	_	Anonymized=Yes	Begin=1036.7
+238-1	SPK0032	Continuing	238	163	ана,	ана	linguistic	_	_	End=1037.28
+239-0	SPK0032	Falling	239	163	Қалжырдағы	Қалжырдағы	linguistic	_	_	Begin=1037.28
+239-1	SPK0032	Falling	239	163	үйді	үйді	linguistic	_	_	_
+239-2	SPK0032	Falling	239	163	көрсетіп	көрсетіп	linguistic	_	_	_
+239-3	SPK0032	Falling	239	163	отырған	отырған	linguistic	_	_	_
+239-4	SPK0032	Falling	239	163	маған.	маған	linguistic	_	_	End=1039.382
+240-0	SPK0027	Falling	240	164	Аa:.	Аa	linguistic	_	Prolongation=1	Begin=1039.606|End=1040.918
+241-0	SPK0032	Continuing	241	165	Е	Е	linguistic	_	_	Begin=1041.375
+241-1	SPK0032	Continuing	241	165	құдай,	құдай	linguistic	_	_	End=1042.775
+242-0	SPK0032	Falling	242	166	атамдар	атамдар	linguistic	_	_	Begin=1043.763
+242-1	SPK0032	Falling	242	166	қандай	қандай	linguistic	_	_	_
+242-2	SPK0032	Falling	242	166	бай	бай	linguistic	_	_	_
+242-3	SPK0032	Falling	242	166	тұрады	тұрады	linguistic	_	_	_
+242-4	SPK0032	Falling	242	166	дейді.	дейді	linguistic	_	_	End=1045.39
+243-0	SPK0032	Falling	243	166	Қораларын	Қораларын	linguistic	_	_	Begin=1045.401
+243-1	SPK0032	Falling	243	166	қарашы	қарашы	linguistic	_	_	_
+243-2	SPK0032	Falling	243	166	дейді.	дейді	linguistic	_	_	End=1046.713
+244-0	SPK0032	Falling	244	167	Қайда	Қайда	linguistic	_	_	Begin=1047.67
+244-1	SPK0032	Falling	244	167	сендердің	сендердің	linguistic	_	_	_
+244-2	SPK0032	Falling	244	167	тойларың	тойларың	linguistic	_	_	_
+244-3	SPK0032	Falling	244	167	дейді	дейді	linguistic	_	_	_
+244-4	SPK0032	Falling	244	167	әуелі.	әуелі	linguistic	_	_	End=1050.42
+245-0	SPK0027	Falling	245	168	М:.	М	linguistic	_	Prolongation=0	Begin=1049.42|End=1050.6
+246-0	SPK0027	Falling	246	169	Ертең	Ертең	linguistic	_	_	Begin=1072.197
+246-1	SPK0027	Falling	246	169	қыздың	қыздың	linguistic	_	_	_
+246-2	SPK0027	Falling	246	169	документін	документін	linguistic	_	_	_
+246-3	SPK0027	Falling	246	169	өткізе	өткізе	linguistic	_	_	_
+246-4	SPK0027	Falling	246	169	беріңдер	беріңдер	linguistic	_	_	_
+246-5	SPK0027	Falling	246	169	деп	деп	linguistic	_	_	_
+246-6	SPK0027	Falling	246	169	жатыр.	жатыр	linguistic	_	_	End=1074.39
+247-0	SPK0027	Falling	247	170	Ертең	Ертең	linguistic	_	_	Begin=1074.39
+247-1	SPK0027	Falling	247	170	соны	соны	linguistic	_	_	_
+247-2	SPK0027	Falling	247	170	өткізіп	өткізіп	linguistic	_	_	_
+247-3	SPK0027	Falling	247	170	келемін.	келемін	linguistic	_	_	End=1075.731
+248-0	SPK0032	Continuing	248	171	Е:	Е	linguistic	_	Prolongation=0	Begin=1080.37
+248-1	SPK0032	Continuing	248	171	балаларға	балаларға	linguistic	_	_	_
+248-2	SPK0032	Continuing	248	171	ма,	ма	linguistic	_	_	End=1081.539
+249-0	SPK0032	Rising	249	171	мектепке?	мектепке	linguistic	_	_	Begin=1081.551|End=1082.754
+250-0	SPK0027	Continuing	250	172	Иә	Иә	linguistic	_	_	Begin=1082.819
+250-1	SPK0027	Continuing	250	172	бағана,	бағана	linguistic	_	_	End=1083.66
+251-0	SPK0027	Falling	251	172	жазды	жазды	linguistic	_	_	Begin=1083.68
+251-1	SPK0027	Falling	251	172	ғой.	ғой	linguistic	_	_	End=1084.761
+252-0	SPK0027	Continuing	252	173	Дайындап	Дайындап	linguistic	_	_	Begin=1085.84
+252-1	SPK0027	Continuing	252	173	қойғанмын,	қойғанмын	linguistic	_	_	End=1086.92
+253-0	SPK0027	Falling	253	173	өткізіп	өткізіп	linguistic	_	_	Begin=1086.92
+253-1	SPK0027	Falling	253	173	тастамасам.	тастамасам	linguistic	_	_	End=1087.84
+254-0	SPK0027	Continuing	254	174	Жұмысқа	Жұмысқа	linguistic	_	_	Begin=1088.08
+254-1	SPK0027	Continuing	254	174	шығып	шығып	linguistic	_	_	_
+254-2	SPK0027	Continuing	254	174	кетсем,	кетсем	linguistic	_	_	End=1089.188
+255-0	SPK0027	Falling	255	174	өткізілмей	өткізілмей	linguistic	_	_	Begin=1089.19
+255-1	SPK0027	Falling	255	174	қалады	қалады	linguistic	_	_	_
+255-2	SPK0027	Falling	255	174	содан	содан	linguistic	_	_	_
+255-3	SPK0027	Falling	255	174	кейін.	кейін	linguistic	_	_	End=1090.316
+256-0	SPK0027	Continuing	256	174	Күнде	Күнде	linguistic	_	_	Begin=1090.316
+256-1	SPK0027	Continuing	256	174	әне,	әне	linguistic	_	_	End=1090.98
+257-0	SPK0027	Falling	257	174	күнде	күнде	linguistic	_	_	Begin=1090.98
+257-1	SPK0027	Falling	257	174	міне.	міне	linguistic	_	_	End=1092.12
+258-0	SPK0032	Rising	258	175	Сен	Сен	linguistic	_	_	Begin=1091.45
+258-1	SPK0032	Rising	258	175	қашан	қашан	linguistic	_	_	_
+258-2	SPK0032	Rising	258	175	шығайын	шығайын	linguistic	_	_	_
+258-3	SPK0032	Rising	258	175	деп	деп	linguistic	_	_	_
+258-4	SPK0032	Rising	258	175	едің?	едің	linguistic	_	_	End=1092.25
+259-0	SPK0032	Rising	259	176	Таяп	Таяп	linguistic	_	_	Begin=1092.25
+259-1	SPK0032	Rising	259	176	қалды?	қалды	linguistic	_	_	End=1093.273
+260-0	SPK0027	Falling	260	177	Жиырма	Жиырма	linguistic	_	_	Begin=1093.282
+260-1	SPK0027	Falling	260	177	бірінде	бірінде	linguistic	_	_	_
+260-2	SPK0027	Falling	260	177	шығамын.	шығамын	linguistic	_	_	End=1094.829
+261-0	SPK0032	Continuing	261	178	Ондай	Ондай	linguistic	_	_	Begin=1095.752
+261-1	SPK0032	Continuing	261	178	болып	болып	linguistic	_	_	_
+261-2	SPK0032	Continuing	261	178	қояды	қояды	linguistic	_	_	_
+261-3	SPK0032	Continuing	261	178	ғой,	ғой	linguistic	_	_	End=1096.792
+262-0	SPK0032	Falling	262	178	уақыт	уақыт	linguistic	_	_	Begin=1096.792
+262-1	SPK0032	Falling	262	178	өтіп	өтіп	linguistic	_	_	_
+262-2	SPK0032	Falling	262	178	кетеді.	кетеді	linguistic	_	_	End=1098.017
+263-0	SPK0032	Continuing	263	179	А	А	linguistic	_	_	Begin=1102.15
+263-1	SPK0032	Continuing	263	179	қырық	қырық	linguistic	_	_	_
+263-2	SPK0032	Continuing	263	179	шелпекке	шелпекке	linguistic	_	_	_
+263-3	SPK0032	Continuing	263	179	дейін,	дейін	linguistic	_	_	End=1103.41
+264-0	SPK0032	Rising	264	179	істетіп	істетіп	linguistic	_	_	Begin=1103.41
+264-1	SPK0032	Rising	264	179	қоясың	қоясың	linguistic	_	_	_
+264-2	SPK0032	Rising	264	179	ба?	ба	linguistic	_	_	End=1104.622
+265-0	SPK0027	Falling	265	180	Қайдағы	Қайдағы	linguistic	_	_	Begin=1104.959
+265-1	SPK0027	Falling	265	180	қырық	қырық	linguistic	_	_	_
+265-2	SPK0027	Falling	265	180	шелпек.	шелпек	linguistic	_	_	End=1106.609
+266-0	SPK0032	Falling	266	181	Өй	Өй	linguistic	_	_	Begin=1106.67
+266-1	SPK0032	Falling	266	181	әгі	әгі	linguistic	_	_	_
+266-2	SPK0032	Falling	266	181	кіти	кіти	linguistic	_	_	_
+266-3	SPK0032	Falling	266	181	ұлдың.	ұлдың	linguistic	_	_	End=1108.217
+267-0	SPK0027	Falling	267	182	Ол	Ол	linguistic	_	_	Begin=1108.464
+267-1	SPK0027	Falling	267	182	қашан	қашан	linguistic	_	_	_
+267-2	SPK0027	Falling	267	182	болады	болады	linguistic	_	_	_
+267-3	SPK0027	Falling	267	182	екен.	екен	linguistic	_	_	End=1109.532
+268-0	SPK0032	Falling	268	183	А.	А	linguistic	_	_	Begin=1109.69|End=1110.15
+269-0	SPK0027	Falling	269	184	Онікі	Онікі	linguistic	_	_	Begin=1109.96
+269-1	SPK0027	Falling	269	184	қашан.	қашан	linguistic	_	_	End=1111.279
+270-0	SPK0032	Continuing	270	185	Жоқ	Жоқ	linguistic	_	_	Begin=1111.67
+270-1	SPK0032	Continuing	270	185	енді	енді	linguistic	_	_	_
+270-2	SPK0032	Continuing	270	185	әгі:,	әгі	linguistic	_	Prolongation=2	End=1112.79
+271-0	SPK0032	Falling	271	185	есептеп	есептеп	linguistic	_	_	Begin=1112.79
+271-1	SPK0032	Falling	271	185	сол	сол	linguistic	_	_	_
+271-2	SPK0032	Falling	271	185	уақта	уақта	linguistic	_	_	_
+271-3	SPK0032	Falling	271	185	бере	бере	linguistic	_	_	_
+271-4	SPK0032	Falling	271	185	қойса	қойса	linguistic	_	_	_
+271-5	SPK0032	Falling	271	185	деймін.	деймін	linguistic	_	_	End=1115.068
+272-0	SPK0027	Falling	272	186	Бермейтін	Бермейтін	linguistic	_	_	Begin=1116.508
+272-1	SPK0027	Falling	272	186	шығар	шығар	linguistic	_	_	_
+272-2	SPK0027	Falling	272	186	олар	олар	linguistic	_	_	_
+272-3	SPK0027	Falling	272	186	##.	##	unknown	_	_	End=1118.46
+273-0	SPK0027	Falling	273	187	Жай	Жай	linguistic	_	_	Begin=1119.9
+273-1	SPK0027	Falling	273	187	бара	бара	linguistic	_	_	_
+273-2	SPK0027	Falling	273	187	салу	салу	linguistic	_	_	_
+273-3	SPK0027	Falling	273	187	керек	керек	linguistic	_	_	_
+273-4	SPK0027	Falling	273	187	оларға.	оларға	linguistic	_	_	End=1121.86
+274-0	SPK0027	Falling	274	188	Үйде	Үйде	linguistic	_	_	Begin=1123.54
+274-1	SPK0027	Falling	274	188	сабақ	сабақ	linguistic	_	_	_
+274-2	SPK0027	Falling	274	188	беріп	беріп	linguistic	_	_	_
+274-3	SPK0027	Falling	274	188	жүр	жүр	linguistic	_	_	_
+274-4	SPK0027	Falling	274	188	екен	екен	linguistic	_	_	_
+274-5	SPK0027	Falling	274	188	ғой	ғой	linguistic	_	_	_
+274-6	SPK0027	Falling	274	188	ол.	ол	linguistic	_	_	End=1125.07
+275-0	SPK0027	Falling	275	188	Кіти	Кіти	linguistic	_	_	Begin=1125.07
+275-1	SPK0027	Falling	275	188	балаларға.	балаларға	linguistic	_	_	End=1125.89
+276-0	SPK0032	Falling	276	189	Кім.	Кім	linguistic	_	_	Begin=1125.54|End=1125.87
+277-0	SPK0027	Falling	277	190	¬Гүлжанат.	Гүлжанат	linguistic	_	Anonymized=Yes	Begin=1125.89|End=1126.898
+278-0	SPK0027	Falling	278	191	Ақша	Ақша	linguistic	_	_	Begin=1126.898
+278-1	SPK0027	Falling	278	191	тауып.	тауып	linguistic	_	_	End=1128.0
+279-0	SPK0032	Falling	279	192	Енді	Енді	linguistic	_	_	Begin=1127.694
+279-1	SPK0032	Falling	279	192	қайтеді.	қайтеді	linguistic	_	_	End=1129.31
+280-0	SPK0027	Continuing	280	193	Үйге	Үйге	linguistic	_	_	Begin=1128.96
+280-1	SPK0027	Continuing	280	193	мұға-	мұға-	linguistic	_	Interrupted=Yes	_
+280-2	SPK0027	Continuing	280	193	бала-,	бала-	linguistic	_	Interrupted=Yes	End=1129.89
+281-0	SPK0027	Continuing	281	193	бала-	бала-	linguistic	_	Interrupted=Yes	Begin=1129.89
+281-1	SPK0027	Continuing	281	193	балаларды	балаларды	linguistic	_	_	End=1130.582
+282-0	SPK0027	Continuing	282	193	үйретіп,	үйретіп	linguistic	_	_	Begin=1130.582|End=1130.91
+283-0	SPK0027	Falling	283	193	бірінші	бірінші	linguistic	_	_	Begin=1130.91
+283-1	SPK0027	Falling	283	193	классқа	классқа	linguistic	_	_	_
+283-2	SPK0027	Falling	283	193	дайындап.	дайындап	linguistic	_	_	End=1132.475
+284-0	SPK0032	Falling	284	194	Е:.	Е	linguistic	_	Prolongation=0	Begin=1132.12|End=1132.834
+285-0	SPK0032	Continuing	285	195	Өзі	Өзі	linguistic	_	_	Begin=1132.834
+285-1	SPK0032	Continuing	285	195	ылғи	ылғи	linguistic	_	_	_
+285-2	SPK0032	Continuing	285	195	бір,	бір	linguistic	_	_	End=1133.775
+286-0	SPK0032	Falling	286	195	бірінші	бірінші	linguistic	_	_	Begin=1133.775
+286-1	SPK0032	Falling	286	195	классты	классты	linguistic	_	_	_
+286-2	SPK0032	Falling	286	195	алмай	алмай	linguistic	_	_	_
+286-3	SPK0032	Falling	286	195	ма.	ма	linguistic	_	_	End=1135.257
+287-0	SPK0027	Continuing	287	196	Жо:қ,	Жоқ	linguistic	_	Prolongation=1	Begin=1135.57|End=1136.29
+288-0	SPK0027	Continuing	288	197	бірінші	бірінші	linguistic	_	_	Begin=1136.29
+288-1	SPK0027	Continuing	288	197	класс	класс	linguistic	_	_	_
+288-2	SPK0027	Continuing	288	197	причем	причем	linguistic	_	_	_
+288-3	SPK0027	Continuing	288	197	тут,	тут	linguistic	_	_	End=1137.33
+289-0	SPK0027	Continuing	289	197	бірінші	бірінші	linguistic	_	_	Begin=1137.43
+289-1	SPK0027	Continuing	289	197	класс	класс	linguistic	_	_	_
+289-2	SPK0027	Continuing	289	197	алған,	алған	linguistic	_	_	End=1138.7
+290-0	SPK0027	Continuing	290	198	просто	просто	linguistic	_	_	Begin=1138.7
+290-1	SPK0027	Continuing	290	198	балаларды	балаларды	linguistic	_	_	_
+290-2	SPK0027	Continuing	290	198	мектепке	мектепке	linguistic	_	_	_
+290-3	SPK0027	Continuing	290	198	дайындап,	дайындап	linguistic	_	_	End=1140.26
+291-0	SPK0027	Continuing	291	198	ақша,	ақша	linguistic	_	_	Begin=1140.26|End=1140.67
+292-0	SPK0027	Continuing	292	198	жасап	жасап	linguistic	_	_	Begin=1140.69
+292-1	SPK0027	Continuing	292	198	жүр	жүр	linguistic	_	_	_
+292-2	SPK0027	Continuing	292	198	үйде	үйде	linguistic	_	_	_
+292-3	SPK0027	Continuing	292	198	сөйтіп,	сөйтіп	linguistic	_	_	End=1141.87
+293-0	SPK0027	Falling	293	198	репетитор	репетитор	linguistic	_	_	Begin=1141.87
+293-1	SPK0027	Falling	293	198	болып.	болып	linguistic	_	_	End=1143.457
+294-0	SPK0032	Falling	294	199	Енді	Енді	linguistic	_	_	Begin=1149.07
+294-1	SPK0032	Falling	294	199	қайтеді.	қайтеді	linguistic	_	_	End=1150.902
+295-0	SPK0032	Continuing	295	200	¬Аяна	Аяна	linguistic	_	Anonymized=Yes	Begin=1156.486
+295-1	SPK0032	Continuing	295	200	дейді,	дейді	linguistic	_	_	End=1157.043
+296-0	SPK0032	Continuing	296	200	неде	неде	linguistic	_	_	Begin=1157.043
+296-1	SPK0032	Continuing	296	200	деді,	деді	linguistic	_	_	End=1157.539
+297-0	SPK0032	Falling	297	200	лагерьде	лагерьде	linguistic	_	_	Begin=1157.539
+297-1	SPK0032	Falling	297	200	деді.	деді	linguistic	_	_	End=1158.997
+298-0	SPK0027	Falling	298	201	Келіп	Келіп	linguistic	_	_	Begin=1157.89
+298-1	SPK0027	Falling	298	201	қойған	қойған	linguistic	_	_	_
+298-2	SPK0027	Falling	298	201	ол.	ол	linguistic	_	_	End=1159.113
+299-0	SPK0032	Continuing	299	202	¬Сәкөш	Сәкөш	linguistic	_	Anonymized=Yes	Begin=1163.305
+299-1	SPK0032	Continuing	299	202	¬Сәкөш	Сәкөш	linguistic	_	Anonymized=Yes	_
+299-2	SPK0032	Continuing	299	202	ә-,	ә-	linguistic	_	Interrupted=Yes	End=1165.385
+300-0	SPK0032	Continuing	300	202	а	а	linguistic	_	_	Begin=1165.385
+300-1	SPK0032	Continuing	300	202	әгі	әгі	linguistic	_	_	_
+300-2	SPK0032	Continuing	300	202	кім	кім	linguistic	_	_	_
+300-3	SPK0032	Continuing	300	202	айтады	айтады	linguistic	_	_	_
+300-4	SPK0032	Continuing	300	202	оны,	оны	linguistic	_	_	End=1166.529
+301-0	SPK0027	Rising	301	203	¬Дәкөш?	Дәкөш	linguistic	_	Anonymized=Yes	Begin=1168.399|End=1169.238
+302-0	SPK0032	Falling	302	204	¬Дәкөш	Дәкөш	linguistic	_	Anonymized=Yes	Begin=1169.2
+302-1	SPK0032	Falling	302	204	айтады.	айтады	linguistic	_	_	End=1170.424
+303-0	SPK0032	Falling	303	205	Бірі	Бірі	linguistic	_	_	Begin=1171.076
+303-1	SPK0032	Falling	303	205	күні	күні	linguistic	_	_	_
+303-2	SPK0032	Falling	303	205	кеткен	кеткен	linguistic	_	_	_
+303-3	SPK0032	Falling	303	205	деп.	деп	linguistic	_	_	End=1172.917
+304-0	SPK0032	Continuing	304	206	Мен	Мен	linguistic	_	_	Begin=1174.365
+304-1	SPK0032	Continuing	304	206	содан	содан	linguistic	_	_	_
+304-2	SPK0032	Continuing	304	206	кейін,	кейін	linguistic	_	_	End=1174.887
+305-0	SPK0032	Continuing	305	206	мен	мен	linguistic	_	_	Begin=1174.887
+305-1	SPK0032	Continuing	305	206	¬Гүлжанат	Гүлжанат	linguistic	_	Anonymized=Yes	_
+305-2	SPK0032	Continuing	305	206	та	та	linguistic	_	_	_
+305-3	SPK0032	Continuing	305	206	барып	барып	linguistic	_	_	_
+305-4	SPK0032	Continuing	305	206	жүруші	жүруші	linguistic	_	_	_
+305-5	SPK0032	Continuing	305	206	еді	еді	linguistic	_	_	_
+305-6	SPK0032	Continuing	305	206	ғой,	ғой	linguistic	_	_	End=1176.78
+306-0	SPK0032	Falling	306	206	өзі	өзі	linguistic	_	_	Begin=1176.78
+306-1	SPK0032	Falling	306	206	де	де	linguistic	_	_	_
+306-2	SPK0032	Falling	306	206	кетті	кетті	linguistic	_	_	_
+306-3	SPK0032	Falling	306	206	ме	ме	linguistic	_	_	_
+306-4	SPK0032	Falling	306	206	дедім.	дедім	linguistic	_	_	End=1177.863
+307-0	SPK0027	Continuing	307	207	Жо:қ,	Жоқ	linguistic	_	Prolongation=1	Begin=1177.639|End=1178.391
+308-0	SPK0027	Continuing	308	207	¬Гүлжанат	Гүлжанат	linguistic	_	Anonymized=Yes	Begin=1183.064
+308-1	SPK0027	Continuing	308	207	ол,	ол	linguistic	_	_	End=1183.458
+309-0	SPK0027	Falling	309	207	мектептің	мектептің	linguistic	_	_	Begin=1183.458
+309-1	SPK0027	Falling	309	207	лагеріне	лагеріне	linguistic	_	_	_
+309-2	SPK0027	Falling	309	207	баратын.	баратын	linguistic	_	_	End=1184.815
+310-0	SPK0027	Falling	310	208	Қазір	Қазір	linguistic	_	_	Begin=1184.815
+310-1	SPK0027	Falling	310	208	мектептің	мектептің	linguistic	_	_	_
+310-2	SPK0027	Falling	310	208	лагері	лагері	linguistic	_	_	_
+310-3	SPK0027	Falling	310	208	жоқ.	жоқ	linguistic	_	_	End=1186.869
+311-0	SPK0032	Rising	311	209	Енді	Енді	linguistic	_	_	Begin=1189.185
+311-1	SPK0032	Rising	311	209	ана	ана	linguistic	_	_	_
+311-2	SPK0032	Rising	311	209	жаққа	жаққа	linguistic	_	_	_
+311-3	SPK0032	Rising	311	209	ауысатын	ауысатын	linguistic	_	_	_
+311-4	SPK0032	Rising	311	209	шығар	шығар	linguistic	_	_	_
+311-5	SPK0032	Rising	311	209	иә?	иә	linguistic	_	_	End=1191.191
+312-0	SPK0027	Falling	312	210	Білмеймін	Білмеймін	linguistic	_	_	Begin=1192.002
+312-1	SPK0027	Falling	312	210	соны.	соны	linguistic	_	_	End=1193.284
+313-0	SPK0032	Falling	313	209	Жақын	Жақын	linguistic	_	_	Begin=1192.671
+313-1	SPK0032	Falling	313	209	жерге.	жерге	linguistic	_	_	End=1193.893
+314-0	SPK0027	Falling	314	211	Орын	Орын	linguistic	_	_	Begin=1194.18
+314-1	SPK0027	Falling	314	211	болса	болса	linguistic	_	_	_
+314-2	SPK0027	Falling	314	211	ауысады.	ауысады	linguistic	_	_	End=1195.804

@@ -1,0 +1,383 @@
+speaker	span	translation
+SPK0031	#,	
+	әгі,	Yesterday, remember that Zulyash kudagi said [they] were going to have their first baby only now [at this age], after having chased studies.
+	кеше ¬Зүләш құдағи айтты емес пе,	
+	Бірінші баланы,	
+	енді тапқалы жүр деп.	
+	Оқу оқу деп жүрдік деп.	
+	###.	
+SPK0032	##	
+SPK0031	Иә.	Yes.
+	#######,	
+	бір келіншек деді емес пе,	Don't you remember, she said this about one kelinshek?
+	#	
+SPK0032	####.	
+SPK0031	Бәле,	Unfortune! It started raining again, silently.
+	тағы жауды.	
+	сытырлап.	
+	Эх Алла.	Oh Allah!
+	Ой әгі,	"Oh, that...once, initially on the month of May or in the beginning of July, people blustered, you know, saying ""oh, there will be frought because the sun will soar""."
+	алғаш,	
+	бір,	
+	май айында ма эй?	
+	Ил– июльдің басында ма?	
+	Ой,	
+	күн шыжып,	
+	ойбай құрғақшылық деп,	
+	шулады ғой ел.	
+SPK0032	Енді құрғақшылық болмайды,	From now on there won't be any drought, right?
+	иә?	
+SPK0031	Қайдағы құрғақшылық?	What drought are you talking about?
+	Міне,	Now is the time for mowning grass.
+	шөп шабатын.	
+	Осы,	
+	осыдан кейін,	It will become possible to mow the grass after this.
+	шапса да болады?	
+	Неге барып,	Darkhan went there and just now said to me that there is rain [in the village].
+	жауын дейді,	
+	жаңа,	
+	¬Дархан айтады.	
+SPK0032	Аа,	Umm, in Kurshim?
+	Күршімде ме?.	
+SPK0031	Иә.	Yes, in Kurshim. It is raining there.
+	Күршімде жауын ғой,	
+	жауып тұр.	
+SPK0032	Ее,	oh, OK.
+	жарайды.	
+SPK0031	Анау,	You know the place where Zharkyn sows watermelons? He said he went there and gave tasattyk.
+	¬Жарқын,	
+	арбыз егіп жүретін жер бар емес пә,	
+SPK0032	Иә.	Yes.
+SPK0031	сол жерге,	
+	барып,	
+	тасаттық беріпті дейді,	
+	анада.	
+SPK0032	Е:,	Mm.
+SPK0031	Сонан кейін,	After that, yes...
+	иә,	
+SPK0032	жарайды,	OK, OK.
+	жарайды.	
+SPK0031	Кеше,	So, yesterday, it happened that Zholaman spoke to me when he was at that thing...
+	¬Жоламан,	
+	сөйлескен,	
+	сол,	
+	неде жүргенде.	
+SPK0032	¬Жарқында ма?.	At Zharkyn's?
+SPK0031	¬Жарқында тұрмыз,	We are two at Zharkyn's with...
+	кім еке—.	
+SPK0032	¬Жарқыннан,	Dau said that he [Zholaman] borrowed a lot of money from Zharkyn and asked why would he do that.
+	көп ақша алыпты дейді,	
+	(H)	
+	қарыз алды,	
+	¬Жарқыннан ақша алды,	
+	қарыз алғаны несі дейді.	
+SPK0031	Кім.	Who?
+SPK0032	Дәу айтат.	
+	¬Жарқыннан қарыз ала ма?.	Does he borrow money from Zharkyn?
+SPK0031	Алмайды,	He does not borrow money.
+	өтірікті—.	Lie...
+SPK0032	Бермейді оған,	He does not give money to Zholaman.
+	¬Жоламанға ол.	
+SPK0031	##,	He doesn't borrow money. He is just prattling, meh.
+	алмайды,	
+	шатып эй.	
+SPK0032	¬Жоламанға.	To Zholaman.
+	Содан айтат,	Then he says that apparently Zholaman sold his two foals, and he wondered where he spent all this money after having sold the foals. Zholaman also sold his cows, he says.
+	екі құлынын сатыпты,	
+	оның ақшасын бәрін қайда жіберді дейді,	
+	сиыр сатты дейді.	
+SPK0031	Қайда жібереді ал?	Well, where would he spend this money? Of course, he will hire someone to dig a well or do something on the land.
+	Сол бірдеңе,	
+	құдық қаздырады,	
+	жер,	
+	бірдеңе,	
+	істетеді дейді.	
+SPK0032	Ана бала-шағаның киім-кешегі бар.	Those children's clothes is also a concern.
+SPK0031	Ой,	Gosh.
+	құдай.	
+	Кім екеуіміз,	He said that he and Zhomash together are at his place. He said that Zhomash was saying hi to me when we were talking.
+	сонда жүрміз дейді,	
+	¬Жомаш екеуіміз.	
+	¬Жомаш сәлем айтып жатыр,	
+	аға саған дейді,	
+	менің жанымда жүр дейді,	
+	сөйлесіп жатқан–.	
+SPK0032	Ее ана,	Uh, at that person's, right?
+	кім де ме.	
+SPK0031	Иә,	Yes, Zhomash.
+	о–,	
+	¬Жомаш ¬Жомаш.	
+SPK0032	Ол ¬Жақада жүреді.	He visits Zhaka from time to time.
+SPK0031	¬Исабек.	Isabek.
+SPK0032	Иә иә.	Yes, yes.
+SPK0031	Апасы,	Zholaman said that his grandmother is good and that she just yesterday came to visit his place.
+	а-a—,	
+	апасы жақсы,	
+	біздің үйге кеше келіп кеткен дейді,	
+SPK0032	Иә?	Yes?
+SPK0031	¬Жоламан айтады.	
+SPK0032	Мен сұрадым,	I asked:
+	апаң ###,	Your grandmother...
+	¬Жазгүл айтқан,	Zhazgul said that yesterday [she] paid a visit.
+	кеше келіп кетті деп.	
+	Апам кеп тұрат,	My grandmother comes to visit regularly, says she.
+	дейді.	
+SPK0031	Сол,	Well, this is it. Here it is raining, and the grey clouds.
+	міне жауын,	
+	ала бұлт.	
+	Тоқымдай болса да,	Even if the clouds are small, the rain from them falls heavily.
+	жауып-жауып кетет,	
+	жауып.	
+SPK0032	Тағы жауып тұр әне,	There you see, it is raining again.
+	терезенің бәрі сырт–,	All the outer side of the window is wet.
+SPK0031	Жауып тұр,	It is raining, it is raining.
+	жауып тұр.	
+SPK0032	сырты су.	
+	Терезенің сырты су.	The outer side of the window is wet
+SPK0031	Жақсы болады,	It will be good.
+	құрғақшылық болмайды,	There will no be drought in Kurshim.
+	Күршімде.	
+SPK0032	Болмай-ақ қойсын,	Let it not be; otherwise we will have everyone saying that there is mal [=cattle] only enough for one day.
+	##	
+	бір күннің малы бар деп бәрі.	
+	Шөп қымбаттайды,	Grass will become more expensive [if there is drought].
+	немене жақсы болады ол.	What good it will be?
+	Әгі ұл қайда барамын дейді?	Where does that boy say he will he go?
+SPK0031	Мына жерге бір жірге барып сөйлесіп келемін дейді.	He said he will go to this one place here to speak with somebody and will come back.
+	##	
+SPK0032	Ее.	I see.
+SPK0031	Кино,	[He] will film a movie called kempir shal.
+	кино ###,	
+	кемпір-шал деген кино түсіреді.	
+	Ау.	
+SPK0032	Немене деп жатырсың,	What are you saying?
+	кемпір-шал немене деп сөйлейсің.	Saying things like kepmir shal, why/what are you speaking of these things?
+SPK0031	Кемпір-шал деген кино түсіріп жатыр емес пе,	Well, don't you see he, Akalok, is filming a movie called kempir shal?
+	Ақалөк.	
+	Нағашы атам мен нағашы апам дейді.	"He says: ""[these are] my maternal grandfather and maternal ganmother; one of them is 80, the other is 70, at their time when they are trembling, being filmed for a movie"""
+	Олардың,	
+SPK0032	Иә,	Yes.
+	басым айланып кетті ғой.	I began feeling dizzy!
+SPK0031	бірі сексенде,	
+	бірі жетпіс бесте.	
+	қылшылдап тұрған шағында деп жатыр.	
+	Киноға түсіп жатыр.	
+SPK0032	###	
+SPK0031	Иә иә.	Yes, yes.
+	Эй өмір-ай десеңші.	Oh, say, what a life it is, huh?
+SPK0032	Күршім арбызы пысқан жоқ иә?	The Kurchim watermelons haven't ripenned yet, yes?
+	Августе пысады ғой иә арбыз.	Watermelons actually ripen on August.
+SPK0031	Жоқ арбыз жоқ деді.	[They] said there is no watermelon yet.
+SPK0032	А.	
+SPK0031	Арбыз пысқан жоқ деді.	[They] said watermelons have not ripened yet.
+SPK0032	Жоқ эй,	No, of course.
+	ертең ғой ##.	It is early now.
+SPK0031	Мен айттым,	I said that Zharkyn's watermelon has not ripened yet.
+	¬Жарқынның арбызы пысқан жоқ.	
+SPK0032	##	
+	####	
+	Ана,	That.
+	Августе пысады.	On August [the watermelons] ripen.
+SPK0031	Оңтүстіктің арбыздары келіп қойды ғой,	The watermelons from the south, from Shymkent, have already come.
+	Шымкент жақтан.	
+SPK0032	Шымкент ана күні әкелді,	The other day [they] brought this Shymkent one.
+	әшейін іші жаман дейді ғой.	They say its [the watermelon's] inside is bad, you know.
+SPK0031	Енді олар,	Of course that is because they have ripened early!
+	ерте пысқан ғой.	
+SPK0032	Дәрімен пысқан деп,	Some children were bringing some that day, saying that they have been ripened using drugs.
+	әнеу күні бір балалар әкеліп жүретін.	
+	Понос болады,	One will have diarrhea.
+	###	
+	Ақшасы бар кісілер,	People who have money do not eat it.
+	жемейді оны.	
+	Киллограммы қанша дейді әкәм,	How much do they say one kilogram costs?
+	қымбат екен өзі.	It is expensive as people say.
+	Бір арбыз,	One watermelon is this big.
+	мынандай,	
+	###,	
+SPK0031	Эй Алла,	Oh God!
+SPK0032	###.	
+SPK0031	құдірет сақтай көр.	Let God save (us/me)!
+	Қара құлыным,	My black foal.. where is it and what is it doing I wonder!
+	қайда,	
+	немене істеп жүр екен.	
+SPK0032	Ааа	Come again?
+SPK0031	Қара ұлым,	I wonder what is my black boy doing now?
+	немене ғып жүр екен.	
+	#,	
+	біреу,	Someone says that they work two work together in one car.
+	екі-екіден істейді дейді,	
+	бір мәшінде.	
+SPK0032	А.	Come again?
+SPK0031	Бір мәшінде екі шопырдан істейді дейді.	Two drivers work in one car, says he/she/they.
+SPK0032	А.	I see!
+	Қатар отырып,	By sitting together next to each other, right?
+	иә?	
+SPK0031	Жақсы.	Good.
+SPK0032	Жарайды.	It is ok.
+	Үлкен мәшін ғой ол.	
+SPK0031	Күндіз-түні,	I think he works non-stop, all day all night.
+	тоқтамай істейді ғой деймін.	
+SPK0032	Түнде де істейді дей ме.	Is it that he also works at night?
+SPK0031	Жоға,	No.
+SPK0032	Ее.	
+SPK0031	баяғы,	The thing is that...
+	##,	
+SPK0032	Құдай сақтасын.	
+SPK0031	Сол,	This is the way things are.
+	солай болған өмір.	This is how life has been.
+SPK0032	М,	What do you say?
+	заман өзгергені сол емес пе,	It is obvious that this is how times have changed. All here as you can see [has changed].
+	бәрі міне,	
+	әйтпесе өмір-бақи,	It is just that # that bright deceased Karim and all those others raised nine children with just one tractor, you know.
+	ана,	
+	баласы #,	
+	ана жарықтық,	
+	¬Кәрім,	
+	ана кімдер,	
+	тоғыз баланы,	
+	бір трактормен асырады ғой,	
+	ешқайда кеткен де жоқ.	He has not even gone anywhere.
+SPK0031	¬Мәлімдер	Malim and others the people related to him and all of his children went to school, you know.
+	еще,	
+SPK0032	##,	
+SPK0031	¬Мәлем,	
+	бәрі баласы оқыды ғой.	
+SPK0032	ДТ,	DT.
+	ДТ-да жүретінбіз.	We would spend time at DT [the tractor].
+SPK0031	Иә.	Yeah.
+SPK0032	Ешқайда кеткен де жоқ,	He also has not gone/did not go anywhere [He did not see other places].
+	бірақ енді,	But he has not lived a good life though, as I know.
+	жақсы өмір сүрген жоқ,	
+	әйту,	
+	##.	
+SPK0031	#.	
+SPK0032	Ол мынандай шалқып әгі,	He never wanted to hoard stuff and sew a lot of clothes to live happily and relaxed like this.
+	бәлембәй мәшін киім тігеміз,	
+	дүние жинаймыз,	
+SPK0031	Э,	These times were different, you know. You're so weird (you speak weird things).
+	ол,	
+	заман басқа ғой,	
+	қызықсың ғой сен.	
+SPK0032	дүние жинаймыз деген жоқ.	
+SPK0031	Жинасаң да,	Even if he stored stuff or not, it would not have mattered for him because there he did his best as much as possible.
+	жинамасаң да,	
+	сол жақта өзінің талпынғаны сол,	
+	өзі арманы сондай болды,	"His had such a dream, saying ""if only I had my own firewood and cattle"", and he was busy with this."
+	отыным болса,	
+	малым болса,	
+	деді,	
+	сонымен жүрді.	
+	Енді қазір заман басқа ғой.	These are different times now, you know.
+SPK0032	Содан кейін,	Afterwards, as soon as he began going up (financially), his son began building a house.
+	кішкене,	
+	көтеріле бастап еді,	
+	енді ұлы үй сала бастады.	
+SPK0031	Енді,	You know, this is called living on the same wave like others according to one's time/age/epoch.
+	сол,	
+	өз заманына қарай,	
+	ел қатарлы өмір сүрді деп,	
+	соны айтады.	
+	Өзінің заманына қарай,	This is called living on the same wave like others according to the standards of one's time/age/epoch.
+	ел қатарлы деген сол.	
+	Өз,	At his time (age), he did not fell behind from anybody (he lived like others).
+	өз заманда,	
+	ешкімнен қалған жоқ,	
+	## бір тракторист,	He was a tractor driver in stock (in reserve).
+	қатардағы.	
+	Ал енді,	But now, the time as we call it (descibe it), is now...
+	заманы деген,	
+	міне қазір—	
+SPK0032	Бір,	Slow down! In every house, there was one blue tractor and one DT tractor, and he used to provide for his chidlren with this one tractor.
+	ақырын,	
+	бір көк трактор,	
+	бір ДТ,	
+	бір-бір үйде,	
+	болғанда,	
+	сонымен асырап жүрді,	
+	#####.	
+SPK0031	Ол,	I am thinking now, and I think that our labour at that time, turns out,  was as as enourmous as a sea.
+	о,	
+	ол,	
+	біздің,	
+	еңбегіміз,	
+	сол күндегі,	
+	қазір ойлап жатсам,	
+	ұшаң теңіз екен.	
+SPK0032	Бірақ,	But women did not have jobs, nothing was left for them.
+	қатындардың,	
+SPK0031	##,	
+SPK0032	қатындарда жұмыс жоқ,	
+	бәрі қалды,	
+	үйдегі еркектің жұмысын атқардық,	We did the work that men's work at home.
+	кім жұмыс істеді,	So who did really work?
+	сонда.	
+SPK0031	Енді ол,	Well, it is because.. for example...
+SPK0032	Пенсия жоқ,	No pension and no work.
+SPK0031	мысалы,	
+SPK0032	пенсия жоқ,	
+SPK0031	мыса—,	
+SPK0032	жұмыс жоқ.	
+SPK0031	мысалы,	For example, if there are six to five chidlren in total, just please think...
+	сонда әгі,	
+	өзі,	
+	бес-алтыдан бала болса,	
+	сен ойлашы эй,	
+	жолдас,	If my friend ## sits on the tractor all day, from morning till evening, how is her wife supposed to work?
+	##,	
+	таңның атысы,	
+	күннің батысы,	
+	тракторде отырса,	
+	ол қалай,	
+	әйел қайдан жұмыс істейді,	
+	###.	
+SPK0032	Жұмыс жоқ қой ол кезде.	Becase at the time there were not any jobs.
+SPK0031	Қойшы эй,	You please stop it!
+	болған,	There were!
+	керек жоқ,	Not necessary
+	үйде,	At home you cannot NOT do anything; you're so weird you know.
+	табжыла алмайсың,	
+	қызықсың ғой.	
+SPK0032	Медпунктте бір #,	There was one [job] at that school and on that...on kontor..and at the medical center..and at the safhoz's kontor.
+	не,	
+	мектепте,	
+	##,	
+	әгі,	
+	неде,	
+SPK0031	Конторда,	At kontor.
+	совхохдың конторында,	Well, yes, at the safhoz's kontor and at the medical, there were jobs.
+SPK0032	конторда,	
+SPK0031	медпункінде,	
+	болды енді.	
+SPK0032	медпункте біреу,	
+	совхоздың конторында біреу.	
+SPK0031	Енді,	Well, yes, there is a job of teachers' janitor at school.
+	мұғалімдер,	
+	мұғалімнің әгі мектеп уборщицасы,	
+	болды енді.	
+	Ал енді болған күнде,	Well, but even on days when let's says there were jobs available, then how would a woman work when she had no fewer than four to five kids?
+	анандай қайтіп істей де эй,	
+	төрттен,	
+	бестен,	
+	төмен емес бала,	
+	ал өзі,	He himself is rich and also breeds cattle.
+	бай,	
+	еще мал асырайды,	
+	сонда,	
+	сен қызметте болсаң,	In that case, how could you possibly be on duty (i.e., work)? What would you do?
+	қайтіп істер едің?	
+	Кір мәшін,	Then ther were not washing machines. Everything was done by hands. Everyone milked cattle.
+	жоқ ол кезде,	
+	бәрі,	
+	қол,	
+	мал сауады,	
+	Ол кезде,	She [you] says women did not work at that time.
+	жұмыс істеген жоқ қатындар дейді,	
+	қатындар істеді,	Women did work!
+	істеген деген сол,	Raising that many children, making sure they studied and got married - it is all your durty, and this is called work.
+	ананша баланы жеткізу,	
+	оқытып,	
+	үйлендірді,	
+	соның бәрі қызмет,	
+	сендердің.	
+SPK0032	###.	

@@ -1,0 +1,1093 @@
+speaker	span	translation
+SPK6003	Как его звали,	What was his name, ¬Elzhan?
+	¬Елжан?	
+SPK6006	Бірнәрсе: Индрайвер.	Something, Indriver
+SPK6004	Мен сосын,	And I then married to Tajikistan(i) (man).
+	ээ,	
+	Тәжікстанға күйеуге шықтым ғой.	
+SPK6003	Ммм.	Mmm.
+SPK6004	Тәжікстанға.	to Tajikistan(i) (man)
+SPK6003	Анау ¬Ер–	Was that ¬Erzhan born in Tajikistan?
+	Тәжік–	
+	Тәжікстанда,	
+	туған ба?	
+SPK6004	Иә,	Yes, yes
+	иә.	
+SPK6003	Қалай тауып алдың?	How did you find him?
+	@@@	@@@
+SPK6004	Осы жаққа,	He came here to look for a Kazakh wife.
+	Қызылордаға келген ғой жаңа неге,	
+	қазақ қыз аламын деп.	
+SPK6006	Ммм.	Mmm.
+SPK6003	Специально.	For that specific goal.
+SPK6004	Сол,	So, yes
+	иә–	
+	Сонымен,	In short,
+	мен,	
+	эээ,	
+SPK6003	Неге?	Why?
+SPK6004	Ау?	Come again?
+SPK6003	А сол жақта қыздар ұнамады ма не?	He didn't like the girls from there?
+SPK6004	Тәжіктен алма деген ғой.	They told him not to marry a Tajik woman.
+	Қазақтан ал деп.	They told him to marry a Kazakh woman.
+SPK6003	COUGH	
+	COUGH	
+	Біздің қыздар ценятся,	Our girls are valued there, aren't they?
+	да?	
+	@@@	
+SPK6004	Иә.	Yes
+	Сонымен,	Thus, my mom's sister introduced me to him. In short, so, my mom's sister introduced us to each other.
+	сол,	
+	маманың апасы таныстырды мені.	
+SPK6003	Ммм.	Mmm.
+SPK6004	Я жила в Таджикистане,	I used to live in Tajikistan
+	шесть лет.	for six years.
+SPK6005	Ммм.	mmm.
+SPK6003	Қай қалада?	In what city?
+SPK6004	Душанбенің,	In Dushanbe, a fifteen-minute drive away.
+	несінде,	
+	ар жағында он бес минуттік жер.	
+SPK6003	Ммм.	Mmm.
+SPK6006	Ммм.	Mmm.
+SPK6004	Совхозында.	In the village.
+	Сол жақта енді,	There brides are treated like this.
+	келіндерді бүйтіп ұстайды ғой.	
+	Азанда,	At four in the morning you get up, milk the cow, water the garden, sweep, a handkerchief on your head, pants on your feet.
+	төртте тұрасың,	
+	сиыр сауасың,	
+SPK6006	Ужас.	Terrible.
+SPK6004	қораға су себесің,	
+	сыпырасың,	
+	баста орамал,	
+	ана,	
+	неде,	
+	аяғыңда штан,	
+SPK6003	@@@@	
+SPK6004	@@@	
+SPK6003	Не то что мы,	Not like us, right? We just fuss around.
+	да,	
+	ходим	
+SPK6004	Иә.	Yes
+SPK6003	@@@	
+	Он екіге дейін ұйықтап.	And we sleep till noon.
+	@@@	
+SPK6004	Иә.	Yes
+SPK6003	@@	
+SPK6005	Уже в Туркестан,	Already in Turkestan
+	когда проезжаешь,	when you pass through,
+	уже,	
+	начинаешь видеть,	you begin to see
+	в платка:х,	in headscarves
+SPK6004	Иә.	Yes
+SPK6005	в длинных этих,	in these long ones
+SPK6004	Иә.	yes
+SPK6005	уже,	already
+	и,	and,
+SPK6004	Иә.	Yes
+SPK6005	как будто уже,	as if already
+	другое,	different
+	это место.	this place.
+SPK6004	Төрт–	I managed to milk four cows.
+	төрт сиыр сауатынмын тұғын.	
+SPK6003	Ммм.	Mmm.
+SPK6004	Азаңда төртте тұрып.	I got up at four in the morning.
+SPK6005	Как будто ощущение,	Feels like
+	в другую страну попадаешь,	you are in the different country
+	как будто.	as if
+SPK6003	@@	
+SPK6004	Сосын,	Then, I baked bread on tandoor ovens.
+	не,	
+	таңдырға нан жабамын.	
+SPK6003	Ай молоде:ц.	Oh, that's great of you.
+SPK6004	Сосын,	Besides, do you know these cow cakes (meaning cow dungs)?
+	ана,	
+	не бар емес пе,	
+	сиырдың боғы бар емес па?	
+SPK6003	Иә.	Yes
+SPK6004	Соны,	Here, we would  hung them up and stick them to the wall like this.
+	илейміз де,	
+	мынандай стенаға жабыстырамыз бүйтіп.	
+SPK6003	Сосын?	And then?
+SPK6004	Сол,	So, when they dried up, we used to put them in the oven to cook bread.
+	кепкен кезде,	
+	жаңа,	
+	неге,	
+	нан пісіруге,	
+SPK6003	Пешке са–	Did they put into the oven?
+SPK6004	пешке саламыз.	
+SPK6003	Мәә.	Oh my god
+SPK6006	Ммм.	Mmm.
+SPK6003	Ужас.	Terrible
+SPK6004	Бірақ енді,	But the nature there is generally cool.
+	несі,	
+	природасы вообще күшті.	
+SPK6003	Ммм.	Mmm.
+SPK6004	Рай.	Heaven.
+SPK6003	Ана неде ¬Гүлзираның,	And ¬Gulzira's relatives are there too, right?
+	туысқандары тоже там,	
+	да?	
+SPK6004	Ол Қарақалпақстанда.	They are in Karakalpakstan.
+SPK6003	Ааа.	ah
+	Бәсе.	I see
+SPK6004	Қорасында,	Apples grow in the garden in tons.
+	тонналап,	
+	алма өседі.	
+	Тонналап,	Persimmons grow in tons.
+	құрма өседі.	
+	Жүзімдер жеген,	Those grapes rot on the tree because no one eats them.
+	тұрып,	
+	шіріп кетеді оны,	
+	ешкім жемейді.	
+SPK6003	Ммм.	Mmm.
+SPK6004	Жейміз,	Even though we eat, it remains anyway, on the tops of these.
+	сонда да қалады ана,	
+	ненің төбесінде.	
+SPK6003	Ммм.	Mmm.
+	Свадьба болды ма,	Did you have a wedding?
+	сендерде?	
+SPK6004	Жоқ.	No
+SPK6003	Қалай болды?	How was it?
+SPK6004	Болған жоқ.	We didn't.
+SPK6003	Ммм.	Mmm.
+SPK6004	Беташар.	Betashar.
+SPK6003	Беташар?	Betashar?
+SPK6004	Сонымен,	In short, onions, potatoes, everything comes from our garden.
+SPK6003	Енді–	And now
+SPK6004	жаңа,	
+	картошка,	
+	жуа,	
+	бәрін сол өздерінің қорасынан.	
+SPK6003	Енді,	Now, in general, how do our weddings look from the outside?
+	в целом наша свадьба,	
+	сыртынан қалай көрінеді?	
+SPK6004	Күшті.	Cool.
+	Маған ұнағаны,	What I really liked the most was the Uighur music.
+	е:ң ұнағаны,	
+	музыкасы ұнады,	
+	ұйғырлардың.	
+SPK6003	@@@	
+SPK6005	М?	M?
+SPK6003	Ммм.	Mmm.
+SPK6004	Музыка.	Music.
+SPK6003	Ұйғырлардың музыкасы ұнады.	She liked the Uighur music.
+	Ей,	
+	понравилась,	Liked
+	уйгурская музыка.	the uyghur's music
+	Как там,	The kind of music that was played in the wedding.
+	какую музыку включали на свадьбе.	
+SPK6004	Иә.	Yes.
+SPK6005	Ммм.	Ah, I see.
+SPK6004	Сосын тамадасы да,	And the tamada (the toastmaster) was good too.
+	жақсы жүргізеді екен.	
+SPK6003	Тамада,	The toastmaster had to be someone who could speak Kazakh, Russian, and Uighur.
+	ээ,	
+	не,	
+	специально,	
+	короче андай,	
+	қазақша да,	
+	орысша да,	
+	ұйғырша да.	
+SPK6004	Мхм.	Mmm.
+SPK6005	Ммм.	Mmm.
+SPK6003	Алдында олар,	They went to the auyl before, haven't they.
+	неге,	
+	ауылға барды ғой–	
+SPK6004	Ана ресторан,	And this restaurant, isn't it an Uighur one?
+	ұйғырлардікі емес па?	
+SPK6005	Навер--	Probably,..
+SPK6003	Я не знаю.	I don't know.
+SPK6005	Наверное что-то кажется уйгурский	Probably Uighur.
+SPK6003	Может быть	Maybe
+	Наверное.	Could be.
+SPK6005	Да?	Really?
+	Ресторан.	Restaurant.
+SPK6003	Наверное.	Seems so
+	¬Гуль--	Gul--
+	¬Гульжанка какая довольная сидела.	¬Gulzhanka was sitting there pleased.
+SPK6005	Какая?	Which?
+SPK6003	@@	Yes?
+	Да?	
+SPK6005	¬Гульжанка?	¬Gulzhanka?
+SPK6003	¬Вовы жена.	¬Vova's wife.
+SPK6005	Да,	Yeah,  pleased?
+	довольная?	
+SPK6003	Ну она же уйгурка,	Well, she is an Uighur, right?
+	да,	
+SPK6005	Ааа.	Oh, I see
+SPK6003	ну: наполовину.	Well, half Uighur.
+SPK6004	Ммм.	Mm.
+SPK6005	Ммм.	Oh I see.
+	#	
+	Ей не понравилось,	She didn't like it. She said that when we were coming out of there together.
+	когда мы с ней,	
+	выходили когда.	
+SPK6003	Да.	Really?
+SPK6005	Ммм.	Yes.
+SPK6003	Ммм.	I see.
+SPK6005	Ммм.	Mmm.
+	Еще говорит,	She also says, oh my god,  ¬Shakhzoda is very beautiful, she says.
+	ой говорит,	
+	¬Шахзода прям,	
+	краса:вица говорит.	
+SPK6004	Ммм	Mmm.
+SPK6003	Ммм.	Mmm.
+	Ну она тоже такая краси:вая была,	Well, she was also beautiful
+	на свадьбе у ¬Вовы	during ¬Vova's wedding
+	А,	Oh,
+	вот и что интересно было,	and the interesting thing that happened is...
+	біз ээ,	we
+	в Чимкенте была свадьба.	there was a wedding was in Shymkent .
+SPK6004	Аха.	Yeah.
+SPK6003	Анау ¬Вова,	This  ¬Vova...his father's relatives... you know Kim Tanya, who comes around regularly. You saw her, remember? She is my friend, ¬Tanya, a fluffy lady.
+	короче оның,	
+	папасының туысқандары,	
+	анау ¬Ким Таня келеді ғой бізге,	
+	көрдің ғой,	
+SPK6004	Иә.	Yes
+SPK6003	подружкам,	
+SPK6004	Мхм.	Yeah.
+SPK6003	то:м–	
+	томпақ,	
+SPK6004	Иә иә.	Yeah, yeah.
+SPK6003	¬Таня.	
+SPK6004	Мхм.	Yeah.
+SPK6003	Видела да?	You saw her right?
+	Соның,	So apparently she is their niece.
+	племянница екен.	
+SPK6004	Мхм.	Ah.
+SPK6003	Анау,	She is the daughter of  those... the daughter of ¬Svetlana's husband's brother.
+	ээээ,	
+	¬Светлананың,	
+	күйеунің,	
+	аға а–	
+	ағасының қызы.	
+SPK6004	Мхм.	Yeah.
+SPK6003	И короче этот,	And so...
+	мы поехали на свадьбу,	We went to the wedding,
+	қызық болды вообще.	and it was interesting in general.
+	Осындай,	They organized a shashu and stuff.
+	шашу,	
+	ээ,	
+	шашу:	
+	деген.	
+	Сосын,	And then she forced to go to Se-...
+SPK6004	Мхм.	Yeah.
+SPK6003	она заставила,	
+	этот,	
+	поехать,	
+	анау,	
+	в Се–	
+	Откуда она–	Where was she from?
+	С Усть-Ка–	From Ustkamenagorsk?
+	Откуда ее этот,	From where did her in-laws come to get her?
+	ехали сва– сватать?	
+SPK6005	В Астану: они куда-то поехали.	To somewhere in Astana.
+SPK6003	Она Семипалатинская ма:	Was she from Semipalatynsk or I don't exactly know for sure.
+	білмеймін короче.	I don't know; it does not really matter.
+	Бірге о–	She studied with ¬Vova, with ¬Vovka.
+	оқыды ғой,	
+	анау ¬Вова,	
+SPK6004	Ммм.	Ah.
+SPK6003	¬Вовка екеуі.	
+SPK6004	Мхм.	Yeah.
+SPK6003	И короче этот,	And so they didn't want her to marry to him at first...
+	они не хотели,	
+	сначала,	
+	кәріс деп,	They said he was Korean and so they cannot marry her away to him.
+	бермейміз деп.	
+	Енді,	So,
+	они все равно,	they nevertheless
+	встречались,	dated
+	все равно,	nevertheless
+	нес–	
+	там несколько лет встречались,	dated for some years.
+	соған,	
+	уже неше жыл болды,	They dated for so many years, and she did not end up with a different guy after all.
+	уже басқаға шы–	
+	нені,	
+	шықпаған ғой.	
+	Сосын уже,	And so since she wasn't getting any younger, they all changed their minds and accepted it. As long as she got married.
+	жасы уже,	
+	кетіп баратыр ғой,	
+	и олар уже согласны,	
+	лишь бы замуж	
+	@@	
+SPK6005	@@@	
+SPK6004	Ммм.	I see.
+SPK6003	@@	
+	И короче когда стали жениться,	And when they were getting married...
+	вот они как положено барып,	... they went over there as in-laws as is usually the case...
+	бриллиа:нтовый несін наборлар–	...His side apparently bought diamond sets for her and everyone, for about eleven people...
+	бә:ріне короче,	
+	ей,	
+	бриллианты,	
+	потом,	
+	он бір адамға ма,	
+	комплект алған ғой.	
+SPK6004	Аха.	Yeah.
+SPK6003	Как положено құда–	Everything was as usual; her side went there, and she also consuled with me regarding everything.
+	құда түсіп,	
+	еще маған звондап,	
+	советовалась.	
+	Потом,	Then,
+	ээ,	ehmm,
+	в Чи– Чимкенте у них,	in Shymkent
+	родственник,	they have a relative there.
+	неде,	
+	зам акима,	... a vice of the deputy...
+	анау,	Their...
+	ағ–	
+	двоюродный брат.	cousin.
+	Сол,	So,
+SPK6004	Мхм.	Yeah.
+SPK6003	өзінің гостиничный бизнес,	he has his own hotel business.
+	ээ,	ehm,
+	ресторан,	a restaurant
+	гостиница,	a hotel
+	как называется у них?	What was the name?
+	Ооой,	Oh,
+	как же,	how was that?
+SPK6005	Не знаю я.	I dont know
+SPK6006	Тоже забыла.	I don't remember it either.
+SPK6003	Сакен?	Saken?
+SPK6005	Не сказка?	Was it not Skazka?
+SPK6003	Нет.	No,
+	Ну сказка тоже.	but that one is also his.
+	Еще там есть,	And also there is another
+	какой-то ресторан.	restaurant.
+SPK6005	Ай ну ладно,	Oh well, okay,
+	какая разница какой да?	what difference does it make which one it is?
+SPK6006	Қыпша:қ,	Kipchak or something like that?
+	или бірнәрсе ме?	
+	Иә.	Yes.
+SPK6004	Айта бер әрі қарай	Tell further.
+SPK6003	Потом–	Then,
+	И короче,	And then,
+	ээ,	mmm...
+	сол жақта,	there
+	эээ,	ehmm...
+	подешев–	cheaper
+	Они хотели в Алмату свадьбу делать,	They wanted their wedding in Almaty
+SPK6004	Мхм.	Mhm.
+SPK6003	мына жақтағы бәрі қымбат,	but everything is expensive here they said.
+	депті.	
+SPK6004	Мхм.	Mhm.
+SPK6003	сосын ана жақта,	While in that side, they were allowed to do the wedding for free.
+	бесплатно,	
+	ээ,	
+	берді ғой.	
+SPK6004	Мхм.	Mhm.
+SPK6003	Туысқан болып,	Relatives after all.
+	и короче,	And in short,
+SPK6005	Гостиница им беспла:тно,	The hotel was free for them.
+SPK6003	келген,	The guests who arrived at the hotel spent the night, for free, everything is simple, they paid for the groceries, and everything else themselves.
+	қонақтар,	
+	гостиницаға жатты,	
+	бесплатно,	
+	анау бә:рі не,	
+	просто анау,	
+	продукты и–	
+SPK6005	Ресторан,	Restaurant
+SPK6003	продуктыге,	
+	төледі,	
+	и все,	
+	қалғандары өздер.	
+SPK6005	все,	everything
+	сами продукты все купили а там,	They bought all the products themselves and there,
+SPK6004	Мхм.	Yeah.
+SPK6005	остальное все бесплатное.	everything else is free.
+SPK6003	Бірақ,	But the restaurant is beautiful, cool.
+	ресторан әдемі,	
+	күшті,	
+	болып.	
+	И мы поехали всей семьей,	And we as a whole family went
+	¬Серик только,	Only Serik did not go.
+	дома остался.	he stayed at home
+	Мыналар ¬Аяна,	Those ¬Ayana, ¬Bolat came with all their children.
+	¬Болат,	
+	балдарымыз бәріміз,	
+	бардық,	
+SPK6004	Мхм.	Yeah.
+SPK6003	ана теть ¬Светаға.	to ¬Sveta auntie .
+SPK6004	Мхм.	I see.
+SPK6003	И короче,	And so,
+	отырмыз?	we were sitting in a typical Kazakh wedding.
+	кәдімгідей,	
+	қазақ вот–	
+	қазақша свадьба болды ғой,	
+	осындай болды ғой.	
+	Сосын что,	"Then what happened, ""what are you doing"" I asked."
+SPK6004	Мхм.	Yeah.
+SPK6003	вы что делаете десем,	
+	сондай.	
+	А ол,	And her husband, he is Korean, but he acts like a Kazakh.
+	күйеуі,	
+	он кореец,	
+	но он себя так ведет,	
+	как будто он казах.	
+SPK6004	Мхм	Yeah.
+SPK6003	Понимаешь	Do you understand?
+SPK6004	Мхм.	Yeah.
+SPK6005	@@	
+SPK6003	И вот от снохи вот требует вот,	And now he demands this from his daughter-in-law,
+	как будто он сондай,	...as if he is all Kazakh...
+	потому что он людей лечит,	since he cures (treats) people
+	и,	
+	короче,	so
+	они ездят,	they drive
+	ммм,	mmm,
+	ауылға барады ғой,	to auyl usually.
+	там,	there
+	под Чимкентом где-то,	somewhere below Shymkent.
+	ауылға барады,	drive to auyl,
+	ол андай типа,	he is there kind of
+	биоэнергетика ма:	bioenergy or something
+	бірдене андай,	something like that.
+SPK6004	Иә.	Yes.
+SPK6003	как емші сияқты.	Like a type of healer.
+	Еще отрыжка береді,	He also burps like he usually does.
+	қадімгідей.	
+SPK6004	@@	
+SPK6003	И короче этот,	And so...
+	@	
+	соған,	to him
+	мно– много людей,	he cured a lot of people
+	көтерген ғой,	
+SPK6004	Мхм.	Yeah
+SPK6003	бірақ,	but
+	не знаю я не верю,	i don't know, i don't trust
+	оған.	him
+	Ну,	So,
+	кто-то верит,	someone trusts
+	и короче,	so in short,
+	много людей он вылечил.	he cured a lot of people.
+	И короче этот,	So that in short,
+	барған кезде,	When people go over to his place,
+	күтеді,	he caters to them,
+	дастарқан жайып,	lays the table
+	сәлем береді,	greets them
+	жүгіреді алдына.	hustles in front of him.
+	А,	But
+	келін,	the bride does not do so.
+	былай істемейді.	
+SPK6004	Мхм.	Mhm.
+SPK6003	А ол требует,	"But he demands this. He says guests must be respected like this. ""Why she doesn't greet me as necessary"" he asked me. I said that they shouldn't  at all do that."
+	осындай,	
+	уважение болу керек,	
+SPK6004	Мхм.	Yeah.
+SPK6003	не,	
+	эээ,	
+	неге ана маған сәлем берме:йді деп,	
+	я говорю олар,	
+	бермейді ғой,	
+	негізі.	
+SPK6004	Беру керек қой негізі.	Actually, they should.
+SPK6003	Нууу,	Well...
+SPK6004	Енді,	Well, fathers-in-law should be
+SPK6003	қазақ–	If they were Kazakhs - ok, but they are not.
+	қазақтар–	
+SPK6004	аталарды енді не қылса,	
+SPK6003	қазақтар болса,	
+	ал енді олар,	
+	сондай емес қой.	
+SPK6004	Енді,	Well, even if the in-laws are Koreans, if they abide by Kazakh customs, then it's necessary.
+	аталар,	
+	кәріс болса да енді сол,	
+	қазақтың обычаисы ұстап алса,	
+	беру керек қой.	
+SPK6003	Не знаю,	I don't know
+	сол,	
+	короче у него вот это,	in short he has this
+	паника и короче,	anxiety and so
+	не хочет он.	he doesn't want to.
+SPK6004	Мм.	I see.
+SPK6003	Енді олар бөлек тұр мына жақта Алматыда.	Now they live here separately, in Almaty.
+	Оның–	His
+	Ол--	He
+	Короче анау,	So, his brothers from dad's side are cool and rich, and so he is kind of in their business and works here.
+	папа жақтан,	
+	ағалары мықты екен,	
+	солардың короче бизнесте жүріп отыр ғой,	
+	мына жақта и,	
+	жұмыс істеп отыр.	
+SPK6004	Енді,	Well, you can't offend these people, after all.
+	кімдерді,	
+	ренжітпеу керек қой.	
+SPK6003	Иә:	Yes
+SPK6004	Ата енесіңді ренжітпеу керек.	There is no need to offend parents-in-law.
+SPK6003	И короче он этот,	And so he
+	жұмыс істеп отыр бала,	works
+	а она,	while she
+	работает,	works
+	анау,	in
+	Китайда,	China.
+	учились же они в Китае,	After all, they studied in China
+	китайская компания,	a chinese company
+	тоже там,	also there
+	күшті: жұмыс у нее,	she has a good job
+	крутая.	she is cool
+	@@@	
+	Переводчик.	Translator.
+	Она кто переводчик да?	she is a translator, isn't she?
+SPK6005	Кто?	Who?
+SPK6003	¬Гульжанка.	¬Gulzhanka.
+SPK6005	Да,	Yes,
+	старший переводчик в какой-то в компании.	a senior translator at some company.
+SPK6003	Из с китайского.	from chinese.
+SPK6005	Они в Китае вдвоем учились,	They studied together in China,
+SPK6004	Ммм.	I see.
+	Ммм	I see.
+SPK6005	там познакомились	met there,
+	да.	
+	Интересный да язык–	interesting language, right
+SPK6003	Сол ана екінші қыз,	Her second daughter, our little, you saw her, so she married to a russian guy and went to Belarus.
+	ээ біздің,	
+	кішкентай,	
+	көрдің ғой,	
+	она,	
+	орысқа тиген,	
+	и уехала в Беларусь.	
+	Папасымен,	With dad,
+	ну короче,	in short,
+	ээ,	ehmm,
+	папасымен емес,	not with father
+	с родителями,	but with her parents.
+SPK6004	Ммм.	I see.
+SPK6003	ата енесімен,	with parents-in-low, they used to live in Belarus, how many years sis past .
+	бәрі Беларусияда тұр– неше жыл болды сәке--	
+	в прошлом году биыл келді екен.	last year she came back.
+SPK6005	Медицинский,	from  medical school
+	закончила.	she graduated.
+SPK6003	Медицинский закончила.	She graduated from a medical school.
+SPK6004	Мхм.	Yeah.
+SPK6003	А у нее,	And she has
+	здесь тоже мына жақта жақсы жұмыс тауып алды,	She also found a good job, also figuring out cool here.
+	осы жақта жүр.	
+SPK6004	Ммм.	Mmm.
+	Енді,	And these, have you counted the wedding expenses or not yet?
+	жаңа,	
+	тойға кеткен расходты есептедің ба есептеген жоқсың ба?	
+SPK6003	Ммм.	No.
+	Не ғ– ну,	So how to say
+	вообще-то,	overall
+	эээ,	ehmm
+	былай болды,	it was like that
+	короче.	Briefly,
+SPK6004	Мен бәрін жазып отырдым.	I recorder everything.
+	Бір дәптерді арнадым да,	I started one notebook and wrote everything down there.
+	сол,	
+	не қылды бәрі жаздым.	
+SPK6003	Енді мен,	So, i personally don't know all the expenses, you better ask ¬Shakhzoda.
+	бәрін білмеймін ғой негізі,	
+	¬Шахзода--	
+	--да болу керек.	
+	Просто,	Simply,
+	айтыпты короче,	they said that for thirty people, ten thousand per person, then
+	отыз адам,	
+	он мың теңгеден,	
+	бір а– адам басы,	
+	басынан он мың теңге сосын,	
+	бөлек спиртное алады,	for alcohol they will charge separately
+	сосын бөлек,	then separately
+	ээ,	
+	тамада:	for the toastmaster
+	вот этот фото:граф,	and this photographer..
+	бәрі ол жақтан,	all these from there
+	несін,	
+SPK6004	Мхм.	Yeah.
+SPK6003	а,	as for...
+	подарки,	gifts,
+	и вот этот,	and these too,
+	тойтабақ біз жақтан,	we did a a plate of gifts called toytabak.
+	істедік.	
+SPK6004	Ммм.	I see.
+SPK6003	Короче примерно осындай болды.	So, yeah something like this.
+SPK6004	Он мың қымбат істеген иә?	Ten thousand, expensive, right?
+	Бұл жақта иә?	Around here, right?
+SPK6003	Иә.	Yes
+SPK6004	Бізден бес мың алды ғой.	They took five thousand from us.
+	Қызылордада.	In Kyzylorda.
+SPK6003	Расценки басқа ғой,	After all, the prices are different here.
+SPK6004	Иә.	Yes.
+SPK6003	мына жақта.	
+SPK6004	Бес мың алды бірақ еті:н,	They took five thousand, but meat, drinks,
+	суы:н,	
+	пече:ный,	bakery
+	конфе:ты,	sweets
+SPK6003	Апардың иә бәрін?	You brought everything by yourself?
+SPK6004	Бәрін апардым ғой,	I dragged everything myself,
+	почти.	almost.
+SPK6003	Ну вообще-то,	But in general,
+	если,	
+	много людей зовешь,	you inviate a lot of people,
+	оправдывается же?	it pays off.
+	Но негізі мына жақта оправдываться шықты ғой.	After all, here everything paid off.
+SPK6004	Иә.	Yes.
+	Иә.	Yes.
+SPK6003	Главное расходтары жабылды емес па,	Importantly, all the expenses are met, after all, what else is needed?
+SPK6004	Мхм.	
+SPK6003	болды емес па.	
+SPK6004	Мхм.	
+SPK6003	Бірақ подарки көп–	But there are not so many presents
+SPK6004	А,	Oh,
+SPK6003	көп емес сияқты.	
+SPK6004	менікі,	It didn't work out for me, because I had a wedding at home.
+	не қылған жоқ,	
+	өйткені менде,	
+	үйде той болды.	
+SPK6003	Ааа.	Aaa.
+	А,	A,
+	у тебя вот видишь,	you see what you had
+	еще у нее,	also she
+	пока той шел,	in parallel
+	она сына женила у нее еще дома мно:го людей.	made a wedding for his son too, so she had many people in her home.
+SPK6004	Беташар.	Betashar.
+SPK6003	Их еще пока,	And while you have everyone
+	встреча:ть,	welcomed
+	про- дома,	
+	сондай болды ғой да?	was it like that?
+SPK6004	Иә.	Yes.
+SPK6005	Ой ужас.	oh, terrible.
+SPK6003	Она поэтому думала что у нас здесь людей много и–	That's why she thought that we here have many people.
+SPK6004	Көбісі ана неге,	Most of them gave money for betashar, but they didn't give it for the wedding anymore.
+	беташар тойға берді де ресторан тойға берген жоқ.	
+SPK6003	Ммм.	Mmm
+SPK6004	Сол.	Yeah.
+SPK6003	А,	Oh,
+	в общем половина домой пришли,	overall, one half was in home,
+	половина в ресторан,	other half in the restaurant
+	гостей да,	of the guests,
+	сондай болды ма?	was it like that?
+SPK6005	Это вот там,	It's over there,
+SPK6004	Почти.	Almost.
+SPK6005	а,	
+	а в а–	
+	А в Чилях у нас там вообще полные по пятьсот человек все зовут.	And in Chili, we generally have a full five hundred people there.
+	В кредиты залетают,	They fly into loans,
+	по нескольку лет выплачивают.	and pay them off for several years.
+SPK6004	Бізде екі жүз,	We had two hundred, two hundred people,
+	екі жүз адам болды,	
+	двести человек было.	two hundred people were.
+SPK6005	Вот.	So.
+	А вот сейчас,	And now
+	в городе хорошо?	is it good in the city?
+	Пятьдесят человек сказали,	Fifty people said,
+	или шестьдесят все.	or sixty, and that's it
+	Хватит.	enough.
+	Да?	right?
+	И то нормально же,	And that's fine,
+	много.	even a lot.
+SPK6004	Мхм.	
+SPK6005	А то пятьсот человек позовет,	Otherwise, five hundred people will be invited,
+	и друг друга никто не знает,	and no one knows each other,
+	просто там,	just there
+	шум гам,	the noise is uproar,
+	просто,	just
+SPK6004	Пятьсот,	Five hundred
+	енді,	
+	слишком көп қой.	well, it's too much, after all.
+SPK6005	А некоторые когда,	And some when
+	никто никого не знает,	no one knows anyone
+	специально ходят,	specially go to
+SPK6004	Иә.	Yes.
+	Мхм.	
+SPK6005	по ресторанам,	the restaurants
+SPK6004	Иә.	Yes.
+SPK6005	просто,	just
+SPK6004	Мхм.	
+SPK6005	чтобы поку:шать.	in order to eat.
+SPK6004	Иә	
+SPK6005	А те же не знают	and those they don't know
+	кто пришел,	who came
+	от кого пришел,	from whom came
+	пятьсот человек.	five hundred people.
+SPK6003	@@	We had a funny situation.
+	Бізде күлкі болды.	
+SPK6005	Да,	yeah,
+	вот такие есть.	there are such
+SPK6004	А,	Oh,
+	осы жақта да не болды,	there was something else, I came here for the fiftieth anniversary.
+	мен өткенде,	
+	осы жаққа неге келдім ғой,	
+	елу жасқа келдім ғой тойға.	
+SPK6003	Аха.	Yeah
+SPK6004	Сонымен той басталып кетті.	In short, the holiday has begun.
+	Сосын бір әйел келе жатыр бүйтіп,	A woman walks in with a bag in her hand.
+	қолында сумкасы бар.	
+SPK6003	Аха.	Yeah
+SPK6004	Сосын тамада айтты,	Toastmaster says, Auntie (apa), you are not late, we just,
+	апа сіз кешікккен жоқсыз,	
+	біз просто,	
+	ерте,	started early, this one.
+	не,	
+	қойдық,	
+	бастап қойдық деді.	
+SPK6003	Аха.	Yeah,
+SPK6004	Сосын сіз,	Then you, on whose side will you be from?
+	кімнің жағы боласыз деді,	
+	ана әйел үндемей қалды сосын,	that woman is silent,
+	ана,	there,
+	жаққа айтты,	they are asked,
+	сіздер танисыздар ма деді жоқ.	Do you know her? They say not.
+	Сосын,	Then, we are told, do you know her? We say no.
+	біз жақтан айтты,	
+	сіздер танисыздар жоқ деді.	
+SPK6003	Ааа.	Aaa
+SPK6004	Сол.	Yeah.
+SPK6005	@@@	
+SPK6004	А,	Oh, then I got it wrong, she probably says, and that woman comes out.
+	онда,	
+	мен,	
+SPK6003	@@@	
+SPK6004	шатасқанбын ғой деп шығып кетті ана әйел.	
+SPK6003	Я сейчас тебе расскажу,	I will tell you now,
+	қалай ауылда,	what a joke there was in the village.
+	қандай күлкі болды.	
+	Эээ,	
+	у нас екінші мамасының сестрасы бар ғой,	A mom's second older sister,
+	сестренка,	younger sister,
+	орысқа тиген,	who married a russian
+SPK6004	Мхм.	
+SPK6003	эээ,	
+	у нее дочка замуж вышла за немца.	her daughter married a German (guy).
+	А олда бір,	And she has,
+	короче оларға айтыпты,	so, they were told
+	ммм,	mmm,
+	свадьба.	wedding
+SPK6004	Мхм.	
+SPK6003	то–	Russians have
+	ну тоже вот у русских,	
+	русские,	Russian (weddings),
+	немцы,	Germans
+	сондай бо–	so the things went
+	онда пополам тоже болды сондай.	they also had half and half.
+SPK6004	Мхм.	
+SPK6003	И короче,	So, in short,
+	мало людей,	there were few people
+	но свадьба нормально,	but still the wedding went nice
+	провели,	everything was done
+	и короче,	so, in short
+	молодежь,	youth
+	ауылда,	in the village
+	любой тойына кіре береді да,	they go to any party, enter, and sit there
+SPK6004	Иә.	
+SPK6003	отыра береді,	
+	короче,	so
+	и,	and
+	ээ,	emm,
+	она один ра–	she once-
+	она уже,	she already
+	после двенадцати,	after twelve
+	көйлек шешіп,	took off her dress
+	переоделась,	changed her outfit.
+SPK6004	Иә.	
+SPK6003	и этот,	and then
+	уже там аа,	there were already aaa
+	люди же сидят до сих пор,	people were still sitting
+SPK6004	Мхм.	
+SPK6003	и уже,	and already
+	кучка,	a bunch
+	ребят сидят,	of guys were sitting,
+	ну,	
+	девчонки,	girls
+	пацаны,	biys
+	сидят там,	were sitting there
+	уже,	
+	ку:шают там вовсю,	were eating with might and main
+	болтают,	were talking
+	балдеют короче,	were having fun, in short
+	ну там,	and there
+	столы же стоят.	after all were tables.
+	И что-то,	And then
+	что-то она спросила,	she asked something,
+	а они ей говорят,	and they told her
+	ой ты кто такая,	who are you?
+	она говорит,	and then she says:
+	ну вообще-то это моя свадьба.	well, actually, it's my wedding.
+SPK6004	@@@	
+SPK6003	Они на нее	They looked at her
+	@@	
+	и такие сидят,	and were sitting like
+	а там оказывается моя одноклассница ¬Катька была,	and there apparently was my classmate ¬Kat'ka
+	она говорит,	she tells
+	вас же говорит ¬Катька зо–	your name is ¬Kat'ka she says
+	ходит с этими говорит,	walks around with those
+	с пацана:ми говорит,	guys she says
+	вот они говорит,	so they are she says
+	вот так,	so like that
+	молодежь,	youth
+	ходит и вот так вот.	walks like that.
+SPK6004	Ммм.	
+SPK6003	Я говорю надо же.	I am saying wow.
+	И ве– везде оказывается такое есть.	And apparently, it's practiced everywhere.
+SPK6005	А,	Oh,
+	а некоторые вот,	and some for example,
+	где-то,	somewhere
+	поминки и так далее,	there is funeral and so on,
+	теть Лизе поминки делали.	we made funeral for auntie Liza.
+	там,	
+	все разные,	were everyone different
+	и казахи,	kazakhs
+	и эти,	and those
+	даже незнакомки ходят потом сидит,	Even strangers came around afterwards.,
+	потом сидит,	then while sitting
+	раз пакет,	one takes a bag
+	это пакет,	in that bag
+	булочки все вот так,	The buns are all like this,
+SPK6003	Больше народ утаскивает,	More the nation is dragging away,
+SPK6005	собирает и все–	are put and that's it.
+SPK6003	заметила,	did you noticed,
+	да?	
+	Алып кетеді,	They take it for themselves.
+	өзіне.	
+SPK6005	И даже не знакомые,	Even the strangers,
+SPK6004	Мхм.	
+SPK6005	просто,	just
+	приходят.	come
+SPK6004	Мхм.	
+SPK6005	Их не знаем даже.	we even don't know them.
+	Вот так.	Like this.
+SPK6003	Это народ голодный,	It's the nation is hungry,
+	негізі,	actually,
+	да?	
+SPK6005	Да.	Yes.
+SPK6003	Если народ сытый болса ондай істемейді ғой.	If the people were well-fed, they wouldn't do that.
+SPK6004	Иә.	
+SPK6005	Да:	Yes:
+	Тогда вот,	Then here
+	мы же,	we have cooked
+	большой казан плов делали,	a big cauldron of pilaf,
+	тоже подеш–	also -
+	Всем все,	That's it for everyone,
+	это,	it's
+	которые уходили все вот так,	all those who were leaving like that
+	по пакетам разобрали,	took everything into their bags
+	убра–	clean-
+SPK6004	Мхм.	
+SPK6005	все,	
+	собрали.	was taken.
+SPK6003	Ммм.	
+SPK6005	Вот так.	Like that.
+	Мхм.	
+SPK6003	@@	
+SPK6005	Что ты,	Why are you
+	смеешься?	laughing?
+SPK6004	Бір рет ана,	Once,
+	біздің үйде Құран оқытқанбыз ғой,	the Koran was read in our home,
+SPK6003	Мхм.	
+SPK6004	сонымен,	so,
+	мамалар келді да ауылдан,	our mothers also came from the village,
+SPK6003	Мхм.	
+SPK6004	сол,	so,
+	залға ғана істедік дастарқанды.	The table was just set in the hall.
+SPK6003	Мхм.	
+SPK6004	Сонымен,	In short,
+	біздің мамалар,	our mothers, daughters-in-law, couldn't fit in the hall,
+	келіндер,	
+	сыймады да ол залға,	
+	кірген жоқ мына жерге жүрді,	they didn't sit down at the table, walked here, thought the guests would leave, they would sit by yourselves.
+	қонақтар кеткесін не қыламыз ғой деп.	
+SPK6003	Мхм.	
+SPK6004	Сосын,	then after the Koran was read, our neighbors,
+	Құран оқытып болып,	
+	ана көршілер,	
+	көршілеріміз,	
+	біздің,	
+	не,	
+SPK6003	Кірді,	They entered themselves.
+	өздер.	
+SPK6004	кірді,	came in, sat down, we read the Koran, the table is empty.
+	отырды,	
+	Құран оқытып не қылдық,	
+	дастарқан дым қалған жоқ.	
+	Сосын айттым,	Then I say, how so, they are the neighbors after all.
+	қалай қалай көршілерім деп.	
+SPK6003	Өздер кіріп.	entered themselves
+SPK6005	Я,	I,
+	я забыла.	I forgot
+SPK6004	Өздер кіріп емес,	They came in, sat, ate, drank.
+	сол отырды ғой,	
+	жеді,	
+	ішті.	
+	Вообще нет.	Actually, no.
+SPK6003	Жоқ,	No, has anyone told them?
+	оларға біреуі айтты ма?	
+	Біздің үйде не болып отыр деп?	Is there going to be an event at our house, back and forth?
+SPK6005	Что упало?	What fell?
+SPK6004	Мен шақырдым ғой.	So, I invited them.
+SPK6003	Ааа.	Oh, i see
+SPK6004	Шақырдым ғой Құран оқытамын деп.	I invited, I said we will read the Koran.
+	Сосын жаңа,	Then these daughters-in-law who were in the kitchen helping
+	келіндер ана,	
+	не,	
+	кухняда жүрген,	
+	көмектесіп жүрген сол,	
+	қонақтар кеткесін өзіміз шай ішіп,	thought the guests would leave, they themselves would eat salads.
+	не қыламыз ғой деймін ғой,	
+	салаттар жейміз деп.	
+SPK6003	Ааа.	
+SPK6004	Олар кетті дастарқан пустой.	They left, but the table is empty.
+SPK6003	@@@	
+SPK6004	Үйде де сондай,	It's the same at home.
+	үйде енді,	It's prohibited to take from home.
+	ал–	
+	не ғой,	
+	алмау керек қой,	
+	үй–	
+	үйдегіні,	
+	ресторан болса алып кетесің онда,	If it's a restaurant, take it, everyone takes there.
+	әркімнің,	
+	не алып кетеді онда.	
+	Сол.	So.
+SPK6003	@@@	
+SPK6004	@@	
+SPK6003	Ай бәрі жерде сондай болады.	Oh, it's like that everywhere.
+SPK6004	Иә.	Yes,
+	Көбінесе,	But in general, it's rare when it's taken from home when it's held there.
+	үйдегілерге тиспейді көп жерде,	
+SPK6003	Ааа.	
+SPK6004	үйде болғанға ше.	
+	Кафеден,	From cafe yes, they can take.
+	алады.	
+SPK6006	Индрайверді не істедің?	What did you do with inDriver?
+SPK6003	@@@	
+	Забыла,	Forgot
+	да.	yes.
+SPK6004	@@@	
+SPK6003	Хорошо сидим.	We're sitting (chatting)  well.
+SPK6004	Жібергің келмей тұр-ау деймін иә?	You don't want to let me go, do you?
+SPK6003	Иә.	Yes.
+SPK6004	@@@	
+SPK6003	Номер со--	The number
+	не сохранился,	is not saved
+	он там,	sheck whether he
+	в WhatsApp пишет но,	is not texting in WhatsApp
+	WhatsApp не выходит.	WhatsApp isn't shown.
+SPK6004	Көрсей.	Look.
+SPK6003	Так.	So.
+	Сейчас.	A moment.
+	Попу:тки,	Hitch
+	снова.	again.
+	Шарша:йсың,	You will get tired
+	¬Дана.	¬Dana.
+SPK6004	Шаршағанда не қылам ғой,	we will get tired - you say, but we'll sleep on the road.
+	барғанша ұйықтап барамыз–	
+SPK6003	А,	Oh,
+	надо маленькую подушку,	the small is needed
+	да,	isn't, it,
+	с собой таскать?	to carry with yourself?
+	Я,	
+	мен когда,	when I
+	так ездила,	used to drove like this,
+	с собой таскала.	I carried with myself
+SPK6004	Иә.	Yes.
+SPK6003	Он екіде шығатын бар.	There is one at twelve
+SPK6004	Қашан?	When?
+SPK6003	В обед.	At lunch time
+	Ааа,	Oh
+	ол–	this is
+SPK6006	Ааа,	Oh,
+	ол,	
+	посылка.	it's a package.
+SPK6003	Посылка,	a package
+	подожди.	wait
+	Так,	So,
+	это в час,	this is at one pm.
+	только посылка дейді.	only the package says
+	Так,	
+	второе,	secondly,
+	вот это отпадает,	That's out of the question,
+	это,	this is
+	Lada Granta маленькая машина.	a small car, Lada Granta.
+	Mercedes двести двенадцать,	Mercedez two hundred twelve,
+	нормальный ма?	is it okay?
+	А,	
+	тоже посылка,	it's also the package
+	подожди.	wait.
+	Вот есть ночью,	Here is one at hight,
+	Toyota Alphard ¬Елжан.	Toyota Alphard ¬Elzhan.
+SPK6004	Қашан ол?	When is it?
+SPK6003	Е– завтра ночью.	Tomorrow night
+SPK6004	А жоқ керек емес.	Oh, no need.
+	Жаңа немен сөйлесе берші,	Talk to this one, Granta one, I'll go.
+	Granta-мен,	
+	кете беремін.	
+SPK6003	Lada Granta,	Lada Granta,
+	да?	
+SPK6004	Иә.	Yes.
+	Біреуі–	Single
+SPK6003	В шесть утра?	At six in the morning?
+	В шесть утра?	At six in the morning?
+SPK6004	Біреуі–	Single
+SPK6003	Сейчас сағат неше болды?	What time is it now?
+SPK6004	Иә.	Yes
+	Үш сағат қалды ғой мә.	Three hours left.
+SPK6006	Без пятнадцати три.	Fifteen minutes to three.
+SPK6003	¬Рахат,	¬Rakhat
+	деген.	
+SPK6004	Мхм.	
+SPK6003	¬Рахат,	¬Rakhat.
+	InDriver.	InDriver.
+SPK6004	Балаға да сондай бағаласың ма деп сұра салсай.	Ask, will he charge the same amount for the child?
+SPK6003	Мхм.	
+SPK6004	Или алдына алып отырса болады ма де.	Or I can put him on my lap.
+	Бірақ,	But it's hard, right?
+	андай қиын,	
+SPK6003	Шармайсың ба иә?	You won't get tired, will you?
+SPK6004	иә?	
+SPK6003	Шаршайсың.	You will get tired.
+SPK6004	Иә.	Yes.
+SPK6003	Сейчас я посмотрю.	A moment, I will check.
+	А міне.	Oh, here it is.
+	Здравствуйте,	Hello,
+	я ему на WhatsApp пи–	I'm writing to him on WhatsApp
+	пишу.	
+	Вы во сколько выезжаете?	What time do you leave?
+	Два места да,	two seats right,
+	нужно?	needed?
+SPK6004	Мхм.	
+SPK6003	Бірақ если,	But if you take a side seat for twelve thousand, if you take the second one, the place in the middle is free, it may come out cheaper.
+	сен боковой,	
+	он екі мыңға алсаң,	
+	второйды алсаң,	
+	орта,	
+	бос,	
+	подешевле может выйдет.	
+SPK6004	Қалай?	How is it?
+SPK6003	Звонда–	to call
+	Сейчас,	
+	поздно звонить,	is it late to call now,
+	или звондай берейін ба?	or should i still call?
+SPK6004	Звондай берсей.	Call.
+SPK6003	Не читает,	he is not reading
+	может.	maybe
+	Сейчас.	Wait
+	Вообще-то жолға готовится наверное,	
+	да?	
+SPK6004	Ау?	Yeah?
+SPK6003	Жолға готовится наверное,	He's probably getting ready for the road,
+	если сейчас звонить?	Should I call now?
+	В шесть утра выезжаю деген,	I'm leaving at six in the morning he said
+SPK6004	Иә.	Yes.
+SPK6003	значит,	
+	бесте,	it means that
+	уже,	at five
+	сол жақта болу керек.	he will be there.
+SPK6004	Мхм.	
+SPK6003	Занято болып тұр.	Busy.
+	Или біреуі ұйықтайды,	Or one is sleeping, and the other person is--
+	екінші,	
+	а:дам–	
+	Короче они как ездят,	In short, how they drive,
+	вот эти Индрайвер,	these Indrivers
+	попутные,	passing
+	машины,	cars
+	біреуі іздейді,	one searches
+	біреуі ұйықтайды,	one sleeps
+	біреуі іздейді адамды.	and one is looking for passengers.
+SPK6004	Мхм.	
+SPK6003	А біреуі–	While other--
+	Когда они парные,	When they are two
+	сол дұрыс,	it's better
+	солармен безопасно ездить.	it's moore safe to drive with them.
+SPK6004	Мхм.	

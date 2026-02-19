@@ -1,0 +1,562 @@
+speaker	span	translation
+SPK0014	Міне.	Here it is.
+SPK3011	Е:.	Okay.
+SPK3010	Келін бе?	Is it the kelin?
+SPK0014	Менің мамам.	My mother.
+SPK3011	Келін.	The kelin.
+SPK0014	Міне,	Here.
+	мынау,	
+	мамам.	This is my mom.
+SPK3011	Е:.	Ah I see.
+	Шашы өзі,	Did her hair turn yellow or something?
+	сарып болып кеткен бе.	
+SPK0014	Иә,	Yes, my mother's hair is yellow, don't you know?
+	мамамның шашы сары ғой.	
+SPK3011	А:.	Oh really?
+SPK0014	Міне.	Here, look.
+SPK3011	Е:.	Oh I see now.
+SPK3010	Бергі жағындағысы кім.	Who is the person standing nearer beside her?
+SPK0014	Мама.	This is my mom.
+SPK3011	Ыыы,	They say this is Baitok's kelin.
+	мынау,	
+SPK3010	Мынау бергі,	The one standing nearby, closer to us, I mean.
+	бергі.	
+SPK0014	Мынау ма.	You mean this one?
+SPK3011	¬Бәйтөктің,	
+	келіні дейді.	
+SPK3010	Бергі:.	
+SPK0014	Мама.	This is my mother, for God's sake.
+	Мамам менің.	My mom!
+SPK3011	Аха.	Yes.
+SPK0014	@	
+SPK3011	Мынау ¬Назгүл,	This is Nazgul, and this is Baitok's kelin, they say.
+	мынау ¬Бәйтөктің келіні дейді.	
+	¬Бәйтөктің келіні дейді.	They say it is Baitok's kelin.
+SPK3010	Міне ¬Назгүл.	This is Nazgul.
+SPK0014	Міне ¬Қайрат.	This is Kairat.
+SPK3011	М:.	Mm.
+	¬Қайрат.	Kairat.
+SPK3010	¬Қайрат бір келіншек тауып алып,	Kairat has finally found a kelin and got overjoyed.
+	қарық болды @@.	
+SPK3011	@@@	
+SPK3010	Жиырма сегізге келген кезде @	Right when he turned 28.
+SPK0014	Міне қараңыз.	Here, look.
+SPK3011	Ой ана қыз,	Apparently, that girl is 24 years old.
+	жиырма төртте екен.	
+	Әгі келін.	That kelin.
+SPK3010	Е.	Oh.
+	Енді кішкене,	Had she stayed single for two years more, she would have become a kari kyz.
+	бір екі жыл жүрсе,	
+	кәрі қыз болып қалар еді.	
+SPK3011	Енді жиырма төрт,	Wel, 24 is just right.
+	жас деген енді,	
+	жарап тұр.	
+SPK3010	#### уақыты ғой.	It is right the time of ###
+SPK3011	М:.	Mmm.
+SPK3010	Мынау етегін ұстап жүрген,	This person who is holding the hem of the dress? Is it the kelin?
+	келін бе?	
+SPK3011	Мхм.	Mhm.
+SPK0014	Иә.	Yes.
+SPK3010	М:.	M.
+SPK3011	Анау,	That thing that she is wearing is her pata.
+	киіп жүрген,	
+	патасы ғой.	
+SPK3010	(Hx)	
+SPK3011	Е:,	So you see...
+	міне.	
+SPK0014	Әне.	There.
+SPK3011	Ресторан,	They say that the restaurant is amazing.
+	керемет дейді ғой.	
+	###.	
+SPK0014	Міне ресторан ата.	Grandpa, look, this is the restaurant.
+SPK3011	Түк істемейсің,	They say you do not have to do anything; the restaurant does everything for you.
+	өздері жасайды дейді ғой,	
+SPK3010	Иә,	Yes, they bring everything themselves too.
+SPK3011	тамақтың бәрін.	
+SPK3010	өздері:,	
+	әкеп береді ғой еще.	
+SPK3011	Иә.	Yes.
+SPK3010	Өздері жинап алады ыдысты.	They they clean up afterwards themselves.
+SPK3011	Түг—	Nothing.
+SPK3010	Ештеңеге қолың,	You do not have to move a finger basically.
+	қималдатпайсың баяғы.	
+SPK3011	Ыдыстың барлығы алтын дейді ғой.	Apparently all the dishes are made of gold.
+SPK3010	А:.	Oh really?
+SPK3011	Түгел,	Everything is covered with gold apparently.
+	алтынмен жалатылған дейді ей.	
+	Туф әкең,	Oh man, what a...
+	недеген,	
+	а,	
+	жамбы атудан дейді ме.	Did they say that [the kelin] does zhamby atu?
+	Ойбай-ай.	Oh my!
+	Ыдыстың бәрі,	They say all the dishes were gilded.
+	алтын жалатқан дейді ғой.	
+	Алла:.	Oh God!
+SPK0014	Міне,	Here, look!
+	міне,	Here, look!
+SPK3010	¬Күлзипа.	Kulzipa.
+SPK0014	¬Күлзипа ##	This is Kulzipa.
+SPK3011	Өзі,	Quda is not visible for some reason.
+	құда көрінбейді ғой өзі.	
+	Мынау әгі ¬Төкенің,	This one is that tall child of Toke's.
+	ұзының,	
+	@	
+	Әкесі ұзын еді.	His father was a tall man.
+	Шешесі де ұзын.	His mother is also tall.
+	Плюс,	Plus..
+	Плюс минус деп.	Plus, minus, they would say.
+	@@@@	
+SPK0014	Міне,	Here, look, the kelin is coming.
+	келін келе жатыр.	
+SPK3011	Көре бер ¬Нұрғия.	Nurgiya, you keep watching, I am gonna go lie down.
+	Мен жатамын.	
+	Шаршадым уже.	I am tired already.
+	Ойбай,	Oh my!
+	алла,	Allah!
+	(Hx)	
+	Ойбай-ай ойбай.	Oh my oh my!
+SPK3010	А:,	She just now made the bed so tidy, [and now you are lying there down!]..
+	әдемілеп жинап қойып еді төсекті.	
+	###.	
+SPK3011	Ойбай енді жататын нәрсем менің.	Well this is a thing I use to lie down on.
+SPK3010	Ой ой ой.	Oh really?
+SPK3011	###	
+SPK3010	жу—	
+SPK3011	А—	
+SPK3010	жудым деген ана не,	She said she washed that thing... the blanket.
+	пледті.	
+SPK3011	Е:,	Okay, Aset will sleep here today.
+	¬Әсет жатады бүгін мына жерде.	
+	Мен ана үйге барып жатамын.	I will go to the other room.
+	Бүгін ұйқы жоқ.	Today I will not expect a good night's sleep.
+SPK3010	Сен қашпа менен.	Do not run away from me!
+	¬Әсетте нең бар.	Why do you involve Aset?
+SPK3011	Мына ¬Әсет,	This Aset...
+	мен неше күн болды ұйықтағаным жоқ.	I have not slept for many days now.
+	¬Әсет жатсын енді бүгін.	Let Aset stay beside you tonight.
+	#####.	
+SPK3010	¬Әсет неше күн ұйықтаған жоқ.	Aset has not slept for many days.
+	Сен,	But you have!
+SPK3011	Ол демалды,	He had a rest.
+SPK3010	ұйықтадың ғой.	
+SPK3011	¬Әсет,	He celebrated.
+SPK3010	Сен ұйықтадың ғой.	You did sleep!
+SPK3011	тойлады,	
+	тойлады кеше,	He celebrated yesterday.
+	ұйықтады,	He has slept.
+	жақсы бүгін.	Today he is good.
+	Трезвый ¬Әсет.	He is sober.
+SPK0014	Міне.	Here, look.
+SPK3010	Мынау кім.	Who is this?
+SPK0014	Солар?	Those people.
+	А—	Those people...
+	Кімдер.	
+SPK3011	Сен өзі маған жабысып алдың ғой @.	You are so clung to me.
+	Әбден.	For real.
+SPK3010	Енді кімге жабысамын.	Who else is there for me to cling to?
+SPK3011	Жуас сиыр жүндеуге жақсы.	A tame cow is good for grooming.
+SPK3010	А.	Who else shall I cling to?
+	Енді кімге жабысамын.	
+SPK0014	Міне келініңіз апа.	Grandma, here, look, this is your kelin.
+SPK3010	М:.	Mmm.
+SPK3011	(Hx)	
+	Иә.	Yes.
+SPK3010	Ұсақ балаларды,	Once they used to gather all the kids [of the guests] in the cafiteria.
+	толтырып алушы еді.	
+	Столовыйда.	
+SPK0014	¬Күнсұлу.	This is Kunsulu.
+	¬Айсұлу апай.	This is aunt Aisulu.
+SPK3010	¬Күнсұлу қайсы.	Which one of these is Kunsulu?
+	Мынау көк жамылып тұрған?	Is she the one wearing blue?
+SPK0014	Жоға,	No, it is not her.
+	ол емес.	
+	Ол басқа жақ.	This is a different side.
+	Әне тұр екен.	Oh there she is.
+	Кетіп қалды.	She walked away.
+	Кадрда жоқ.	She is out of the frame.
+SPK3010	Мынау кім,	Who is this... the person speaking?
+	сөйлеп тұрған.	
+SPK3011	(Hx)	
+SPK0014	Неке,	A person who does that thing... performs weddings...
+	некені,	
+	немене істейтін.	
+SPK3010	Е:,	Oh yes.
+	иә.	
+SPK3011	(Hx)	
+	¬Алима,	There is Alima and Sakosh in the wedding apparently.
+	¬Сәкөш жүр дейді.	
+	¬Сәкөш.	Sakosh.
+	(Hx)	
+SPK3010	Сразу,	Oh I see.. they got engaged right at the wedding party.
+	некеге отырған екен ғой.	
+SPK0014	Мхм.	Mhm.
+SPK3011	Некеге отырып па сразу.	Did they get engaged right there?
+SPK0014	Міне,	Here it is...
+SPK3010	Иә,	Yes, they are getting engaged.
+SPK0014	көріп жатырмыз ғой.	we are watching them do that..
+SPK3010	отырып жатыр.	
+SPK0014	Міне жазып жатыр ¬Қайрат.	You see... Kairat is signing off.
+	Қолдарын қойып жатыр ата.	Grandad, they are signing the paper.
+SPK3011	А.	Come again?
+	CLEARS_THROAT	
+	Е:.	Ah I see.
+	Сразу ресторанда істейді екен ғой.	So they do the engagement right at the restraurant.
+SPK3010	Бәрі сол жерде деді ғой енді.	Well they said they did everything there, didn't you know.
+SPK3011	Ойбай-а:й.	Oh my, just look...
+	Көйлегі де жер сипайды екен ғой.	Her dress is touching the floor!
+	Е,	Oh, so it is this person who is engaging them.
+	мына кісі екен ғой отырғызып жатқан.	
+SPK3010	Иә.	Yes.
+SPK0014	Мхм.	Yes.
+SPK3011	Городской акимат,	The city akimat or something like that...
+	дейді ме немене дейді.	
+SPK0014	Мына кісілер немене істеп жатыр енді.	What are these people doing now?
+	Артынан,	Do they sign after them?
+	артынан олар да қол қояды ма.	
+SPK3011	А.	Come again?
+SPK0014	Қа:зір тағы видео,	I will show you some more video now.
+	Ойын ойнап жатыр екен.	Apparently they are playing a game.
+SPK3011	Ресторан үлкен дейді ғой,	Oh my god, they said the restaurant is huge.
+	құдай сақтасын.	
+SPK3010	Мынау ма.	This?
+SPK3011	Иә.	Yes.
+	Бәрі алтын дейді енді,	They said everything was made of gold.
+	позолоченный,	Gilded.
+	##.	
+	Ойбай-ай әкең,	Oh man, they said gilded plates...
+	алтын жалатқан ыдыстар дейді ойба:й.	
+	(Hx)	
+	Иә ондай ресторанға ####.	To such a restaurant...
+SPK3010	Ана ### барды ма,	Did ### go there? The one who ###
+	ана ### жүрген.	
+SPK0014	Білмеймін апа.	Grandma, I do not know.
+SPK3011	###,	
+	Ресторанды көргенде,	They were stunned when they saw the restaurant apparently.
+	шалқасынан түсіп- түсіпті ғой,	
+	##,	
+	@@	
+	Анау вообще,	Actually this...
+	мына ресторанды,	They say this is the restaurant where mega powerful people usually go.
+	ылғи жойқындар отыратын ресторан дейді ғой,	
+	министрлер.	Ministers.
+SPK3010	М:.	Oh I see.
+	¬Арман,	Oh, so Arman also came to the wedding, I see!
+	келіпті ғой тойға.	
+SPK3011	Иә ¬Арман келіпті дейді.	Yes, apparently he did.
+	¬Арман,	Arman is the one in Oskemen, you know.
+	Өскемендегісі ғой.	
+SPK3010	Иә?	Yes, that's what I meant.
+SPK3011	Е:.	
+	Ол ###,	But Zangar did not go... the one in the village.
+	¬Заңғары бармапты ғой,	
+	ауылдың.	
+	Өй ¬Арман үйленгенде,	If I remember correctly, when Arman got married Kairat went to his wedding as a groomsman, right?
+	¬Қайрат,	
+	күйеу жігіт болып,	
+	барды ғой деймін иә?	
+SPK3010	Иә.	Yes.
+SPK3011	Иә.	Yes.
+	COUGHS	
+SPK0014	М:	
+	Ой,	Oh no, this one is badly visible.
+	мынау дұрыс көрінбейді.	
+	Міне,	Here, look, the kelin is coming down.
+	келін түсіп жатыр.	
+SPK3010	Шашуды шашыпты ғой.	I see they did the shashu.
+	Анау мамаң бір жағы иә.	On one side of the kelin is your mother, right?
+	Бергі жағындағы кім.	Who is the person close by?
+SPK0014	Мама мынау ¬Бәйтөк,	This is mom, and this is apparently Baitok's kelin.
+	¬Бәйтөктің,	
+	немене дейді,	
+SPK3011	Келіні.	Baitok's kelin.
+SPK0014	Келіні дейді.	
+SPK3010	М:.	Ah I see.
+SPK3011	Әлі киносын көреміз,	We will watch the film, if you are not getting it.
+	түсінбесең.	
+SPK3010	Бәсе,	Oh, I was thinking who her forehead got wider... turns out she is Baitok's kelin.
+	шекесі не ғып,	
+	кеңіп кетті десем.	
+	¬Бәйтөктің келіні екен ғой ол.	
+SPK3011	Мынау кім сөйлеп жатыр.	Who is speaking now?
+SPK0014	М.	Come again?
+SPK3011	Тост сөйлеп жатыр ма.	Are they giving toasts?
+SPK0014	Тамада.	This is the tamada.
+SPK3011	А:.	Oh I see.
+SPK0014	Ана бет ашатын жігітті,	They are calling that guy who will 'open the kelin's face.'
+	ортаға шақырып жатыр.	
+SPK3011	А:.	Oh I see.
+	Бас ауырады.	My head hurts.
+	Бас ауырады.	My head hurts.
+SPK3010	(Hx)	
+	Басым ауырады,	Your grandpa is saying that his head hurts these days.
+	басым ауырады деп жүр атаң.	
+	Бір күні сылқиып қала ма.	I wonder if one day he will just go weak...
+SPK3011	(Hx)	
+SPK0014	Естисіз бе ата?	Will you listen, grandpa?
+	Апай,	To this guy?
+	би—	
+	мынаны,	
+	баланы,	
+	бетін ашқанын.	To his unveiling of the kelin.
+SPK3010	Естиін.	Let me listen.
+SPK3011	(Hx)	
+SPK0014	Дауысын шығарып берейін дегенмін,	Let me turn up the volume a bit if you wish to listen.
+	естігіңіз келсе кішкене.	
+SPK3010	Иә.	Yes.
+SPK0014	Аха.	Okay, here you go.
+	Міне.	
+	¬Қайраттың досы екен.	Apparently he is Kairat's friend.
+SPK3010	М:.	Mm.
+SPK0014	Өскеменнен,	From Oskemen.
+	келіпті Алматыға ¬Мерей.	He came to Almaty apparently. [His name is] Merey.
+	Осылай бетті ашады ғой деймін.	This is how he unveils the kelin.
+SPK3010	М:.	I see.
+SPK3011	Өскеменнен барып па.	Did he come all the way from Oskemen?
+SPK0014	Иә Өскеменнен,	Yes, from Oskemen.
+	¬Қайрат—	I am not sure completely but they seem to have studied together in Oskemen, apparently.
+	Өскеменде бірге оқыған дейді ме?	
+	Білмеймін.	
+SPK3011	Е:.	Oh I see.
+	А қазір,	But now, I guess his friend lives here.
+	осында тұрады ғой деймін жолдасы.	
+SPK0014	Білмеймін ##,	I am not really sure about that, grandpa.
+	білмейді екенмін ол жағын.	
+SPK3011	(Hx)	
+	Дауысы шықпайды ма мынаның.	Does not its volume go even higher?
+SPK0014	Шықпайды ата,	No, granpa.
+	шықпайды.	
+SPK3011	Мынаудың.	The volume of this?
+	Сен осы ¬Аcыл баяғыда біз жаққа келіп әгі,	Asyl, remember you some time ago came to our place, and we moved the barrels and stuff, which you all took the video of?
+	бөшке таскатьтап,	
+	ана мынау карточкіге түсірдің ғой соны,	
+SPK0014	Е ол да бар,	I also have that one, if you wish to watch.
+	көргіңіз келсе.	
+SPK3011	Интернетке салып жібердің бе сен.	Did you publish it on the internet?
+SPK0014	Мен салған жоқпын оны,	I did not.
+	ол салынып қойған иә.	It was published by some people.
+SPK3011	А.	Oh I see.
+SPK0014	Иә иә.	Yes yes.
+SPK3011	Жоқ оны интернетке салып жіберіп пе едің сен.	No, did you post it on the internet?
+SPK0014	Иә.	Yes.
+SPK3011	Енді қазір,	"It is just that some people watch me. Some girls tell me: ""Uncle, I see you on the internet all the time."
+	біреулер көреді баяғы.	
+SPK0014	Сізді көрген мына жақта,	Yes, they saw you on this side.. They all saw you.
+	барлығы көрген иә.	
+SPK3011	Жоқ әгі бір,	
+SPK0014	Иә.	Yes
+SPK3011	қыздар айтады,	
+	ой аға,	
+	мен сізді,	
+	ылғи көремін дейді Интернеттен.	
+	Ол қалай көреді дегенім ғой.	I was just wondering how this is possible.
+SPK0014	@@	
+	Сол жерден көретін шығар.	I think they watch you from that place.
+	Ы?	
+SPK3011	Әгі огородта жүргенді бір түсірдің ғой сен.	Remember you shot some video in the garden?
+SPK0014	Иә,	Yes yes, I think they meant that one.
+	сол сол ғой деймін.	
+SPK3011	####.	
+	(Hx)	
+	Енді сен өзің,	Are you finishing your stuidies this yer?
+	биыл бітесің бе оқуды.	
+SPK0014	Жоқ ата бітпеймін.	No, grandpa.
+SPK3011	Енді қашан бітесің.	When will you?
+SPK0014	Бітпеймін мен әлі.	I do not know yet.
+SPK3010	Әлі бітпеймін дейді ол,	He said he would not finish yet.
+	осы,	He still has one more year to go.
+	оқуының бір жылы бар,	
+	келесі жылы оқитын.	Next year..
+	Одан кейін,	Then after that... he will go to the US to study.
+	неге барады әгі,	
+	Америкаға барып оқиды.	
+SPK3011	Ойба:й.	Oh my!
+SPK3010	Америка ма еді?	Was it the US?
+SPK0014	Білмеймін көреміз иә.	I do not know. We'll see.
+	Басқа жаққа барып оқимын ғой.	I will study at some place else overseas.
+	Фото көресіз бе апа мынау,	Grandma, do you want to see photos? Otherwise, this guy will be unveiling the kelin for a little too long...
+	мынау,	
+	көп сөйлейді қазір,	
+	## бетін аша:ды,	
+	мына жерде,	
+	мәңіз,	
+	мен міне сізге ##.	
+SPK3010	Ақша салып жатыр ма.	Are they giving money?
+SPK0014	Салып жатыр иә.	They are.
+	Ақша с- ға-,	Do you want to see how they are giving money?
+	ақша салғандарын,	
+	көрсетейін бе сізге.	
+SPK3011	Ақшаның бәрін,	All the money was given to Aisulu, is that true?
+	¬Айсұлуға береді дейді ғой?	
+	Әгі,	That...
+	неге,	I think they will give the money to ###, most likely.
+	#### береді ме,	
+	сөйтеді ғой ол.	
+SPK0014	Жо:қ,	No, what is meant is that all the money will be given to aunt Aisulu and uncle Bakyt.
+	ақшасын барлығын дейді,	
+	а—	
+	ата.	
+	Қазір ¬Айсұлу апай мен,	
+	¬Бақыт аға алады дейді.	
+SPK3011	А:.	Oh I see.
+	Е:.	Oh I see.
+SPK0014	Міне.	Here, look.
+	Міне ¬Айсұлу апай сүйіп жатыр бетін келіннің.	Here aunt Aisulu is kissing the kelin's face.
+SPK3010	М:.	I see.
+SPK0014	Міне,	Here... Aisulu aunt put some money in...
+	¬Айсұлу апай салды:,	
+	сосын кім салады.	Then who else is putting in...
+	Қазір.	Let me see now...
+SPK3011	Ы:,	Bakyt will do so now.
+	¬Бақыт салады қазір.	
+SPK0014	Жоқ,	No, only aunt Aisulu put money in.
+	¬Айсұлу апай ғана салды.	
+	Қазір енді,	Now will Bakyt come to the front.
+SPK3011	¬Бақыт—	Bakyt...
+SPK0014	¬Бақыт шығады қазір.	
+SPK3011	¬Бақыт шығатын шығар қазір.	Probably Bakyt will come now. They both should put money in after all.
+	Екеуі де салады ғой ##.	
+SPK0014	М:.	Mm.. just wait a little.
+	Қазір.	
+	Міне міне міне міне.	Here here here here here.
+	Қазір сосын көрсетемін.	I will show how Bakyt put money in later.
+	Салғанын.	
+	Билеп кетті барлығы.	Everyone started dancing.
+SPK3011	Мы- мы- мынау,	This, they said, is his boss.
+SPK0014	Тұрып кетті.	They all got up from their places.
+SPK3011	мынау деді ғой әгі бастығы,	
+SPK0014	А:.	Oh I see.
+SPK3011	кімнің,	Kairat's boss.
+	¬Қайраттың мынау.	
+SPK3010	Қайсы.	Which one?
+SPK3011	Мынау мынау мынау міне.	This one here.
+SPK3010	Е:.	Oh I see,
+SPK3011	Мына нені,	They said he paid for all the expenses at this restaurant.
+	ресторан затратын бірақ жапты дейді ғой.	
+SPK3010	Бірақ жаптырды дейді?	What? Paid for everything?
+SPK3011	Бірақ төлеп шығыпты өзі.	He himself alone paid for everything here.
+SPK3010	Е:.	Oh I see.
+SPK3011	Төрт,	Apparently this wedding cost 4-5 million tenges.
+	бес миллион кеткен дейді ме,	
+	осы тойға.	
+SPK0014	Білмеймін ата,	Grandpa, I don't know. They said that much.
+	сонша кетті дейді.	
+SPK3011	Бес миллион,	Did they say 5 million, I am not sure...
+	деді ме.	
+SPK3010	Тох,	Oh! You will break that bed soon!
+	төсек сындырар.	
+SPK0014	@@@ ап- ап—	Ha ha, grandma, stop it!
+SPK3010	Бар салмағыңмен.	With all your weight!
+SPK0014	Қойыңзшы апа.	
+	Отыра берсінші.	Let him sit.
+SPK3010	Алла:.	Oh God!
+	Төсек сынады,	The bed will break after this.
+	мынадан.	
+SPK3011	Төсек сынбайды,	It will not break. It is made from Soviet iron.
+	##,	
+	жасаса,	
+	советский,	
+	железо.	
+SPK0014	Мәссаған,	Oh wow! The cake is so big! Take a look! Here...
+	торт недеген үлкен.	
+	Қараңыз.	
+SPK3010	Кәне.	Where where?
+SPK0014	А міне,	
+	ой.	Hold on...
+	А торт па мынау?	Is is the cake?
+	Торт болды ма не болды.	Is it the cake or something else? I don't quite understand.
+SPK3011	(Hx)	
+SPK0014	Міне.	Look, here.
+	Торт.	The cake.
+	Міне торт.	Here is the cake.
+	Үлке:н торт.	Big cake.
+SPK3010	М:.	I see.
+SPK0014	Это торт же мам.	This is the cake, yes, mom?
+SPK0027	А.	Come again?
+SPK0014	Это же,	This is the cake right? Big cake...
+	торт большой.	
+SPK0027	Қайсы.	Which one?
+SPK0014	Вот этот,	This one, which is standing right here.
+	который вот стоит здесь.	
+SPK0027	Иә,	Yes.
+	үш бүйткен торт иә.	Three cakes like this.
+SPK0014	М:.	Hmm, I see.
+	Круто.	Cool.
+	Типа асты,	Like the bottom is also cake?
+	тоже торт па не.	
+SPK3010	М:.	Mm.
+SPK0027	Асты торт емес?	No the bottom is not cake.
+	####,	
+	ана,	It is just a thing inside which there are plates and stuff like that.
+	тарелка,	
+	сондай,	
+	тұрған.	
+SPK0014	Ой,	Oops, I thought this whole thing is just one big cake!
+	я думал,	
+	мынау өзі торт үлкен ##.	
+SPK0027	Жоқ,	No, it is just three cakes like this... Three seperate cakes [layers of cake?]
+	үш бүйткен,	
+	үш,	
+	отдельный торт.	
+	Кескенге күшті ғой анау.	It is actually very convenient to cut it.
+SPK0014	Все понятно.	Oh, now I understand.
+	Міне,	Look. They are cutting the cake now.
+	торт кесіп жатыр әне.	
+SPK3010	М:.	Mm.
+SPK0014	Міне келініңіз.	Here is your kelin...
+	Қаз—	
+	келініңіз,	Your kelin is apparently is an athlete.
+	спортсмен екен.	
+SPK3010	А:.	Oh really? I see.
+SPK0014	Ол ана,	She does that... whachamacallit... what kind of sports was it?
+	немене деді,	
+	қандай спорт түрі?	
+SPK3010	¬Сәния.	Saniya.
+SPK3011	Жамбы ату.	Zhamby atu.
+SPK0014	Жамбы ату дейді.	Yes, zhamby atu.
+	Ана,	Apparently this is when you ride a horse and...
+	немене,	
+	атта,	
+	атта отырады екен де,	
+SPK3011	атпен шауып келе жатып,	One should shoot the target using a bow while riding a horse...
+SPK0014	аттың үстінде,	
+SPK3011	садақпен,	
+SPK3010	М:.	Mmm.
+SPK0014	иә иә.	Yes.
+SPK3011	тізіп қойған,	
+	жамбы мешень дейді,	
+	соны атып,	One should shoot that thing down.
+SPK3010	Иә.	Ah, really?
+SPK3011	түсіреді.	
+	Кинодан көрдім,	I saw it on a film.
+	#####.	
+SPK0014	Қазір соны көрсетемін сізге,	I will show you now.. The video in which Saniya is shooting...
+	¬Сәниянің,	
+	атып жатқанын көрсетемін.	
+SPK3011	Иә.	Yes.
+	Содан чемпион дейді ғой қазір.	They say they are a champion in this now.
+SPK0014	Иә,	Yes, they said she is a champion.
+	чемпион дейді,	
+	иә?	
+	Чемпион дейді.	
+SPK3010	Ана екеуі кім,	Who are those two people who are standing over here?
+	мына тұрған.	
+SPK0014	Тамада ғой апа,	Grandma, it is just tamada.
+	тамада.	
+SPK3010	А:.	Ah I see.
+SPK0014	Міне мынау ¬Қайрат,	Here, look, this is Kairat and this is Saniya.
+	мынау ¬Сәния.	
+SPK3010	Е анау,	Oh is that Kairat?
+	¬Қайрат па ей,	
+	шашын көтеріп алып тастаған.	The one who cut their hair a little higher?
+SPK0014	Міне міне.	Here here.
+SPK3011	(Hx)	
+	(Hx)	
+SPK0014	Міне,	Look, this is uncle Kabanbay and Saken.
+	¬Қабанбай,	
+	аға мен,	
+	¬Сәкен.	
+SPK3010	М:.	Mmm.
+	Тох,	Meh just look at them, even hugging each other ahah
+	құшақтасып қалыпты ғой.	
+SPK0014	Міне,	Look.
+	¬Айсұлу апай мен ¬Бақыт аға.	This is aunt Aisulu and uncle Bakyt.
