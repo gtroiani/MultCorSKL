@@ -6,15 +6,15 @@
   - [Repository organization](#repository-organization)
   - [Metadata](#metadata)
   - [Verticalized content](#verticalized-content)
-  - [Data access](#data-access)
   - [How to cite](#how-to-cite)
+  - [References](#references)
   - [Changelog](#changelog)
 
-The [Multimedia Corpus of Spoken Kazakh Language](https://research.nu.edu.kz/en/projects/multimedia-corpus-of-modern-spoken-kazakh-language/) 
-is compiled at the Languages, Linguistics, and Literature department of Nazarbayev University, 
+The [Multimedia Corpus of Spoken Kazakh Language](https://research.nu.edu.kz/en/projects/multimedia-corpus-of-modern-spoken-kazakh-language/)
+is compiled at the Languages, Linguistics, and Literature department of Nazarbayev University,
 funded through the Nazarbayev University Collaborative Research Project fund grant 021220CRP1422.
 
-In this repository, the first module of the corpus is released. The first module consists of approximately 
+In this repository, the first module of the corpus is released. The first module consists of approximately
 12 hours of spoken data collected across different regions of Kazakhstan.
 The 33 speech events, recorded between 2021 and 2023, involve 78 participants from various regions
 of Kazakhstan and Xinjiang (China). All the files include naturally occurring conversation according to
@@ -45,7 +45,7 @@ Metadata is to be interpreted as follows:
     - `Gender`: either `M` for masculine or `F` for feminine.
     - `Age`: age at the time of recording.
     - `Birthplace`: Kazakh region where participants were born and first acquired Kazakh language.
-    - Additionally, the [`metadata/participants.tsv`](metadata/participants.tsv) also contains a `conversations` colum that summarizes 
+    - Additionally, the [`metadata/participants.tsv`](metadata/participants.tsv) also contains a `conversations` colum that summarizes
 
 2. Conversations metadata:
    - `File`: unique identifier for conversation.
@@ -69,15 +69,16 @@ Each token is represented as 12 columns, as follows:
 1. `token_id`: unique token identifier within the conversation
 2. `speaker`: speaker `code` as it can be found in [`metadata/participants.csv`](metadata/participants.csv)
 3. `iu_type`: intonation contour of the iu according to the DFT conventions found in [`DFT-notations.md`](DFT-notations.md)
-4. `tu_id`: progressive identifier assigned to transcription units
-5. `span`: portion of the original DFT-style transcription containing the token
-6. `form`: orthographic form of the token. This differs from the `span` as special symbols are stripped out.
-7. `type`: one of
+4. `tu_id`: progressive identifier assigned to translation units
+5. `iu_id`: progressive identifier assigned to intonation units
+6. `span`: portion of the original DFT-style transcription containing the token
+7. `form`: orthographic form of the token. This differs from the `span` as special symbols are stripped out.
+8. `type`: one of
    - `linguistic`: everything that is considered to be a content linguistic token
    - `paraverbal:` used for transcribed non verbal behaviors, such as laughing or sighing
    - `unknown` that identify unintelligible spans in transcription
-8. `features`: the column collects a list of word-level features derived from the transcription in DFT format. More specifically:
-9. `align`: alignment features for the first and last token of each TU, through `AlignBegin` and `AlignEnd` features expressed in seconds
+9. `features`: the column collects a list of word-level features derived from the transcription in DFT format. More specifically:
+10. `align`: alignment features for the first and last token of each TU, through `AlignBegin` and `AlignEnd` features expressed in seconds
 
 ## How to cite
 
@@ -86,6 +87,20 @@ If you use the Multimedia Corpus of Spoken Kazakh Language in your research, ple
 ## References
 
 Troiani, Giorgia, John W. Du Bois, and Andrey Filchenko. 2024. “Corpus as a Slice of Life: Representing Naturally Occurring Language and Its Speakers.” Research in Corpus Linguistics 12 (2): 2. https://doi.org/10.32714/ricl.12.02.08.
+
+```
+@article{troiani2024corpus,
+  author  = {Troiani, Giorgia and Du Bois, John W. and Filchenko, Andrey},
+  title   = {Corpus as a Slice of Life: Representing Naturally Occurring Language and Its Speakers},
+  journal = {Research in Corpus Linguistics},
+  year    = {2024},
+  volume  = {12},
+  number  = {2},
+  pages   = {2},
+  doi     = {10.32714/ricl.12.02.08},
+  url     = {https://doi.org/10.32714/ricl.12.02.08}
+}
+```
 
 ## Changelog
 
